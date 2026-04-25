@@ -10,6 +10,33 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-04-25 | update | agent instructions | Cursor skill parity in Phase 1 note
+
+- Updated: `AGENTS.md`, `.cursor/rules/wiki-instructions.mdc`, `.github/copilot-instructions.md` — document `/pin-llm-wiki` via installed Cursor skill; Copilot and other tools without the skill still use manual workflow steps (aligned with pin-llm-wiki `AGENTS.md.tmpl`).
+
+---
+
+## 2026-04-25 | lint | auto-fix — 6 topic stubs created
+
+- Created: wiki/topics/ai-agent-orchestration.md, wiki/topics/embedded-html-apps.md, wiki/topics/web-terminal.md, wiki/topics/scheduled-jobs.md, wiki/topics/full-text-search.md, wiki/topics/wysiwyg-editor.md
+- Updated: wiki/index.md
+
+---
+
+## 2026-04-25 | ingest | hilash-cabinet | Cabinet GitHub repo — TypeScript agentic knowledge base OS with provider adapter layer
+
+- Created: wiki/sources/hilash-cabinet.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+---
+
+## 2026-04-25 | ingest | runcabinet.com | Cabinet — AI-first self-hosted knowledge base OS with agent orchestration
+
+- Created: wiki/sources/runcabinet.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
+---
+
 ## 2026-04-25 | ingest | coleam00-claude-memory-compiler | Claude Code session memory compiler using hooks + Claude Agent SDK
 
 - Created: wiki/sources/coleam00-claude-memory-compiler.md

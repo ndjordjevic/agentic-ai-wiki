@@ -11,10 +11,14 @@
             "id": "9d87b16192f23d48",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "inbox.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "inbox"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for inbox"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from inbox"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "inbox.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of inbox"
             }
           }
         ]
@@ -178,11 +185,33 @@
   },
   "active": "9d87b16192f23d48",
   "lastOpenFiles": [
+    "wiki/log.md.tmp.808859.1777098148747",
+    "wiki/index.md.tmp.808859.1777098135678",
+    "wiki/topics/wysiwyg-editor.md",
+    "wiki/topics/wysiwyg-editor.md.tmp.808859.1777098116568",
+    "wiki/topics/full-text-search.md",
+    "wiki/topics/full-text-search.md.tmp.808859.1777098112539",
+    "wiki/topics/scheduled-jobs.md",
+    "wiki/topics/scheduled-jobs.md.tmp.808859.1777098108157",
+    "wiki/topics/web-terminal.md",
+    "wiki/topics/web-terminal.md.tmp.808859.1777098104194",
+    "wiki/topics/embedded-html-apps.md",
+    "wiki/topics/embedded-html-apps.md.tmp.808859.1777098100785",
+    "wiki/topics/ai-agent-orchestration.md",
+    "wiki/topics/ai-agent-orchestration.md.tmp.808859.1777098097401",
+    "inbox.md.tmp.337448.1777097546579",
+    "raw/github/README.md.tmp.337448.1777097536303",
+    "wiki/log.md.tmp.337448.1777097529951",
+    "wiki/sources/hilash-cabinet.md",
+    "raw/github/hilash-cabinet.md",
+    "wiki/sources/runcabinet.com.md",
+    "raw/web/runcabinet.com.md",
+    "CLAUDE.md",
+    "inbox.md",
     "wiki/sources/coleam00-claude-memory-compiler.md",
     "wiki/log.md",
     "wiki/index.md",
     "raw/github/coleam00-claude-memory-compiler.md",
-    "raw/github/README.md",
-    "inbox.md"
+    "raw/github/README.md"
   ]
 }
