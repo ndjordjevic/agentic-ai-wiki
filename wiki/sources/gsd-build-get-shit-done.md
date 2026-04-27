@@ -1,19 +1,18 @@
 ---
 type: source
-tags: [meta-prompting, context-engineering, spec-driven-development, agentic-ai, claude-code, workflow-automation]
-related: [coleam00-claude-memory-compiler, hilash-cabinet]
+tags: [meta-prompting, context-engineering, spec-driven-development, claude-code, copilot, cursor, codex, sub-agents, quality-gates, workflow-automation, prompt-templates]
+related:
+  - "[[hilash-cabinet]]"
+  - "[[coleam00-claude-memory-compiler]]"
+product: null
 detail_level: standard
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-04-27
 ---
-
-# gsd-build/get-shit-done
 
 GET SHIT DONE (GSD) is a high-adoption (57k+ stars) meta-prompting, context engineering, and spec-driven development system that wraps AI coding assistants — Claude Code, Copilot, Cursor, Codex, Gemini CLI, and a dozen others — in a structured workflow that solves context rot and enforces quality gates. Built by solo developer TÂCHES, it is the closest thing the Agentic AI ecosystem has to a universal project-management layer for AI-assisted software development.
 
 _All claims below are sourced from ../../raw/github/gsd-build-get-shit-done.md unless otherwise noted._
-
----
 
 ## What It Does
 
@@ -22,8 +21,6 @@ GSD sits as a meta-prompting layer between the developer and an AI coding tool. 
 1. **Context rot** — as Claude fills its context window, output quality degrades. GSD counteracts this with context window monitoring hooks, prompt thinning, and session management.
 2. **Unstructured vibecoding** — without a planning layer, AI-generated code is inconsistent and falls apart at scale. GSD enforces a structured phase-driven lifecycle with requirements traceability.
 3. **Silent quality degradation** — AI tools skip requirements, drop scope, and miss edge cases. GSD's quality gates (Nyquist validation, schema drift detection, scope reduction detection, security enforcement) fail loudly rather than silently degrade.
-
----
 
 ## Installation
 
@@ -41,9 +38,7 @@ npx get-shit-done-cc --all --global       # All runtimes
 
 Recommended invocation: `claude --dangerously-skip-permissions` for frictionless automation.
 
----
-
-## Core Workflow
+## Key Features
 
 GSD imposes a structured lifecycle of six phases per project:
 
@@ -58,40 +53,15 @@ GSD imposes a structured lifecycle of six phases per project:
 
 **Project state** lives in `.planning/` as plain markdown files: `PROJECT.md`, `REQUIREMENTS.md`, `ROADMAP.md`, `STATE.md`, `config.json`, and per-phase artifacts (`{phase}-CONTEXT.md`, `{phase}-RESEARCH.md`, `{phase}-PLAN.md`, `{phase}-VERIFICATION.md`).
 
----
+**Agent orchestration:** GSD ships 33 specialized sub-agents in `agents/` covering research, planning, quality assurance, code review, UI, documentation, and analysis. Heavy workflows spawn parallel subagents rather than running in one long context. Agent size-budget enforcement (v1.37) limits agent prompts to 500 / 1,000 / 1,600 lines by tier.
 
-## Key Features
+**Quality gates:** Nyquist Validation (verification frequency matches implementation complexity), Schema Drift Detection v1.31 (flags ORM changes missing migrations), Security Enforcement v1.31 (ASVS-anchored threat model gates), Scope Reduction Detection v1.31 (prevents silent requirement dropping), Cross-Phase Regression Gate (blocks phases from breaking prior verified work), Requirements Coverage Gate (ensures all REQ-XX IDs are addressed in verification).
 
-### Agent Orchestration
-GSD ships 33 specialized sub-agents in `agents/` covering research, planning, quality assurance, code review, UI, documentation, and analysis. Heavy workflows spawn parallel subagents rather than running in one long context. Agent size-budget enforcement (v1.37) limits agent prompts to 500 / 1,000 / 1,600 lines by tier.
+**Context engineering:** Context Window Monitor Hook (real-time fill tracking), Context-Window-Aware Prompt Thinning v1.36, Persistent Context Threads v1.27 (context strands spanning phases), Model Profiles (`quality` / `balanced` / `budget` / `adaptive` / `inherit`), Session Management (state save/restore).
 
-### Quality Gates
-- **Nyquist Validation** — ensures verification frequency matches implementation complexity
-- **Schema Drift Detection** (v1.31) — flags ORM changes missing migrations
-- **Security Enforcement** (v1.31) — ASVS-anchored threat model gates
-- **Scope Reduction Detection** (v1.31) — prevents silent requirement dropping
-- **Cross-Phase Regression Gate** — blocks phases from breaking prior verified work
-- **Requirements Coverage Gate** — ensures all REQ-XX IDs are addressed in verification
+**Recent capabilities:** Spike v1.37 (`/gsd-spike` — time-boxed experiments with Given/When/Then verdicts), Sketch v1.37 (`/gsd-sketch` — 2–3 interactive HTML mockup variants), Plan Bounce v1.36 (external validation in the planning loop), Cross-AI Execution Delegation v1.36, TDD Pipeline v1.36, GSD SDK v1.30 (queryable codebase intelligence via `gsd-sdk` CLI), Global Learnings Store v1.34 (cross-project knowledge base), Safe Undo v1.34, Workspace Support (multi-repo isolated workspaces via `/gsd-new-workspace`).
 
-### Context Engineering
-- **Context Window Monitor Hook** — real-time hook tracking context fill percentage
-- **Context-Window-Aware Prompt Thinning** (v1.36) — auto-reduces prompts near limit
-- **Persistent Context Threads** (v1.27) — context strands spanning multiple phases
-- **Model Profiles** — `quality` / `balanced` / `budget` / `adaptive` / `inherit` presets
-- **Session Management** — state save/restore for long-running projects
-
-### Advanced Capabilities (recent)
-- **Spike** (v1.37): `/gsd-spike` — time-boxed technical experiments with Given/When/Then verdicts, stored in `.planning/`
-- **Sketch** (v1.37): `/gsd-sketch` — generates 2–3 interactive HTML mockup variants per design question
-- **Plan Bounce** (v1.36): integrate external validation scripts into the planning loop
-- **Cross-AI Execution Delegation** (v1.36): delegate milestone execution to another AI runtime
-- **TDD Pipeline** (v1.36): test-driven development workflow mode
-- **GSD SDK** (v1.30): queryable codebase intelligence layer (`gsd-sdk` CLI)
-- **Global Learnings Store** (v1.34): persistent cross-project knowledge base
-- **Safe Undo** (v1.34): rollback execution steps
-- **Workspace Support**: multi-repo isolated workspaces via `/gsd-new-workspace`
-
----
+Configuration lives in `.planning/config.json`, managed via `/gsd-settings`. Key settings: `mode` (`interactive` default; `yolo` for auto-approve), `granularity` (`coarse` 3–5 phases / `standard` 5–8 / `fine` 8–12), `model_profile` (default `balanced`), `workflow.research` (default `true`), `workflow.nyquist_validation` (default `true`), `workflow.tdd_mode` (default `false`), `parallelization.max_concurrent_agents` (default `3`), `context_window` (default `200000` tokens).
 
 ## Architecture
 
@@ -111,24 +81,18 @@ gsd-build/get-shit-done/
 
 **Install targets** vary by runtime: `~/.claude/skills/` (Claude Code 2.1.88+), `~/.github/` (Copilot), `~/.cursor/` (Cursor), `~/.codex/skills/` (Codex), `~/.gemini/` (Gemini CLI), `~/.codeium/windsurf/` (Windsurf), and more.
 
----
+## Example Usage
 
-## Configuration
-
-Config lives in `.planning/config.json`, managed via `/gsd-settings`. Key settings:
-
-| Setting | Default | Description |
-|---------|---------|-------------|
-| `mode` | `interactive` | `yolo` = auto-approve all; `interactive` = confirm at gates |
-| `granularity` | `standard` | `coarse` (3–5 phases) / `standard` (5–8) / `fine` (8–12) |
-| `model_profile` | `balanced` | Model tier for agents (`quality`/`balanced`/`budget`/`adaptive`) |
-| `workflow.research` | `true` | Domain research before planning |
-| `workflow.nyquist_validation` | `true` | Nyquist quality gate |
-| `workflow.tdd_mode` | `false` | TDD pipeline |
-| `parallelization.max_concurrent_agents` | `3` | Parallel agent cap |
-| `context_window` | `200000` | Context window size (tokens) |
-
----
+```bash
+npx get-shit-done-cc@latest                # install (interactive)
+claude --dangerously-skip-permissions      # recommended invocation
+/gsd-new-project                           # initialize: scope → requirements → roadmap
+/gsd-plan-phase 1                          # plan a phase (research + milestones + verification)
+/gsd-next                                  # execute next milestone with parallel subagents
+/gsd-verify-phase 1                        # strict requirements-coverage verification
+/gsd-spike "evaluate library X for use case Y"   # time-boxed experiment
+/gsd-settings                              # view/edit .planning/config.json
+```
 
 ## Maintenance Status
 

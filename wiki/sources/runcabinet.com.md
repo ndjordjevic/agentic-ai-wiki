@@ -1,10 +1,13 @@
 ---
 type: source
-tags: []
-related: []
+tags: [knowledge-base, agent-orchestration, self-hosted, file-based-storage, scheduled-jobs, agentic-os, embedded-html-apps, web-terminal, wysiwyg-editor]
+related:
+  - "[[hilash-cabinet]]"
+  - "[[coleam00-claude-memory-compiler]]"
+product: cabinet
 detail_level: standard
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-04-27
 ---
 
 Cabinet (runcabinet.com) is a free, open-source, self-hosted knowledge base OS built around AI-first workflows. It positions itself as an "operating system for your work" — markdown files on disk form a persistent brain for AI agents, enabling knowledge workers and small teams to build autonomous, memory-rich workflows without a database or subscription fee. As a product in the Agentic AI space it is directly relevant as an end-to-end deployment of persistent agent memory: agents have goals, skills, and scheduled jobs and operate 24/7 against a file-backed knowledge store.

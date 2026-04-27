@@ -1,10 +1,14 @@
 ---
 type: source
-tags: []
-related: []
+tags: [knowledge-base, agent-orchestration, claude-code, codex, provider-adapter, scheduled-jobs, self-hosted, typescript, nextjs, daemon-architecture, agent-personas]
+related:
+  - "[[runcabinet.com]]"
+  - "[[coleam00-claude-memory-compiler]]"
+  - "[[gsd-build-get-shit-done]]"
+product: cabinet
 detail_level: standard
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-04-27
 ---
 
 `hilash/cabinet` is the open-source codebase behind Cabinet (runcabinet.com): a TypeScript/Next.js self-hosted knowledge base OS that combines file-based markdown storage, AI agent orchestration (Claude Code and Codex via a provider adapter layer), cron-scheduled jobs, an embedded HTML app system, and a git-backed version history into a single self-hosted application. With 1,702 stars and an active release cadence (v0.3.4, April 2026), it is the most complete open-source implementation in this wiki of a production agentic knowledge-base deployment — showing how persistent agent memory, multi-role agent teams, and scheduled autonomous operation are architected at code level.

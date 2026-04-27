@@ -12,23 +12,16 @@ created: 2026-04-25
 
 | Slug | Type | Detail | Ingested | Notes |
 |---|---|---|---|---|
-| coleam00-claude-memory-compiler | github | standard | 2026-04-25 | |
-| runcabinet.com | web | standard | 2026-04-25 | |
-| hilash-cabinet | github | standard | 2026-04-25 | |
-| gsd-build-get-shit-done | github | standard | 2026-04-25 | |
+| [[coleam00-claude-memory-compiler]] | github | standard | 2026-04-25 | |
+| [[runcabinet.com]] | web | standard | 2026-04-25 | |
+| [[hilash-cabinet]] | github | standard | 2026-04-25 | |
+| [[gsd-build-get-shit-done]] | github | standard | 2026-04-25 | |
 
 _4 sources ingested._
 
 ## Topics
 
-| Slug | Sources | Created |
-|---|---|---|
-| ai-agent-orchestration | runcabinet.com, hilash-cabinet | 2026-04-25 |
-| embedded-html-apps | runcabinet.com, hilash-cabinet | 2026-04-25 |
-| web-terminal | runcabinet.com, hilash-cabinet | 2026-04-25 |
-| scheduled-jobs | runcabinet.com, hilash-cabinet | 2026-04-25 |
-| full-text-search | runcabinet.com, hilash-cabinet | 2026-04-25 |
-| wysiwyg-editor | runcabinet.com, hilash-cabinet | 2026-04-25 |
+_No topic pages yet. Topic candidates surface in `/pin-llm-wiki lint` output when a concept appears in 3 or more distinct products; promote a candidate to a real topic page via the manual harvest flow (see AGENTS.md)._
 
 ## Syntheses
 

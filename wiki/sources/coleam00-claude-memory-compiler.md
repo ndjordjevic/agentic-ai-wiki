@@ -1,10 +1,14 @@
 ---
 type: source
-tags: []
-related: []
+tags: [persistent-memory, claude-code-hooks, claude-agent-sdk, knowledge-base, index-guided-retrieval, session-amnesia, daily-logs, compiler-pattern]
+related:
+  - "[[hilash-cabinet]]"
+  - "[[runcabinet.com]]"
+  - "[[gsd-build-get-shit-done]]"
+product: null
 detail_level: standard
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-04-27
 ---
 
 `coleam00/claude-memory-compiler` is a Python tool that gives Claude Code persistent, session-spanning memory by hooking into Claude Code's lifecycle events (SessionStart, SessionEnd, PreCompact) to automatically capture conversation transcripts, extract key decisions and lessons via the Claude Agent SDK, and compile them into a structured, cross-referenced markdown knowledge base — inspired directly by Karpathy's LLM Knowledge Base architecture.
