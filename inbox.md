@@ -15,6 +15,11 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki add <url>` for single-URL
 -->
 
 - [ ] https://github.com/shareAI-lab/learn-claude-code
+- [ ] https://notebooklm.google/
+- [ ] https://traycer.ai/
+- [ ] https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking
+- [ ] https://www.warp.dev/
+- [ ] https://happy.engineering/
 
 ## Completed
 

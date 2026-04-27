@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/sources/paperclip.ing.md",
-                "mode": "preview",
+                "file": "wiki/index.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "paperclip.ing"
+              "title": "index"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 353.5
   },
   "right": {
     "id": "15a11654c3607422",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/overview.md",
+                "file": "wiki/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for overview"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/overview.md",
+                "file": "wiki/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from overview"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -156,21 +156,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/overview.md",
+                "file": "wiki/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of overview"
+              "title": "Outline of index"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,13 +185,17 @@
   },
   "active": "097d56f7fcf0b9e7",
   "lastOpenFiles": [
-    "wiki/sources/paperclipai-paperclip.md",
+    "inbox.md.tmp.401494.1777304794618",
     "wiki/overview.md",
     "wiki/index.md",
+    "CLAUDE.md",
+    "AGENTS.md",
+    "wiki/sources/obra-superpowers.md",
+    "wiki/sources/paperclip.ing.md",
+    "wiki/sources/paperclipai-paperclip.md",
     "README.md",
     "inbox.md",
     "wiki/sources/microsoft-playwright-mcp.md",
-    "wiki/sources/paperclip.ing.md",
     "README.md.tmp.401494.1777284715282",
     "raw/github/paperclipai-paperclip.md",
     "raw/github/microsoft-playwright-mcp.md",
@@ -202,7 +206,6 @@
     "AGENTS.md.tmp.401494.1777283572408",
     "wiki/sources/runcabinet.com.md",
     "wiki/log.md.tmp.401494.1777283048546",
-    "wiki/sources/obra-superpowers.md",
     "wiki/sources/hilash-cabinet.md",
     "wiki/sources/gsd-build-get-shit-done.md",
     "wiki/sources/coleam00-claude-memory-compiler.md",
@@ -217,9 +220,6 @@
     "wiki/topics/wysiwyg-editor.md",
     "wiki/topics/scheduled-jobs.md",
     "wiki/topics/full-text-search.md",
-    "wiki/topics/embedded-html-apps.md",
-    "wiki/topics/ai-agent-orchestration.md",
-    "wiki/topics/web-terminal.md",
-    "raw/github/gsd-build-get-shit-done.md"
+    "wiki/topics/embedded-html-apps.md"
   ]
 }
