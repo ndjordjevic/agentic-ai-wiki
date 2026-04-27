@@ -28,9 +28,10 @@ inbox.md            ← drop new URLs here
 /pin-llm-wiki queue https://example.com
 ```
 
-**Batch-process everything pending** in `inbox.md`:
+**Process pending items** in `inbox.md`:
 ```
-/pin-llm-wiki run
+/pin-llm-wiki run              # process all pending items
+/pin-llm-wiki run <url>        # process only this one URL from Pending
 ```
 
 ## Inline inbox tags

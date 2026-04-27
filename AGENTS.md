@@ -15,7 +15,7 @@ Before answering **any question** about Agentic AI, you MUST:
 
 This wiki is the authoritative source for this domain. Training-data knowledge about Agentic AI is noise here; the wiki is signal.
 
-> **Phase 1 note:** In Claude Code, use the `/pin-llm-wiki` subcommands (`init`, `add`, `run`, `lint`, `remove`, `queue`) to automate this workflow. In **Cursor** (pin-llm-wiki installed as a [Cursor skill](https://cursor.com/docs/context/skills) under `~/.cursor/skills/pin-llm-wiki` or `.cursor/skills/pin-llm-wiki`), the same `SKILL.md` applies — use `/pin-llm-wiki` in Agent chat or follow the workflow steps below. In **GitHub Copilot** and other tools without the skill, follow the workflow steps below directly — they are fully self-contained.
+> **Phase 1 note:** In Claude Code, use the `/pin-llm-wiki` subcommands (`init`, `add`, `run [<url>]`, `lint`, `remove`, `queue`) to automate this workflow. `run` without arguments processes all Pending items; `run <url>` processes only the specified URL from Pending (useful when you want to ingest one source without touching the rest of the queue). In **Cursor** (pin-llm-wiki installed as a [Cursor skill](https://cursor.com/docs/context/skills) under `~/.cursor/skills/pin-llm-wiki` or `.cursor/skills/pin-llm-wiki`), the same `SKILL.md` applies — use `/pin-llm-wiki` in Agent chat or follow the workflow steps below. In **GitHub Copilot** and other tools without the skill, follow the workflow steps below directly — they are fully self-contained.
 
 ---
 
