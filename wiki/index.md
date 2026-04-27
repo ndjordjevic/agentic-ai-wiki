@@ -15,8 +15,9 @@ created: 2026-04-25
 | coleam00-claude-memory-compiler | github | standard | 2026-04-25 | |
 | runcabinet.com | web | standard | 2026-04-25 | |
 | hilash-cabinet | github | standard | 2026-04-25 | |
+| gsd-build-get-shit-done | github | standard | 2026-04-25 | |
 
-_3 sources ingested._
+_4 sources ingested._
 
 ## Topics
 
