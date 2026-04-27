@@ -17,8 +17,11 @@ created: 2026-04-25
 | [[hilash-cabinet]] | github | standard | 2026-04-25 | |
 | [[gsd-build-get-shit-done]] | github | standard | 2026-04-25 | |
 | [[obra-superpowers]] | github | standard | 2026-04-27 | |
+| [[paperclip.ing]] | web | standard | 2026-04-27 | |
+| [[paperclipai-paperclip]] | github | standard | 2026-04-27 | |
+| [[microsoft-playwright-mcp]] | github | standard | 2026-04-27 | |
 
-_5 sources ingested._
+_8 sources ingested._
 
 ## Topics
 

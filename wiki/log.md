@@ -19,7 +19,33 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
-## 2026-04-27 | ingest | obra-superpowers | Superpowers — composable agentic skills framework & software development methodology (169k stars)
+## 2026-04-27 | ingest | microsoft-playwright-mcp | Playwright MCP — official Microsoft MCP server for browser automation via accessibility snapshots (31k stars)
+
+- Created: wiki/sources/microsoft-playwright-mcp.md
+- Created: raw/github/microsoft-playwright-mcp.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+---
+
+## 2026-04-27 | ingest | paperclipai-paperclip | Paperclip GitHub — open-source agent company orchestrator with org chart, budgets, governance (59k stars)
+
+- Created: wiki/sources/paperclipai-paperclip.md
+- Created: raw/github/paperclipai-paperclip.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Updated: wiki/sources/hilash-cabinet.md, wiki/sources/gsd-build-get-shit-done.md (bidirectional `related` links added)
+- Product grouping: paperclipai-paperclip.homepageUrl = https://paperclip.ing → matches web source slug `paperclip.ing` → both set to `product: paperclip.ing`
+
+---
+
+## 2026-04-27 | ingest | paperclip.ing | Paperclip website — human control plane for AI labor, autonomous company platform
+
+- Created: wiki/sources/paperclip.ing.md
+- Created: raw/web/paperclip.ing.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
+---
+
+
 
 - Created: wiki/sources/obra-superpowers.md
 - Created: raw/github/obra-superpowers.md

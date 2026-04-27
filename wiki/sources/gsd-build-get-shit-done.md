@@ -6,6 +6,8 @@ related:
   - "[[hilash-cabinet]]"
   - "[[coleam00-claude-memory-compiler]]"
   - "[[obra-superpowers]]"
+  - "[[paperclip.ing]]"
+  - "[[paperclipai-paperclip]]"
 product: gsd
 detail_level: standard
 created: 2026-04-25

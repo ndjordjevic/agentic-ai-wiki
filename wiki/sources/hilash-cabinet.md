@@ -6,6 +6,8 @@ related:
   - "[[runcabinet.com]]"
   - "[[coleam00-claude-memory-compiler]]"
   - "[[gsd-build-get-shit-done]]"
+  - "[[paperclip.ing]]"
+  - "[[paperclipai-paperclip]]"
 product: cabinet
 detail_level: standard
 created: 2026-04-25
