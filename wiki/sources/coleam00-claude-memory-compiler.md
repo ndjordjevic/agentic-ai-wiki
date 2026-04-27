@@ -1,11 +1,12 @@
 ---
 type: source
+source_url: https://github.com/coleam00/claude-memory-compiler
 tags: [persistent-memory, claude-code-hooks, claude-agent-sdk, knowledge-base, index-guided-retrieval, session-amnesia, daily-logs, compiler-pattern]
 related:
   - "[[hilash-cabinet]]"
   - "[[runcabinet.com]]"
   - "[[gsd-build-get-shit-done]]"
-product: null
+product: claude-memory-compiler
 detail_level: standard
 created: 2026-04-25
 updated: 2026-04-27

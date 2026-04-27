@@ -20,6 +20,7 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki add <url>` for single-URL
 - [x] https://runcabinet.com/ <!-- ingested 2026-04-25 -->
 - [x] https://github.com/hilash/cabinet <!-- ingested 2026-04-25 -->
 - [x] https://github.com/gsd-build/get-shit-done <!-- ingested 2026-04-25 -->
+- [x] https://github.com/obra/superpowers <!-- ingested 2026-04-27 -->
 
 <!-- Processed lines are moved here automatically.
      Format after ingest: - [x] https://... with an "ingested YYYY-MM-DD" HTML comment appended.

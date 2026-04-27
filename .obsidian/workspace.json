@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "02743872773cfc3e",
+        "id": "2dc090e1d03e8730",
         "type": "tabs",
         "children": [
           {
-            "id": "9d87b16192f23d48",
+            "id": "097d56f7fcf0b9e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 387.5
   },
   "right": {
     "id": "15a11654c3607422",
@@ -183,26 +183,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "9d87b16192f23d48",
+  "active": "097d56f7fcf0b9e7",
   "lastOpenFiles": [
-    "wiki/log.md.tmp.49075.1777281188014",
-    "wiki/sources/gsd-build-get-shit-done.md.tmp.49075.1777281118060",
-    "wiki/sources/hilash-cabinet.md.tmp.49075.1777281111089",
-    "wiki/sources/runcabinet.com.md.tmp.49075.1777281105396",
-    "wiki/sources/coleam00-claude-memory-compiler.md.tmp.49075.1777281097580",
-    "AGENTS.md.tmp.49075.1777281087254",
+    "wiki/log.md.tmp.401494.1777283048546",
+    "wiki/sources/obra-superpowers.md",
     "wiki/sources/hilash-cabinet.md",
     "wiki/sources/gsd-build-get-shit-done.md",
     "wiki/sources/coleam00-claude-memory-compiler.md",
-    "wiki/log.md.tmp.49075.1777280896692",
-    "AGENTS.md.tmp.49075.1777280867497",
-    "AGENTS.md.tmp.49075.1777280862323",
+    "wiki/sources/obra-superpowers.md.tmp.401494.1777282955745",
+    "wiki/sources/gsd-build-get-shit-done.md.tmp.401494.1777282948021",
+    "wiki/sources/hilash-cabinet.md.tmp.401494.1777282942405",
+    "wiki/sources/runcabinet.com.md.tmp.401494.1777282935709",
+    "wiki/sources/coleam00-claude-memory-compiler.md.tmp.401494.1777282930592",
+    "AGENTS.md.tmp.401494.1777282920329",
+    "AGENTS.md.tmp.401494.1777282912355",
+    "wiki/index.md",
     "wiki/sources/runcabinet.com.md",
     "wiki/overview.md",
-    "wiki/log.md.tmp.49075.1777280641558",
-    "wiki/overview.md.tmp.49075.1777280628842",
-    "wiki/index.md",
+    "raw/github/README.md",
+    "raw/github/obra-superpowers.md",
     "wiki/log.md",
+    "raw/README.md",
+    "wiki/log.md.tmp.49075.1777281188014",
+    "wiki/sources/gsd-build-get-shit-done.md.tmp.49075.1777281118060",
+    "wiki/sources/hilash-cabinet.md.tmp.49075.1777281111089",
     "wiki/topics/wysiwyg-editor.md",
     "wiki/topics/scheduled-jobs.md",
     "wiki/topics/full-text-search.md",
@@ -213,7 +217,6 @@
     "raw/web/runcabinet.com.md",
     "raw/github/coleam00-claude-memory-compiler.md",
     "raw/github/hilash-cabinet.md",
-    "raw/github/README.md",
     "AGENTS.md",
     "CLAUDE.md",
     "inbox.md"

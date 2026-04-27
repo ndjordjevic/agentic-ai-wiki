@@ -16,8 +16,9 @@ created: 2026-04-25
 | [[runcabinet.com]] | web | standard | 2026-04-25 | |
 | [[hilash-cabinet]] | github | standard | 2026-04-25 | |
 | [[gsd-build-get-shit-done]] | github | standard | 2026-04-25 | |
+| [[obra-superpowers]] | github | standard | 2026-04-27 | |
 
-_4 sources ingested._
+_5 sources ingested._
 
 ## Topics
 

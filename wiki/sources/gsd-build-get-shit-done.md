@@ -1,10 +1,12 @@
 ---
 type: source
+source_url: https://github.com/gsd-build/get-shit-done
 tags: [meta-prompting, context-engineering, spec-driven-development, claude-code, copilot, cursor, codex, sub-agents, quality-gates, workflow-automation, prompt-templates]
 related:
   - "[[hilash-cabinet]]"
   - "[[coleam00-claude-memory-compiler]]"
-product: null
+  - "[[obra-superpowers]]"
+product: gsd
 detail_level: standard
 created: 2026-04-25
 updated: 2026-04-27

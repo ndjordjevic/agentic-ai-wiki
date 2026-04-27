@@ -1,5 +1,6 @@
 ---
 type: source
+source_url: https://runcabinet.com
 tags: [knowledge-base, agent-orchestration, self-hosted, file-based-storage, scheduled-jobs, agentic-os, embedded-html-apps, web-terminal, wysiwyg-editor]
 related:
   - "[[hilash-cabinet]]"

@@ -10,6 +10,24 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-04-27 | cleanup | source pages — added source_url + populated product on all sources
+
+- Updated: all 5 wiki/sources/*.md — added `source_url:` frontmatter field with canonical URL (GitHub repo, website); replaced `product: null` with meaningful product slug on independent sources (`claude-memory-compiler`, `gsd`, `superpowers`); `cabinet` sources unchanged.
+- Updated: AGENTS.md (frontmatter schema, Step 2 rules, Step 2b derivation rules, Frontmatter rules block); re-synced .cursor/rules/wiki-instructions.mdc and .github/copilot-instructions.md.
+- Updated: pin-llm-wiki/skill/ingest.md (same schema and Step 2b changes), pin-llm-wiki/skill/templates/AGENTS.md.tmpl (mirrored).
+- Reason: `product: null` appeared empty/meaningless to users; independent sources now carry their own product identifier. `source_url` gives each page a direct clickable link to the original source (GitHub repo, website, YouTube video).
+
+---
+
+## 2026-04-27 | ingest | obra-superpowers | Superpowers — composable agentic skills framework & software development methodology (169k stars)
+
+- Created: wiki/sources/obra-superpowers.md
+- Created: raw/github/obra-superpowers.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Updated: wiki/sources/gsd-build-get-shit-done.md (bidirectional `related` link added)
+
+---
+
 ## 2026-04-27 | cleanup | populate tags + related on all source pages
 
 - Updated: all 4 wiki/sources/*.md — populated `tags` (4–11 specific kebab-case terms each: persistent-memory, claude-code-hooks, knowledge-base, agent-orchestration, provider-adapter, meta-prompting, etc.) and `related` (bidirectional wikilinks between conceptually overlapping sources). `product:` field unchanged (cabinet sources stay grouped; the other two stay null). `updated:` bumped to 2026-04-27 on all four.

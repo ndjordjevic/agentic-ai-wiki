@@ -1,5 +1,6 @@
 ---
 type: source
+source_url: https://github.com/hilash/cabinet
 tags: [knowledge-base, agent-orchestration, claude-code, codex, provider-adapter, scheduled-jobs, self-hosted, typescript, nextjs, daemon-architecture, agent-personas]
 related:
   - "[[runcabinet.com]]"
