@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/sources/runcabinet.com.md",
+                "file": "inbox.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "runcabinet.com"
+              "title": "inbox"
             }
           }
         ]
@@ -185,6 +185,11 @@
   },
   "active": "097d56f7fcf0b9e7",
   "lastOpenFiles": [
+    "inbox.md.tmp.401494.1777283672316",
+    "AGENTS.md.tmp.401494.1777283588870",
+    "AGENTS.md.tmp.401494.1777283576305",
+    "AGENTS.md.tmp.401494.1777283572408",
+    "wiki/sources/runcabinet.com.md",
     "wiki/log.md.tmp.401494.1777283048546",
     "wiki/sources/obra-superpowers.md",
     "wiki/sources/hilash-cabinet.md",
@@ -196,17 +201,12 @@
     "wiki/sources/runcabinet.com.md.tmp.401494.1777282935709",
     "wiki/sources/coleam00-claude-memory-compiler.md.tmp.401494.1777282930592",
     "AGENTS.md.tmp.401494.1777282920329",
-    "AGENTS.md.tmp.401494.1777282912355",
     "wiki/index.md",
-    "wiki/sources/runcabinet.com.md",
     "wiki/overview.md",
     "raw/github/README.md",
     "raw/github/obra-superpowers.md",
     "wiki/log.md",
     "raw/README.md",
-    "wiki/log.md.tmp.49075.1777281188014",
-    "wiki/sources/gsd-build-get-shit-done.md.tmp.49075.1777281118060",
-    "wiki/sources/hilash-cabinet.md.tmp.49075.1777281111089",
     "wiki/topics/wysiwyg-editor.md",
     "wiki/topics/scheduled-jobs.md",
     "wiki/topics/full-text-search.md",
