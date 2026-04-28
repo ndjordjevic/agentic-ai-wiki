@@ -1,0 +1,8 @@
+version: 1
+created: 2026-04-28
+domain: "Agentic AI Frameworks"
+detail_level: standard
+source_types: [web, github, youtube]
+auto_lint: batch            # never | batch | per-ingest
+auto_mark_complete: true
+stale_threshold_days: 30

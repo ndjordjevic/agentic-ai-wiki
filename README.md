@@ -1,0 +1,70 @@
+# Agentic AI Frameworks wiki
+
+A personal knowledge base for **Agentic AI Frameworks**, maintained with [pin-llm-wiki](https://github.com/ndjordjevic/pin-llm-wiki).
+
+## What's in here
+
+Every source is fetched, summarized, and cross-referenced so you (and any AI agent) can query it without re-reading the originals.
+
+```
+wiki/index.md       ← start here — full source list
+wiki/overview.md    ← rolling cross-source overview
+wiki/sources/       ← one page per ingested source
+raw/                ← immutable source captures (do not edit)
+inbox.md            ← drop new URLs here
+```
+
+## Adding sources
+
+**Ingest immediately** (fetch + write wiki page in one step):
+```
+/pin-llm-wiki add https://github.com/org/repo
+```
+
+**Queue for later** (adds to inbox, no fetch — good for mid-task suggestions):
+```
+/pin-llm-wiki queue https://example.com
+```
+
+**Batch-process everything pending** in `inbox.md`:
+```
+/pin-llm-wiki run              # process all pending items
+/pin-llm-wiki run <url>        # process only this one URL from Pending
+```
+
+## Inline inbox tags
+
+Append these (as HTML comments) to any URL line in `inbox.md`:
+
+| Tag | Effect |
+|---|---|
+| `<!-- detail:brief -->` / `<!-- detail:standard -->` / `<!-- detail:deep -->` | Override detail level for this source |
+| `<!-- branch:dev -->` | GitHub: use this branch instead of the default |
+| `<!-- clone -->` | GitHub deep: full `git clone` to `raw/github/<org>-<repo>/` |
+| `<!-- skip -->` | Skip this URL on the next `run` |
+| `<!-- companion:github.com/<org>/<repo> -->` | Web: skip GitHub discovery, use this repo as the companion |
+| `<!-- no-companion -->` | Web: suppress companion GitHub fetch even if a repo is found |
+| `<!-- note: text -->` | Freeform note for human review (queue only; ignored by ingest) |
+
+## Querying the wiki
+
+Open `wiki/index.md` for a full table of sources. Follow `[[wikilinks]]` to source pages.
+
+AI agents in this repo are instructed to consult the wiki before answering — see `AGENTS.md`.
+
+## Maintenance
+
+```
+/pin-llm-wiki lint          # health checks (citations, orphans, stale sources, ...)
+/pin-llm-wiki remove <slug> # soft-delete a source to wiki/.archive/
+```
+
+To refresh a source: add `<!-- refresh -->` to its `## Completed` line in `inbox.md`, then run `/pin-llm-wiki run`.
+
+## Git
+
+Agents never commit automatically. Review `git diff`, then commit when ready:
+```
+git add -p
+git commit -m "ingest: <slug>"
+```
