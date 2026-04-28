@@ -1,5 +1,5 @@
 ---
-type: synthesis
+type: overview
 domain: "agentic AI frameworks"
 created: 2026-04-28
 updated: 2026-04-28
