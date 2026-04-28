@@ -4,6 +4,6 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 
 ## Files
 
-| File | Domain | Pages fetched | Fetched | Notes |
+| File | Slug | Pages fetched | Fetched | Notes |
 |---|---|---|---|---|
 | raw/web/paperclip.ing.md | paperclip.ing | 6 | 2026-04-28 | |
