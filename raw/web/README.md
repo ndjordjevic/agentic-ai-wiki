@@ -7,3 +7,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | File | Slug | Pages fetched | Fetched | Notes |
 |---|---|---|---|---|
 | raw/web/paperclip.ing.md | paperclip.ing | 6 | 2026-04-28 | |
+| raw/web/modelcontextprotocol-servers-tree-main-src-sequentialthinking.md | modelcontextprotocol-servers-tree-main-src-sequentialthinking | 1 | 2026-04-28 | |

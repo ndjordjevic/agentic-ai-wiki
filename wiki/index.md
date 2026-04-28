@@ -13,5 +13,6 @@ created: 2026-04-28
 | Slug | Type | Detail | Ingested | Notes |
 |---|---|---|---|---|
 | [[paperclip.ing]] | web | standard | 2026-04-28 | |
+| [[modelcontextprotocol-servers-tree-main-src-sequentialthinking]] | web | brief | 2026-04-28 | |
 
-_1 sources ingested._
+_2 sources ingested._

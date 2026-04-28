@@ -10,6 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-04-28 | ingest | modelcontextprotocol-servers-tree-main-src-sequentialthinking | Sequential Thinking MCP Server — MCP tool for structured, revisable, branching reasoning
+
+- Created: wiki/sources/modelcontextprotocol-servers-tree-main-src-sequentialthinking.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
+---
+
 ## 2026-04-28 | ingest | paperclip.ing | Paperclip — open-source control plane for AI-agent companies (web + GitHub companion)
 
 - Created: wiki/sources/paperclip.ing.md

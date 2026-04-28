@@ -162,7 +162,7 @@ Report any grouping in the post-ingest confirmation.
 Read `wiki/overview.md` and check the `sources:` frontmatter list:
 - **If `[[<slug>]]` is already in `sources:`** (refresh case): update the `updated:` date only. Write the file. Stop — do not add another entry or another paragraph.
 - **If `sources: []` (first source ever ingested):** replace the placeholder body (the `_No sources ingested yet..._` paragraph) with an opening overview paragraph describing this source and what it contributes. Cite `[[<slug>]]`. Update `sources:` to `sources:\n  - "[[<slug>]]"`.
-- **If `sources:` already has entries but does not include `[[<slug>]]`:** **append a new dedicated paragraph** covering what the new source contributes relative to existing ones — do not merge into an existing paragraph, do not skip writing one. Cite `[[<slug>]]`. Append `  - "[[<slug>]]"` to the `sources:` list.
+- **If `sources:` already has entries but does not include `[[<slug>]]`:** **append a new dedicated paragraph** summarizing the new source on its own terms and what it adds to understanding the domain — do not merge into an existing paragraph, do not skip writing one. Cite `[[<slug>]]`. **Do not reference other source pages by default; only cross-reference when there is substantial conceptual overlap, a direct product relationship, or a specific conflict/comparison that genuinely helps the reader.** Append `  - "[[<slug>]]"` to the `sources:` list.
 
 Sanity check: post-write paragraph count must equal `len(sources)`. Update the `updated:` date. Write the file. This page cites `[[source page slugs]]`, not raw files directly.
 

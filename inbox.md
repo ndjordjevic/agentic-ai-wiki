@@ -26,3 +26,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki add <url>` for single-URL
 -->
 
 - [x] https://paperclip.ing <!-- ingested 2026-04-28 -->
+- [x] https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking <!-- detail:brief --> <!-- ingested 2026-04-28 -->
