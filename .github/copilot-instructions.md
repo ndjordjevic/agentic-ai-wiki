@@ -61,7 +61,17 @@ The raw file is in `raw/<type>/<slug>...md`. Read it fully before writing any wi
 
 For unified web+github pages: if a `companion_raw_file_path` is passed by the caller (non-null), also read it fully. Hold both in memory. The companion raw supplies content for the github-sourced sections.
 
+For deep multi-product web sources: the caller passes a `products` list with ≥2 entries. The single web raw file contains `## Product: <Name>` sections per product — these drive the umbrella + sub-page output described below.
+
 **Step 2 — Create or update `wiki/sources/<slug>.md`.**
+
+Three ingest shapes are possible. Pick the one that fits this ingest:
+
+| Shape | Trigger | Output |
+|---|---|---|
+| **Standalone** | github / youtube / single-product web | one source page at `wiki/sources/<slug>.md` |
+| **Unified web+github** | `type=web`, companion fetch succeeded, `products` empty | one source page with `companion_urls:` + `raw_files:` |
+| **Multi-product (deep web)** | `type=web`, `effective_detail_level=deep`, `products` has ≥2 entries | umbrella at `wiki/sources/<slug>.md` + one sub at `wiki/sources/<slug>-<product>.md` per product (see **Multi-product body structure** below) |
 
 Frontmatter:
 ```yaml
@@ -73,6 +83,10 @@ companion_urls:              # ONLY on unified web+github pages; omit entirely o
 raw_files:                   # ONLY on unified web+github pages; omit entirely on all others
   - ../../raw/web/<domain>.md
   - ../../raw/github/<org>-<repo>.md
+subpages:                    # ONLY on multi-product umbrella pages; omit entirely on all others
+  - <slug>-<product1>
+  - <slug>-<product2>
+parent_slug: <umbrella-slug> # ONLY on multi-product sub-pages; omit entirely on all others
 tags: []
 related: []
 product: <product-slug>
@@ -82,11 +96,15 @@ updated: YYYY-MM-DD
 ---
 ```
 
+`subpages:`, `parent_slug:`, `companion_urls:`, and `raw_files:` are **mutually exclusive**: a page is either standalone (none present), unified (companion_urls + raw_files), an umbrella (subpages), or a sub (parent_slug). Lint check #7 enforces this.
+
 Rules:
 - **MUST NOT include a `sources:` field.** Source pages do not cite themselves.
 - `source_url:` is the canonical URL of the source (e.g. `https://github.com/org/repo`, `https://example.com`, `https://youtube.com/watch?v=ID`). Always populated.
 - `product:` is a short kebab-case identifier for the product or project this source describes. Derive from the repo/site name — strip the author prefix from GitHub slugs (e.g. `obra-superpowers` → `superpowers`, `coleam00-claude-memory-compiler` → `claude-memory-compiler`, `gsd-build-get-shit-done` → `gsd`). For web sources, use the domain (strip `.com`/`.io`/etc, e.g. `runcabinet.com` → `cabinet`). **GitHub non-root pages treated as web sources are the exception:** derive the product slug from the repo portion of the page slug/source URL (for example `modelcontextprotocol-servers-tree-main-src-sequentialthinking` → `servers`). Sources describing the same product share the same `product:` slug. Resolved in Step 2b. Always populated — never `null`.
 - `companion_urls:` and `raw_files:` are present **only** on unified web+github pages. **Omit both fields entirely** on standalone web, github, and youtube source pages — do not write empty lists.
+- `subpages:` is present **only** on multi-product umbrella pages; `parent_slug:` is present **only** on multi-product sub-pages. Omit both entirely on every other shape.
+- For multi-product umbrellas: `product:` is the umbrella slug itself (the domain, e.g. `langchain.com`) so it does not collide with any sub's `product:`. Each sub uses its own product slug (e.g. `langgraph`).
 - First line of body: summary paragraph (what this source is and why it matters).
 - Second line: banner citation — `_All claims below are sourced from ../../raw/<type>/<file>.md unless otherwise noted._`
   - **Unified web+github exception:** the banner always cites the primary **web** raw file only. GitHub-sourced material is cited inline at the paragraph level.
@@ -95,6 +113,8 @@ Rules:
   - **YouTube:** what the video is about (1 paragraph — sufficient to replace watching), key points by chapter, notable quotes, speaker context.
   - **Web/product (no companion):** what it does, key features, architecture/concepts, main APIs, when to use, ecosystem.
   - **Web/product (unified):** see **Unified body structure** below.
+  - **Multi-product umbrella:** summary, `## Products` (bullet list with `[[<sub-slug>]]` wikilinks), `## Architecture` (how the products fit together), `## When to use the platform`, `## Documentation` (docs site overview).
+  - **Multi-product sub:** same structure as Web/product (no companion), but the banner cites the **umbrella's** raw file (`../../raw/web/<umbrella-slug>.md`).
 - **No H1 heading.** The slug + `[[<slug>]]` wikilink in `wiki/index.md` is the title. Body starts with the summary paragraph.
 - **No horizontal rules (`---`)** between sections — only at frontmatter delimiters. `## H2` headings are enough structure.
 - **Populate `tags` and `related` at ingest time.**
@@ -142,7 +162,39 @@ The banner cites the primary web raw file. All github-sourced paragraphs carry t
 
 These headings are canonical for unified pages. Do not rename, skip, or replace them with ad hoc sections like "Agent integration". Fold that material into **Architecture**, **Example usage**, or **Ecosystem** instead.
 
-**Step 2b — Detect product grouping.**
+**Multi-product body structure** (deep web with `len(products) >= 2`):
+
+The single ingest produces **one umbrella page** + **one sub-page per product**. All pages cite the same raw file at `raw/web/<slug>.md` (the umbrella's slug; e.g. `raw/web/langchain.com.md`).
+
+Umbrella page (`wiki/sources/<slug>.md`) — frontmatter has `subpages:` and `product: <slug>` (the umbrella slug itself). Body:
+
+```
+<Summary paragraph — what platform this is, what it offers, who it's for>
+
+_All claims below are sourced from ../../raw/web/<slug>.md unless otherwise noted._
+
+## Products
+- [[<slug>-<product1>]] — <one-sentence what-it-is>
+- [[<slug>-<product2>]] — <one-sentence what-it-is>
+- ...
+
+## Architecture
+<How the products fit together (open-source frameworks, hosted offering, monetization). Banner covers.>
+
+## When to use the platform
+<Operator-facing summary of when this platform makes sense as a whole. Banner covers.>
+
+## Documentation
+<Brief description of the docs structure — docs site URL and how product subsections are organized. Banner covers.>
+```
+
+The umbrella is a **hub page**, not a deep dive. Detail lives in each sub. Do not duplicate sub-product feature lists on the umbrella — link to the sub.
+
+Sub-page (`wiki/sources/<slug>-<product>.md`) — frontmatter has `parent_slug: <slug>`, `product: <product-slug>`, `source_url:` set to the product's deep-link page when one exists (e.g. `https://www.langchain.com/langgraph`) and falling back to the umbrella URL only if not. Body uses the standard Web/product (no companion) structure: what it does, key features, architecture and concepts, main APIs, when to use, ecosystem. Banner cites `../../raw/web/<slug>.md` (the umbrella's raw file — sub-pages do not own their own raw files in this mode).
+
+If a product was discovered via repo URL only (no docs subsection on this site), its sub-page may be sparse — note in the summary that fuller detail will require ingesting the product's repo separately.
+
+**Step 2b — Detect product grouping.** (Skipped in multi-product flow — Step 2 assigns product slugs explicitly.)
 After writing the source page, scan existing `wiki/sources/*.md` and resolve `product:`:
 - **GitHub source:** read `homepageUrl` from the raw `## Metadata` block. Extract its hostname (strip `www.`). If any existing **web** source page has a slug equal to that hostname, set `product:` on both pages to that hostname. Otherwise derive from the slug: strip the author prefix (e.g. `obra-superpowers` → `superpowers`).
 - **Web source:** scan the raw file body for a `github.com/<org>/<repo>` URL in the first ~500 chars or in title/hero. If `<org>-<repo>` matches an existing **github** source slug, set `product:` on both pages to the web source's slug (the domain or page slug). Otherwise derive from the domain (strip `.com`/`.io`/etc, e.g. `runcabinet.com` → `cabinet`). **GitHub non-root web pages are the exception:** derive the product slug from the repo segment instead of `github.com` (for example `/modelcontextprotocol/servers/tree/main/src/sequentialthinking` → `servers`).
@@ -150,11 +202,12 @@ After writing the source page, scan existing `wiki/sources/*.md` and resolve `pr
 - `product:` is always populated — never left as `null` after Step 2b.
 Report any grouping in the post-ingest confirmation.
 
-**Step 3 — Do NOT create additional cross-source pages during ingest.** Ingest updates source pages and `wiki/overview.md` only.
+**Step 3 — Do NOT create additional cross-source pages during ingest.** Ingest updates source pages and `wiki/overview.md` only. In multi-product flow, the umbrella + subs are all source pages produced by one ingest — they are not cross-source synthesis pages.
 
 **Step 4 — Update `wiki/index.md`.**
 - If `<slug>` already has a row in the Sources table: update the date and `detail_level` in-place. Do not add a second row or change the count.
 - If no row exists: add `| <slug> | <type> | standard | <YYYY-MM-DD> | |` and increment the source count in the `_N sources ingested._` line.
+- **Multi-product:** add a row for the umbrella AND for every sub-page. Increment the count by the number of newly-created rows.
 
 **Step 5 — Update `wiki/overview.md`.**
 **Invariant:** the body contains **exactly one paragraph per entry in `sources:`**, in the same order. Verify this before writing.
@@ -162,7 +215,9 @@ Report any grouping in the post-ingest confirmation.
 Read `wiki/overview.md` and check the `sources:` frontmatter list:
 - **If `[[<slug>]]` is already in `sources:`** (refresh case): update the `updated:` date only. Write the file. Stop — do not add another entry or another paragraph.
 - **If `sources: []` (first source ever ingested):** replace the placeholder body (the `_No sources ingested yet..._` paragraph) with an opening overview paragraph describing this source and what it contributes. Cite `[[<slug>]]`. Update `sources:` to `sources:\n  - "[[<slug>]]"`.
-- **If `sources:` already has entries but does not include `[[<slug>]]`:** **append a new dedicated paragraph** summarizing the new source on its own terms and what it adds to understanding the domain — do not merge into an existing paragraph, do not skip writing one. Cite `[[<slug>]]`. **Do not reference other source pages by default; only cross-reference when there is substantial conceptual overlap, a direct product relationship, or a specific conflict/comparison that genuinely helps the reader.** Append `  - "[[<slug>]]"` to the `sources:` list.
+- **If `sources:` already has entries but does not include `[[<slug>]]`:** **append a new dedicated paragraph** covering what the new source contributes relative to existing ones — do not merge into an existing paragraph, do not skip writing one. Cite `[[<slug>]]`. Append `  - "[[<slug>]]"` to the `sources:` list.
+
+**Multi-product:** treat the umbrella AND each sub as separate entries. Each gets its own `sources:` line and its own paragraph (umbrella first, then subs in `subpages:` order). The umbrella's paragraph may wikilink each sub; each sub's paragraph focuses on what that product specifically adds, with a short link back to the umbrella.
 
 Sanity check: post-write paragraph count must equal `len(sources)`. Update the `updated:` date. Write the file. This page cites `[[source page slugs]]`, not raw files directly.
 
@@ -179,11 +234,20 @@ For unified pages, extend the Updated line and add:
 - Companion: raw/github/<companion-slug>.md
 ```
 
+For multi-product, one log entry covers the whole ingest:
+```
+## YYYY-MM-DD | ingest | <slug> | multi-product (<N> products): <comma-separated names>
+
+- Created: wiki/sources/<slug>.md, wiki/sources/<slug>-<product1>.md, ...
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+```
+
 The `- Companion:` line is required on every unified web+github ingest entry.
 
 **Step 7 — Update `raw/<type>/README.md`.**
 - If a row for `<slug>` already exists: update the fetch date in-place. Do not add a second row.
 - If no row exists: append the new row using the row format from the source type protocol below.
+- Multi-product still produces **one** raw web file (the umbrella's), so still one row.
 
 **Step 8 — Move inbox line.**
 Move the URL from `## Pending` to `## Completed`. Append `<!-- ingested YYYY-MM-DD -->`.
@@ -247,6 +311,11 @@ Steps:
 ## Top-level structure
 <annotated directory listing>
 ```
+
+Notes:
+- `## README` is the fetched README content itself, not a paraphrase, rewrite, or condensed summary.
+- `## Docs` is required whenever docs or other key repo docs were fetched during the protocol. Include the fetched content you relied on, organized one section per file/listing.
+- `## Top-level structure` should remain an annotated directory listing, but annotation must stay grounded in the fetched listing.
 
 **README.md row format** (`raw/github/README.md`):
 `| raw/github/<org>-<repo>.md | <org>/<repo> | <stars> | <default-branch> | <latest-release> | <YYYY-MM-DD> | |`
@@ -318,12 +387,44 @@ Steps:
 Steps:
 
 1. **Check whether the URL is a GitHub non-root page.**
-   - **If yes:** skip steps 2-4 below entirely. Fetch only the exact URL and store it as a one-page raw capture. Do **not** fetch `llms.txt`, do **not** discover docs pages, and do **not** discover a companion GitHub repo. Return `companion_github_url = null`.
+   - **If yes:** skip steps 2–6 below entirely. Fetch only the exact URL and store it as a one-page raw capture. Do **not** fetch `llms.txt`, do **not** discover docs pages, and do **not** discover a companion GitHub repo or run product discovery. Return `companion_github_url = null`, `products = []`. Skip ahead to step 8 (write).
    - **If no:** continue with step 2.
-2. **Check `<domain>/llms.txt`** (fetch `https://<domain>/llms.txt`). If present, capture its full content — it supplements but does **not** replace steps 3-4.
+2. **Check `<domain>/llms.txt`** (fetch `https://<domain>/llms.txt`). If present, capture its full content — it supplements but does **not** replace steps 3–5.
 3. **Fetch the landing page** (`<final-url>`).
-4. **Discover docs pages** — always, regardless of whether llms.txt was found. Try `/docs`, `/documentation`, `/guide`, `sitemap.xml` (in that order). Stop at the first that returns real content. At `standard` and `deep`, fetch the docs index page and ~4–10 key pages (product overviews, getting-started, architecture, reference). At `brief`, skip this step.
-5. **Discover companion GitHub repo** — scan the collected content in this priority order:
+4. **Discover docs pages** — always, regardless of whether llms.txt was found. Try `/docs`, `/documentation`, `/guide`, `sitemap.xml`, and the conventional subdomain `docs.<domain>` (in that order). Stop at the first that returns real content.
+   - At `brief`: skip docs entirely.
+   - At `standard`: fetch the docs index page and ~4–10 key pages (product overviews, getting-started, architecture, reference).
+   - At `deep`: fetch the docs index page and ~10–25 key pages, then run product discovery (step 5) and per-product docs fetch (step 6).
+5. **Product discovery** (`deep` only — skipped at `brief`/`standard` and in single-page mode). The goal is to determine whether this site presents **multiple distinct products** that each merit their own wiki source page.
+
+   Scan, in priority order:
+   a. The docs nav/landing of the docs site discovered in step 4 — top-level sections that point to distinct product subsections (for example `docs.langchain.com/langchain/...`, `docs.langchain.com/langgraph/...`, `docs.langchain.com/langsmith/...`).
+   b. The landing page hero/nav and footer for product-card lists, "Products" menus, or repeated `<product>.<domain>` subdomains.
+   c. The llms.txt content from step 2 — distinct product entries point to distinct products.
+   d. GitHub repo URLs referenced anywhere in the captured content — multiple repo-root URLs under the same `<org>` are strong evidence of multiple products (for example `github.com/langchain-ai/langchain`, `github.com/langchain-ai/langgraph`, `github.com/langchain-ai/langsmith`, `github.com/langchain-ai/deepagents`).
+
+   **Acceptance threshold (must hold for a candidate to count as a product):**
+   - The candidate has its own dedicated docs subsection (its own URL path under the docs site or its own subdomain), **OR** its own distinct repo-root GitHub URL under the same org.
+   - The candidate is **not** a generic site section like `Pricing`, `Features`, `Solutions`, `Customers`, `Blog`, `About`, `Careers`, `Contact`, `Login`, `Sign up`, `Changelog`, `Roadmap`, `Status`, `Legal`, `Terms`, `Privacy`. Reject these by name even if they appear in nav.
+
+   **Output:** a list `products`, each entry: `{ name, slug, deep_link_url?, docs_url?, repo_url? }`.
+   - `name` — display name, e.g. `LangGraph`.
+   - `slug` — kebab-case product identifier, e.g. `langgraph`. Used in sub-page slug `<domain>-<slug>`.
+   - `deep_link_url` — product-specific page on the source site if one exists (e.g. `https://www.langchain.com/langgraph`); null otherwise.
+   - `docs_url` — entry point into this product's docs subsection if discovered.
+   - `repo_url` — companion GitHub repo URL if one was matched.
+
+   **Multi-product trigger:** `len(products) >= 2`. If `len(products) < 2`, set `products = []` and proceed in single-product deep mode (step 6 skipped, step 7 simplified).
+6. **Per-product docs fetch** (deep multi-product only — runs only when `len(products) >= 2`).
+
+   For each entry in `products`, fetch ~5–10 key docs pages from its `docs_url` subsection: overview / getting started / key concepts / API or reference / when-to-use. Hold each set in memory keyed by product slug.
+
+   If a product was discovered via repo URL only (no `docs_url`), skip per-product docs fetch for that product — its sub-page will be sparser, and the human can promote it to a full unified ingest later via `companion:` override on a separate `add` call.
+7. **Companion GitHub repo discovery.**
+
+   **Skipped entirely in deep multi-product mode** (`len(products) >= 2` from step 5): immediately set `companion_github_url = null` and proceed to step 8. The umbrella does not get a single companion repo; each product's `repo_url` (if any) is recorded in `products[*].repo_url` for the human to ingest separately if desired.
+
+   In all other modes (brief, standard, single-product deep), scan the collected content in this priority order:
    a. The llms.txt content captured in step 2 (look for any `github.com/<org>/<repo>` line).
    b. The landing page's first ~500 characters (hero section, navigation bar).
    c. Any anchor text on the landing page containing `github.com/<org>/<repo>` (footer, "open source", "view on GitHub" links).
@@ -333,17 +434,13 @@ Steps:
    **Tie-break:** when multiple repo URLs appear, prefer the one whose `<org>` is most similar to the domain root (e.g. `paperclip.ing` → prefer `paperclipai/*`). If still tied, take the first in priority order.
 
    Return the result as `companion_github_url` (a full URL string or `null`). **Do not fetch the repo here** — the caller (`add.md` / `run.md`) decides whether to fetch, applying any inbox-line tag overrides (`<!-- companion:... -->`, `<!-- no-companion -->`) before doing so.
+8. **Compile and write the raw file.** Always one file per ingest at `raw/web/<slug>.md` — no per-page directories. The file format is described below; deep multi-product mode adds `## Product: <name>` sections.
+9. **Follow redirects; log the final URL** to the raw file — not the original inbox URL. Stale domains silently redirect.
+10. Respect `robots.txt`. Set a descriptive user agent. Rate-limit between requests.
 
-6. Depth by detail level:
-   - `brief`: llms.txt (if any) + landing page only.
-   - `standard`: llms.txt (if any) + landing + docs index + ~4–10 key pages.
-   - `deep`: full crawl within domain; one file per page at `raw/web/<slug>/`.
-   - **GitHub non-root single-page mode:** always capture only the exact page, regardless of detail level.
-7. **Follow redirects; log the final URL** to the raw file — not the original inbox URL. Stale domains silently redirect.
-8. Respect `robots.txt`. Set a descriptive user agent. Rate-limit between requests.
-9. Save to `raw/web/<slug>.md` (brief/standard/single-page mode). At `deep`, use `raw/web/<slug>/` per-page.
+**Returned to caller:** `companion_github_url`, `products` (list, possibly empty), `final_url`, `pages_count`. The caller (`add.md` / `run.md` / refresh) reads `products` and `companion_github_url` to decide which ingest branch to use.
 
-**Guard:** if the full crawl would exceed 200k input tokens, halt and surface to user before proceeding.
+**Guard:** if the cumulative crawl would exceed 200k input tokens, halt and surface to user before proceeding. In deep multi-product mode this is especially important — 4 products × 10 docs pages each will brush the limit; if the budget is tight, prefer fewer pages per product over fewer products.
 
 **Raw file format** (`raw/web/<slug>.md`):
 ```
@@ -354,6 +451,9 @@ Steps:
 - Final URL: <final url after redirects>
 - Fetched: <YYYY-MM-DD>
 - Pages: <N>
+- Mode: <single-page | brief | standard | deep | deep-multi-product>
+- Products discovered: <N>     ← present only when Mode is deep or deep-multi-product
+- Products: <comma-separated slugs>     ← present only when N >= 1
 
 ## llms.txt (if present)
 <full content>
@@ -361,10 +461,31 @@ Steps:
 ## Landing page — <final-url>
 <page content>
 
-## <Page title> — <url>
+## Docs — <docs-index-url>     ← present at standard and deep
+<docs index page content>
+
+## <Page title> — <url>     ← additional docs/key pages at standard and deep (single-product)
 <page content>
 ...
+
+## Product: <Product Name>     ← present per-product in deep multi-product mode only
+- Slug: <product-slug>
+- Deep link: <deep_link_url or "n/a">
+- Docs URL: <docs_url or "n/a">
+- Companion repo: <repo_url or "n/a">
+
+### About
+<short description from landing/hero/docs intro for this product>
+
+### Docs — <docs_url>
+<fetched docs index for this product>
+
+### <Doc page title> — <url>
+<fetched docs page content>
+...
 ```
+
+`Pages: <N>` counts every captured item in the compiled raw file, including `llms.txt` when present. For example, `llms.txt + landing page + 4 docs pages` means `Pages: 6`. In deep multi-product mode, sum across all `## Product:` sections too.
 
 In **GitHub non-root single-page mode**, the compiled raw file contains only:
 ```
@@ -375,6 +496,7 @@ In **GitHub non-root single-page mode**, the compiled raw file contains only:
 - Final URL: <final url after redirects>
 - Fetched: <YYYY-MM-DD>
 - Pages: 1
+- Mode: single-page
 
 ## Page — <final-url>
 <page content>
@@ -434,6 +556,39 @@ updated: YYYY-MM-DD
 ```
 `companion_urls` and `raw_files` are absent on all non-unified pages.
 
+**Multi-product umbrella pages** (deep web with ≥2 products):
+```yaml
+---
+type: source
+source_url: https://<domain>/
+subpages:
+  - <slug>-<product1>
+  - <slug>-<product2>
+tags: []
+related: []
+product: <slug>           # the umbrella slug itself (e.g. langchain.com)
+detail_level: deep
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+---
+```
+
+**Multi-product sub-pages** (one per product under an umbrella):
+```yaml
+---
+type: source
+source_url: https://<domain>/<product-path>     # deep-link if available, else the umbrella URL
+parent_slug: <slug>
+tags: []
+related: []
+product: <product-slug>   # e.g. langgraph
+detail_level: deep
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+---
+```
+`subpages:`, `parent_slug:`, `companion_urls:`, and `raw_files:` are mutually exclusive. Lint check #7 enforces this.
+
 **Overview page** (`wiki/overview.md`):
 ```yaml
 ---
@@ -457,11 +612,11 @@ To re-fetch an already-ingested source:
 2. Run `/pin-llm-wiki run`.
 
 The run command scans `## Completed` for `<!-- refresh -->` and:
-1. Re-fetches the source using the same protocol. For unified pages (with `raw_files:` frontmatter), re-fetches each raw file independently using its path-prefix protocol (`raw/web/` → web, `raw/github/` → github).
+1. Re-fetches the source using the same protocol. For unified pages (with `raw_files:` frontmatter), re-fetches each raw file independently using its path-prefix protocol (`raw/web/` → web, `raw/github/` → github). For multi-product umbrellas (with `subpages:` frontmatter), re-fetches the single web raw file at the same `deep` level. Refresh on a sub-page is rejected — refresh the umbrella instead.
 2. Strips any frontmatter field whose value matches `YYYY-MM-DD` or an ISO 8601 timestamp pattern from both copies before comparing. If unchanged, logs `refresh: <slug> (no change)` and stops.
-3. If changed: overwrites the changed raw file(s), re-runs ingest steps 2–5 and 7 (updates wiki pages; skips step 6 log, inbox-move, and commit), appends a log entry `refresh: <slug> | content updated`. For unified pages, derive companion context from the existing source page's `raw_files:` list and pass it to ingest so the unified body is preserved.
-4. For unified pages: if some raw fetches fail, logs `partial refresh: <slug> | fetch errors: <list>` and proceeds with the raws that succeeded. If all fail, aborts and logs an error.
-5. Refresh never changes page structure: companion-discovery output from the web protocol is discarded, `raw_files:` and `companion_urls:` are preserved as-is, and a non-unified page is never promoted to unified. To restructure, `remove` and re-add.
+3. If changed: overwrites the changed raw file(s), re-runs ingest steps 2–5 and 7 (updates wiki pages; skips step 6 log, inbox-move, and commit), appends a log entry `refresh: <slug> | content updated`. For unified pages, derive companion context from the existing source page's `raw_files:` list and pass it to ingest so the unified body is preserved. For multi-product umbrellas, build `products` from the existing `subpages:` list (read each sub's `product:` and `source_url:` to reconstruct the entries) and pass it to ingest so the umbrella + sub set is preserved.
+4. For unified and multi-product pages: if some raw fetches fail, logs `partial refresh: <slug> | fetch errors: <list>` and proceeds with the raws that succeeded. If all fail, aborts and logs an error.
+5. Refresh never changes page structure: discovery output from the web protocol is discarded, `raw_files:`, `companion_urls:`, and `subpages:` are preserved as-is, a non-unified page is never promoted to unified, and a single-product page is never promoted to multi-product (and vice versa). New products discovered on refresh do not become new sub-pages; products no longer present do not get dropped. To restructure, `remove` and re-add.
 6. Removes `<!-- refresh -->` from the inbox line, appends `<!-- refreshed YYYY-MM-DD -->`, preserves `[ ]`/`[x]` state. Do not run `git commit` (see **Git — never auto-commit**).
 
 ---
@@ -482,7 +637,8 @@ Run `/pin-llm-wiki lint` to check wiki health.
 | 8 | Citation path format — must be relative-from-file, not root-relative | ERROR |
 | 9 | Inbox consistency — inbox line marked [x] but still under ## Pending | WARN |
 | 10 | Adapter sync — `.cursor/rules/wiki-instructions.mdc` body and `.github/copilot-instructions.md` must match `AGENTS.md` | WARN (auto-fixed) |
-| 11 | Split-product sources — web and github source pages share `product:` but lack `companion_urls` | WARN |
+| 11 | Split-product sources — web and github source pages share `product:` but lack `companion_urls` (skipped for multi-product subs, which downgrade to INFO) | WARN |
+| 12 | Parent-child consistency — every umbrella's `subpages:` entry has a matching sub with the right `parent_slug:`, and vice versa | ERROR |
 
 Auto-fixes applied on every lint run:
 - Missing `overview.md` / `log.md` links in `wiki/index.md`.
@@ -520,11 +676,16 @@ Agents (human-directed or autonomous) may suggest URLs for later ingest without 
 
 `/pin-llm-wiki remove <slug>`:
 1. Validate slug exists in `wiki/index.md` Sources table.
-2. Soft-delete: move `wiki/sources/<slug>.md` to `wiki/.archive/sources/`. For raw files: read the source page's `raw_files:` frontmatter — if present (unified page), archive every listed raw file (web + companion github); if absent, archive `raw/<type>/<slug>.md` and `raw/<type>/<slug>/` (deep clone directory) only. Move into `wiki/.archive/raw/<type>/` preserving filename. Do not glob or prefix-match. Update `wiki/index.md` (remove row, decrement count) and append to `wiki/log.md`.
-3. Update `wiki/overview.md`: remove `  - "[[<slug>]]"` from the `sources:` frontmatter list, and delete its body paragraph so the invariant `len(sources) == paragraph_count` still holds. If `[[<slug>]]` is only a passing mention inside another source's paragraph, drop the reference but leave the paragraph.
-4. Scan surviving pages for dangling `[[wikilinks]]` and raw citations that still reference `[[<slug>]]` or `raw/<type>/<slug>...`.
-5. Report findings to the user; do not auto-rewrite the surviving pages. Run `/pin-llm-wiki lint` afterward for full wiki validation.
-6. **To undo:** files are in `wiki/.archive/`. Move them back to their original paths and restore the index.md row, the overview.md frontmatter entry, and the overview.md body paragraph manually.
+2. Determine the page shape from frontmatter (`raw_files:` → unified; `subpages:` → multi-product umbrella; `parent_slug:` → multi-product sub; otherwise standalone).
+3. Soft-delete:
+   - **Standalone:** move `wiki/sources/<slug>.md` to `wiki/.archive/sources/`. Archive `raw/<type>/<slug>.md` and `raw/<type>/<slug>/` (deep clone directory) only.
+   - **Unified:** archive every raw file listed in `raw_files:` plus a sibling deep-clone directory if present.
+   - **Multi-product umbrella (cascade):** also archive every sub-page listed in `subpages:`. The single web raw file is archived once (it backed the umbrella + all subs).
+   - **Multi-product sub:** archive only the sub's wiki page. The raw file stays (it still backs the umbrella + remaining subs). Update the umbrella: remove this sub from its `subpages:` list and from any `## Products` bullet, bump its `updated:` date.
+4. Update `wiki/index.md` (remove row(s), decrement count by the number of pages archived) and `wiki/overview.md` (remove each archived slug from `sources:` and delete its paragraph; the invariant `len(sources) == paragraph_count` must still hold). Append to `wiki/log.md`.
+5. Scan surviving pages for dangling `[[wikilinks]]` and raw citations that still reference any archived slug.
+6. Report findings to the user; do not auto-rewrite the surviving pages. Run `/pin-llm-wiki lint` afterward for full wiki validation.
+7. **To undo:** files are in `wiki/.archive/`. Move them back to their original paths and restore the index.md rows, the overview.md frontmatter entries, and the overview.md body paragraphs manually.
 
 ---
 

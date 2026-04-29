@@ -17,6 +17,8 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki add <url>` for single-URL
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
+- [ ] https://www.langchain.com/ <!-- detail:deep -->
+
 ## Completed
 
 <!-- Processed lines are moved here automatically.
