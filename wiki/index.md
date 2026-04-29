@@ -14,5 +14,11 @@ created: 2026-04-28
 |---|---|---|---|---|
 | [[paperclip.ing]] | web | standard | 2026-04-28 | |
 | [[modelcontextprotocol-servers-tree-main-src-sequentialthinking]] | web | brief | 2026-04-28 | |
+| [[langchain.com]] | web | deep | 2026-04-29 | |
+| [[langchain.com-langsmith]] | web | deep | 2026-04-29 | |
+| [[langchain.com-fleet]] | web | deep | 2026-04-29 | |
+| [[langchain.com-langchain]] | web | deep | 2026-04-29 | |
+| [[langchain.com-langgraph]] | web | deep | 2026-04-29 | |
+| [[langchain.com-deepagents]] | web | deep | 2026-04-29 | |
 
-_2 sources ingested._
+_8 sources ingested._

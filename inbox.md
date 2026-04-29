@@ -17,7 +17,29 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki add <url>` for single-URL
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
-- [ ] https://www.langchain.com/ <!-- detail:deep -->
+- [ ] https://runcabinet.com/ <!-- detail:deep -->
+- [ ] https://github.com/njbrake/agent-of-empires
+- [ ] https://github.com/nidhinjs/prompt-master
+- [ ] https://factory.ai/
+- [ ] https://github.com/Gitlawb/openclaude
+- [ ] https://medium.com/@unicodeveloper/10-must-have-clis-for-your-ai-agents-in-2026-51ba0d0881df
+- [ ] https://x.com/ericzakariasson/status/2036762680401223946?s=20
+- [ ] https://focusee.imobie.com/
+- [ ] https://wisprflow.ai/
+- [ ] https://github.com/VoltAgent/awesome-agent-skills
+- [ ] https://github.com/zilliztech/claude-context
+- [ ] https://pi.dev/
+- [ ] https://brave.com/search/api/
+- [ ] https://resend.com/
+- [ ] https://www.hostinger.com/1
+- [ ] https://skills.sh/
+- [ ] https://microsoft.github.io/autogen/stable//index.html#
+- [ ] https://zapier.com/
+- [ ] https://n8n.io/
+- [ ] https://hermes-agent.nousresearch.com/
+- [ ] https://www.teamoffsite.ai/
+- [ ] https://github.com/mksglu/context-mode
+- [ ] https://tolaria.md/
 
 ## Completed
 
@@ -29,3 +51,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki add <url>` for single-URL
 
 - [x] https://paperclip.ing <!-- ingested 2026-04-28 -->
 - [x] https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking <!-- detail:brief --> <!-- ingested 2026-04-28 -->
+- [x] https://www.langchain.com/ <!-- detail:deep --> <!-- ingested 2026-04-29 --> <!-- refreshed 2026-04-29 --> <!-- refreshed 2026-04-29 -->
