@@ -24,7 +24,7 @@ If you ask questions from **another repo** but want agents to use this wiki, add
 
 **Ingest immediately** (auto-queues if missing, then fetches + writes the wiki page):
 ```
-/pin-llm-wiki run https://github.com/org/repo
+/pin-llm-wiki ingest https://github.com/org/repo
 ```
 
 **Queue for later** (adds to inbox, no fetch — good for mid-task suggestions):
@@ -34,8 +34,8 @@ If you ask questions from **another repo** but want agents to use this wiki, add
 
 **Batch-process everything pending** in `inbox.md`:
 ```
-/pin-llm-wiki run              # process all pending items
-/pin-llm-wiki run <url>        # process only this one URL from Pending
+/pin-llm-wiki ingest              # process all pending items
+/pin-llm-wiki ingest <url>        # process only this one URL from Pending
 ```
 
 **GitHub non-root pages are treated as single-page web sources.** A URL like `https://github.com/org/repo/tree/main/path` is ingested as the exact page only, with no docs discovery and no companion-repo discovery.
@@ -51,7 +51,7 @@ Append these HTML comments to any URL line in `inbox.md`:
 | `<!-- detail:brief -->` / `<!-- detail:standard -->` / `<!-- detail:deep -->` | Override detail level for this source |
 | `<!-- branch:dev -->` | GitHub: use this branch instead of the default |
 | `<!-- clone -->` | GitHub deep: full `git clone` to `raw/github/<org>-<repo>/` |
-| `<!-- skip -->` | Skip this URL on the next `run` |
+| `<!-- skip -->` | Skip this URL on the next `ingest` |
 | `<!-- companion:github.com/<org>/<repo> -->` | Web: skip GitHub discovery, use this repo as the companion |
 | `<!-- no-companion -->` | Web: suppress companion GitHub fetch even if a repo is found |
 | `<!-- note: text -->` | Freeform note for human review (queue only; ignored by ingest) |
@@ -74,7 +74,7 @@ Raw files under `raw/` are the citation backstop. Prefer the wiki pages for norm
 To refresh a source, add `<!-- refresh -->` to its line under `## Completed` in `inbox.md`, then run:
 
 ```
-/pin-llm-wiki run
+/pin-llm-wiki ingest
 ```
 
 ## Git

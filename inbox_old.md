@@ -1,6 +1,6 @@
 # Inbox
 
-Drop URLs below under `## Pending`. Run `/pin-llm-wiki add <url>` for single-URL ingest, or edit this file and run `/pin-llm-wiki run` to batch-process all pending items. Agents may use `/pin-llm-wiki queue <url>` to suggest URLs without immediately ingesting them.
+Drop URLs below under `## Pending`. Run `/pin-llm-wiki add <url>` for single-URL ingest, or edit this file and run `/pin-llm-wiki ingest` to batch-process all pending items. Agents may use `/pin-llm-wiki queue <url>` to suggest URLs without immediately ingesting them.
 
 ## Pending
 
@@ -34,6 +34,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki add <url>` for single-URL
 
 <!-- Processed lines are moved here automatically.
      Format after ingest: - [x] https://... with an "ingested YYYY-MM-DD" HTML comment appended.
-     To re-fetch: add a "refresh" HTML comment to the line, then run /pin-llm-wiki run.
+     To re-fetch: add a "refresh" HTML comment to the line, then run /pin-llm-wiki ingest.
      The refresh tag is removed automatically after re-fetch.
 -->

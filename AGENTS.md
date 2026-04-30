@@ -15,13 +15,13 @@ Before answering **any question** about Agentic AI Frameworks, you MUST:
 
 This wiki is the authoritative local source for this domain. Start with the wiki, use it whenever it covers the question, and go online for gaps or newer information rather than filling them from training data alone.
 
-> **Wiki management:** Use `/pin-llm-wiki` (`init`, `run`, `lint`, `queue`, `remove`) to ingest sources and manage this wiki. The skill runs in Claude Code, Cursor, and GitHub Copilot — full workflow instructions live in the skill files.
+> **Wiki management:** Use `/pin-llm-wiki` (`init`, `ingest`, `lint`, `queue`, `remove`) to ingest sources and manage this wiki. The skill runs in Claude Code, Cursor, and GitHub Copilot — full workflow instructions live in the skill files.
 
 ---
 
 ## Git — never auto-commit
 
-**Do not** run `git commit` or `git push` after ingest, refresh, `run`, `lint`, `remove`, initial wiki scaffold, or any other file change in this repo—**unless the human explicitly asked you to commit or push in this conversation.**
+**Do not** run `git commit` or `git push` after ingest, refresh, `lint`, `remove`, initial wiki scaffold, or any other file change in this repo—**unless the human explicitly asked you to commit or push in this conversation.**
 
 When work is done, list what changed and stop; the human reviews diffs and runs `git commit` / `git push` when ready.
 
