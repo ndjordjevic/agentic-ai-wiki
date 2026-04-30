@@ -31,7 +31,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki run <url>` to ingest a si
 - [ ] https://brave.com/search/api/
 - [ ] https://resend.com/
 - [ ] https://www.hostinger.com/1
-- [ ] https://skills.sh/
 - [ ] https://microsoft.github.io/autogen/stable//index.html#
 - [ ] https://zapier.com/
 - [ ] https://n8n.io/
@@ -52,3 +51,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki run <url>` to ingest a si
 - [x] https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking <!-- detail:brief --> <!-- ingested 2026-04-28 -->
 - [x] https://www.langchain.com/ <!-- detail:deep --> <!-- ingested 2026-04-29 --> <!-- refreshed 2026-04-29 --> <!-- refreshed 2026-04-29 -->
 - [x] https://runcabinet.com/ <!-- detail:deep --> <!-- ingested 2026-04-29 -->
+- [x] https://skills.sh/ <!-- ingested 2026-04-30 -->

@@ -8,3 +8,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 |---|---|---|---|---|---|---|
 | raw/github/paperclipai-paperclip.md | paperclipai/paperclip | 59894 | master | v2026.427.0 | 2026-04-28 | |
 | raw/github/hilash-cabinet.md | hilash/cabinet | — | main | none | 2026-04-29 | |
+| raw/github/vercel-labs-skills.md | vercel-labs/skills | 16547 | main | v1.5.1 | 2026-04-30 | |

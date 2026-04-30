@@ -10,6 +10,14 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-04-30 | ingest | skills.sh | The Open Agent Skills Ecosystem — leaderboard, CLI, and skills directory for 50+ AI agents (web + GitHub companion)
+
+- Created: wiki/sources/skills.sh.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/vercel-labs-skills.md
+
+---
+
 ## 2026-04-29 | ingest | runcabinet.com | Cabinet — free open-source AI-first knowledge base + startup OS (web + GitHub companion)
 
 - Created: wiki/sources/runcabinet.com.md

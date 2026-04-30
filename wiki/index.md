@@ -22,4 +22,6 @@ created: 2026-04-28
 | [[langchain.com-deepagents]] | web | deep | 2026-04-29 | |
 | [[runcabinet.com]] | web | deep | 2026-04-29 | |
 
-_9 sources ingested._
+| [[skills.sh]] | web | standard | 2026-04-30 | |
+
+_10 sources ingested._
