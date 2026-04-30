@@ -38,6 +38,8 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki run <url>` to ingest a si
 - [ ] https://www.teamoffsite.ai/
 - [ ] https://github.com/mksglu/context-mode
 - [ ] https://tolaria.md/
+- [ ] https://www.agentixlabs.com/
+
 
 ## Completed
 
