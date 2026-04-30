@@ -1,0 +1,52 @@
+# {{DOMAIN}} wiki — agent instructions
+
+> **Created:** {{CREATED_DATE}} | **Detail level:** {{DETAIL_LEVEL}} (default; per-source overrides via `<!-- detail:X -->` inbox tags)
+
+---
+
+## For AI agents working in this repo
+
+Before answering **any question** about {{DOMAIN}}, you MUST:
+
+1. Read `wiki/index.md` to identify relevant pages.
+2. Follow `[[wikilinks]]` to drill into relevant source pages.
+3. Cite wiki page names in your answer.
+4. If the answer is not in the wiki, say so clearly, then fetch current information online instead of relying on training data alone.
+
+This wiki is the authoritative local source for this domain. Start with the wiki, use it whenever it covers the question, and go online for gaps or newer information rather than filling them from training data alone.
+
+> **Wiki management:** Use `/pin-llm-wiki` (`init`, `run`, `lint`, `queue`, `remove`) to ingest sources and manage this wiki. The skill runs in Claude Code, Cursor, and GitHub Copilot — full workflow instructions live in the skill files.
+
+---
+
+## Git — never auto-commit
+
+**Do not** run `git commit` or `git push` after ingest, refresh, `run`, `lint`, `remove`, initial wiki scaffold, or any other file change in this repo—**unless the human explicitly asked you to commit or push in this conversation.**
+
+When work is done, list what changed and stop; the human reviews diffs and runs `git commit` / `git push` when ready.
+
+---
+
+## Wiki structure
+
+```
+wiki/
+  index.md          ← start here; lists every page, counts sources
+  overview.md       ← rolling cross-source overview (cites [[source pages]])
+  log.md            ← append-only record of every ingest/refresh
+  sources/          ← one page per ingested source (<slug>.md)
+  .archive/         ← soft-deleted sources (ignore unless needed)
+
+raw/
+  README.md
+  [github/]         ← immutable GitHub repo captures
+  [youtube/]        ← immutable YouTube video captures (transcript + metadata)
+  [web/]            ← immutable web page/site captures
+  assets/           ← downloaded media/binaries
+
+inbox.md            ← agents may add to ## Pending via `queue`; all other edits are human-driven
+.pin-llm-wiki.yml   ← config (detail level, source types, lint cadence, etc.)
+```
+
+**Load order for any question:** `wiki/index.md` → relevant source pages → raw files only for direct citation.
+
