@@ -12,6 +12,7 @@ sources:
   - "[[langchain.com-langchain]]"
   - "[[langchain.com-langgraph]]"
   - "[[langchain.com-deepagents]]"
+  - "[[runcabinet.com]]"
 ---
 
 # Agentic AI Frameworks — overview
@@ -31,3 +32,5 @@ sources:
 [[langchain.com-langgraph]] captures the runtime-oriented end of the stack: explicit state graphs, durable execution, interrupt-driven human-in-the-loop patterns, workflow topologies like routing and orchestrator-worker, and thread-based resumption semantics. It adds a strong reference point for stateful, long-running agent systems that need more control than a single high-level agent loop.
 
 [[langchain.com-deepagents]] adds the agent-harness layer to the wiki, completing the three-tier open-source stack under LangChain. It covers the Deep Agents SDK — a batteries-included framework built on LangGraph that adds planning with `write_todos`, file-system context management, subagent spawning, and long-term memory — together with the Deep Agents CLI, a terminal coding agent built on the same SDK. This is a new product added to the platform since the initial ingest.
+
+[[runcabinet.com]] introduces Cabinet, a free and open-source self-hosted AI-first startup OS where all knowledge lives as markdown files on disk. It bridges the gap between note-taking tools (Obsidian, Notion) and agent orchestration platforms (Paperclip) by combining a WYSIWYG knowledge base, 20 pre-built AI agent templates with cron-based scheduling, embedded live HTML apps, a browser-based web terminal, and git-backed version history — all without a database or vendor lock-in. Cabinet operationalizes Andrej Karpathy's LLM-wiki pattern as a product, positioning itself as the persistent memory layer for both human and AI work in a self-hosted startup OS.

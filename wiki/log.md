@@ -10,6 +10,14 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-04-29 | ingest | runcabinet.com | Cabinet — free open-source AI-first knowledge base + startup OS (web + GitHub companion)
+
+- Created: wiki/sources/runcabinet.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/hilash-cabinet.md
+
+---
+
 ## 2026-04-29 | refresh | langchain.com | content updated — new sub-page: langchain.com-deepagents
 
 - Created: wiki/sources/langchain.com-deepagents.md

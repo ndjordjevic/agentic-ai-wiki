@@ -20,5 +20,6 @@ created: 2026-04-28
 | [[langchain.com-langchain]] | web | deep | 2026-04-29 | |
 | [[langchain.com-langgraph]] | web | deep | 2026-04-29 | |
 | [[langchain.com-deepagents]] | web | deep | 2026-04-29 | |
+| [[runcabinet.com]] | web | deep | 2026-04-29 | |
 
-_8 sources ingested._
+_9 sources ingested._

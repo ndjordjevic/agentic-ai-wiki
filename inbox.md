@@ -1,6 +1,6 @@
 # Inbox
 
-Drop URLs below under `## Pending`. Run `/pin-llm-wiki add <url>` for single-URL ingest, or edit this file and run `/pin-llm-wiki run` to batch-process all pending items. Agents may use `/pin-llm-wiki queue <url>` to suggest URLs without immediately ingesting them.
+Drop URLs below under `## Pending`. Run `/pin-llm-wiki run <url>` to ingest a single URL (auto-queues it if missing), or `/pin-llm-wiki run` to batch-process every pending item. Agents may use `/pin-llm-wiki queue <url>` to suggest URLs without immediately ingesting them.
 
 ## Pending
 
@@ -17,7 +17,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki add <url>` for single-URL
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
-- [ ] https://runcabinet.com/ <!-- detail:deep -->
 - [ ] https://github.com/njbrake/agent-of-empires
 - [ ] https://github.com/nidhinjs/prompt-master
 - [ ] https://factory.ai/
@@ -52,3 +51,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki add <url>` for single-URL
 - [x] https://paperclip.ing <!-- ingested 2026-04-28 -->
 - [x] https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking <!-- detail:brief --> <!-- ingested 2026-04-28 -->
 - [x] https://www.langchain.com/ <!-- detail:deep --> <!-- ingested 2026-04-29 --> <!-- refreshed 2026-04-29 --> <!-- refreshed 2026-04-29 -->
+- [x] https://runcabinet.com/ <!-- detail:deep --> <!-- ingested 2026-04-29 -->
