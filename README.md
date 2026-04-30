@@ -4,21 +4,23 @@ A personal knowledge base for **Agentic AI Frameworks**, maintained with [pin-ll
 
 ## What's in here
 
-Every source is fetched, summarized, and cross-referenced so you (and any AI agent) can query it without re-reading the originals.
+Every source is fetched, summarized, and cross-referenced so you and any AI agent can query it without re-reading the originals.
 
 ```
-wiki/index.md       ← start here — full source list
+wiki/index.md       ← start here; full source list
 wiki/overview.md    ← rolling cross-source overview
 wiki/sources/       ← one page per ingested source
-raw/                ← immutable source captures (do not edit)
-inbox.md            ← drop new URLs here
+raw/                ← immutable source captures; do not edit
+inbox.md            ← drop new URLs under ## Pending
+AGENTS.md           ← canonical instructions for agents in this wiki
+.pin-llm-wiki.yml   ← config: domain, detail level, source types, lint cadence
 ```
 
 ## Adding sources
 
-**Ingest immediately** (fetch + write wiki page in one step):
+**Ingest immediately** (auto-queues if missing, then fetches + writes the wiki page):
 ```
-/pin-llm-wiki add https://github.com/org/repo
+/pin-llm-wiki run https://github.com/org/repo
 ```
 
 **Queue for later** (adds to inbox, no fetch — good for mid-task suggestions):
@@ -34,9 +36,11 @@ inbox.md            ← drop new URLs here
 
 **GitHub non-root pages are treated as single-page web sources.** A URL like `https://github.com/org/repo/tree/main/path` is ingested as the exact page only, with no docs discovery and no companion-repo discovery.
 
+**Deep multi-product mode.** A web source ingested at `<!-- detail:deep -->` whose docs/site advertise ≥2 distinct products (each with its own docs subsection or distinct GitHub repo) writes one umbrella page plus one sub-page per product, all citing the same raw file. Example: `https://www.langchain.com/` → `wiki/sources/langchain.com.md` (umbrella) + per-product subs like `wiki/sources/langchain.com-langgraph.md`.
+
 ## Inline inbox tags
 
-Append these (as HTML comments) to any URL line in `inbox.md`:
+Append these HTML comments to any URL line in `inbox.md`:
 
 | Tag | Effect |
 |---|---|
@@ -50,9 +54,11 @@ Append these (as HTML comments) to any URL line in `inbox.md`:
 
 ## Querying the wiki
 
-Open `wiki/index.md` for a full table of sources. Follow `[[wikilinks]]` to source pages.
+Open `wiki/index.md` for the full source table, then follow `[[wikilinks]]` into source pages. Use `wiki/overview.md` for a cross-source synthesis.
 
-AI agents in this repo are instructed to consult the wiki before answering — see `AGENTS.md`.
+AI agents in this repo are instructed to consult this wiki before answering questions about **Agentic AI Frameworks**. See `AGENTS.md` for the exact protocol.
+
+Raw files under `raw/` are the citation backstop. Prefer the wiki pages for normal reading; use raw captures when you need to verify source text directly.
 
 ## Maintenance
 
@@ -61,7 +67,11 @@ AI agents in this repo are instructed to consult the wiki before answering — s
 /pin-llm-wiki remove <slug> # soft-delete a source to wiki/.archive/
 ```
 
-To refresh a source: add `<!-- refresh -->` to its `## Completed` line in `inbox.md`, then run `/pin-llm-wiki run`.
+To refresh a source, add `<!-- refresh -->` to its line under `## Completed` in `inbox.md`, then run:
+
+```
+/pin-llm-wiki run
+```
 
 ## Git
 
