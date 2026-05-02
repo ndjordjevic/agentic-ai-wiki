@@ -10,6 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-02 | ingest | canva.com | Canva — AI-powered visual design platform with MCP server, Connect APIs, and Apps SDK for agentic workflows
+
+- Created: wiki/sources/canva.com
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
+---
+
 ## 2026-04-30 | ingest | skills.sh | The Open Agent Skills Ecosystem — leaderboard, CLI, and skills directory for 50+ AI agents (web + GitHub companion)
 
 - Created: wiki/sources/skills.sh.md

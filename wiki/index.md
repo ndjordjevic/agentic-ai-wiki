@@ -21,7 +21,7 @@ created: 2026-04-28
 | [[langchain.com-langgraph]] | web | deep | 2026-04-29 | |
 | [[langchain.com-deepagents]] | web | deep | 2026-04-29 | |
 | [[runcabinet.com]] | web | deep | 2026-04-29 | |
-
 | [[skills.sh]] | web | standard | 2026-04-30 | |
+| [[canva.com]] | web | standard | 2026-05-02 | |
 
-_10 sources ingested._
+_11 sources ingested._

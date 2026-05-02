@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-04-30
+updated: 2026-05-02
 sources:
   - "[[paperclip.ing]]"
   - "[[modelcontextprotocol-servers-tree-main-src-sequentialthinking]]"
@@ -14,6 +14,7 @@ sources:
   - "[[langchain.com-deepagents]]"
   - "[[runcabinet.com]]"
   - "[[skills.sh]]"
+  - "[[canva.com]]"
 ---
 
 # Agentic AI Frameworks — overview
@@ -37,3 +38,5 @@ sources:
 [[runcabinet.com]] introduces Cabinet, a free and open-source self-hosted AI-first startup OS where all knowledge lives as markdown files on disk. It bridges the gap between note-taking tools (Obsidian, Notion) and agent orchestration platforms (Paperclip) by combining a WYSIWYG knowledge base, 20 pre-built AI agent templates with cron-based scheduling, embedded live HTML apps, a browser-based web terminal, and git-backed version history — all without a database or vendor lock-in. Cabinet operationalizes Andrej Karpathy's LLM-wiki pattern as a product, positioning itself as the persistent memory layer for both human and AI work in a self-hosted startup OS.
 
 [[skills.sh]] covers the open agent skills directory and ecosystem built by Vercel, which provides the de-facto distribution layer for SKILL.md-based capability modules across 50+ AI coding agents. The source captures the leaderboard (community-ranked by anonymous install telemetry), the official skills registry (70+ technology vendors publishing skills directly, including Anthropic, Microsoft, GitHub, OpenAI, Sentry, and Cloudflare), a security audit dashboard, and the full CLI reference for `npx skills` backed by the open-source `vercel-labs/skills` repo. It adds a concrete picture of how procedural knowledge is packaged, discovered, and installed across the multi-agent tooling ecosystem referenced throughout this wiki.
+
+[[canva.com]] documents Canva as an AI-powered visual design platform with a developer layer directly relevant to agentic AI workflows. Its remote MCP server (`https://mcp.canva.com/mcp`) exposes design generation, editing, asset management, and export as MCP-compatible tools consumable by Claude, ChatGPT, Codex, Gemini, Cursor, and VS Code agents. The Connect APIs enable external platforms to embed Canva capabilities via REST (autofill brand templates, bulk create, resize, export, comments), and the Apps SDK allows JavaScript plugins to run inside the Canva editor. This source is notable as a concrete example of an established SaaS product opening its design capabilities to AI agents through the Model Context Protocol.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/web/runcabinet.com.md",
+                "file": "wiki/sources/canva.com.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "runcabinet.com"
+              "title": "canva.com"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/web/runcabinet.com.md",
+                "file": "wiki/sources/canva.com.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for runcabinet.com"
+              "title": "Backlinks for canva.com"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "raw/web/runcabinet.com.md",
+                "file": "wiki/sources/canva.com.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from runcabinet.com"
+              "title": "Outgoing links from canva.com"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/web/runcabinet.com.md",
+                "file": "wiki/sources/canva.com.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of runcabinet.com"
+              "title": "Outline of canva.com"
             }
           }
         ]
@@ -185,6 +185,12 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "inbox_old.md",
+    "wiki/sources/canva.com.md",
+    "wiki/index.md",
+    "raw/web/canva.com.md",
+    "wiki/sources/langchain.com-fleet.md",
+    "raw/web/runcabinet.com.md",
     "wiki/sources/skills.sh.md",
     "raw/github/vercel-labs-skills.md",
     "raw/web/skills.sh.md",
@@ -192,14 +198,11 @@
     "skills",
     "raw/README.md",
     "wiki/overview.md",
-    "wiki/index.md",
     "wiki/log.md",
     "wiki/sources/runcabinet.com.md",
     "raw/github/hilash-cabinet.md",
-    "raw/web/runcabinet.com.md",
     "wiki/sources/langchain.com.md",
     "wiki/sources/langchain.com-deepagents.md",
-    "wiki/sources/langchain.com-fleet.md",
     "wiki/sources/langchain.com-langsmith.md",
     "wiki/sources/langchain.com-langgraph.md",
     "wiki/sources/langchain.com-langchain.md",

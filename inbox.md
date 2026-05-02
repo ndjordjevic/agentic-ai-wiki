@@ -39,11 +39,37 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://github.com/mksglu/context-mode
 - [ ] https://tolaria.md/
 - [ ] https://www.agentixlabs.com/
-
+- [ ] https://lovable.dev/
+- [ ] https://bolt.new/
+- [ ] https://www.warp.dev/
+- [ ] https://notebooklm.google/
+- [ ] https://postiz.com/?ref=producthunt
+- [ ] https://www.producthunt.com/
+- [ ] https://github.com/HKUDS/RAG-Anything
+- [ ] https://github.com/teng-lin/notebooklm-py
+- [ ] https://github.com/VoltAgent/awesome-design-md
+- [ ] https://github.com/firecrawl/firecrawl
+- [ ] https://github.com/fastai/fastbook
+- [ ] https://github.com/kepano/obsidian-skills
+- [ ] https://clickup.com/
+- [ ] https://kie.ai/
+- [ ] https://trigger.dev/
+- [ ] https://vibekanban.com/
+- [ ] https://stitch.withgoogle.com/
+- [ ] https://deepwiki.com/
+- [ ] https://github.com/shareAI-lab/learn-claude-code
+- [ ] https://traycer.ai/
+- [ ] https://happy.engineering/
+- [ ] https://github.com/coleam00/claude-memory-compiler
+- [ ] https://github.com/hilash/cabinet
+- [ ] https://github.com/gsd-build/get-shit-done
+- [ ] https://github.com/obra/superpowers
+- [ ] https://github.com/paperclipai/paperclip
+- [ ] https://github.com/microsoft/playwright-mcp
 
 ## Completed
 
-<!-- Processed lines are moved here automatically.
+<!-- Processed lines are moved here automatica    lly.
      Format after ingest: - [x] https://... with an "ingested YYYY-MM-DD" HTML comment appended.
      To re-fetch: add a "refresh" HTML comment to the line, then run /pin-llm-wiki ingest.
      The refresh tag is removed automatically after re-fetch.
@@ -54,3 +80,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://www.langchain.com/ <!-- detail:deep --> <!-- ingested 2026-04-29 --> <!-- refreshed 2026-04-29 --> <!-- refreshed 2026-04-29 -->
 - [x] https://runcabinet.com/ <!-- detail:deep --> <!-- ingested 2026-04-29 -->
 - [x] https://skills.sh/ <!-- ingested 2026-04-30 -->
+- [x] https://www.canva.com/ <!-- ingested 2026-05-02 -->

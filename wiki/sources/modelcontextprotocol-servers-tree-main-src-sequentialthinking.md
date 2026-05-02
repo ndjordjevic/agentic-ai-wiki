@@ -8,11 +8,12 @@ tags:
   - claude-desktop
   - vscode-mcp
   - codex-cli
-related: []
+related:
+  - canva.com
 product: servers
 detail_level: brief
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-05-02
 ---
 
 The Sequential Thinking MCP Server is a focused Model Context Protocol server that exposes one tool, `sequential_thinking`, for stepwise, revisable, branching reasoning inside an MCP-aware host. This source matters because it shows a concrete pattern for packaging deliberation support as a reusable MCP capability rather than as a full agent framework, and it documents how that capability is installed across Claude Desktop, VS Code, and Codex CLI.
