@@ -10,6 +10,35 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-05 | ingest | shareai-lab-learn-claude-code | learn-claude-code — 12-session harness engineering curriculum reverse-engineering Claude Code (Python, 58k stars, MIT)
+
+- Created: wiki/sources/shareai-lab-learn-claude-code.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+---
+
+## 2026-05-02 | ingest | tmux-tmux | tmux — the canonical Unix terminal multiplexer (C, 45k stars, ISC License, v3.6a)
+
+- Created: wiki/sources/tmux-tmux.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+---
+
+## 2026-05-02 | ingest | tmuxai.dev | TmuxAI — AI-powered non-intrusive terminal assistant for tmux (Go, 1.8k stars, Apache-2.0, v2.1.4)
+
+- Created: wiki/sources/tmuxai.dev.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/alvinunreal-tmuxai.md
+
+---
+
+## 2026-05-02 | ingest | njbrake-agent-of-empires | Agent of Empires — Rust session manager for parallel AI coding agents (TUI + web dashboard + remote access)
+
+- Created: wiki/sources/njbrake-agent-of-empires.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+---
+
 ## 2026-05-02 | ingest | canva.com | Canva — AI-powered visual design platform with MCP server, Connect APIs, and Apps SDK for agentic workflows
 
 - Created: wiki/sources/canva.com

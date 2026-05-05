@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/sources/canva.com.md",
+                "file": "wiki/log.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "canva.com"
+              "title": "log"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/sources/canva.com.md",
+                "file": "wiki/log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for canva.com"
+              "title": "Backlinks for log"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/sources/canva.com.md",
+                "file": "wiki/log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from canva.com"
+              "title": "Outgoing links from log"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/sources/canva.com.md",
+                "file": "wiki/log.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of canva.com"
+              "title": "Outline of log"
             }
           }
         ]
@@ -185,9 +185,19 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
-    "inbox_old.md",
-    "wiki/sources/canva.com.md",
+    "wiki/sources/shareai-lab-learn-claude-code.md",
+    "raw/github/shareai-lab-learn-claude-code.md",
+    "wiki/sources/tmuxai.dev.md",
     "wiki/index.md",
+    "wiki/sources/tmux-tmux.md",
+    "wiki/sources/njbrake-agent-of-empires.md",
+    "wiki/log.md",
+    "raw/web/tmuxai.dev.md",
+    "raw/github/tmux-tmux.md",
+    "raw/github/alvinunreal-tmuxai.md",
+    "wiki/sources/canva.com.md",
+    "raw/github/njbrake-agent-of-empires.md",
+    "inbox_old.md",
     "raw/web/canva.com.md",
     "wiki/sources/langchain.com-fleet.md",
     "raw/web/runcabinet.com.md",
@@ -198,18 +208,10 @@
     "skills",
     "raw/README.md",
     "wiki/overview.md",
-    "wiki/log.md",
     "wiki/sources/runcabinet.com.md",
     "raw/github/hilash-cabinet.md",
     "wiki/sources/langchain.com.md",
     "wiki/sources/langchain.com-deepagents.md",
-    "wiki/sources/langchain.com-langsmith.md",
-    "wiki/sources/langchain.com-langgraph.md",
-    "wiki/sources/langchain.com-langchain.md",
-    "raw/web/langchain.com.md",
-    "wiki/sources/modelcontextprotocol-servers-tree-main-src-sequentialthinking.md",
-    "wiki/sources/paperclip.ing.md",
-    "raw/web/modelcontextprotocol-servers-tree-main-src-sequentialthinking.md",
-    "raw/web/paperclip.ing.md"
+    "wiki/sources/langchain.com-langsmith.md"
   ]
 }

@@ -23,5 +23,9 @@ created: 2026-04-28
 | [[runcabinet.com]] | web | deep | 2026-04-29 | |
 | [[skills.sh]] | web | standard | 2026-04-30 | |
 | [[canva.com]] | web | standard | 2026-05-02 | |
+| [[njbrake-agent-of-empires]] | github | standard | 2026-05-02 | |
+| [[tmux-tmux]] | github | standard | 2026-05-02 | |
+| [[tmuxai.dev]] | web | standard | 2026-05-02 | |
+| [[shareai-lab-learn-claude-code]] | github | standard | 2026-05-05 | |
 
-_11 sources ingested._
+_15 sources ingested._

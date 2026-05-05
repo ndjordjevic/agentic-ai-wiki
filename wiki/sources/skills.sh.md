@@ -17,6 +17,7 @@ tags:
   - vercel
 related:
   - paperclip.ing
+  - shareai-lab-learn-claude-code
 product: skills
 detail_level: standard
 created: 2026-04-30

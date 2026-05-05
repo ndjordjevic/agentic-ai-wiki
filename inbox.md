@@ -17,7 +17,7 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
-- [ ] https://github.com/njbrake/agent-of-empires
+- [ ] https://reseek.net/
 - [ ] https://github.com/nidhinjs/prompt-master
 - [ ] https://factory.ai/
 - [ ] https://github.com/Gitlawb/openclaude
@@ -33,6 +33,7 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://www.hostinger.com/1
 - [ ] https://microsoft.github.io/autogen/stable//index.html#
 - [ ] https://zapier.com/
+- [ ] https://script.it/
 - [ ] https://n8n.io/
 - [ ] https://hermes-agent.nousresearch.com/
 - [ ] https://www.teamoffsite.ai/
@@ -57,7 +58,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://vibekanban.com/
 - [ ] https://stitch.withgoogle.com/
 - [ ] https://deepwiki.com/
-- [ ] https://github.com/shareAI-lab/learn-claude-code
 - [ ] https://traycer.ai/
 - [ ] https://happy.engineering/
 - [ ] https://github.com/coleam00/claude-memory-compiler
@@ -66,6 +66,12 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://github.com/obra/superpowers
 - [ ] https://github.com/paperclipai/paperclip
 - [ ] https://github.com/microsoft/playwright-mcp
+- [ ] https://github.com/ruvnet/ruflo
+- [ ] https://github.com/EveryInc/compound-engineering-plugin
+- [ ] https://github.com/HKUDS/CLI-Anything
+- [ ] https://github.com/phuryn/pm-skills
+- [ ] https://github.com/OthmanAdi/planning-with-files
+- [ ] https://github.com/Yeachan-Heo/oh-my-claudecode
 
 ## Completed
 
@@ -81,3 +87,7 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://runcabinet.com/ <!-- detail:deep --> <!-- ingested 2026-04-29 -->
 - [x] https://skills.sh/ <!-- ingested 2026-04-30 -->
 - [x] https://www.canva.com/ <!-- ingested 2026-05-02 -->
+- [x] https://github.com/njbrake/agent-of-empires <!-- ingested 2026-05-02 -->
+- [x] https://github.com/tmux/tmux <!-- ingested 2026-05-02 -->
+- [x] https://tmuxai.dev/ <!-- ingested 2026-05-02 -->
+- [x] https://github.com/shareAI-lab/learn-claude-code <!-- ingested 2026-05-05 -->
