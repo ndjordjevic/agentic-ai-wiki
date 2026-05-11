@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/sources/anthropics-skills.md",
+                "file": "wiki/overview.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "anthropics-skills"
+              "title": "overview"
             }
           }
         ]
@@ -185,12 +185,21 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
-    "wiki/index.md",
     "wiki/sources/forrestchang-andrej-karpathy-skills.md",
+    "wiki/overview.md",
+    "wiki/sources/x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes.md",
+    "wiki/index.md",
+    "raw/web/x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes.md",
+    "wiki/log.md",
+    "wiki/sources/x.com-mnilax-karpathys-4-claude-md-rules-cut-claude.md",
+    "raw/web/x.com-mnilax-karpathys-4-claude-md-rules-cut-claude.md",
+    "wiki/sources/anthropics-skills.md",
+    "wiki/sources/x.com-mnilax-status-2053116311132155938.md",
+    "raw/web/x.com-mnilax-status-2053116311132155938.md",
+    "wiki/sources/x.com.md",
+    "raw/web/x.com.md",
     "raw/github/forrestchang-andrej-karpathy-skills.md",
     "wiki/sources/njbrake-agent-of-empires.md",
-    "wiki/sources/anthropics-skills.md",
-    "wiki/log.md",
     "raw/github/anthropics-skills.md",
     "inbox.md",
     "wiki/sources/shareai-lab-learn-claude-code.md",
@@ -202,16 +211,7 @@
     "raw/github/alvinunreal-tmuxai.md",
     "wiki/sources/canva.com.md",
     "raw/github/njbrake-agent-of-empires.md",
-    "inbox_old.md",
-    "raw/web/canva.com.md",
-    "wiki/sources/langchain.com-fleet.md",
-    "raw/web/runcabinet.com.md",
-    "wiki/sources/skills.sh.md",
-    "raw/github/vercel-labs-skills.md",
-    "raw/web/skills.sh.md",
     "skills-lock.json",
-    "skills",
-    "raw/README.md",
-    "wiki/overview.md"
+    "skills"
   ]
 }

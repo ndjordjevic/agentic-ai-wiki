@@ -3,6 +3,7 @@ type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
 updated: 2026-05-11
+
 sources:
   - "[[paperclip.ing]]"
   - "[[modelcontextprotocol-servers-tree-main-src-sequentialthinking]]"
@@ -21,6 +22,7 @@ sources:
   - "[[shareai-lab-learn-claude-code]]"
   - "[[anthropics-skills]]"
   - "[[forrestchang-andrej-karpathy-skills]]"
+  - "[[x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes]]"
 ---
 
 # Agentic AI Frameworks — overview
@@ -58,3 +60,5 @@ sources:
 [[anthropics-skills]] is Anthropic's official reference repository for the Agent Skills pattern — 17 SKILL.md-based capability modules for Claude spanning document processing (xlsx, docx, pptx, pdf), creative design, MCP server generation, web testing, and a meta `skill-creator` skill for building and evaluating new skills. With 132,000+ stars it is the most-starred skills repository in the ecosystem and the canonical starting point for anyone writing skills for Claude Code, Claude.ai, or the Claude API. The document skills (`xlsx`, `docx`, `pptx`, `pdf`) are the same skills that power Claude's native document capabilities in Claude.ai (source-available). The `skill-creator` skill demonstrates the on-demand SKILL.md loading pattern also covered in [[shareai-lab-learn-claude-code]] (s05) and distributed through [[skills.sh]].
 
 [[forrestchang-andrej-karpathy-skills]] distills Andrej Karpathy's public critique of LLM coding assistants into four actionable behavioral principles — Think Before Coding, Simplicity First, Surgical Changes, and Goal-Driven Execution — packaged as a single `CLAUDE.md` file and a Claude Code plugin skill (124,694 stars, MIT). It is the community's canonical answer to the failure modes Karpathy identified: silent wrong assumptions, bloated abstractions, untargeted edits, and vague success criteria. The repository connects to [[anthropics-skills]] and [[skills.sh]] through the Claude Code plugin marketplace, and its philosophical core — that agent behavior is shaped by environment and instructions — runs through [[shareai-lab-learn-claude-code]]'s harness engineering curriculum.
+
+[[x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes]] captures an empirical study by Mnimiy (@mnilax) extending [[forrestchang-andrej-karpathy-skills]]'s 4-rule template with 8 additional rules grounded in 6 weeks of testing across 30 codebases. The 4 original rules cut the mistake rate from ~41% to ~11%; the full 12-rule template brings it to ~3% while preserving ~76% compliance. The 8 new rules address failure modes specific to May 2026 Claude Code workflows that the original January 2026 template did not anticipate: nondeterministic routing logic that should be plain code (Rule 5), context drift from uncapped token usage (Rule 6), incoherent "average" code when codebase patterns conflict (Rule 7), duplicate implementations from writing without reading (Rule 8), hollow test suites that assert output without encoding intent (Rule 9), compounding errors in multi-step tasks without checkpoints (Rule 10), pattern fragmentation from silent convention violations (Rule 11), and silent partial successes masquerading as completions (Rule 12). The article provides the full 12-rule CLAUDE.md template verbatim and a one-command install path that appends to an existing CLAUDE.md.

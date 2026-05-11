@@ -13,6 +13,7 @@ tags:
 related:
   - shareai-lab-learn-claude-code
   - anthropics-skills
+  - x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes
 product: andrej-karpathy-skills
 detail_level: standard
 created: 2026-05-11

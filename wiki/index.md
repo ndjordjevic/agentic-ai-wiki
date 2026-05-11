@@ -29,5 +29,6 @@ created: 2026-04-28
 | [[shareai-lab-learn-claude-code]] | github | standard | 2026-05-05 | |
 | [[anthropics-skills]] | github | standard | 2026-05-11 | |
 | [[forrestchang-andrej-karpathy-skills]] | github | standard | 2026-05-11 | |
+| [[x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes]] | web | standard | 2026-05-11 | |
 
-_17 sources ingested._
+_18 sources ingested._

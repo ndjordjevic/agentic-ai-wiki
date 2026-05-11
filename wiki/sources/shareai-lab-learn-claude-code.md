@@ -13,6 +13,7 @@ tags:
 related:
   - njbrake-agent-of-empires
   - skills.sh
+  - x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes
   - anthropics-skills
   - forrestchang-andrej-karpathy-skills
 product: learn-claude-code

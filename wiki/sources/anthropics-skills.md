@@ -13,6 +13,7 @@ tags:
 related:
   - skills.sh
   - shareai-lab-learn-claude-code
+  - x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes
   - forrestchang-andrej-karpathy-skills
 product: skills
 detail_level: standard

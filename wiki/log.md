@@ -10,6 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-11 | ingest | x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes | Mnimiy's 12-rule CLAUDE.md — extending Karpathy's 4 rules with 8 agentic workflow rules (30 codebases, 6 weeks, 41% → 3% mistake rate)
+
+- Created: wiki/sources/x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
+---
+
 ## 2026-05-11 | ingest | forrestchang-andrej-karpathy-skills | andrej-karpathy-skills — Karpathy-inspired Claude Code behavioral guidelines (Markdown, 124k stars, MIT)
 
 - Created: wiki/sources/forrestchang-andrej-karpathy-skills.md

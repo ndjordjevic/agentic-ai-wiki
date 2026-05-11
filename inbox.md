@@ -97,3 +97,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/shareAI-lab/learn-claude-code <!-- ingested 2026-05-05 -->
 - [x] https://github.com/anthropics/skills <!-- ingested 2026-05-11 -->
 - [x] https://github.com/forrestchang/andrej-karpathy-skills <!-- ingested 2026-05-11 -->
+- [x] https://x.com/mnilax/status/2053116311132155938?s=43&t=5l2OHSF10JbahgpENs1smw <!-- ingested 2026-05-11 -->
