@@ -72,10 +72,14 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://github.com/phuryn/pm-skills
 - [ ] https://github.com/OthmanAdi/planning-with-files
 - [ ] https://github.com/Yeachan-Heo/oh-my-claudecode
+- [ ] https://github.com/cocoindex-io/cocoindex
+- [ ] https://elevenlabs.io/
+- [ ] https://pushover.net/
+- [ ] https://marketstack.com/
 
 ## Completed
 
-<!-- Processed lines are moved here automatica    lly.
+<!-- Processed lines are moved here automatically.
      Format after ingest: - [x] https://... with an "ingested YYYY-MM-DD" HTML comment appended.
      To re-fetch: add a "refresh" HTML comment to the line, then run /pin-llm-wiki ingest.
      The refresh tag is removed automatically after re-fetch.
@@ -91,3 +95,5 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/tmux/tmux <!-- ingested 2026-05-02 -->
 - [x] https://tmuxai.dev/ <!-- ingested 2026-05-02 -->
 - [x] https://github.com/shareAI-lab/learn-claude-code <!-- ingested 2026-05-05 -->
+- [x] https://github.com/anthropics/skills <!-- ingested 2026-05-11 -->
+- [x] https://github.com/forrestchang/andrej-karpathy-skills <!-- ingested 2026-05-11 -->

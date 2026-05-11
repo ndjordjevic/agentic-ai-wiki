@@ -27,5 +27,7 @@ created: 2026-04-28
 | [[tmux-tmux]] | github | standard | 2026-05-02 | |
 | [[tmuxai.dev]] | web | standard | 2026-05-02 | |
 | [[shareai-lab-learn-claude-code]] | github | standard | 2026-05-05 | |
+| [[anthropics-skills]] | github | standard | 2026-05-11 | |
+| [[forrestchang-andrej-karpathy-skills]] | github | standard | 2026-05-11 | |
 
-_15 sources ingested._
+_17 sources ingested._

@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-05-05
+updated: 2026-05-11
 sources:
   - "[[paperclip.ing]]"
   - "[[modelcontextprotocol-servers-tree-main-src-sequentialthinking]]"
@@ -19,6 +19,8 @@ sources:
   - "[[tmux-tmux]]"
   - "[[tmuxai.dev]]"
   - "[[shareai-lab-learn-claude-code]]"
+  - "[[anthropics-skills]]"
+  - "[[forrestchang-andrej-karpathy-skills]]"
 ---
 
 # Agentic AI Frameworks — overview
@@ -52,3 +54,7 @@ sources:
 [[tmuxai.dev]] introduces TmuxAI, a Go-based AI terminal assistant (1,790 stars, Apache-2.0, v2.1.4) that runs non-intrusively inside a tmux session. It observes all visible panes for context, communicates through a dedicated Chat Pane, and executes commands in an Exec Pane with user confirmation and risk indicators. Key modes — Observe (default), Prepare (shell-prompt integration for exact completion tracking), and Watch (proactive monitoring) — make it adaptable from interactive assistance to continuous log surveillance. Its Knowledge Base and Skills subsystems (built on the SKILL.md pattern also seen in [[skills.sh]]) allow persistent domain context to be injected into every AI interaction, making TmuxAI a practical ambient AI layer for terminal-heavy workflows built on [[tmux-tmux]].
 
 [[shareai-lab-learn-claude-code]] is a 12-session open-source curriculum (58,143 stars, MIT) that reverse-engineers Claude Code by building its full architecture from scratch in Python, one harness mechanism per session. Its central thesis — agency comes from model training, not from orchestration code; harness engineers build the environment the intelligence inhabits — is the clearest articulation of *harness engineering* in this wiki. The curriculum covers the fundamental agent loop (s01), tool dispatch (s02), in-memory planning (s03), subagent isolation (s04), on-demand SKILL.md loading (s05, the same two-layer pattern used in [[skills.sh]] and [[tmuxai.dev]]), context compression (s06), a file-based task graph with `blockedBy` dependency edges (s07), background task threads (s08), persistent agent teams with JSONL mailboxes (s09), team protocols (s10), autonomous task self-claiming (s11), and git-worktree isolation (s12). The repo also ships a companion Next.js platform with interactive diagrams and a sister repo (`claw0`) covering the always-on heartbeat/cron harness variant.
+
+[[anthropics-skills]] is Anthropic's official reference repository for the Agent Skills pattern — 17 SKILL.md-based capability modules for Claude spanning document processing (xlsx, docx, pptx, pdf), creative design, MCP server generation, web testing, and a meta `skill-creator` skill for building and evaluating new skills. With 132,000+ stars it is the most-starred skills repository in the ecosystem and the canonical starting point for anyone writing skills for Claude Code, Claude.ai, or the Claude API. The document skills (`xlsx`, `docx`, `pptx`, `pdf`) are the same skills that power Claude's native document capabilities in Claude.ai (source-available). The `skill-creator` skill demonstrates the on-demand SKILL.md loading pattern also covered in [[shareai-lab-learn-claude-code]] (s05) and distributed through [[skills.sh]].
+
+[[forrestchang-andrej-karpathy-skills]] distills Andrej Karpathy's public critique of LLM coding assistants into four actionable behavioral principles — Think Before Coding, Simplicity First, Surgical Changes, and Goal-Driven Execution — packaged as a single `CLAUDE.md` file and a Claude Code plugin skill (124,694 stars, MIT). It is the community's canonical answer to the failure modes Karpathy identified: silent wrong assumptions, bloated abstractions, untargeted edits, and vague success criteria. The repository connects to [[anthropics-skills]] and [[skills.sh]] through the Claude Code plugin marketplace, and its philosophical core — that agent behavior is shaped by environment and instructions — runs through [[shareai-lab-learn-claude-code]]'s harness engineering curriculum.

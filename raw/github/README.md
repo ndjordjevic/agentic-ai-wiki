@@ -13,3 +13,5 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/tmux-tmux.md | tmux/tmux | 45066 | master | 3.6a | 2026-05-02 | |
 | raw/github/alvinunreal-tmuxai.md | alvinunreal/tmuxai | 1790 | main | v2.1.4 | 2026-05-02 | |
 | raw/github/shareai-lab-learn-claude-code.md | shareAI-lab/learn-claude-code | 58143 | main | none | 2026-05-05 | |
+| raw/github/anthropics-skills.md | anthropics/skills | 132032 | main | none | 2026-05-11 | |
+| raw/github/forrestchang-andrej-karpathy-skills.md | forrestchang/andrej-karpathy-skills | 124694 | main | none | 2026-05-11 | |
