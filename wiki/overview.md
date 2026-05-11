@@ -3,26 +3,6 @@ type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
 updated: 2026-05-11
-
-sources:
-  - "[[paperclip.ing]]"
-  - "[[modelcontextprotocol-servers-tree-main-src-sequentialthinking]]"
-  - "[[langchain.com]]"
-  - "[[langchain.com-langsmith]]"
-  - "[[langchain.com-fleet]]"
-  - "[[langchain.com-langchain]]"
-  - "[[langchain.com-langgraph]]"
-  - "[[langchain.com-deepagents]]"
-  - "[[runcabinet.com]]"
-  - "[[skills.sh]]"
-  - "[[canva.com]]"
-  - "[[njbrake-agent-of-empires]]"
-  - "[[tmux-tmux]]"
-  - "[[tmuxai.dev]]"
-  - "[[shareai-lab-learn-claude-code]]"
-  - "[[anthropics-skills]]"
-  - "[[forrestchang-andrej-karpathy-skills]]"
-  - "[[x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes]]"
 ---
 
 # Agentic AI Frameworks — overview
