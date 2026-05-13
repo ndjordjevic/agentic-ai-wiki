@@ -31,5 +31,6 @@ created: 2026-04-28
 | [[forrestchang-andrej-karpathy-skills]] | github | standard | 2026-05-11 | |
 | [[x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes]] | web | standard | 2026-05-11 | |
 | [[6eanut-llm-wiki]] | github | standard | 2026-05-13 | |
+| [[planana.xyz]] | web | standard | 2026-05-13 | |
 
-_19 sources ingested._
+_20 sources ingested._
