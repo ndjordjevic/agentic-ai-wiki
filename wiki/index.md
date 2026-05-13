@@ -33,5 +33,6 @@ created: 2026-04-28
 | [[6eanut-llm-wiki]] | github | standard | 2026-05-13 | |
 | [[planana.xyz]] | web | standard | 2026-05-13 | |
 | [[meetclaras.com]] | web | standard | 2026-05-13 | |
+| [[reseek.net]] | web | standard | 2026-05-13 | |
 
-_21 sources ingested._
+_22 sources ingested._

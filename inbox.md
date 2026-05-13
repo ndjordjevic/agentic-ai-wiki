@@ -17,7 +17,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
-- [ ] https://reseek.net/
 - [ ] https://github.com/nidhinjs/prompt-master
 - [ ] https://factory.ai/
 - [ ] https://github.com/Gitlawb/openclaude
@@ -107,3 +106,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/6eanut/llm-wiki <!-- ingested 2026-05-13 -->
 - [x] https://planana.xyz/ <!-- ingested 2026-05-13 -->
 - [x] https://www.meetclaras.com/ <!-- ingested 2026-05-13 -->
+- [x] https://reseek.net/ <!-- ingested 2026-05-13 -->

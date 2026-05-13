@@ -2,7 +2,8 @@
 type: source
 source_url: https://www.meetclaras.com/
 tags: [youtube-transcription, ai-chat, video-summarization, transcript-export, knowledge-extraction, ai-integration, chrome-extension]
-related: []
+related:
+  - reseek.net
 product: meetclaras
 detail_level: standard
 created: 2026-05-13
