@@ -30,5 +30,6 @@ created: 2026-04-28
 | [[anthropics-skills]] | github | standard | 2026-05-11 | |
 | [[forrestchang-andrej-karpathy-skills]] | github | standard | 2026-05-11 | |
 | [[x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes]] | web | standard | 2026-05-11 | |
+| [[6eanut-llm-wiki]] | github | standard | 2026-05-13 | |
 
-_18 sources ingested._
+_19 sources ingested._

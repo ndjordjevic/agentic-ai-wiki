@@ -17,6 +17,8 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
+- [ ] https://planana.xyz/
+- [ ] https://www.meetclaras.com/
 - [ ] https://reseek.net/
 - [ ] https://github.com/nidhinjs/prompt-master
 - [ ] https://factory.ai/
@@ -49,7 +51,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://github.com/HKUDS/RAG-Anything
 - [ ] https://github.com/teng-lin/notebooklm-py
 - [ ] https://github.com/VoltAgent/awesome-design-md
-- [ ] https://github.com/firecrawl/firecrawl
 - [ ] https://github.com/fastai/fastbook
 - [ ] https://github.com/kepano/obsidian-skills
 - [ ] https://clickup.com/
@@ -76,6 +77,12 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://elevenlabs.io/
 - [ ] https://pushover.net/
 - [ ] https://marketstack.com/
+- [ ] https://www.firecrawl.dev/
+- [ ] https://abacus.ai/
+- [ ] https://github.com/mattpocock/skills
+- [ ] https://github.com/0xNyk/awesome-hermes-agent
+- [ ] https://x.com/trq212/status/2052809885763747935?s=43&t=5l2OHSF10JbahgpENs1smw
+- [ ] https://app.sauna.ai/
 
 ## Completed
 
@@ -98,3 +105,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/anthropics/skills <!-- ingested 2026-05-11 -->
 - [x] https://github.com/forrestchang/andrej-karpathy-skills <!-- ingested 2026-05-11 -->
 - [x] https://x.com/mnilax/status/2053116311132155938?s=43&t=5l2OHSF10JbahgpENs1smw <!-- ingested 2026-05-11 -->
+- [x] https://github.com/6eanut/llm-wiki <!-- ingested 2026-05-13 -->

@@ -15,3 +15,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/shareai-lab-learn-claude-code.md | shareAI-lab/learn-claude-code | 58143 | main | none | 2026-05-05 | |
 | raw/github/anthropics-skills.md | anthropics/skills | 132032 | main | none | 2026-05-11 | |
 | raw/github/forrestchang-andrej-karpathy-skills.md | forrestchang/andrej-karpathy-skills | 124694 | main | none | 2026-05-11 | |
+| raw/github/6eanut-llm-wiki.md | 6eanut/llm-wiki | 35 | main | none | 2026-05-13 | |

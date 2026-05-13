@@ -10,6 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-13 | ingest | 6eanut-llm-wiki | llm-wiki — Claude Code skill implementing the Karpathy LLM Wiki pattern (Shell, 35 stars, MIT)
+
+- Created: wiki/sources/6eanut-llm-wiki.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+---
+
 ## 2026-05-11 | ingest | x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes | Mnimiy's 12-rule CLAUDE.md — extending Karpathy's 4 rules with 8 agentic workflow rules (30 codebases, 6 weeks, 41% → 3% mistake rate)
 
 - Created: wiki/sources/x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes.md
