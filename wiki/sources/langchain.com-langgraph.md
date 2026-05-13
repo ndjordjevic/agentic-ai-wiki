@@ -51,4 +51,4 @@ The captured docs surface `StateGraph`, `Send`, `interrupt()`, and `Command(resu
 
 ## Ecosystem
 
-LangGraph is tightly connected to the rest of the LangChain stack. It commonly uses LangChain components for models and tools, recommends LangSmith for debugging and deployment, and underpins the production runtime story that LangSmith Deployment exposes for long-running agent workloads.
+LangGraph is tightly connected to the rest of the [[langchain.com|LangChain]] stack. It commonly uses [[langchain.com-langchain|LangChain]] components for models and tools, recommends [[langchain.com-langsmith|LangSmith]] for debugging and deployment, and underpins the production runtime story that LangSmith Deployment exposes for long-running agent workloads.

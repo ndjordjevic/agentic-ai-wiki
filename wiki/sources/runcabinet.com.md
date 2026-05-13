@@ -32,7 +32,7 @@ _All claims below are sourced from ../../raw/web/runcabinet.com.md unless otherw
 
 Cabinet gives AI agents a persistent, structured memory: a knowledge base that both humans and agents read and write to continuously. Every file lives as a markdown document on disk; there is no hidden database, no API rate limits, and no data trapped inside a cloud provider. Users install via `npx cabinetai run`, answer five onboarding questions about their company and goals, and Cabinet scaffolds a custom AI team with pre-defined roles, recurring jobs, and workspaces inside the KB.
 
-The key differentiator is that Cabinet combines three things most tools keep separate: a rich knowledge base (like Obsidian or Notion), an AI agent orchestration layer (like Paperclip), and embedded live apps. Drop an `index.html` into any KB directory and it renders as a live iframe; add a `.app` marker and the sidebar auto-collapses for a full-screen experience.
+The key differentiator is that Cabinet combines three things most tools keep separate: a rich knowledge base (like Obsidian or Notion), an AI agent orchestration layer (like [[paperclip.ing|Paperclip]]), and embedded live apps. Drop an `index.html` into any KB directory and it renders as a live iframe; add a `.app` marker and the sidebar auto-collapses for a full-screen experience.
 
 ## Key features
 
@@ -125,7 +125,7 @@ Cabinet fits teams and solo founders who want their AI agents to have persistent
 - Teams that want full audit history of how their knowledge base evolves — every change is a git commit.
 - Anyone building on top of the Karpathy pattern of feeding rich structured context into LLMs.
 
-Cabinet is not a fit for teams that need multi-user cloud collaboration, mobile access, or a managed SaaS — those use cases favor Notion or similar. For pure agent orchestration without a content layer, Paperclip may be a better match.
+Cabinet is not a fit for teams that need multi-user cloud collaboration, mobile access, or a managed SaaS — those use cases favor Notion or similar. For pure agent orchestration without a content layer, [[paperclip.ing|Paperclip]] may be a better match.
 
 ## Maintenance status
 
@@ -133,7 +133,7 @@ Cabinet is an active open-source project maintained by Hila Shmuel (former Engin
 
 ## Ecosystem
 
-Cabinet is explicitly positioned against Obsidian (no agents, no scheduling), Notion (cloud-locked, no agents), and Paperclip (agent orchestration but no content layer). The comparison table on the landing page shows Cabinet as the only tool with all of: knowledge base, AI agent orchestration, embedded HTML apps, web terminal, and git-backed history.
+Cabinet is explicitly positioned against Obsidian (no agents, no scheduling), Notion (cloud-locked, no agents), and [[paperclip.ing|Paperclip]] (agent orchestration but no content layer). The comparison table on the landing page shows Cabinet as the only tool with all of: knowledge base, AI agent orchestration, embedded HTML apps, web terminal, and git-backed history.
 
 The project uses the Karpathy LLM-wiki pattern as its philosophical foundation: raw data → LLM-compiled wiki → agent-operated knowledge base. Cabinet operationalizes this pattern as a product rather than a collection of scripts.
 

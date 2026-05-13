@@ -8,7 +8,10 @@ tags:
   - sub-agents
   - integrations
   - long-term-memory
-related: []
+related:
+  - langchain.com-langsmith
+  - langchain.com-langchain
+  - langchain.com-langgraph
 product: fleet
 detail_level: deep
 created: 2026-04-29
@@ -40,7 +43,7 @@ The docs also show that Fleet mixes centralized and per-agent configuration. Too
 
 ## Main APIs
 
-Fleet is primarily presented through the LangSmith UI rather than through one code-first library. The main interfaces in the captured docs are the Fleet integrations tab, the agent editor, template cloning flows, custom model configuration for OpenAI- or Anthropic-compatible APIs, and remote MCP server connections that broaden the available tool surface.
+Fleet is primarily presented through the [[langchain.com-langsmith|LangSmith]] UI rather than through one code-first library. The main interfaces in the captured docs are the Fleet integrations tab, the agent editor, template cloning flows, custom model configuration for OpenAI- or Anthropic-compatible APIs, and remote MCP server connections that broaden the available tool surface.
 
 ## When to use
 
@@ -51,4 +54,4 @@ Fleet is primarily presented through the LangSmith UI rather than through one co
 
 ## Ecosystem
 
-Fleet is tightly coupled to LangSmith. It inherits LangSmith organization settings and data handling, uses LangSmith tracing for execution visibility, supports MCP-based extensions, and complements the code-first LangChain and LangGraph products by giving non-developer teams a managed agent surface.
+Fleet is tightly coupled to [[langchain.com-langsmith|LangSmith]]. It inherits LangSmith organization settings and data handling, uses LangSmith tracing for execution visibility, supports MCP-based extensions, and complements the code-first [[langchain.com-langchain|LangChain]] and [[langchain.com-langgraph|LangGraph]] products by giving non-developer teams a managed agent surface.

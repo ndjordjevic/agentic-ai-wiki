@@ -36,7 +36,7 @@ LangChain helps developers build custom agents and LLM-powered applications with
 
 LangChain's agent model combines language models and tools into continuous loops that stop when a final answer or iteration limit is reached. The agents docs distinguish static and dynamic model selection, static and dynamic tool registration, and runtime adaptation based on state, permissions, feature flags, or other context.
 
-The framework also positions itself above lower-level orchestration. LangGraph docs recommend LangChain components for models and tools, while LangChain quickstarts point advanced users toward LangGraph deployment and deeper agent patterns when they need more runtime control.
+The framework also positions itself above lower-level orchestration. [[langchain.com-langgraph|LangGraph]] docs recommend LangChain components for models and tools, while LangChain quickstarts point advanced users toward LangGraph deployment and deeper agent patterns when they need more runtime control.
 
 ## Main APIs
 
@@ -51,4 +51,4 @@ The most prominent public API in the captured docs is `create_agent`. Around tha
 
 ## Ecosystem
 
-LangChain is one of the open-source pillars of the LangChain platform. It points users to LangSmith for tracing, pairs naturally with LangGraph for durable orchestration and deployment, and shares the same docs site and agent-engineering narrative as the commercial LangSmith and Fleet products.
+LangChain is one of the open-source pillars of the [[langchain.com|LangChain]] platform. It points users to [[langchain.com-langsmith|LangSmith]] for tracing, pairs naturally with [[langchain.com-langgraph|LangGraph]] for durable orchestration and deployment, and shares the same docs site and agent-engineering narrative as the commercial LangSmith and [[langchain.com-fleet|Fleet]] products.

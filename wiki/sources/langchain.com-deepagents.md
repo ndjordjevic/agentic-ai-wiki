@@ -25,7 +25,7 @@ _All claims below are sourced from ../../raw/web/langchain.com.md unless otherwi
 
 ## What it does
 
-The Deep Agents SDK is a standalone library built on top of LangChain's core building blocks, using the LangGraph runtime for durable execution, streaming, and human-in-the-loop. It is the easiest way to start building agents with built-in capabilities for task planning, file systems for context management, subagent spawning, and long-term memory. The repo contains the Deep Agents SDK package, the Deep Agents CLI (a terminal coding agent), and an ACP integration for use in code editors like Zed.
+The Deep Agents SDK is a standalone library built on top of LangChain's core building blocks, using the [[langchain.com-langgraph|LangGraph]] runtime for durable execution, streaming, and human-in-the-loop. It is the easiest way to start building agents with built-in capabilities for task planning, file systems for context management, subagent spawning, and long-term memory. The repo contains the Deep Agents SDK package, the Deep Agents CLI (a terminal coding agent), and an ACP integration for use in code editors like Zed.
 
 The LangChain concepts page classifies it as an "agent harness" alongside Claude Agent SDK and Manus — distinct from frameworks (which provide abstractions and integrations) and runtimes (which provide durable execution infrastructure). Agent harnesses are for more autonomous agents and agents faced with complex, non-deterministic tasks.
 
@@ -43,7 +43,7 @@ The LangChain concepts page classifies it as an "agent harness" alongside Claude
 
 ## Architecture and concepts
 
-Deep Agents sits at the top of the LangChain open-source stack. The architecture is: LangChain (model/tool abstractions) → LangGraph (durable execution runtime) → Deep Agents SDK (harness layer with built-in tools, planning, and file system). Agents are created with `create_deep_agent(model=..., tools=[...], system_prompt=...)` and invoked with `agent.invoke({"messages": [...]})`.
+Deep Agents sits at the top of the [[langchain.com|LangChain]] open-source stack. The architecture is: [[langchain.com-langchain|LangChain]] (model/tool abstractions) → [[langchain.com-langgraph|LangGraph]] (durable execution runtime) → Deep Agents SDK (harness layer with built-in tools, planning, and file system). Agents are created with `create_deep_agent(model=..., tools=[...], system_prompt=...)` and invoked with `agent.invoke({"messages": [...]})`.
 
 When a deep agent runs, it automatically: plans its approach using `write_todos`; conducts tool calls using custom and built-in tools; manages context by writing large results to file system tools; spawns subagents as needed via the `task` tool; and synthesizes a final response. Built-in streaming via LangGraph allows real-time observation of tool calls, tool results, and LLM responses.
 
@@ -66,4 +66,4 @@ When a deep agent runs, it automatically: plans its approach using `write_todos`
 
 ## Ecosystem
 
-Deep Agents is tightly coupled to the LangChain platform. It builds on LangChain (abstractions) and LangGraph (runtime), integrates with LangSmith for tracing and debugging, and is positioned as the code-first counterpart to Fleet (the no-code agent surface). The companion repo at `https://github.com/langchain-ai/deepagents` contains the SDK, CLI, and examples.
+Deep Agents is tightly coupled to the [[langchain.com|LangChain]] platform. It builds on [[langchain.com-langchain|LangChain]] (abstractions) and [[langchain.com-langgraph|LangGraph]] (runtime), integrates with [[langchain.com-langsmith|LangSmith]] for tracing and debugging, and is positioned as the code-first counterpart to [[langchain.com-fleet|Fleet]] (the no-code agent surface). The companion repo at `https://github.com/langchain-ai/deepagents` contains the SDK, CLI, and examples.
