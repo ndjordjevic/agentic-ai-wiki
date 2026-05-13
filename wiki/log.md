@@ -10,6 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-13 | ingest | meetclaras.com | Claras — AI-powered YouTube transcript tool with AI Q&A, summaries, and agent export pipeline
+
+- Created: wiki/sources/meetclaras.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
+---
+
 ## 2026-05-13 | ingest | planana.xyz | Planana AI — personal AI tutor that converts learning goals into structured weekly study roadmaps (free, web)
 
 - Created: wiki/sources/planana.xyz.md
