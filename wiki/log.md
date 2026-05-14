@@ -10,6 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-13 | ingest | nidhinjs-prompt-master | Prompt Master — Claude skill for multi-tool prompt engineering (Markdown, 7,412 stars, MIT, v1.6.0)
+
+- Created: wiki/sources/nidhinjs-prompt-master.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+---
+
 ## 2026-05-13 | ingest | reseek.net | Reseek — cloud-hosted second brain with semantic search, AI chat, MCP Server, and REST API for multi-format knowledge capture
 
 - Created: wiki/sources/reseek.net.md

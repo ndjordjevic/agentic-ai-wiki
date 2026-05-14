@@ -34,5 +34,6 @@ created: 2026-04-28
 | [[planana.xyz]] | web | standard | 2026-05-13 | |
 | [[meetclaras.com]] | web | standard | 2026-05-13 | |
 | [[reseek.net]] | web | standard | 2026-05-13 | |
+| [[nidhinjs-prompt-master]] | github | standard | 2026-05-13 | |
 
-_22 sources ingested._
+_23 sources ingested._
