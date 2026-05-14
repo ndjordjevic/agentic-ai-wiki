@@ -10,6 +10,14 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-14 | ingest | 9d5bzxVsocw-anthropic-just-dropped-the-new-blueprint | Anthropic's blueprint for long-running AI agents — harness design, context anxiety, adversarial evaluation (planner + generator + evaluator)
+
+- Created: wiki/sources/9d5bzxVsocw-anthropic-just-dropped-the-new-blueprint.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/youtube/README.md, inbox.md
+- Raw: raw/youtube/9d5bzxVsocw-anthropic-just-dropped-the-new-blueprint.md
+
+---
+
 ## 2026-05-13 | ingest | nidhinjs-prompt-master | Prompt Master — Claude skill for multi-tool prompt engineering (Markdown, 7,412 stars, MIT, v1.6.0)
 
 - Created: wiki/sources/nidhinjs-prompt-master.md

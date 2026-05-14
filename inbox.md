@@ -17,6 +17,16 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
+- [ ] https://huggingface.co/ <!-- detail:deep -->
+- [ ] https://pytorch.org/
+- [ ] https://www.litellm.ai/
+- [ ] https://strandsagents.com/
+- [ ] https://crewai.com/
+- [ ] https://www.anthropic.com/engineering/harness-design-long-running-apps <!-- detail:deep -->
+- [ ] https://github.com/snarktank/ralph
+- [ ] https://openspec.dev/
+- [ ] https://github.com/github/spec-kit
+- [ ] https://github.com/bmad-code-org/BMAD-METHOD
 - [ ] https://openvibe.sh/
 - [ ] https://x.com/trq212/status/2052809885763747935?s=43&t=5l2OHSF10JbahgpENs1smw
 - [ ] https://factory.ai/
@@ -82,6 +92,8 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://x.com/trq212/status/2052809885763747935?s=43&t=5l2OHSF10JbahgpENs1smw
 - [ ] https://app.sauna.ai/
 - [ ] https://supabase.com/
+- [ ] https://github.com/google/adk-go
+- [ ] https://www.vellum.ai/
 
 ## Completed
 
@@ -92,6 +104,7 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 -->
 
 - [x] https://github.com/nidhinjs/prompt-master <!-- ingested 2026-05-13 -->
+- [x] https://youtu.be/9d5bzxVsocw?si=AWIw-sO-_-4pSzK1 <!-- ingested 2026-05-14 -->
 - [x] https://paperclip.ing <!-- ingested 2026-04-28 -->
 - [x] https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking <!-- detail:brief --> <!-- ingested 2026-04-28 -->
 - [x] https://www.langchain.com/ <!-- detail:deep --> <!-- ingested 2026-04-29 --> <!-- refreshed 2026-04-29 --> <!-- refreshed 2026-04-29 -->

@@ -2,11 +2,11 @@
 type: source
 source_url: https://x.com/mnilax/status/2053116311132155938?s=43&t=5l2OHSF10JbahgpENs1smw
 tags: [claude-md, behavioral-rules, agent-orchestration, claude-code, token-budgets, checkpointing, test-quality, coding-conventions]
-related: [forrestchang-andrej-karpathy-skills, anthropics-skills, shareai-lab-learn-claude-code]
+related: [forrestchang-andrej-karpathy-skills, anthropics-skills, shareai-lab-learn-claude-code, 9d5bzxVsocw-anthropic-just-dropped-the-new-blueprint]
 product: x
 detail_level: standard
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-05-14
 ---
 
 An X article by Mnimiy (@mnilax) reporting on 6 weeks of empirical testing of Andrej Karpathy's 4-rule CLAUDE.md template across 30 codebases, then extending it with 8 additional rules targeting the May 2026 Claude Code landscape — agent orchestration, token budgets, multi-step checkpointing, test intent, convention conformance, and loud failure signaling. The 12-rule template brings the mistake rate from 41% down to 3% while preserving ~76% compliance.

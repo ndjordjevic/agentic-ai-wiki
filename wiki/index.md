@@ -35,5 +35,6 @@ created: 2026-04-28
 | [[meetclaras.com]] | web | standard | 2026-05-13 | |
 | [[reseek.net]] | web | standard | 2026-05-13 | |
 | [[nidhinjs-prompt-master]] | github | standard | 2026-05-13 | |
+| [[9d5bzxVsocw-anthropic-just-dropped-the-new-blueprint]] | youtube | standard | 2026-05-14 | |
 
-_23 sources ingested._
+_24 sources ingested._
