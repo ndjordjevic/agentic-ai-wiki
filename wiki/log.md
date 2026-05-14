@@ -10,7 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
-## 2026-05-14 | ingest | 9d5bzxVsocw-anthropic-just-dropped-the-new-blueprint | Anthropic's blueprint for long-running AI agents — harness design, context anxiety, adversarial evaluation (planner + generator + evaluator)
+## 2026-05-14 | ingest | anthropic.com | multi-product (2 products): Messages API, Managed Agents — harness design for long-running apps, planner-generator-evaluator architecture
+
+- Created: wiki/sources/anthropic.com.md, wiki/sources/anthropic.com-messages.md, wiki/sources/anthropic.com-managed-agents.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
+---
+ | Anthropic's blueprint for long-running AI agents — harness design, context anxiety, adversarial evaluation (planner + generator + evaluator)
 
 - Created: wiki/sources/9d5bzxVsocw-anthropic-just-dropped-the-new-blueprint.md
 - Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/youtube/README.md, inbox.md

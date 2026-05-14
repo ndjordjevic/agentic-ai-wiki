@@ -2,7 +2,12 @@
 type: source
 source_url: https://youtu.be/9d5bzxVsocw
 tags: [harness-design, long-running-agents, adversarial-evaluation, context-anxiety, planner-generator-evaluator, context-compaction, claude-agent-sdk, multi-agent-architecture]
-related: [njbrake-agent-of-empires, langchain.com-langgraph, x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes]
+related:
+  - njbrake-agent-of-empires
+  - langchain.com-langgraph
+  - x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes
+  - anthropic.com
+  - anthropic.com-managed-agents
 product: harness-design
 detail_level: standard
 created: 2026-05-14

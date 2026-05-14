@@ -36,5 +36,8 @@ created: 2026-04-28
 | [[reseek.net]] | web | standard | 2026-05-13 | |
 | [[nidhinjs-prompt-master]] | github | standard | 2026-05-13 | |
 | [[9d5bzxVsocw-anthropic-just-dropped-the-new-blueprint]] | youtube | standard | 2026-05-14 | |
+| [[anthropic.com]] | web | deep | 2026-05-14 | |
+| [[anthropic.com-messages]] | web | deep | 2026-05-14 | |
+| [[anthropic.com-managed-agents]] | web | deep | 2026-05-14 | |
 
-_24 sources ingested._
+_27 sources ingested._

@@ -16,6 +16,8 @@ related:
   - x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes
   - forrestchang-andrej-karpathy-skills
   - nidhinjs-prompt-master
+  - anthropic.com
+  - anthropic.com-messages
 product: skills
 detail_level: standard
 created: 2026-05-11
