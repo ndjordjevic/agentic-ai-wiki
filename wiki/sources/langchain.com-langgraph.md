@@ -11,6 +11,7 @@ tags:
 related:
   - langchain.com-deepagents
   - 9d5bzxVsocw-anthropic-just-dropped-the-new-blueprint
+  - gsd-build-get-shit-done
 product: langgraph
 detail_level: deep
 created: 2026-04-29

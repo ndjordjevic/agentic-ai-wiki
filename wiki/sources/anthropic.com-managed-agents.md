@@ -16,6 +16,7 @@ related:
   - langchain.com-langgraph
   - njbrake-agent-of-empires
   - shareai-lab-learn-claude-code
+  - gsd-build-get-shit-done
 product: managed-agents
 detail_level: deep
 created: 2026-05-14

@@ -2,11 +2,11 @@
 type: source
 source_url: https://github.com/nidhinjs/prompt-master
 tags: [prompt-engineering, claude-skill, skill-md, multi-tool-routing, token-efficiency, agentic-ai, prompt-templates, intent-extraction]
-related: [anthropics-skills, skills.sh, forrestchang-andrej-karpathy-skills]
+related: [anthropics-skills, skills.sh, forrestchang-andrej-karpathy-skills, obra-superpowers]
 product: prompt-master
 detail_level: standard
 created: 2026-05-13
-updated: 2026-05-13
+updated: 2026-05-14
 ---
 
 Prompt Master is a Claude skill (SKILL.md-based, v1.6.0, 7,412 stars, MIT) that acts as an on-demand prompt engineer: it intercepts a user's rough idea, identifies the target AI tool, silently extracts nine dimensions of intent, routes to one of 12 prompt architectures, audits for token waste, and delivers a single production-ready prompt. It covers 30+ tool profiles spanning reasoning LLMs, coding agents, image generators, video AI, voice AI, and workflow automation, making it the broadest multi-tool prompt-engineering skill in the Claude ecosystem to date.

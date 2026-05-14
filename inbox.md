@@ -17,7 +17,9 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
-- [ ] https://huggingface.co/ <!-- detail:deep -->
+- [ ] https://github.com/gastownhall/beads
+- [ ] https://github.com/coleam00/archon
+- [ ] https://huggingface.co/
 - [ ] https://pytorch.org/
 - [ ] https://www.litellm.ai/
 - [ ] https://strandsagents.com/
@@ -70,8 +72,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://happy.engineering/
 - [ ] https://github.com/coleam00/claude-memory-compiler
 - [ ] https://github.com/hilash/cabinet
-- [ ] https://github.com/gsd-build/get-shit-done
-- [ ] https://github.com/obra/superpowers
 - [ ] https://github.com/paperclipai/paperclip
 - [ ] https://github.com/microsoft/playwright-mcp
 - [ ] https://github.com/ruvnet/ruflo
@@ -104,6 +104,8 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 -->
 
 - [x] https://github.com/nidhinjs/prompt-master <!-- ingested 2026-05-13 -->
+- [x] https://github.com/gsd-build/get-shit-done <!-- ingested 2026-05-14 -->
+- [x] https://github.com/obra/superpowers <!-- ingested 2026-05-14 -->
 - [x] https://youtu.be/9d5bzxVsocw?si=AWIw-sO-_-4pSzK1 <!-- ingested 2026-05-14 -->
 - [x] https://www.anthropic.com/engineering/harness-design-long-running-apps <!-- detail:deep --> <!-- ingested 2026-05-14 -->
 - [x] https://paperclip.ing <!-- ingested 2026-04-28 -->

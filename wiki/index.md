@@ -39,5 +39,7 @@ created: 2026-04-28
 | [[anthropic.com]] | web | deep | 2026-05-14 | |
 | [[anthropic.com-messages]] | web | deep | 2026-05-14 | |
 | [[anthropic.com-managed-agents]] | web | deep | 2026-05-14 | |
+| [[gsd-build-get-shit-done]] | github | standard | 2026-05-14 | |
+| [[obra-superpowers]] | github | standard | 2026-05-14 | |
 
-_27 sources ingested._
+_29 sources ingested._

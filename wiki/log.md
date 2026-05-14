@@ -10,6 +10,20 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-14 | ingest | obra-superpowers | Superpowers — complete agentic skills methodology (190,063 stars, MIT, v5.1.0, 14 auto-triggering skills)
+
+- Created: wiki/sources/obra-superpowers.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+---
+
+## 2026-05-14 | ingest | gsd-build-get-shit-done | GSD — meta-prompting context engineering system for Claude Code (62,040 stars, MIT, v1.42.0-rc4)
+
+- Created: wiki/sources/gsd-build-get-shit-done.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+---
+
 ## 2026-05-14 | ingest | anthropic.com | multi-product (2 products): Messages API, Managed Agents — harness design for long-running apps, planner-generator-evaluator architecture
 
 - Created: wiki/sources/anthropic.com.md, wiki/sources/anthropic.com-messages.md, wiki/sources/anthropic.com-managed-agents.md

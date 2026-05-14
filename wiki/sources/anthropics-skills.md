@@ -18,6 +18,7 @@ related:
   - nidhinjs-prompt-master
   - anthropic.com
   - anthropic.com-messages
+  - obra-superpowers
 product: skills
 detail_level: standard
 created: 2026-05-11

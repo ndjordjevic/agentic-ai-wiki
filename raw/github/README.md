@@ -17,3 +17,5 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/forrestchang-andrej-karpathy-skills.md | forrestchang/andrej-karpathy-skills | 124694 | main | none | 2026-05-11 | |
 | raw/github/6eanut-llm-wiki.md | 6eanut/llm-wiki | 35 | main | none | 2026-05-13 | |
 | raw/github/nidhinjs-prompt-master.md | nidhinjs/prompt-master | 7412 | main | none | 2026-05-13 | |
+| raw/github/gsd-build-get-shit-done.md | gsd-build/get-shit-done | 62040 | main | v1.42.0-rc4 | 2026-05-14 | |
+| raw/github/obra-superpowers.md | obra/superpowers | 190063 | main | v5.1.0 | 2026-05-14 | |
