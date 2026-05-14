@@ -17,6 +17,7 @@ related:
   - njbrake-agent-of-empires
   - shareai-lab-learn-claude-code
   - gsd-build-get-shit-done
+  - coleam00-archon
 product: managed-agents
 detail_level: deep
 created: 2026-05-14

@@ -18,7 +18,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 -->
 
 - [ ] https://github.com/gastownhall/beads
-- [ ] https://github.com/coleam00/archon
 - [ ] https://huggingface.co/
 - [ ] https://pytorch.org/
 - [ ] https://www.litellm.ai/
@@ -94,6 +93,8 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://github.com/google/adk-go
 - [ ] https://www.vellum.ai/
 - [ ] https://github.com/ollama/ollama
+- [ ] https://vercel.com
+- [ ] https://render.com/
 
 ## Completed
 
@@ -125,3 +126,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://planana.xyz/ <!-- ingested 2026-05-13 -->
 - [x] https://www.meetclaras.com/ <!-- ingested 2026-05-13 -->
 - [x] https://reseek.net/ <!-- ingested 2026-05-13 -->
+- [x] https://github.com/coleam00/archon <!-- ingested 2026-05-14 -->

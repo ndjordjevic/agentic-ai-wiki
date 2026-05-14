@@ -16,6 +16,7 @@ related:
   - anthropic.com-managed-agents
   - langchain.com-langgraph
   - forrestchang-andrej-karpathy-skills
+  - coleam00-archon
 product: gsd
 detail_level: standard
 created: 2026-05-14

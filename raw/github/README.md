@@ -19,3 +19,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/nidhinjs-prompt-master.md | nidhinjs/prompt-master | 7412 | main | none | 2026-05-13 | |
 | raw/github/gsd-build-get-shit-done.md | gsd-build/get-shit-done | 62040 | main | v1.42.0-rc4 | 2026-05-14 | |
 | raw/github/obra-superpowers.md | obra/superpowers | 190063 | main | v5.1.0 | 2026-05-14 | |
+| raw/github/coleam00-archon.md | coleam00/Archon | 21422 | dev | v0.3.11 | 2026-05-14 | |

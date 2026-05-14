@@ -41,5 +41,6 @@ created: 2026-04-28
 | [[anthropic.com-managed-agents]] | web | deep | 2026-05-14 | |
 | [[gsd-build-get-shit-done]] | github | standard | 2026-05-14 | |
 | [[obra-superpowers]] | github | standard | 2026-05-14 | |
+| [[coleam00-archon]] | github | standard | 2026-05-14 | |
 
-_29 sources ingested._
+_30 sources ingested._

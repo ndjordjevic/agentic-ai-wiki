@@ -16,6 +16,7 @@ related:
   - skills.sh
   - shareai-lab-learn-claude-code
   - forrestchang-andrej-karpathy-skills
+  - coleam00-archon
 product: superpowers
 detail_level: standard
 created: 2026-05-14

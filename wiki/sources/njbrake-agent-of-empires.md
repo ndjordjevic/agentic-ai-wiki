@@ -16,6 +16,7 @@ related:
   - 9d5bzxVsocw-anthropic-just-dropped-the-new-blueprint
   - tmuxai.dev
   - shareai-lab-learn-claude-code
+  - coleam00-archon
 product: agent-of-empires
 detail_level: standard
 created: 2026-05-02

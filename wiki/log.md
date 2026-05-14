@@ -10,6 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-14 | ingest | coleam00-archon | Archon — open-source YAML workflow engine and harness builder for AI coding (21,422 stars, MIT, v0.3.11)
+
+- Created: wiki/sources/coleam00-archon.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+---
+
 ## 2026-05-14 | ingest | obra-superpowers | Superpowers — complete agentic skills methodology (190,063 stars, MIT, v5.1.0, 14 auto-triggering skills)
 
 - Created: wiki/sources/obra-superpowers.md
