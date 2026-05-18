@@ -10,6 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-18 | ingest | gastownhall-beads | Beads — distributed graph issue tracker and persistent memory upgrade for AI coding agents (23,795 stars, MIT, v1.0.4)
+
+- Created: wiki/sources/gastownhall-beads.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+---
+
 ## 2026-05-14 | ingest | coleam00-archon | Archon — open-source YAML workflow engine and harness builder for AI coding (21,422 stars, MIT, v0.3.11)
 
 - Created: wiki/sources/coleam00-archon.md

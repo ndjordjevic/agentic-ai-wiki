@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox.md",
+                "file": "wiki/sources/gastownhall-beads.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "inbox"
+              "title": "gastownhall-beads"
             }
           }
         ]
@@ -185,18 +185,22 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/overview.md",
+    "wiki/log.md",
+    "wiki/sources/gastownhall-beads.md",
+    "raw/github/gastownhall-beads.md",
+    "wiki/sources/anthropics-skills.md",
+    "wiki/index.md",
+    "wiki/sources/anthropic.com.md",
+    "inbox.md",
     "wiki/sources/coleam00-archon.md",
     "raw/github/coleam00-archon.md",
-    "wiki/index.md",
-    "wiki/overview.md",
     "wiki/sources/gsd-build-get-shit-done.md",
     "wiki/sources/anthropic.com-managed-agents.md",
     "wiki/sources/obra-superpowers.md",
     "raw/github/obra-superpowers.md",
     "raw/github/gsd-build-get-shit-done.md",
-    "wiki/log.md",
     "wiki/sources/anthropic.com-messages.md",
-    "wiki/sources/anthropic.com.md",
     "raw/web/anthropic.com.md",
     "wiki/sources/9d5bzxVsocw-anthropic-just-dropped-the-new-blueprint.md",
     "wiki/sources/nidhinjs-prompt-master.md",
@@ -207,10 +211,6 @@
     "raw/web/reseek.net.md",
     "wiki/sources/planana.xyz.md",
     "raw/web/meetclaras.com.md",
-    "raw/web/planana.xyz.md",
-    "raw/github/README.md",
-    "wiki/sources/6eanut-llm-wiki.md",
-    "raw/github/6eanut-llm-wiki.md",
     "skills-lock.json",
     "skills"
   ]

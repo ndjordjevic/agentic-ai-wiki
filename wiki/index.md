@@ -42,5 +42,6 @@ created: 2026-04-28
 | [[gsd-build-get-shit-done]] | github | standard | 2026-05-14 | |
 | [[obra-superpowers]] | github | standard | 2026-05-14 | |
 | [[coleam00-archon]] | github | standard | 2026-05-14 | |
+| [[gastownhall-beads]] | github | standard | 2026-05-18 | |
 
-_30 sources ingested._
+_31 sources ingested._
