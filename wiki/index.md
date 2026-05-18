@@ -44,5 +44,6 @@ created: 2026-04-28
 | [[coleam00-archon]] | github | standard | 2026-05-14 | |
 | [[gastownhall-beads]] | github | standard | 2026-05-18 | |
 | [[huggingface.co]] | web | standard | 2026-05-18 | |
+| [[pytorch.org]] | web | standard | 2026-05-18 | |
 
-_32 sources ingested._
+_33 sources ingested._

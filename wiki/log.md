@@ -10,6 +10,14 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-18 | ingest | pytorch.org | PyTorch — dominant open-source deep learning framework (~100k stars, v2.12.0, tensor computation + autograd)
+
+- Created: wiki/sources/pytorch.org.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/pytorch-pytorch.md
+
+---
+
 ## 2026-05-18 | ingest | huggingface.co | Hugging Face — open-source AI platform for model collaboration (2M+ models, smolagents, Transformers, TRL, PEFT, Diffusers)
 
 - Created: wiki/sources/huggingface.co.md

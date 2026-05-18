@@ -12,6 +12,7 @@ tags:
   - diffusers
 related:
   - langchain.com
+  - pytorch.org
 product: huggingface
 detail_level: standard
 created: 2026-05-18

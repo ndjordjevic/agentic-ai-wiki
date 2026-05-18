@@ -21,3 +21,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/obra-superpowers.md | obra/superpowers | 190063 | main | v5.1.0 | 2026-05-14 | |
 | raw/github/coleam00-archon.md | coleam00/Archon | 21422 | dev | v0.3.11 | 2026-05-14 | |
 | raw/github/gastownhall-beads.md | gastownhall/beads | 23795 | main | v1.0.4 | 2026-05-18 | |
+| raw/github/pytorch-pytorch.md | pytorch/pytorch | 99982 | main | v2.12.0 | 2026-05-18 | |
