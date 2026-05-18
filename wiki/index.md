@@ -46,5 +46,6 @@ created: 2026-04-28
 | [[huggingface.co]] | web | standard | 2026-05-18 | |
 | [[pytorch.org]] | web | standard | 2026-05-18 | |
 | [[litellm.ai]] | web | standard | 2026-05-18 | |
+| [[openrouter.ai]] | web | standard | 2026-05-18 | |
 
-_34 sources ingested._
+_35 sources ingested._

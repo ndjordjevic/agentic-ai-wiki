@@ -185,6 +185,8 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/sources/openrouter.ai.md",
+    "raw/web/openrouter.ai.md",
     "wiki/sources/litellm.ai.md",
     "raw/github/BerriAI-litellm.md",
     "raw/web/litellm.ai.md",
@@ -209,8 +211,6 @@
     "raw/github/obra-superpowers.md",
     "raw/github/gsd-build-get-shit-done.md",
     "wiki/sources/anthropic.com-messages.md",
-    "raw/web/anthropic.com.md",
-    "wiki/sources/9d5bzxVsocw-anthropic-just-dropped-the-new-blueprint.md",
     "skills-lock.json",
     "skills"
   ]

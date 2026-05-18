@@ -10,6 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-18 | ingest | openrouter.ai | OpenRouter — unified API gateway for 400+ AI models from 60+ providers with OpenAI-compatible endpoint, intelligent routing, Agent SDK, and enterprise data controls
+
+- Created: wiki/sources/openrouter.ai.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
+---
+
 ## 2026-05-18 | ingest | litellm.ai | LiteLLM — open-source AI Gateway for 100+ LLMs with unified OpenAI-format API, proxy server, spend tracking, load balancing, and guardrails (47k stars, Y Combinator W23)
 
 - Created: wiki/sources/litellm.ai.md

@@ -18,6 +18,7 @@ tags:
 related:
   - langchain.com
   - huggingface.co
+  - openrouter.ai
 product: litellm
 detail_level: standard
 created: 2026-05-18

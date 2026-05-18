@@ -17,7 +17,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
-- [ ] https://openrouter.ai/
 - [ ] https://strandsagents.com/
 - [ ] https://crewai.com/
 - [ ] https://github.com/snarktank/ralph
@@ -130,3 +129,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://huggingface.co/ <!-- ingested 2026-05-18 -->
 - [x] https://pytorch.org/ <!-- ingested 2026-05-18 -->
 - [x] https://www.litellm.ai/ <!-- ingested 2026-05-18 -->
+- [x] https://openrouter.ai/ <!-- ingested 2026-05-18 -->
