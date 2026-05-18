@@ -185,6 +185,8 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/sources/huggingface.co.md",
+    "raw/web/huggingface.co.md",
     "wiki/overview.md",
     "wiki/log.md",
     "wiki/sources/gastownhall-beads.md",
@@ -209,8 +211,6 @@
     "raw/github/nidhinjs-prompt-master.md",
     "wiki/sources/meetclaras.com.md",
     "raw/web/reseek.net.md",
-    "wiki/sources/planana.xyz.md",
-    "raw/web/meetclaras.com.md",
     "skills-lock.json",
     "skills"
   ]

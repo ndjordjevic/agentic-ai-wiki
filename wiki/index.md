@@ -43,5 +43,6 @@ created: 2026-04-28
 | [[obra-superpowers]] | github | standard | 2026-05-14 | |
 | [[coleam00-archon]] | github | standard | 2026-05-14 | |
 | [[gastownhall-beads]] | github | standard | 2026-05-18 | |
+| [[huggingface.co]] | web | standard | 2026-05-18 | |
 
-_31 sources ingested._
+_32 sources ingested._

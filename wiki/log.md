@@ -10,6 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-18 | ingest | huggingface.co | Hugging Face — open-source AI platform for model collaboration (2M+ models, smolagents, Transformers, TRL, PEFT, Diffusers)
+
+- Created: wiki/sources/huggingface.co.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
+---
+
 ## 2026-05-18 | ingest | gastownhall-beads | Beads — distributed graph issue tracker and persistent memory upgrade for AI coding agents (23,795 stars, MIT, v1.0.4)
 
 - Created: wiki/sources/gastownhall-beads.md
