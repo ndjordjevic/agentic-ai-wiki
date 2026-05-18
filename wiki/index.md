@@ -45,5 +45,6 @@ created: 2026-04-28
 | [[gastownhall-beads]] | github | standard | 2026-05-18 | |
 | [[huggingface.co]] | web | standard | 2026-05-18 | |
 | [[pytorch.org]] | web | standard | 2026-05-18 | |
+| [[litellm.ai]] | web | standard | 2026-05-18 | |
 
-_33 sources ingested._
+_34 sources ingested._
