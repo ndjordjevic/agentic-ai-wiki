@@ -32,7 +32,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://focusee.imobie.com/
 - [ ] https://wisprflow.ai/
 - [ ] https://github.com/VoltAgent/awesome-agent-skills
-- [ ] https://github.com/zilliztech/claude-context
 - [ ] https://pi.dev/
 - [ ] https://brave.com/search/api/
 - [ ] https://resend.com/
@@ -93,6 +92,7 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://render.com/
 - [ ] https://streamlit.io/
 - [ ] https://github.com/backnotprop/plannotator
+- [ ] https://claudemarketplaces.com/
 
 ## Completed
 
@@ -130,3 +130,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://pytorch.org/ <!-- ingested 2026-05-18 -->
 - [x] https://www.litellm.ai/ <!-- ingested 2026-05-18 -->
 - [x] https://openrouter.ai/ <!-- ingested 2026-05-18 -->
+- [x] https://github.com/zilliztech/claude-context <!-- ingested 2026-05-19 -->

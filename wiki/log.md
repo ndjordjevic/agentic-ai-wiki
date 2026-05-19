@@ -10,6 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-19 | ingest | zilliztech-claude-context | Claude Context — MCP plugin for semantic code search over entire codebases via Milvus vector database (11,432 stars, MIT, TypeScript)
+
+- Created: wiki/sources/zilliztech-claude-context.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+---
+
 ## 2026-05-18 | ingest | openrouter.ai | OpenRouter — unified API gateway for 400+ AI models from 60+ providers with OpenAI-compatible endpoint, intelligent routing, Agent SDK, and enterprise data controls
 
 - Created: wiki/sources/openrouter.ai.md

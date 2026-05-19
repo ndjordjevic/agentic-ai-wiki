@@ -47,5 +47,6 @@ created: 2026-04-28
 | [[pytorch.org]] | web | standard | 2026-05-18 | |
 | [[litellm.ai]] | web | standard | 2026-05-18 | |
 | [[openrouter.ai]] | web | standard | 2026-05-18 | |
+| [[zilliztech-claude-context]] | github | standard | 2026-05-19 | |
 
-_35 sources ingested._
+_36 sources ingested._
