@@ -18,6 +18,7 @@ tags:
 related:
   - github-spec-kit
   - gsd-build-get-shit-done
+  - traycer.ai
 product: openspec
 detail_level: standard
 created: 2026-05-19

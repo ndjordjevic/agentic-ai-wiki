@@ -10,6 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-19 | ingest | traycer.ai | Traycer — Spec-Driven Development planning and orchestration layer for AI coding agents with Plan/Phases/Review/Epic modes and YOLO automation (100K+ users)
+
+- Created: wiki/sources/traycer.ai.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
+---
+
 ## 2026-05-19 | ingest | openspec.dev | OpenSpec — lightweight spec-driven development framework for 25+ AI coding agents, brownfield-first, no API keys required (49k stars, MIT, TypeScript, v1.3.1)
 
 - Created: wiki/sources/openspec.dev.md

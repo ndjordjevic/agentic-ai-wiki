@@ -185,6 +185,10 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/sources/traycer.ai.md",
+    "raw/web/traycer.ai.md",
+    "wiki/log.md",
+    "wiki/overview.md",
     "wiki/sources/openspec.dev.md",
     "raw/github/fission-ai-openspec.md",
     "raw/web/openspec.dev.md",
@@ -194,7 +198,6 @@
     "raw/github/zilliztech-claude-context.md",
     "excalidraw.log",
     "wiki/sources/gastownhall-beads.md",
-    "wiki/overview.md",
     "wiki/sources/obra-superpowers.md",
     "wiki/sources/gsd-build-get-shit-done.md",
     "wiki/sources/anthropic.com-messages.md",
@@ -209,9 +212,6 @@
     "wiki/sources/litellm.ai.md",
     "raw/github/BerriAI-litellm.md",
     "raw/web/litellm.ai.md",
-    "wiki/sources/pytorch.org.md",
-    "raw/web/pytorch.org.md",
-    "raw/github/pytorch-pytorch.md",
     "skills-lock.json",
     "skills"
   ]

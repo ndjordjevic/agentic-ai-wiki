@@ -60,7 +60,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://vibekanban.com/
 - [ ] https://stitch.withgoogle.com/
 - [ ] https://deepwiki.com/
-- [ ] https://traycer.ai/
 - [ ] https://happy.engineering/
 - [ ] https://github.com/coleam00/claude-memory-compiler
 - [ ] https://github.com/hilash/cabinet
@@ -131,3 +130,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/zilliztech/claude-context <!-- ingested 2026-05-19 -->
 - [x] https://github.com/github/spec-kit <!-- ingested 2026-05-19 -->
 - [x] https://openspec.dev/ <!-- ingested 2026-05-19 -->
+- [x] https://traycer.ai/ <!-- ingested 2026-05-19 -->
