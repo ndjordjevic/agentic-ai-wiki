@@ -24,3 +24,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/pytorch-pytorch.md | pytorch/pytorch | 99982 | main | v2.12.0 | 2026-05-18 | |
 | raw/github/BerriAI-litellm.md | BerriAI/litellm | 47411 | litellm_internal_staging | v1.86.0-rc.1 | 2026-05-18 | |
 | raw/github/zilliztech-claude-context.md | zilliztech/claude-context | 11432 | master | none | 2026-05-19 | |
+| raw/github/github-spec-kit.md | github/spec-kit | 102408 | main | v0.8.11 | 2026-05-19 | |

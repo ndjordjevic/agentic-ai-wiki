@@ -14,6 +14,7 @@ related:
   - gsd-build-get-shit-done
   - anthropics-skills
   - skills.sh
+  - github-spec-kit
   - shareai-lab-learn-claude-code
   - forrestchang-andrej-karpathy-skills
   - coleam00-archon

@@ -21,6 +21,7 @@ related:
   - anthropics-skills
   - nidhinjs-prompt-master
   - obra-superpowers
+  - github-spec-kit
 product: skills
 detail_level: standard
 created: 2026-04-30

@@ -10,6 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-19 | ingest | github-spec-kit | Spec Kit — GitHub's open-source toolkit for Spec-Driven Development with 30+ AI coding agent integrations and staged slash-command workflow (102k stars, MIT, Python, v0.8.11)
+
+- Created: wiki/sources/github-spec-kit.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+---
+
 ## 2026-05-19 | ingest | zilliztech-claude-context | Claude Context — MCP plugin for semantic code search over entire codebases via Milvus vector database (11,432 stars, MIT, TypeScript)
 
 - Created: wiki/sources/zilliztech-claude-context.md

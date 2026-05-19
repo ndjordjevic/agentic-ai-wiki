@@ -14,6 +14,7 @@ related:
   - obra-superpowers
   - shareai-lab-learn-claude-code
   - anthropic.com-managed-agents
+  - github-spec-kit
   - langchain.com-langgraph
   - forrestchang-andrej-karpathy-skills
   - coleam00-archon

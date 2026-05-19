@@ -14,6 +14,7 @@ related:
   - skills.sh
   - shareai-lab-learn-claude-code
   - x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes
+  - github-spec-kit
   - forrestchang-andrej-karpathy-skills
   - nidhinjs-prompt-master
   - anthropic.com

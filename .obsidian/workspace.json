@@ -185,6 +185,8 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/sources/github-spec-kit.md",
+    "raw/github/github-spec-kit.md",
     "wiki/sources/zilliztech-claude-context.md",
     "raw/github/zilliztech-claude-context.md",
     "excalidraw.log",
@@ -210,8 +212,6 @@
     "wiki/sources/huggingface.co.md",
     "raw/web/huggingface.co.md",
     "wiki/log.md",
-    "raw/github/gastownhall-beads.md",
-    "wiki/index.md",
     "skills-lock.json",
     "skills"
   ]

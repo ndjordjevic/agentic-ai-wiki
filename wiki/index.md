@@ -48,5 +48,6 @@ created: 2026-04-28
 | [[litellm.ai]] | web | standard | 2026-05-18 | |
 | [[openrouter.ai]] | web | standard | 2026-05-18 | |
 | [[zilliztech-claude-context]] | github | standard | 2026-05-19 | |
+| [[github-spec-kit]] | github | standard | 2026-05-19 | |
 
-_36 sources ingested._
+_37 sources ingested._
