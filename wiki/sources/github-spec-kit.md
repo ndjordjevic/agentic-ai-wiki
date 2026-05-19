@@ -14,6 +14,7 @@ related:
   - anthropics-skills
   - obra-superpowers
   - skills.sh
+  - openspec.dev
 product: spec-kit
 detail_level: standard
 created: 2026-05-19

@@ -49,5 +49,6 @@ created: 2026-04-28
 | [[openrouter.ai]] | web | standard | 2026-05-18 | |
 | [[zilliztech-claude-context]] | github | standard | 2026-05-19 | |
 | [[github-spec-kit]] | github | standard | 2026-05-19 | |
+| [[openspec.dev]] | web | standard | 2026-05-19 | |
 
-_37 sources ingested._
+_38 sources ingested._

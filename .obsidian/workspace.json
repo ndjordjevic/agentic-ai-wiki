@@ -185,6 +185,9 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/sources/openspec.dev.md",
+    "raw/github/fission-ai-openspec.md",
+    "raw/web/openspec.dev.md",
     "wiki/sources/github-spec-kit.md",
     "raw/github/github-spec-kit.md",
     "wiki/sources/zilliztech-claude-context.md",
@@ -209,9 +212,6 @@
     "wiki/sources/pytorch.org.md",
     "raw/web/pytorch.org.md",
     "raw/github/pytorch-pytorch.md",
-    "wiki/sources/huggingface.co.md",
-    "raw/web/huggingface.co.md",
-    "wiki/log.md",
     "skills-lock.json",
     "skills"
   ]

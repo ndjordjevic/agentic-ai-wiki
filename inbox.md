@@ -20,7 +20,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://strandsagents.com/
 - [ ] https://crewai.com/
 - [ ] https://github.com/snarktank/ralph
-- [ ] https://openspec.dev/
 - [ ] https://github.com/bmad-code-org/BMAD-METHOD
 - [ ] https://openvibe.sh/
 - [ ] https://x.com/trq212/status/2052809885763747935?s=43&t=5l2OHSF10JbahgpENs1smw
@@ -131,3 +130,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://openrouter.ai/ <!-- ingested 2026-05-18 -->
 - [x] https://github.com/zilliztech/claude-context <!-- ingested 2026-05-19 -->
 - [x] https://github.com/github/spec-kit <!-- ingested 2026-05-19 -->
+- [x] https://openspec.dev/ <!-- ingested 2026-05-19 -->
