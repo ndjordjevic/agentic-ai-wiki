@@ -185,6 +185,8 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "raw/github/snarktank-ralph.md",
+    "wiki/sources/snarktank-ralph.md",
     "wiki/sources/traycer.ai.md",
     "raw/web/traycer.ai.md",
     "wiki/log.md",
@@ -210,8 +212,6 @@
     "wiki/sources/openrouter.ai.md",
     "raw/web/openrouter.ai.md",
     "wiki/sources/litellm.ai.md",
-    "raw/github/BerriAI-litellm.md",
-    "raw/web/litellm.ai.md",
     "skills-lock.json",
     "skills"
   ]

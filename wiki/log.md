@@ -10,6 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-20 | ingest | snarktank-ralph | Ralph — autonomous AI agent loop running Amp or Claude Code iteratively against a prd.json task list until all stories pass (19,297 stars, MIT, TypeScript)
+
+- Created: wiki/sources/snarktank-ralph.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+---
+
 ## 2026-05-19 | ingest | traycer.ai | Traycer — Spec-Driven Development planning and orchestration layer for AI coding agents with Plan/Phases/Review/Epic modes and YOLO automation (100K+ users)
 
 - Created: wiki/sources/traycer.ai.md

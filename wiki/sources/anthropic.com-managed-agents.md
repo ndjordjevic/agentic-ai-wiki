@@ -18,10 +18,11 @@ related:
   - shareai-lab-learn-claude-code
   - gsd-build-get-shit-done
   - coleam00-archon
+  - snarktank-ralph
 product: managed-agents
 detail_level: deep
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-05-20
 ---
 
 Claude Managed Agents is Anthropic's fully managed agentic infrastructure: a pre-built harness with secure cloud containers, built-in context compaction, server-side session persistence, and multi-agent orchestration, so developers configure agent behavior rather than build and operate the execution layer. The primary source for this page is Anthropic's engineering article on harness design for long-running apps, which documents Anthropic's own experiments building complex harnesses on top of this infrastructure.

@@ -51,5 +51,6 @@ created: 2026-04-28
 | [[github-spec-kit]] | github | standard | 2026-05-19 | |
 | [[openspec.dev]] | web | standard | 2026-05-19 | |
 | [[traycer.ai]] | web | standard | 2026-05-19 | |
+| [[snarktank-ralph]] | github | standard | 2026-05-20 | |
 
-_39 sources ingested._
+_40 sources ingested._

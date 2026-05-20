@@ -19,7 +19,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 
 - [ ] https://strandsagents.com/
 - [ ] https://crewai.com/
-- [ ] https://github.com/snarktank/ralph
 - [ ] https://github.com/bmad-code-org/BMAD-METHOD
 - [ ] https://openvibe.sh/
 - [ ] https://x.com/trq212/status/2052809885763747935?s=43&t=5l2OHSF10JbahgpENs1smw
@@ -99,6 +98,7 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
      The refresh tag is removed automatically after re-fetch.
 -->
 
+- [x] https://github.com/snarktank/ralph <!-- ingested 2026-05-20 -->
 - [x] https://github.com/nidhinjs/prompt-master <!-- ingested 2026-05-13 -->
 - [x] https://github.com/gsd-build/get-shit-done <!-- ingested 2026-05-14 -->
 - [x] https://github.com/obra/superpowers <!-- ingested 2026-05-14 -->
