@@ -185,6 +185,8 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/sources/browse.sh.md",
+    "raw/web/browse.sh.md",
     "raw/github/snarktank-ralph.md",
     "wiki/sources/snarktank-ralph.md",
     "wiki/sources/traycer.ai.md",
@@ -210,8 +212,6 @@
     "wiki/sources/modelcontextprotocol-servers-tree-main-src-sequentialthinking.md",
     "wiki/sources/anthropics-skills.md",
     "wiki/sources/openrouter.ai.md",
-    "raw/web/openrouter.ai.md",
-    "wiki/sources/litellm.ai.md",
     "skills-lock.json",
     "skills"
   ]

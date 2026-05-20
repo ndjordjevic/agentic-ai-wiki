@@ -89,6 +89,7 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://streamlit.io/
 - [ ] https://github.com/backnotprop/plannotator
 - [ ] https://claudemarketplaces.com/
+- [ ] https://designmd.cc/    
 
 ## Completed
 
@@ -131,3 +132,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/github/spec-kit <!-- ingested 2026-05-19 -->
 - [x] https://openspec.dev/ <!-- ingested 2026-05-19 -->
 - [x] https://traycer.ai/ <!-- ingested 2026-05-19 -->
+- [x] https://browse.sh/ <!-- ingested 2026-05-20 -->

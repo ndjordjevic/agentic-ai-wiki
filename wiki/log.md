@@ -10,6 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-20 | ingest | browse.sh | browse.sh — open web skill catalog and browser CLI for AI agents by Browserbase; 200+ site-specific skills with API shortcuts cutting token costs 50×
+
+- Created: wiki/sources/browse.sh.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
+---
+
 ## 2026-05-20 | ingest | snarktank-ralph | Ralph — autonomous AI agent loop running Amp or Claude Code iteratively against a prd.json task list until all stories pass (19,297 stars, MIT, TypeScript)
 
 - Created: wiki/sources/snarktank-ralph.md

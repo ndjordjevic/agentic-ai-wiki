@@ -52,5 +52,6 @@ created: 2026-04-28
 | [[openspec.dev]] | web | standard | 2026-05-19 | |
 | [[traycer.ai]] | web | standard | 2026-05-19 | |
 | [[snarktank-ralph]] | github | standard | 2026-05-20 | |
+| [[browse.sh]] | web | standard | 2026-05-20 | |
 
-_40 sources ingested._
+_41 sources ingested._
