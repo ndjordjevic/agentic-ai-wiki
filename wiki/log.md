@@ -10,6 +10,14 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-21 | ingest | strandsagents.com | Strands Agents — open-source AWS model-driven agent harness SDK (Python + TypeScript) with hooks, steering, multi-agent patterns (Graph/Swarm/Workflow), and 10+ model providers (5,910 stars, Apache 2.0, v1.40.0)
+
+- Created: wiki/sources/strandsagents.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/strands-agents-sdk-python.md
+
+---
+
 ## 2026-05-20 | ingest | browse.sh | browse.sh — open web skill catalog and browser CLI for AI agents by Browserbase; 200+ site-specific skills with API shortcuts cutting token costs 50×
 
 - Created: wiki/sources/browse.sh.md

@@ -53,5 +53,6 @@ created: 2026-04-28
 | [[traycer.ai]] | web | standard | 2026-05-19 | |
 | [[snarktank-ralph]] | github | standard | 2026-05-20 | |
 | [[browse.sh]] | web | standard | 2026-05-20 | |
+| [[strandsagents.com]] | web | standard | 2026-05-21 | |
 
-_41 sources ingested._
+_42 sources ingested._

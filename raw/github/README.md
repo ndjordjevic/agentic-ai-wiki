@@ -27,3 +27,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/github-spec-kit.md | github/spec-kit | 102408 | main | v0.8.11 | 2026-05-19 | |
 | raw/github/fission-ai-openspec.md | Fission-AI/OpenSpec | 49025 | main | v1.3.1 | 2026-05-19 | |
 | raw/github/snarktank-ralph.md | snarktank/ralph | 19297 | main | none | 2026-05-20 | |
+| raw/github/strands-agents-sdk-python.md | strands-agents/sdk-python | 5910 | main | v1.40.0 | 2026-05-21 | |

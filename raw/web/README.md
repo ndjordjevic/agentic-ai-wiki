@@ -25,3 +25,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/openspec.dev.md | openspec.dev | 1 | 2026-05-19 | |
 | raw/web/traycer.ai.md | traycer.ai | 8 | 2026-05-19 | |
 | raw/web/browse.sh.md | browse.sh | 5 | 2026-05-20 | |
+| raw/web/strandsagents.com.md | strandsagents.com | 8 | 2026-05-21 | |
