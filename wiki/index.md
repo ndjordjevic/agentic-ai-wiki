@@ -56,5 +56,6 @@ created: 2026-04-28
 | [[strandsagents.com]] | web | standard | 2026-05-21 | |
 | [[crewai.com]] | web | standard | 2026-05-22 | |
 | [[bmad-code-org-bmad-method]] | github | standard | 2026-05-22 | |
+| [[openvibe.sh]] | web | standard | 2026-05-22 | |
 
-_44 sources ingested._
+_45 sources ingested._

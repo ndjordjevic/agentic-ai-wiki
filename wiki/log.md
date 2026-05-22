@@ -10,6 +10,14 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-22 | ingest | openvibe.sh | Open Vibe — free MIT-licensed agent-native web dev course by the Wasp team; turns Claude Code into a pair-programming SaaS tutor via llms.txt-driven module files (Phase 1: todo app basics; Phase 2: Open SaaS production template)
+
+- Created: wiki/sources/openvibe.sh.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/wasp-lang-open-vibe.md
+
+---
+
 ## 2026-05-22 | ingest | bmad-code-org-bmad-method | BMad Method — comprehensive Agile AI Driven Development framework with 4-phase lifecycle, 6 named agent personas, 34+ workflow skills, and multi-IDE installation via npx (47,851 stars, MIT, v6.7.1)
 
 - Created: wiki/sources/bmad-code-org-bmad-method.md

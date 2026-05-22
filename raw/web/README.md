@@ -27,3 +27,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/browse.sh.md | browse.sh | 5 | 2026-05-20 | |
 | raw/web/strandsagents.com.md | strandsagents.com | 8 | 2026-05-21 | |
 | raw/web/crewai.com.md | crewai.com | 8 | 2026-05-22 | |
+| raw/web/openvibe.sh.md | openvibe.sh | 6 | 2026-05-22 | |

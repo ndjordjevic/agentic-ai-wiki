@@ -30,3 +30,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/strands-agents-sdk-python.md | strands-agents/sdk-python | 5910 | main | v1.40.0 | 2026-05-21 | |
 | raw/github/crewaiinc-crewai.md | crewAIInc/crewAI | 51928 | main | 1.14.6a1 | 2026-05-22 | |
 | raw/github/bmad-code-org-bmad-method.md | bmad-code-org/BMAD-METHOD | 47851 | main | v6.7.1 | 2026-05-22 | |
+| raw/github/wasp-lang-open-vibe.md | wasp-lang/open-vibe | 36 | main | none | 2026-05-22 | |
