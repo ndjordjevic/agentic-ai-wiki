@@ -20,6 +20,7 @@ related:
   - litellm.ai
   - crewai.com
   - strandsagents.com
+  - pydantic.dev
 product: langchain.com
 detail_level: deep
 created: 2026-04-29

@@ -185,6 +185,9 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/sources/pydantic.dev.md",
+    "raw/github/pydantic-pydantic.md",
+    "raw/web/pydantic.dev.md",
     "wiki/sources/anombyte93-prd-taskmaster.md",
     "raw/github/anombyte93-prd-taskmaster.md",
     "wiki/sources/openvibe.sh.md",
@@ -208,9 +211,6 @@
     "wiki/log.md",
     "wiki/sources/openspec.dev.md",
     "raw/github/fission-ai-openspec.md",
-    "raw/web/openspec.dev.md",
-    "wiki/sources/github-spec-kit.md",
-    "raw/github/github-spec-kit.md",
     "excalidraw.log",
     "skills-lock.json",
     "skills"

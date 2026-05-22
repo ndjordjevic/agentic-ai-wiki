@@ -20,6 +20,7 @@ related:
   - huggingface.co
   - openrouter.ai
   - strandsagents.com
+  - pydantic.dev
 product: litellm
 detail_level: standard
 created: 2026-05-18

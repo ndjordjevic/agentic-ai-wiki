@@ -58,5 +58,6 @@ created: 2026-04-28
 | [[bmad-code-org-bmad-method]] | github | standard | 2026-05-22 | |
 | [[openvibe.sh]] | web | standard | 2026-05-22 | |
 | [[anombyte93-prd-taskmaster]] | github | standard | 2026-05-22 | |
+| [[pydantic.dev]] | web | standard | 2026-05-22 | |
 
-_46 sources ingested._
+_47 sources ingested._

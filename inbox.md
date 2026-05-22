@@ -86,7 +86,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://claudemarketplaces.com/
 - [ ] https://designmd.cc/
 - [ ] https://crafterq.ai/
-- [ ] https://pydantic.dev/
 
 ## Completed
 
@@ -135,3 +134,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://crewai.com/ <!-- ingested 2026-05-22 -->
 - [x] https://github.com/bmad-code-org/BMAD-METHOD <!-- ingested 2026-05-22 -->
 - [x] https://openvibe.sh/ <!-- ingested 2026-05-22 -->
+- [x] https://pydantic.dev/ <!-- ingested 2026-05-22 -->

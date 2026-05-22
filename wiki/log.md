@@ -10,6 +10,14 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-22 | ingest | pydantic.dev | Pydantic end-to-end AI engineering stack — Validation, Pydantic AI agent framework, Logfire observability, Evals, and AI Gateway; 550M monthly downloads, 27,832 stars, MIT
+
+- Created: wiki/sources/pydantic.dev.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/pydantic-pydantic.md
+
+---
+
 ## 2026-05-22 | ingest | anombyte93-prd-taskmaster | Claude Code skill for AI-powered PRD generation with 12-step workflow, 13-point validation, and Taskmaster integration
 
 - Created: wiki/sources/anombyte93-prd-taskmaster.md
