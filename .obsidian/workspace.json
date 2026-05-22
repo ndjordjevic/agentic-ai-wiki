@@ -185,6 +185,9 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/sources/crewai.com.md",
+    "raw/web/crewai.com.md",
+    "raw/github/crewaiinc-crewai.md",
     "wiki/overview.md",
     "wiki/sources/strandsagents.com.md",
     "raw/github/strands-agents-sdk-python.md",
@@ -209,9 +212,6 @@
     "wiki/sources/gsd-build-get-shit-done.md",
     "wiki/sources/anthropic.com-messages.md",
     "wiki/sources/anthropic.com.md",
-    "wiki/sources/nidhinjs-prompt-master.md",
-    "wiki/sources/x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes.md",
-    "wiki/sources/forrestchang-andrej-karpathy-skills.md",
     "skills-lock.json",
     "skills"
   ]

@@ -10,6 +10,15 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-22 | ingest | crewai.com | CrewAI — leading open-source multi-agent orchestration framework (Crews + Flows architecture) with enterprise AMP platform; 51,928 stars, MIT, Python, 60% Fortune 500 adoption
+
+- Created: wiki/sources/crewai.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/crewaiinc-crewai.md
+- Related updated: wiki/sources/langchain.com.md, wiki/sources/strandsagents.com.md
+
+---
+
 ## 2026-05-21 | ingest | strandsagents.com | Strands Agents — open-source AWS model-driven agent harness SDK (Python + TypeScript) with hooks, steering, multi-agent patterns (Graph/Swarm/Workflow), and 10+ model providers (5,910 stars, Apache 2.0, v1.40.0)
 
 - Created: wiki/sources/strandsagents.com.md

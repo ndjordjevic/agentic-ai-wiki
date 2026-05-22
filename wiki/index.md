@@ -54,5 +54,6 @@ created: 2026-04-28
 | [[snarktank-ralph]] | github | standard | 2026-05-20 | |
 | [[browse.sh]] | web | standard | 2026-05-20 | |
 | [[strandsagents.com]] | web | standard | 2026-05-21 | |
+| [[crewai.com]] | web | standard | 2026-05-22 | |
 
-_42 sources ingested._
+_43 sources ingested._
