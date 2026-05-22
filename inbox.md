@@ -17,7 +17,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
-- [ ] https://github.com/bmad-code-org/BMAD-METHOD
 - [ ] https://openvibe.sh/
 - [ ] https://x.com/trq212/status/2052809885763747935?s=43&t=5l2OHSF10JbahgpENs1smw
 - [ ] https://factory.ai/
@@ -134,3 +133,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://browse.sh/ <!-- ingested 2026-05-20 -->
 - [x] https://strandsagents.com/ <!-- ingested 2026-05-21 -->
 - [x] https://crewai.com/ <!-- ingested 2026-05-22 -->
+- [x] https://github.com/bmad-code-org/BMAD-METHOD <!-- ingested 2026-05-22 -->

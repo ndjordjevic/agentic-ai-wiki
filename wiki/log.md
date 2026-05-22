@@ -10,6 +10,14 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-22 | ingest | bmad-code-org-bmad-method | BMad Method — comprehensive Agile AI Driven Development framework with 4-phase lifecycle, 6 named agent personas, 34+ workflow skills, and multi-IDE installation via npx (47,851 stars, MIT, v6.7.1)
+
+- Created: wiki/sources/bmad-code-org-bmad-method.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Related updated: wiki/sources/obra-superpowers.md, wiki/sources/coleam00-archon.md, wiki/sources/gsd-build-get-shit-done.md, wiki/sources/anthropics-skills.md
+
+---
+
 ## 2026-05-22 | ingest | crewai.com | CrewAI — leading open-source multi-agent orchestration framework (Crews + Flows architecture) with enterprise AMP platform; 51,928 stars, MIT, Python, 60% Fortune 500 adoption
 
 - Created: wiki/sources/crewai.com.md

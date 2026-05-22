@@ -55,5 +55,6 @@ created: 2026-04-28
 | [[browse.sh]] | web | standard | 2026-05-20 | |
 | [[strandsagents.com]] | web | standard | 2026-05-21 | |
 | [[crewai.com]] | web | standard | 2026-05-22 | |
+| [[bmad-code-org-bmad-method]] | github | standard | 2026-05-22 | |
 
-_43 sources ingested._
+_44 sources ingested._

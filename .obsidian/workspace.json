@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/sources/strandsagents.com.md",
+                "file": "wiki/overview.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "strandsagents.com"
+              "title": "overview"
             }
           }
         ]
@@ -185,11 +185,13 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/sources/bmad-code-org-bmad-method.md",
+    "raw/github/bmad-code-org-bmad-method.md",
+    "wiki/sources/strandsagents.com.md",
     "wiki/sources/crewai.com.md",
     "raw/web/crewai.com.md",
     "raw/github/crewaiinc-crewai.md",
     "wiki/overview.md",
-    "wiki/sources/strandsagents.com.md",
     "raw/github/strands-agents-sdk-python.md",
     "raw/web/strandsagents.com.md",
     "wiki/sources/browse.sh.md",
@@ -210,8 +212,6 @@
     "wiki/sources/gastownhall-beads.md",
     "wiki/sources/obra-superpowers.md",
     "wiki/sources/gsd-build-get-shit-done.md",
-    "wiki/sources/anthropic.com-messages.md",
-    "wiki/sources/anthropic.com.md",
     "skills-lock.json",
     "skills"
   ]
