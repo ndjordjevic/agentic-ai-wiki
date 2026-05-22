@@ -17,8 +17,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
-- [ ] https://github.com/anombyte93/prd-taskmaster
-- [ ] https://x.com/trq212/status/2052809885763747935?s=43&t=5l2OHSF10JbahgpENs1smw
 - [ ] https://factory.ai/
 - [ ] https://github.com/Gitlawb/openclaude
 - [ ] https://medium.com/@unicodeveloper/10-must-have-clis-for-your-ai-agents-in-2026-51ba0d0881df
@@ -88,6 +86,7 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://claudemarketplaces.com/
 - [ ] https://designmd.cc/
 - [ ] https://crafterq.ai/
+- [ ] https://pydantic.dev/
 
 ## Completed
 
@@ -98,6 +97,7 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 -->
 
 - [x] https://github.com/snarktank/ralph <!-- ingested 2026-05-20 -->
+- [x] https://github.com/anombyte93/prd-taskmaster <!-- ingested 2026-05-22 -->
 - [x] https://github.com/nidhinjs/prompt-master <!-- ingested 2026-05-13 -->
 - [x] https://github.com/gsd-build/get-shit-done <!-- ingested 2026-05-14 -->
 - [x] https://github.com/obra/superpowers <!-- ingested 2026-05-14 -->

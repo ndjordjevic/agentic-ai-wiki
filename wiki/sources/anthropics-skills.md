@@ -16,6 +16,7 @@ related:
   - x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes
   - github-spec-kit
   - forrestchang-andrej-karpathy-skills
+  - anombyte93-prd-taskmaster
   - nidhinjs-prompt-master
   - anthropic.com
   - anthropic.com-messages

@@ -185,6 +185,8 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/sources/anombyte93-prd-taskmaster.md",
+    "raw/github/anombyte93-prd-taskmaster.md",
     "wiki/sources/openvibe.sh.md",
     "raw/github/wasp-lang-open-vibe.md",
     "raw/web/openvibe.sh.md",
@@ -209,8 +211,6 @@
     "raw/web/openspec.dev.md",
     "wiki/sources/github-spec-kit.md",
     "raw/github/github-spec-kit.md",
-    "wiki/sources/zilliztech-claude-context.md",
-    "raw/github/zilliztech-claude-context.md",
     "excalidraw.log",
     "skills-lock.json",
     "skills"

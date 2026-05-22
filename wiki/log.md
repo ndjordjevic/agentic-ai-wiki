@@ -10,6 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-22 | ingest | anombyte93-prd-taskmaster | Claude Code skill for AI-powered PRD generation with 12-step workflow, 13-point validation, and Taskmaster integration
+
+- Created: wiki/sources/anombyte93-prd-taskmaster.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+---
+
 ## 2026-05-22 | ingest | openvibe.sh | Open Vibe — free MIT-licensed agent-native web dev course by the Wasp team; turns Claude Code into a pair-programming SaaS tutor via llms.txt-driven module files (Phase 1: todo app basics; Phase 2: Open SaaS production template)
 
 - Created: wiki/sources/openvibe.sh.md

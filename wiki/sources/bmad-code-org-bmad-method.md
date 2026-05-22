@@ -15,6 +15,7 @@ related:
   - coleam00-archon
   - gsd-build-get-shit-done
   - anthropics-skills
+  - anombyte93-prd-taskmaster
 product: bmad-method
 detail_level: standard
 created: 2026-05-22
