@@ -10,6 +10,14 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-25 | ingest | vibekanban.com | Vibe Kanban — kanban board for parallel AI coding agents; plan-review loop, 10+ agent support, git worktrees, diff review, 26.5k stars, sunsetting to community OSS
+
+- Created: wiki/sources/vibekanban.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/BloopAI-vibe-kanban.md
+
+---
+
 ## 2026-05-25 | ingest | factory.ai | Factory — enterprise AI coding agent platform; Droid CLI with Missions, Skills, Hooks, Custom Droids, and MCP; $1.5B valuation, 7× feature delivery
 
 - Created: wiki/sources/factory.ai.md

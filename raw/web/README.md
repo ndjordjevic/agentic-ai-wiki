@@ -30,3 +30,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/openvibe.sh.md | openvibe.sh | 6 | 2026-05-22 | |
 | raw/web/pydantic.dev.md | pydantic.dev | 9 | 2026-05-22 | |
 | raw/web/factory.ai.md | factory.ai | 8 | 2026-05-25 | |
+| raw/web/vibekanban.com.md | vibekanban.com | 9 | 2026-05-25 | |

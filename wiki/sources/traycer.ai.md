@@ -14,6 +14,7 @@ related:
   - openspec.dev
   - github-spec-kit
   - factory.ai
+  - vibekanban.com
 product: traycer
 detail_level: standard
 created: 2026-05-19

@@ -4,8 +4,6 @@ domain: "Agentic AI Frameworks"
 created: 2026-04-28
 updated: 2026-05-25
 
-
-
 ---
 
 # Agentic AI Frameworks — overview
@@ -108,3 +106,7 @@ updated: 2026-05-25
 
 
 [[factory.ai]] introduces Factory, the enterprise platform for agent-native software development, built around an AI agent called Droid that automates the full software development lifecycle — coding, testing, review, documentation, and deployment. Factory's capability stack layers Missions (multi-agent orchestration where an orchestrator coordinates specialized worker and validator droids for large, multi-feature projects), Skills (reusable SKILL.md procedures that package domain knowledge and workflows into composable, version-controlled capabilities), Hooks (shell commands bound to agent lifecycle events for deterministic enforcement of formatting, security, and compliance rules), Custom Droids (specialized subagents with their own prompts, tools, and model choices), and MCP (Model Context Protocol tool connectivity). The Droid CLI runs interactively via a full-screen TUI with Spec mode for structured planning before implementation, or headlessly via `droid exec` for CI/CD pipelines. Factory raised $150M Series C at a $1.5B valuation, ships enterprise-grade controls (SSO/SAML, SOC-2, air-gap, dedicated compute), and integrates natively with GitHub, GitLab, Jira, Linear, Slack, Sentry, and 100+ other tools. In this wiki, [[factory.ai]] occupies the enterprise AI coding agent tier alongside [[traycer.ai]] (spec-driven AI coding orchestration) and [[openai-codex-plugin-cc]] (Codex as a Claude Code subagent), while its multi-agent Missions architecture shares conceptual ground with [[crewai.com]] (role-based crew orchestration) and [[langchain.com-langgraph]] (graph-based agent state machines).
+
+
+
+[[vibekanban.com]] introduces Vibe Kanban, an open-source kanban-based project management tool purpose-built for teams running AI coding agents in parallel. Built by bloop (now sunsetting as a company and transitioning to community-maintained open source with 26,494 GitHub stars), it targets the new bottleneck in AI-assisted development: while coding agents work on infinite tasks simultaneously, humans must still plan and review — making that loop the speed limit for shipping. The three-step workflow is Plan (create issues on a kanban board; the issue description becomes the agent's prompt verbatim), Prompt (create a workspace that auto-provisions git worktrees for selected repos and launches the chosen coding agent), and Review (inspect syntax-highlighted diffs, add inline comments per changed line, send feedback back to the agent in chat). Vibe Kanban supports 10+ coding agents — Claude Code, OpenAI Codex, GitHub Copilot, Gemini CLI, Amp, Cursor Agent CLI, OpenCode, Factory Droid, CCR, and Qwen Code — and exposes an MCP server so agents can query issue context programmatically. Team features include shared organisations, projects, and kanban boards; a Docker Compose self-hosting option; and GitHub/Azure Repos integration for creating and merging PRs. In this wiki, [[vibekanban.com]] complements [[factory.ai]] (whose Droid agent it supports) and [[traycer.ai]] (which similarly targets the planning and review layer of agent-assisted development), occupying the "human-in-the-loop orchestration UI" tier rather than the agent-framework or agent-runtime tier.

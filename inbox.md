@@ -50,7 +50,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://clickup.com/
 - [ ] https://kie.ai/
 - [ ] https://trigger.dev/
-- [ ] https://vibekanban.com/
 - [ ] https://stitch.withgoogle.com/
 - [ ] https://deepwiki.com/
 - [ ] https://happy.engineering/
@@ -137,3 +136,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://openvibe.sh/ <!-- ingested 2026-05-22 -->
 - [x] https://pydantic.dev/ <!-- ingested 2026-05-22 -->
 - [x] https://factory.ai/ <!-- ingested 2026-05-25 -->
+- [x] https://vibekanban.com/ <!-- ingested 2026-05-25 -->

@@ -17,6 +17,7 @@ related:
   - langchain.com
   - bmad-code-org-bmad-method
   - openai-codex-plugin-cc
+  - vibekanban.com
 product: factory
 detail_level: standard
 created: 2026-05-25

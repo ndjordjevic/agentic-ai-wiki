@@ -61,5 +61,6 @@ created: 2026-04-28
 | [[pydantic.dev]] | web | standard | 2026-05-22 | |
 | [[openai-codex-plugin-cc]] | github | standard | 2026-05-22 | |
 | [[factory.ai]] | web | standard | 2026-05-25 | |
+| [[vibekanban.com]] | web | standard | 2026-05-25 | |
 
-_49 sources ingested._
+_50 sources ingested._
