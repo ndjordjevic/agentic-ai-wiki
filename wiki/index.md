@@ -73,5 +73,6 @@ created: 2026-04-28
 | [[www.taskmaster.one]] | web | standard | 2026-05-25 | |
 | [[eyaltoledano-claude-task-master]] | github | standard | 2026-05-25 | |
 | [[garrytan-gstack]] | github | standard | 2026-05-25 | |
+| [[tryhamster.com]] | web | standard | 2026-05-25 | |
 
-_61 sources ingested._
+_62 sources ingested._

@@ -185,6 +185,8 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/sources/tryhamster.com.md",
+    "raw/web/tryhamster.com.md",
     "wiki/sources/garrytan-gstack.md",
     "raw/github/garrytan-gstack.md",
     "wiki/sources/eyaltoledano-claude-task-master.md",
@@ -209,8 +211,6 @@
     "raw/github/everyinc-compound-engineering-plugin.md",
     "wiki/sources/vibekanban.com.md",
     "raw/github/BloopAI-vibe-kanban.md",
-    "raw/web/vibekanban.com.md",
-    "wiki/sources/factory.ai.md",
     "excalidraw.log",
     "skills-lock.json",
     "skills"

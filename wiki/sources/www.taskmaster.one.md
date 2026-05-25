@@ -16,6 +16,7 @@ related:
   - vibekanban.com
   - gsd-build-get-shit-done
   - backnotprop-plannotator
+  - tryhamster.com
 product: taskmaster
 detail_level: standard
 created: 2026-05-25

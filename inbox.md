@@ -143,3 +143,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/vercel-labs/agent-browser <!-- ingested 2026-05-25 -->
 - [x] https://qa.tech/ <!-- ingested 2026-05-25 -->
 - [x] https://github.com/buildermethods/agent-os <!-- ingested 2026-05-25 -->
+- [x] https://tryhamster.com/ <!-- ingested 2026-05-25 -->

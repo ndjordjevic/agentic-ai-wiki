@@ -33,3 +33,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/vibekanban.com.md | vibekanban.com | 9 | 2026-05-25 | |
 | raw/web/qa.tech.md | qa.tech | 6 | 2026-05-25 | |
 | raw/web/www.taskmaster.one.md | www.taskmaster.one | 6 | 2026-05-25 | |
+| raw/web/tryhamster.com.md | tryhamster.com | 10 | 2026-05-25 | |

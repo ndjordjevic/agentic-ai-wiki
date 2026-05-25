@@ -17,6 +17,7 @@ related:
   - gsd-build-get-shit-done
   - backnotprop-plannotator
   - buildermethods-agent-os
+  - tryhamster.com
 product: claude-task-master
 detail_level: standard
 created: 2026-05-25

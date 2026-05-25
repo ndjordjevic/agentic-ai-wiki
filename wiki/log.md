@@ -8,6 +8,13 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-05-25 | ingest | tryhamster.com | AI-native product planning platform (Studio + Taskmaster) — Brief → Align → Plan → Execute → Ship
+
+- Created: wiki/sources/tryhamster.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
+---
+
 ## 2026-05-25 | ingest | garrytan-gstack | 101,913-star Claude Code sprint-pipeline skill suite by Garry Tan (YC CEO)
 
 - Created: wiki/sources/garrytan-gstack.md
