@@ -185,6 +185,10 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/sources/eyaltoledano-claude-task-master.md",
+    "wiki/sources/www.taskmaster.one.md",
+    "raw/github/eyaltoledano-claude-task-master.md",
+    "raw/web/www.taskmaster.one.md",
     "wiki/sources/buildermethods-agent-os.md",
     "raw/github/buildermethods-agent-os.md",
     "wiki/sources/qa.tech.md",
@@ -207,10 +211,6 @@
     "wiki/sources/factory.ai.md",
     "raw/web/factory.ai.md",
     "wiki/sources/9d5bzxVsocw-anthropic-just-dropped-the-new-blueprint.md",
-    "wiki/overview.md",
-    "wiki/sources/openai-codex-plugin-cc.md",
-    "raw/github/openai-codex-plugin-cc.md",
-    "wiki/sources/pydantic.dev.md",
     "excalidraw.log",
     "skills-lock.json",
     "skills"

@@ -89,6 +89,8 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
      The refresh tag is removed automatically after re-fetch.
 -->
 
+- [x] https://www.taskmaster.one/ <!-- ingested 2026-05-25 -->
+- [x] https://github.com/eyaltoledano/claude-task-master <!-- ingested 2026-05-25 -->
 - [x] https://github.com/openai/codex-plugin-cc <!-- ingested 2026-05-22 -->
 - [x] https://github.com/snarktank/ralph <!-- ingested 2026-05-20 -->
 - [x] https://github.com/anombyte93/prd-taskmaster <!-- ingested 2026-05-22 -->

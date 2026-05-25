@@ -23,6 +23,7 @@ related:
   - bmad-code-org-bmad-method
   - othmanadi-planning-with-files
   - buildermethods-agent-os
+  - eyaltoledano-claude-task-master
 product: gsd
 detail_level: standard
 created: 2026-05-14

@@ -17,6 +17,8 @@ related:
   - anombyte93-prd-taskmaster
   - obra-superpowers
   - goOZSXmrYQ4-my-complete-agentic-coding-workflow-to-b
+  - eyaltoledano-claude-task-master
+  - www.taskmaster.one
 product: plannotator
 detail_level: standard
 created: 2026-05-25

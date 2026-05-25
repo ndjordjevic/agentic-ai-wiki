@@ -70,5 +70,7 @@ created: 2026-04-28
 | [[vercel-labs-agent-browser]] | github | standard | 2026-05-25 | |
 | [[qa.tech]] | web | standard | 2026-05-25 | |
 | [[buildermethods-agent-os]] | github | standard | 2026-05-25 | |
+| [[www.taskmaster.one]] | web | standard | 2026-05-25 | |
+| [[eyaltoledano-claude-task-master]] | github | standard | 2026-05-25 | |
 
-_58 sources ingested._
+_60 sources ingested._

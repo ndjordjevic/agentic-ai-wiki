@@ -10,6 +10,22 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-25 | ingest | eyaltoledano-claude-task-master | Open-source AI task management system by @eyaltoledano — PRD-to-task graph, dependency-aware navigation, 27K+ stars, MCP+CLI, now under Hamster/tryhamster.com
+
+- Created: wiki/sources/eyaltoledano-claude-task-master.md, raw/github/eyaltoledano-claude-task-master.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Related updates: anombyte93-prd-taskmaster, vibekanban.com, gsd-build-get-shit-done, backnotprop-plannotator, buildermethods-agent-os
+
+---
+
+## 2026-05-25 | ingest | www.taskmaster.one | Commercial SaaS task-management for AI agents — PRD parsing, dependency-aware tasks, CLI+MCP+dashboard, subscription plans ($29–$599/mo), TaskMaster AI LLC
+
+- Created: wiki/sources/www.taskmaster.one.md, raw/web/www.taskmaster.one.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+- Related updates: anombyte93-prd-taskmaster, vibekanban.com, backnotprop-plannotator
+
+---
+
 ## 2026-05-25 | ingest | buildermethods-agent-os | Standards-injection and spec-shaping framework for AI coding agents — /discover-standards, /inject-standards, /shape-spec, plan-mode-first; 4,635 stars, MIT, v3.0.0
 
 - Created: wiki/sources/buildermethods-agent-os.md

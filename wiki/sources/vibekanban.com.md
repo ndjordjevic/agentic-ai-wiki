@@ -18,6 +18,8 @@ tags:
 related:
   - factory.ai
   - traycer.ai
+  - eyaltoledano-claude-task-master
+  - www.taskmaster.one
 product: vibekanban
 detail_level: standard
 created: 2026-05-25

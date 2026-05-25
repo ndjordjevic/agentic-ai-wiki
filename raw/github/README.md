@@ -41,3 +41,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/microsoft-playwright-mcp.md | microsoft/playwright-mcp | 32980 | main | v0.0.75 | 2026-05-25 | |
 | raw/github/vercel-labs-agent-browser.md | vercel-labs/agent-browser | 34229 | main | v0.27.0 | 2026-05-25 | |
 | raw/github/buildermethods-agent-os.md | buildermethods/agent-os | 4635 | main | v3.0.0 | 2026-05-25 | |
+| raw/github/eyaltoledano-claude-task-master.md | eyaltoledano/claude-task-master | 27242 | main | task-master-ai@0.43.1 | 2026-05-25 | |

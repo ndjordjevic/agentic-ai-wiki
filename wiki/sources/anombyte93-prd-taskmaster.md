@@ -17,6 +17,8 @@ related:
   - othmanadi-planning-with-files
   - backnotprop-plannotator
   - goOZSXmrYQ4-my-complete-agentic-coding-workflow-to-b
+  - eyaltoledano-claude-task-master
+  - www.taskmaster.one
 product: prd-taskmaster
 detail_level: standard
 created: 2026-05-22

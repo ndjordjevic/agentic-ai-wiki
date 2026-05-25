@@ -16,6 +16,7 @@ related:
   - gsd-build-get-shit-done
   - anthropics-skills
   - obra-superpowers
+  - eyaltoledano-claude-task-master
 product: agent-os
 detail_level: standard
 created: 2026-05-25
