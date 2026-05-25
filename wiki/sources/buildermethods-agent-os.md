@@ -17,6 +17,7 @@ related:
   - anthropics-skills
   - obra-superpowers
   - eyaltoledano-claude-task-master
+  - garrytan-gstack
 product: agent-os
 detail_level: standard
 created: 2026-05-25

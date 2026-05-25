@@ -18,6 +18,7 @@ related:
   - gsd-build-get-shit-done
   - obra-superpowers
   - othmanadi-planning-with-files
+  - garrytan-gstack
 product: andrej-karpathy-skills
 detail_level: standard
 created: 2026-05-11

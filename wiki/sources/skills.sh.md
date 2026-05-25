@@ -25,6 +25,7 @@ related:
   - browse.sh
   - openvibe.sh
   - vercel-labs-agent-browser
+  - garrytan-gstack
 product: skills
 detail_level: standard
 created: 2026-04-30

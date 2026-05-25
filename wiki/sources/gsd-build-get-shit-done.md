@@ -24,6 +24,7 @@ related:
   - othmanadi-planning-with-files
   - buildermethods-agent-os
   - eyaltoledano-claude-task-master
+  - garrytan-gstack
 product: gsd
 detail_level: standard
 created: 2026-05-14

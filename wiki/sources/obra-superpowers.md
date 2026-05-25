@@ -24,6 +24,7 @@ related:
   - othmanadi-planning-with-files
   - backnotprop-plannotator
   - buildermethods-agent-os
+  - garrytan-gstack
 product: superpowers
 detail_level: standard
 created: 2026-05-14

@@ -72,5 +72,6 @@ created: 2026-04-28
 | [[buildermethods-agent-os]] | github | standard | 2026-05-25 | |
 | [[www.taskmaster.one]] | web | standard | 2026-05-25 | |
 | [[eyaltoledano-claude-task-master]] | github | standard | 2026-05-25 | |
+| [[garrytan-gstack]] | github | standard | 2026-05-25 | |
 
-_60 sources ingested._
+_61 sources ingested._

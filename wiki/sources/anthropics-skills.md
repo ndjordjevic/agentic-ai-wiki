@@ -26,6 +26,7 @@ related:
   - buildermethods-agent-os
   - othmanadi-planning-with-files
   - openai-codex-plugin-cc
+  - garrytan-gstack
 product: skills
 detail_level: standard
 created: 2026-05-11

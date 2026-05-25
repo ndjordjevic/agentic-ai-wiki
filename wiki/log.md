@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-05-25 | ingest | garrytan-gstack | 101,913-star Claude Code sprint-pipeline skill suite by Garry Tan (YC CEO)
+
+- Created: wiki/sources/garrytan-gstack.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ---
 
 ## 2026-05-25 | ingest | eyaltoledano-claude-task-master | Open-source AI task management system by @eyaltoledano — PRD-to-task graph, dependency-aware navigation, 27K+ stars, MCP+CLI, now under Hamster/tryhamster.com

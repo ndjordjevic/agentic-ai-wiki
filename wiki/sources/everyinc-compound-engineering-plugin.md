@@ -14,6 +14,7 @@ tags:
   - every.to
 related:
   - backnotprop-plannotator
+  - garrytan-gstack
 product: compound-engineering-plugin
 detail_level: standard
 created: 2026-05-25
