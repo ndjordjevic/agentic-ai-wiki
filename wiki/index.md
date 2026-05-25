@@ -67,5 +67,6 @@ created: 2026-04-28
 | [[backnotprop-plannotator]] | github | standard | 2026-05-25 | |
 | [[goOZSXmrYQ4-my-complete-agentic-coding-workflow-to-b]] | youtube | standard | 2026-05-25 | |
 | [[microsoft-playwright-mcp]] | github | standard | 2026-05-25 | |
+| [[vercel-labs-agent-browser]] | github | standard | 2026-05-25 | |
 
-_55 sources ingested._
+_56 sources ingested._

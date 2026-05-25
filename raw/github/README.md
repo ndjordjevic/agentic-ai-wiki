@@ -39,3 +39,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/othmanadi-planning-with-files.md | OthmanAdi/planning-with-files | 22015 | master | v2.41.0 | 2026-05-25 | |
 | raw/github/backnotprop-plannotator.md | backnotprop/plannotator | 5580 | main | v0.19.22 | 2026-05-25 | |
 | raw/github/microsoft-playwright-mcp.md | microsoft/playwright-mcp | 32980 | main | v0.0.75 | 2026-05-25 | |
+| raw/github/vercel-labs-agent-browser.md | vercel-labs/agent-browser | 34229 | main | v0.27.0 | 2026-05-25 | |

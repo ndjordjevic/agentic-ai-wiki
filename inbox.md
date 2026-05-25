@@ -81,7 +81,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://designmd.cc/
 - [ ] https://crafterq.ai/
 - [ ] https://neon.com/
-- [ ] https://github.com/vercel-labs/agent-browser
 
 ## Completed
 
@@ -140,3 +139,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://youtu.be/goOZSXmrYQ4?si=w9BiVjjSVnKdUzGf <!-- ingested 2026-05-25 -->
 
 - [x] https://github.com/microsoft/playwright-mcp <!-- ingested 2026-05-25 -->
+- [x] https://github.com/vercel-labs/agent-browser <!-- ingested 2026-05-25 -->
