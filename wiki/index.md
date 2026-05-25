@@ -59,5 +59,6 @@ created: 2026-04-28
 | [[openvibe.sh]] | web | standard | 2026-05-22 | |
 | [[anombyte93-prd-taskmaster]] | github | standard | 2026-05-22 | |
 | [[pydantic.dev]] | web | standard | 2026-05-22 | |
+| [[openai-codex-plugin-cc]] | github | standard | 2026-05-22 | |
 
-_47 sources ingested._
+_48 sources ingested._

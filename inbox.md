@@ -86,6 +86,7 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://claudemarketplaces.com/
 - [ ] https://designmd.cc/
 - [ ] https://crafterq.ai/
+- [ ] https://neon.com/
 
 ## Completed
 
@@ -95,6 +96,7 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
      The refresh tag is removed automatically after re-fetch.
 -->
 
+- [x] https://github.com/openai/codex-plugin-cc <!-- ingested 2026-05-22 -->
 - [x] https://github.com/snarktank/ralph <!-- ingested 2026-05-20 -->
 - [x] https://github.com/anombyte93/prd-taskmaster <!-- ingested 2026-05-22 -->
 - [x] https://github.com/nidhinjs/prompt-master <!-- ingested 2026-05-13 -->

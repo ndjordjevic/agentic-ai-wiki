@@ -20,6 +20,7 @@ related:
   - coleam00-archon
   - snarktank-ralph
   - bmad-code-org-bmad-method
+  - openai-codex-plugin-cc
 product: superpowers
 detail_level: standard
 created: 2026-05-14

@@ -33,3 +33,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/wasp-lang-open-vibe.md | wasp-lang/open-vibe | 36 | main | none | 2026-05-22 | |
 | raw/github/anombyte93-prd-taskmaster.md | anombyte93/prd-taskmaster | 4447 | main | v3.0.0 | 2026-05-22 | |
 | raw/github/pydantic-pydantic.md | pydantic/pydantic | 27832 | main | v2.13.4 | 2026-05-22 | |
+| raw/github/openai-codex-plugin-cc.md | openai/codex-plugin-cc | 19405 | main | v1.0.4 | 2026-05-22 | |

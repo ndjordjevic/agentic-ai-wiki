@@ -10,6 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-22 | ingest | openai-codex-plugin-cc | OpenAI Codex plugin for Claude Code — code review and task delegation via Codex CLI; 19k+ stars, v1.0.4, Apache-2.0
+
+- Created: wiki/sources/openai-codex-plugin-cc.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+---
+
 ## 2026-05-22 | ingest | pydantic.dev | Pydantic end-to-end AI engineering stack — Validation, Pydantic AI agent framework, Logfire observability, Evals, and AI Gateway; 550M monthly downloads, 27,832 stars, MIT
 
 - Created: wiki/sources/pydantic.dev.md

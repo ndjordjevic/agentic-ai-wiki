@@ -23,6 +23,7 @@ related:
   - obra-superpowers
   - browse.sh
   - bmad-code-org-bmad-method
+  - openai-codex-plugin-cc
 product: skills
 detail_level: standard
 created: 2026-05-11

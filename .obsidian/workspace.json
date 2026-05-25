@@ -185,6 +185,8 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/sources/openai-codex-plugin-cc.md",
+    "raw/github/openai-codex-plugin-cc.md",
     "wiki/sources/pydantic.dev.md",
     "raw/github/pydantic-pydantic.md",
     "raw/web/pydantic.dev.md",
@@ -209,8 +211,6 @@
     "wiki/sources/traycer.ai.md",
     "raw/web/traycer.ai.md",
     "wiki/log.md",
-    "wiki/sources/openspec.dev.md",
-    "raw/github/fission-ai-openspec.md",
     "excalidraw.log",
     "skills-lock.json",
     "skills"
