@@ -10,6 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-25 | ingest | goOZSXmrYQ4-my-complete-agentic-coding-workflow-to-b | Cole Medin's complete greenfield agentic coding workflow: AI layer (PRD + global rules + commands + subagents) + PIV loop (Plan, Implement, Validate) for solo production-grade development with Claude Code
+
+- Created: wiki/sources/goOZSXmrYQ4-my-complete-agentic-coding-workflow-to-b.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/youtube/README.md, inbox.md
+
+---
+
 ## 2026-05-25 | ingest | backnotprop-plannotator | Plannotator — visual plan & code review UI for AI coding agents; 5.5k stars, 7 runtimes, ExitPlanMode hook, zero-knowledge sharing, v0.19.22
 
 - Created: wiki/sources/backnotprop-plannotator.md

@@ -18,6 +18,7 @@ related:
   - anombyte93-prd-taskmaster
   - factory.ai
   - othmanadi-planning-with-files
+  - goOZSXmrYQ4-my-complete-agentic-coding-workflow-to-b
 product: bmad-method
 detail_level: standard
 created: 2026-05-22

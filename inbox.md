@@ -82,6 +82,7 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://designmd.cc/
 - [ ] https://crafterq.ai/
 - [ ] https://neon.com/
+- [ ] https://github.com/vercel-labs/agent-browser
 
 ## Completed
 
@@ -137,3 +138,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/EveryInc/compound-engineering-plugin <!-- ingested 2026-05-25 -->
 - [x] https://github.com/OthmanAdi/planning-with-files <!-- ingested 2026-05-25 -->
 - [x] https://github.com/backnotprop/plannotator <!-- ingested 2026-05-25 -->
+- [x] https://youtu.be/goOZSXmrYQ4?si=w9BiVjjSVnKdUzGf <!-- ingested 2026-05-25 -->

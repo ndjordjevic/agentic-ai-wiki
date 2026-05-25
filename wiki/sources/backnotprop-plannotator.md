@@ -16,6 +16,7 @@ related:
   - othmanadi-planning-with-files
   - anombyte93-prd-taskmaster
   - obra-superpowers
+  - goOZSXmrYQ4-my-complete-agentic-coding-workflow-to-b
 product: plannotator
 detail_level: standard
 created: 2026-05-25

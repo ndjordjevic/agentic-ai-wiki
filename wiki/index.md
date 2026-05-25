@@ -65,5 +65,6 @@ created: 2026-04-28
 | [[everyinc-compound-engineering-plugin]] | github | standard | 2026-05-25 | |
 | [[othmanadi-planning-with-files]] | github | standard | 2026-05-25 | |
 | [[backnotprop-plannotator]] | github | standard | 2026-05-25 | |
+| [[goOZSXmrYQ4-my-complete-agentic-coding-workflow-to-b]] | youtube | standard | 2026-05-25 | |
 
-_53 sources ingested._
+_54 sources ingested._

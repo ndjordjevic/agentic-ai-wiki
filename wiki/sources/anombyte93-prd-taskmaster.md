@@ -16,6 +16,7 @@ related:
   - nidhinjs-prompt-master
   - othmanadi-planning-with-files
   - backnotprop-plannotator
+  - goOZSXmrYQ4-my-complete-agentic-coding-workflow-to-b
 product: prd-taskmaster
 detail_level: standard
 created: 2026-05-22
