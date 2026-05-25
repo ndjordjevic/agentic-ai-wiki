@@ -10,6 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-25 | ingest | factory.ai | Factory — enterprise AI coding agent platform; Droid CLI with Missions, Skills, Hooks, Custom Droids, and MCP; $1.5B valuation, 7× feature delivery
+
+- Created: wiki/sources/factory.ai.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
+---
+
 ## 2026-05-22 | ingest | openai-codex-plugin-cc | OpenAI Codex plugin for Claude Code — code review and task delegation via Codex CLI; 19k+ stars, v1.0.4, Apache-2.0
 
 - Created: wiki/sources/openai-codex-plugin-cc.md

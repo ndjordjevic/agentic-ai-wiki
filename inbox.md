@@ -17,7 +17,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
-- [ ] https://factory.ai/
 - [ ] https://github.com/Gitlawb/openclaude
 - [ ] https://medium.com/@unicodeveloper/10-must-have-clis-for-your-ai-agents-in-2026-51ba0d0881df
 - [ ] https://x.com/ericzakariasson/status/2036762680401223946?s=20
@@ -137,3 +136,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/bmad-code-org/BMAD-METHOD <!-- ingested 2026-05-22 -->
 - [x] https://openvibe.sh/ <!-- ingested 2026-05-22 -->
 - [x] https://pydantic.dev/ <!-- ingested 2026-05-22 -->
+- [x] https://factory.ai/ <!-- ingested 2026-05-25 -->
