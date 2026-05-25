@@ -10,6 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-25 | ingest | everyinc-compound-engineering-plugin | Compound Engineering plugin for Claude Code, Codex, Cursor, Copilot — 38+ skills, 50+ agents, full plan-review-compound loop, 17k+ stars
+
+- Created: wiki/sources/everyinc-compound-engineering-plugin.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+---
+
 ## 2026-05-25 | ingest | vibekanban.com | Vibe Kanban — kanban board for parallel AI coding agents; plan-review loop, 10+ agent support, git worktrees, diff review, 26.5k stars, sunsetting to community OSS
 
 - Created: wiki/sources/vibekanban.com.md

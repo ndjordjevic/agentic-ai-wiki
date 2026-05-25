@@ -62,5 +62,6 @@ created: 2026-04-28
 | [[openai-codex-plugin-cc]] | github | standard | 2026-05-22 | |
 | [[factory.ai]] | web | standard | 2026-05-25 | |
 | [[vibekanban.com]] | web | standard | 2026-05-25 | |
+| [[everyinc-compound-engineering-plugin]] | github | standard | 2026-05-25 | |
 
-_50 sources ingested._
+_51 sources ingested._
