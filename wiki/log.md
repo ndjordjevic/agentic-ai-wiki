@@ -10,6 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-25 | ingest | othmanadi-planning-with-files | Planning with Files — Manus-style persistent markdown planning skill; 22k stars, 17+ IDEs, 96.7% benchmark pass rate, v2.41.0
+
+- Created: wiki/sources/othmanadi-planning-with-files.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+---
+
 ## 2026-05-25 | ingest | everyinc-compound-engineering-plugin | Compound Engineering plugin for Claude Code, Codex, Cursor, Copilot — 38+ skills, 50+ agents, full plan-review-compound loop, 17k+ stars
 
 - Created: wiki/sources/everyinc-compound-engineering-plugin.md

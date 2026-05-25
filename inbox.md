@@ -59,7 +59,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://github.com/microsoft/playwright-mcp
 - [ ] https://github.com/ruvnet/ruflo
 - [ ] https://github.com/phuryn/pm-skills
-- [ ] https://github.com/OthmanAdi/planning-with-files
 - [ ] https://github.com/Yeachan-Heo/oh-my-claudecode
 - [ ] https://github.com/cocoindex-io/cocoindex
 - [ ] https://elevenlabs.io/
@@ -136,3 +135,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://factory.ai/ <!-- ingested 2026-05-25 -->
 - [x] https://vibekanban.com/ <!-- ingested 2026-05-25 -->
 - [x] https://github.com/EveryInc/compound-engineering-plugin <!-- ingested 2026-05-25 -->
+- [x] https://github.com/OthmanAdi/planning-with-files <!-- ingested 2026-05-25 -->

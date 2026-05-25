@@ -14,10 +14,11 @@ related:
   - bmad-code-org-bmad-method
   - anthropics-skills
   - nidhinjs-prompt-master
+  - othmanadi-planning-with-files
 product: prd-taskmaster
 detail_level: standard
 created: 2026-05-22
-updated: 2026-05-22
+updated: 2026-05-25
 ---
 
 PRD-Taskmaster is a Claude Code skill (4,447 stars) that drives a 12-step interactive workflow to produce engineer-focused Product Requirements Documents (PRDs) and wire them directly into Taskmaster AI for automatic task generation. Where most AI coding assistants generate requirements on demand from a single prompt, prd-taskmaster structures the process: it asks 12+ discovery questions, validates the resulting PRD against 13 quality criteria, initialises a `.taskmaster/` directory, and then optionally executes the generated tasks autonomously — with rollback, DateTime tracking, and user-test checkpoints built in.

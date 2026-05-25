@@ -17,6 +17,7 @@ related:
   - anthropics-skills
   - anombyte93-prd-taskmaster
   - factory.ai
+  - othmanadi-planning-with-files
 product: bmad-method
 detail_level: standard
 created: 2026-05-22

@@ -36,3 +36,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/openai-codex-plugin-cc.md | openai/codex-plugin-cc | 19405 | main | v1.0.4 | 2026-05-22 | |
 | raw/github/BloopAI-vibe-kanban.md | BloopAI/vibe-kanban | 26494 | main | v0.1.44 | 2026-05-25 | |
 | raw/github/everyinc-compound-engineering-plugin.md | EveryInc/compound-engineering-plugin | 17151 | main | compound-engineering-v3.8.4 | 2026-05-25 | |
+| raw/github/othmanadi-planning-with-files.md | OthmanAdi/planning-with-files | 22015 | master | v2.41.0 | 2026-05-25 | |
