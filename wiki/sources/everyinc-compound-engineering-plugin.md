@@ -12,6 +12,8 @@ tags:
   - cursor
   - copilot
   - every.to
+related:
+  - backnotprop-plannotator
 product: compound-engineering-plugin
 detail_level: standard
 created: 2026-05-25

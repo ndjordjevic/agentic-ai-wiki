@@ -16,6 +16,7 @@ related:
   - snarktank-ralph
   - github-spec-kit
   - factory.ai
+  - backnotprop-plannotator
 product: codex-plugin-cc
 detail_level: standard
 created: 2026-05-22

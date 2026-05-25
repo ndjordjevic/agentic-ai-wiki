@@ -22,6 +22,7 @@ related:
   - bmad-code-org-bmad-method
   - openai-codex-plugin-cc
   - othmanadi-planning-with-files
+  - backnotprop-plannotator
 product: superpowers
 detail_level: standard
 created: 2026-05-14

@@ -64,5 +64,6 @@ created: 2026-04-28
 | [[vibekanban.com]] | web | standard | 2026-05-25 | |
 | [[everyinc-compound-engineering-plugin]] | github | standard | 2026-05-25 | |
 | [[othmanadi-planning-with-files]] | github | standard | 2026-05-25 | |
+| [[backnotprop-plannotator]] | github | standard | 2026-05-25 | |
 
-_52 sources ingested._
+_53 sources ingested._

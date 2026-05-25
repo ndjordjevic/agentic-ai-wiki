@@ -10,6 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-25 | ingest | backnotprop-plannotator | Plannotator — visual plan & code review UI for AI coding agents; 5.5k stars, 7 runtimes, ExitPlanMode hook, zero-knowledge sharing, v0.19.22
+
+- Created: wiki/sources/backnotprop-plannotator.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+---
+
 ## 2026-05-25 | ingest | othmanadi-planning-with-files | Planning with Files — Manus-style persistent markdown planning skill; 22k stars, 17+ IDEs, 96.7% benchmark pass rate, v2.41.0
 
 - Created: wiki/sources/othmanadi-planning-with-files.md

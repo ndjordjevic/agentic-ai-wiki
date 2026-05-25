@@ -17,6 +17,7 @@ related:
   - anombyte93-prd-taskmaster
   - gsd-build-get-shit-done
   - forrestchang-andrej-karpathy-skills
+  - backnotprop-plannotator
 product: planning-with-files
 detail_level: standard
 created: 2026-05-25

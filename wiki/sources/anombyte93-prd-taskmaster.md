@@ -15,6 +15,7 @@ related:
   - anthropics-skills
   - nidhinjs-prompt-master
   - othmanadi-planning-with-files
+  - backnotprop-plannotator
 product: prd-taskmaster
 detail_level: standard
 created: 2026-05-22
