@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:x.com)"
+      "WebFetch(domain:x.com)",
+      "WebSearch"
     ]
   }
 }

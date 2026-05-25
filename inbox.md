@@ -17,6 +17,7 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
+- [ ] https://github.com/buildermethods/agent-os
 - [ ] https://github.com/Gitlawb/openclaude
 - [ ] https://medium.com/@unicodeveloper/10-must-have-clis-for-your-ai-agents-in-2026-51ba0d0881df
 - [ ] https://x.com/ericzakariasson/status/2036762680401223946?s=20
