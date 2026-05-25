@@ -7,7 +7,7 @@ raw_files:
   - ../../raw/web/strandsagents.com.md
   - ../../raw/github/strands-agents-sdk-python.md
 tags: [agent-sdk, agent-loop, tool-calling, multi-agent, model-agnostic, hooks, mcp, amazon-bedrock]
-related: [langchain.com, litellm.ai, crewai.com, pydantic.dev, factory.ai]
+related: [langchain.com, litellm.ai, crewai.com, pydantic.dev, factory.ai, microsoft-playwright-mcp]
 product: strandsagents
 detail_level: standard
 created: 2026-05-21

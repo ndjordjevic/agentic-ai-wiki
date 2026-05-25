@@ -57,7 +57,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://github.com/coleam00/claude-memory-compiler
 - [ ] https://github.com/hilash/cabinet
 - [ ] https://github.com/paperclipai/paperclip
-- [ ] https://github.com/microsoft/playwright-mcp
 - [ ] https://github.com/ruvnet/ruflo
 - [ ] https://github.com/phuryn/pm-skills
 - [ ] https://github.com/Yeachan-Heo/oh-my-claudecode
@@ -139,3 +138,5 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/OthmanAdi/planning-with-files <!-- ingested 2026-05-25 -->
 - [x] https://github.com/backnotprop/plannotator <!-- ingested 2026-05-25 -->
 - [x] https://youtu.be/goOZSXmrYQ4?si=w9BiVjjSVnKdUzGf <!-- ingested 2026-05-25 -->
+
+- [x] https://github.com/microsoft/playwright-mcp <!-- ingested 2026-05-25 -->

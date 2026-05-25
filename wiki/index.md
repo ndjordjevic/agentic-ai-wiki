@@ -66,5 +66,6 @@ created: 2026-04-28
 | [[othmanadi-planning-with-files]] | github | standard | 2026-05-25 | |
 | [[backnotprop-plannotator]] | github | standard | 2026-05-25 | |
 | [[goOZSXmrYQ4-my-complete-agentic-coding-workflow-to-b]] | youtube | standard | 2026-05-25 | |
+| [[microsoft-playwright-mcp]] | github | standard | 2026-05-25 | |
 
-_54 sources ingested._
+_55 sources ingested._

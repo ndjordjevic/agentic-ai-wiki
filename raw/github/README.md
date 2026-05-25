@@ -38,3 +38,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/everyinc-compound-engineering-plugin.md | EveryInc/compound-engineering-plugin | 17151 | main | compound-engineering-v3.8.4 | 2026-05-25 | |
 | raw/github/othmanadi-planning-with-files.md | OthmanAdi/planning-with-files | 22015 | master | v2.41.0 | 2026-05-25 | |
 | raw/github/backnotprop-plannotator.md | backnotprop/plannotator | 5580 | main | v0.19.22 | 2026-05-25 | |
+| raw/github/microsoft-playwright-mcp.md | microsoft/playwright-mcp | 32980 | main | v0.0.75 | 2026-05-25 | |

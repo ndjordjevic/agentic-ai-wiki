@@ -10,6 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-25 | ingest | microsoft-playwright-mcp | Playwright MCP server — browser automation for LLMs via accessibility tree; 32,980 stars, ~40 tools, TypeScript, Apache-2.0, v0.0.75
+
+- Created: wiki/sources/microsoft-playwright-mcp.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+---
+
 ## 2026-05-25 | ingest | goOZSXmrYQ4-my-complete-agentic-coding-workflow-to-b | Cole Medin's complete greenfield agentic coding workflow: AI layer (PRD + global rules + commands + subagents) + PIV loop (Plan, Implement, Validate) for solo production-grade development with Claude Code
 
 - Created: wiki/sources/goOZSXmrYQ4-my-complete-agentic-coding-workflow-to-b.md
