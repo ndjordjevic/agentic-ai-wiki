@@ -185,6 +185,8 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/sources/buildermethods-agent-os.md",
+    "raw/github/buildermethods-agent-os.md",
     "wiki/sources/qa.tech.md",
     "raw/web/qa.tech.md",
     "wiki/sources/vercel-labs-agent-browser.md",
@@ -209,8 +211,6 @@
     "wiki/sources/openai-codex-plugin-cc.md",
     "raw/github/openai-codex-plugin-cc.md",
     "wiki/sources/pydantic.dev.md",
-    "raw/github/pydantic-pydantic.md",
-    "raw/web/pydantic.dev.md",
     "excalidraw.log",
     "skills-lock.json",
     "skills"

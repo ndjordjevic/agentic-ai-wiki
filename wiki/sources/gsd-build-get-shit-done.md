@@ -22,6 +22,7 @@ related:
   - snarktank-ralph
   - bmad-code-org-bmad-method
   - othmanadi-planning-with-files
+  - buildermethods-agent-os
 product: gsd
 detail_level: standard
 created: 2026-05-14

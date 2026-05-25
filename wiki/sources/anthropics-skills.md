@@ -23,6 +23,7 @@ related:
   - obra-superpowers
   - browse.sh
   - bmad-code-org-bmad-method
+  - buildermethods-agent-os
   - othmanadi-planning-with-files
   - openai-codex-plugin-cc
 product: skills

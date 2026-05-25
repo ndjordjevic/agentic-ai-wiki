@@ -69,5 +69,6 @@ created: 2026-04-28
 | [[microsoft-playwright-mcp]] | github | standard | 2026-05-25 | |
 | [[vercel-labs-agent-browser]] | github | standard | 2026-05-25 | |
 | [[qa.tech]] | web | standard | 2026-05-25 | |
+| [[buildermethods-agent-os]] | github | standard | 2026-05-25 | |
 
-_57 sources ingested._
+_58 sources ingested._

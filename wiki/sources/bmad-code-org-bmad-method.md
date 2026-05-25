@@ -19,6 +19,7 @@ related:
   - factory.ai
   - othmanadi-planning-with-files
   - goOZSXmrYQ4-my-complete-agentic-coding-workflow-to-b
+  - buildermethods-agent-os
 product: bmad-method
 detail_level: standard
 created: 2026-05-22

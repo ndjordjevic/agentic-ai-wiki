@@ -23,6 +23,7 @@ related:
   - openai-codex-plugin-cc
   - othmanadi-planning-with-files
   - backnotprop-plannotator
+  - buildermethods-agent-os
 product: superpowers
 detail_level: standard
 created: 2026-05-14

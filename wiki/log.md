@@ -10,6 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-25 | ingest | buildermethods-agent-os | Standards-injection and spec-shaping framework for AI coding agents — /discover-standards, /inject-standards, /shape-spec, plan-mode-first; 4,635 stars, MIT, v3.0.0
+
+- Created: wiki/sources/buildermethods-agent-os.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+---
+
 ## 2026-05-25 | ingest | qa.tech | AI agentic testing platform — goal-driven E2E agents, PR review automation, MCP server, CLI; replaces manual QA across SDLC
 
 - Created: wiki/sources/qa.tech.md
