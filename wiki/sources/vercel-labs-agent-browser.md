@@ -13,6 +13,7 @@ tags:
 related:
   - microsoft-playwright-mcp
   - browse.sh
+  - qa.tech
   - skills.sh
 product: agent-browser
 detail_level: standard

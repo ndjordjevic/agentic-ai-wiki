@@ -31,3 +31,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/pydantic.dev.md | pydantic.dev | 9 | 2026-05-22 | |
 | raw/web/factory.ai.md | factory.ai | 8 | 2026-05-25 | |
 | raw/web/vibekanban.com.md | vibekanban.com | 9 | 2026-05-25 | |
+| raw/web/qa.tech.md | qa.tech | 6 | 2026-05-25 | |

@@ -185,6 +185,8 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/sources/qa.tech.md",
+    "raw/web/qa.tech.md",
     "wiki/sources/vercel-labs-agent-browser.md",
     "raw/github/vercel-labs-agent-browser.md",
     "wiki/sources/microsoft-playwright-mcp.md",
@@ -209,8 +211,6 @@
     "wiki/sources/pydantic.dev.md",
     "raw/github/pydantic-pydantic.md",
     "raw/web/pydantic.dev.md",
-    "wiki/sources/anombyte93-prd-taskmaster.md",
-    "raw/github/anombyte93-prd-taskmaster.md",
     "excalidraw.log",
     "skills-lock.json",
     "skills"

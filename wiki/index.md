@@ -68,5 +68,6 @@ created: 2026-04-28
 | [[goOZSXmrYQ4-my-complete-agentic-coding-workflow-to-b]] | youtube | standard | 2026-05-25 | |
 | [[microsoft-playwright-mcp]] | github | standard | 2026-05-25 | |
 | [[vercel-labs-agent-browser]] | github | standard | 2026-05-25 | |
+| [[qa.tech]] | web | standard | 2026-05-25 | |
 
-_56 sources ingested._
+_57 sources ingested._

@@ -140,3 +140,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 
 - [x] https://github.com/microsoft/playwright-mcp <!-- ingested 2026-05-25 -->
 - [x] https://github.com/vercel-labs/agent-browser <!-- ingested 2026-05-25 -->
+- [x] https://qa.tech/ <!-- ingested 2026-05-25 -->

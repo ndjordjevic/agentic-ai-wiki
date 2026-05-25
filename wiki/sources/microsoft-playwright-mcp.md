@@ -13,6 +13,7 @@ tags:
 related:
   - modelcontextprotocol-servers-tree-main-src-sequentialthinking
   - strandsagents.com
+  - qa.tech
   - vercel-labs-agent-browser
 product: playwright-mcp
 detail_level: standard

@@ -10,6 +10,13 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
+## 2026-05-25 | ingest | qa.tech | AI agentic testing platform — goal-driven E2E agents, PR review automation, MCP server, CLI; replaces manual QA across SDLC
+
+- Created: wiki/sources/qa.tech.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
+---
+
 ## 2026-05-25 | ingest | vercel-labs-agent-browser | Browser automation CLI for AI agents — native Rust, snapshot/ref workflow, direct CDP daemon; 34,229 stars, Apache-2.0, v0.27.0
 
 - Created: wiki/sources/vercel-labs-agent-browser.md
