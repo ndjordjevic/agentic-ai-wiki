@@ -8,9 +8,9 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
-## 2026-06-03 | ingest | decrypt.co | Nemotron 3 Ultra launch — 550B MoE open-weight model, agentic benchmarks, inference speed vs Kimi K2.6
+## 2026-06-03 | ingest | nvidia-nemotron-3-ultra | Nemotron 3 Ultra launch — 550B MoE open-weight model, agentic benchmarks, inference speed vs Kimi K2.6
 
-- Created: wiki/sources/decrypt.co.md
+- Created: wiki/sources/nvidia-nemotron-3-ultra.md
 - Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
 - Related updates: litellm.ai, openrouter.ai, huggingface.co
 

@@ -14,7 +14,7 @@ related:
   - langchain.com
   - pytorch.org
   - litellm.ai
-  - decrypt.co
+  - nvidia-nemotron-3-ultra
 product: huggingface
 detail_level: standard
 created: 2026-05-18

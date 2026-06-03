@@ -76,6 +76,6 @@ created: 2026-04-28
 | [[tryhamster.com]] | web | standard | 2026-05-25 | |
 | [[gitlawb-openclaude]] | github | standard | 2026-05-27 | |
 | [[must-have-clis-2026]] | web | standard | 2026-05-30 | |
-| [[decrypt.co]] | web | standard | 2026-06-03 | |
+| [[nvidia-nemotron-3-ultra]] | web | standard | 2026-06-03 | |
 
 _65 sources ingested._

@@ -1,4 +1,4 @@
-# decrypt.co
+# nvidia-nemotron-3-ultra
 
 ## Fetch log
 - Inbox URL: https://decrypt.co/369689/nvidia-open-ai-model-nemotron-3-ultra

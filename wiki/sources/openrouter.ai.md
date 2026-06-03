@@ -12,7 +12,7 @@ tags:
 related:
   - litellm.ai
   - gitlawb-openclaude
-  - decrypt.co
+  - nvidia-nemotron-3-ultra
 product: openrouter
 detail_level: standard
 created: 2026-05-18

@@ -22,7 +22,7 @@ related:
   - strandsagents.com
   - pydantic.dev
   - gitlawb-openclaude
-  - decrypt.co
+  - nvidia-nemotron-3-ultra
 product: litellm
 detail_level: standard
 created: 2026-05-18
