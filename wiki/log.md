@@ -8,6 +8,30 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-03 | ingest | decrypt.co | Nemotron 3 Ultra launch — 550B MoE open-weight model, agentic benchmarks, inference speed vs Kimi K2.6
+
+- Created: wiki/sources/decrypt.co.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+- Related updates: litellm.ai, openrouter.ai, huggingface.co
+
+---
+
+## 2026-05-30 | ingest | must-have-clis-2026 | 10 must-have CLIs for AI agents in 2026 — CLI vs MCP token efficiency analysis and ten first-class developer CLIs
+
+- Created: wiki/sources/must-have-clis-2026.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+- Related updates: browse.sh, skills.sh
+
+---
+
+## 2026-05-27 | ingest | gitlawb-openclaude | Open-source coding-agent CLI (27,861 stars) — provider-agnostic Claude Code–style workflow with descriptor-first multi-provider architecture
+
+- Created: wiki/sources/gitlawb-openclaude.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Related updates: openrouter.ai, litellm.ai, snarktank-ralph, openai-codex-plugin-cc
+
+---
+
 ## 2026-05-25 | ingest | tryhamster.com | AI-native product planning platform (Studio + Taskmaster) — Brief → Align → Plan → Execute → Ship
 
 - Created: wiki/sources/tryhamster.com.md

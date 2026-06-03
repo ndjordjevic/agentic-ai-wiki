@@ -18,6 +18,7 @@ tags:
 related:
   - paperclip.ing
   - shareai-lab-learn-claude-code
+  - must-have-clis-2026
   - anthropics-skills
   - nidhinjs-prompt-master
   - obra-superpowers

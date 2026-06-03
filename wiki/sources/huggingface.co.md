@@ -14,10 +14,11 @@ related:
   - langchain.com
   - pytorch.org
   - litellm.ai
+  - decrypt.co
 product: huggingface
 detail_level: standard
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-06-03
 ---
 
 Hugging Face is the open-source AI platform where the machine learning community collaborates on models, datasets, and applications. It hosts over 2 million models, 1.5 million datasets, and 1.5 million AI apps (Spaces), serving as both the primary distribution hub for state-of-the-art ML research and a production deployment platform. For agentic AI practitioners, Hugging Face is significant on two levels: as the ecosystem through which most open-weight foundation models (Llama, Mistral, Qwen, and thousands more) are accessed, fine-tuned, and served, and as the home of smolagents — a lightweight Python library for building code-first agents that rivals LangChain in simplicity while staying model- and tool-agnostic.

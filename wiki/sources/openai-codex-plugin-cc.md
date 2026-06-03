@@ -17,10 +17,11 @@ related:
   - github-spec-kit
   - factory.ai
   - backnotprop-plannotator
+  - gitlawb-openclaude
 product: codex-plugin-cc
 detail_level: standard
 created: 2026-05-22
-updated: 2026-05-25
+updated: 2026-05-27
 ---
 
 OpenAI's official Claude Code plugin that bridges the Codex CLI into Claude Code, enabling developers to trigger Codex code reviews and delegate background tasks without leaving their Claude Code session. With 19k+ stars it is the most widely adopted cross-agent workflow bridge in the Claude Code ecosystem to date.

@@ -17,8 +17,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
-- [ ] https://github.com/Gitlawb/openclaude
-- [ ] https://medium.com/@unicodeveloper/10-must-have-clis-for-your-ai-agents-in-2026-51ba0d0881df
 - [ ] https://x.com/ericzakariasson/status/2036762680401223946?s=20
 - [ ] https://focusee.imobie.com/
 - [ ] https://wisprflow.ai/
@@ -80,6 +78,9 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://designmd.cc/
 - [ ] https://crafterq.ai/
 - [ ] https://neon.com/
+- [ ] https://summio.org/
+- [ ] https://github.com/Chachamaru127/claude-code-harness
+- [ ] https://phasr.sh/
 
 ## Completed
 
@@ -90,6 +91,7 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 -->
 
 - [x] https://www.taskmaster.one/ <!-- ingested 2026-05-25 -->
+- [x] https://medium.com/@unicodeveloper/10-must-have-clis-for-your-ai-agents-in-2026-51ba0d0881df <!-- ingested 2026-05-30 -->
 - [x] https://github.com/eyaltoledano/claude-task-master <!-- ingested 2026-05-25 -->
 - [x] https://github.com/garrytan/gstack <!-- ingested 2026-05-25 -->
 - [x] https://github.com/openai/codex-plugin-cc <!-- ingested 2026-05-22 -->
@@ -144,3 +146,5 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://qa.tech/ <!-- ingested 2026-05-25 -->
 - [x] https://github.com/buildermethods/agent-os <!-- ingested 2026-05-25 -->
 - [x] https://tryhamster.com/ <!-- ingested 2026-05-25 -->
+- [x] https://github.com/Gitlawb/openclaude <!-- ingested 2026-05-27 -->
+- [x] https://decrypt.co/369689/nvidia-open-ai-model-nemotron-3-ultra <!-- ingested 2026-06-03 -->
