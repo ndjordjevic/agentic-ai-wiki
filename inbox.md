@@ -90,61 +90,61 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
      The refresh tag is removed automatically after re-fetch.
 -->
 
-- [x] https://www.taskmaster.one/ <!-- ingested 2026-05-25 -->
-- [x] https://medium.com/@unicodeveloper/10-must-have-clis-for-your-ai-agents-in-2026-51ba0d0881df <!-- ingested 2026-05-30 -->
-- [x] https://github.com/eyaltoledano/claude-task-master <!-- ingested 2026-05-25 -->
-- [x] https://github.com/garrytan/gstack <!-- ingested 2026-05-25 -->
-- [x] https://github.com/openai/codex-plugin-cc <!-- ingested 2026-05-22 -->
-- [x] https://github.com/snarktank/ralph <!-- ingested 2026-05-20 -->
-- [x] https://github.com/anombyte93/prd-taskmaster <!-- ingested 2026-05-22 -->
-- [x] https://github.com/nidhinjs/prompt-master <!-- ingested 2026-05-13 -->
-- [x] https://github.com/gsd-build/get-shit-done <!-- ingested 2026-05-14 -->
-- [x] https://github.com/obra/superpowers <!-- ingested 2026-05-14 -->
-- [x] https://youtu.be/9d5bzxVsocw?si=AWIw-sO-_-4pSzK1 <!-- ingested 2026-05-14 -->
-- [x] https://www.anthropic.com/engineering/harness-design-long-running-apps <!-- detail:deep --> <!-- ingested 2026-05-14 -->
-- [x] https://paperclip.ing <!-- ingested 2026-04-28 -->
 - [x] https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking <!-- detail:brief --> <!-- ingested 2026-04-28 -->
-- [x] https://www.langchain.com/ <!-- detail:deep --> <!-- ingested 2026-04-29 --> <!-- refreshed 2026-04-29 --> <!-- refreshed 2026-04-29 -->
+- [x] https://paperclip.ing <!-- ingested 2026-04-28 -->
 - [x] https://runcabinet.com/ <!-- detail:deep --> <!-- ingested 2026-04-29 -->
+- [x] https://www.langchain.com/ <!-- detail:deep --> <!-- ingested 2026-04-29 --> <!-- refreshed 2026-04-29 --> <!-- refreshed 2026-04-29 -->
 - [x] https://skills.sh/ <!-- ingested 2026-04-30 -->
-- [x] https://www.canva.com/ <!-- ingested 2026-05-02 -->
 - [x] https://github.com/njbrake/agent-of-empires <!-- ingested 2026-05-02 -->
 - [x] https://github.com/tmux/tmux <!-- ingested 2026-05-02 -->
 - [x] https://tmuxai.dev/ <!-- ingested 2026-05-02 -->
+- [x] https://www.canva.com/ <!-- ingested 2026-05-02 -->
 - [x] https://github.com/shareAI-lab/learn-claude-code <!-- ingested 2026-05-05 -->
 - [x] https://github.com/anthropics/skills <!-- ingested 2026-05-11 -->
 - [x] https://github.com/forrestchang/andrej-karpathy-skills <!-- ingested 2026-05-11 -->
 - [x] https://x.com/mnilax/status/2053116311132155938?s=43&t=5l2OHSF10JbahgpENs1smw <!-- ingested 2026-05-11 -->
 - [x] https://github.com/6eanut/llm-wiki <!-- ingested 2026-05-13 -->
+- [x] https://github.com/nidhinjs/prompt-master <!-- ingested 2026-05-13 -->
 - [x] https://planana.xyz/ <!-- ingested 2026-05-13 -->
-- [x] https://www.meetclaras.com/ <!-- ingested 2026-05-13 -->
 - [x] https://reseek.net/ <!-- ingested 2026-05-13 -->
+- [x] https://www.meetclaras.com/ <!-- ingested 2026-05-13 -->
 - [x] https://github.com/coleam00/archon <!-- ingested 2026-05-14 -->
+- [x] https://github.com/gsd-build/get-shit-done <!-- ingested 2026-05-14 -->
+- [x] https://github.com/obra/superpowers <!-- ingested 2026-05-14 -->
+- [x] https://www.anthropic.com/engineering/harness-design-long-running-apps <!-- detail:deep --> <!-- ingested 2026-05-14 -->
+- [x] https://youtu.be/9d5bzxVsocw?si=AWIw-sO-_-4pSzK1 <!-- ingested 2026-05-14 -->
 - [x] https://github.com/gastownhall/beads <!-- ingested 2026-05-18 -->
 - [x] https://huggingface.co/ <!-- ingested 2026-05-18 -->
+- [x] https://openrouter.ai/ <!-- ingested 2026-05-18 -->
 - [x] https://pytorch.org/ <!-- ingested 2026-05-18 -->
 - [x] https://www.litellm.ai/ <!-- ingested 2026-05-18 -->
-- [x] https://openrouter.ai/ <!-- ingested 2026-05-18 -->
-- [x] https://github.com/zilliztech/claude-context <!-- ingested 2026-05-19 -->
 - [x] https://github.com/github/spec-kit <!-- ingested 2026-05-19 -->
+- [x] https://github.com/zilliztech/claude-context <!-- ingested 2026-05-19 -->
 - [x] https://openspec.dev/ <!-- ingested 2026-05-19 -->
 - [x] https://traycer.ai/ <!-- ingested 2026-05-19 -->
 - [x] https://browse.sh/ <!-- ingested 2026-05-20 -->
+- [x] https://github.com/snarktank/ralph <!-- ingested 2026-05-20 -->
 - [x] https://strandsagents.com/ <!-- ingested 2026-05-21 -->
 - [x] https://crewai.com/ <!-- ingested 2026-05-22 -->
+- [x] https://github.com/anombyte93/prd-taskmaster <!-- ingested 2026-05-22 -->
 - [x] https://github.com/bmad-code-org/BMAD-METHOD <!-- ingested 2026-05-22 -->
+- [x] https://github.com/openai/codex-plugin-cc <!-- ingested 2026-05-22 -->
 - [x] https://openvibe.sh/ <!-- ingested 2026-05-22 -->
 - [x] https://pydantic.dev/ <!-- ingested 2026-05-22 -->
 - [x] https://factory.ai/ <!-- ingested 2026-05-25 -->
-- [x] https://vibekanban.com/ <!-- ingested 2026-05-25 -->
-- [x] https://github.com/EveryInc/compound-engineering-plugin <!-- ingested 2026-05-25 -->
-- [x] https://github.com/OthmanAdi/planning-with-files <!-- ingested 2026-05-25 -->
 - [x] https://github.com/backnotprop/plannotator <!-- ingested 2026-05-25 -->
-- [x] https://youtu.be/goOZSXmrYQ4?si=w9BiVjjSVnKdUzGf <!-- ingested 2026-05-25 -->
+- [x] https://github.com/buildermethods/agent-os <!-- ingested 2026-05-25 -->
+- [x] https://github.com/EveryInc/compound-engineering-plugin <!-- ingested 2026-05-25 -->
+- [x] https://github.com/eyaltoledano/claude-task-master <!-- ingested 2026-05-25 -->
+- [x] https://github.com/garrytan/gstack <!-- ingested 2026-05-25 -->
 - [x] https://github.com/microsoft/playwright-mcp <!-- ingested 2026-05-25 -->
+- [x] https://github.com/OthmanAdi/planning-with-files <!-- ingested 2026-05-25 -->
 - [x] https://github.com/vercel-labs/agent-browser <!-- ingested 2026-05-25 -->
 - [x] https://qa.tech/ <!-- ingested 2026-05-25 -->
-- [x] https://github.com/buildermethods/agent-os <!-- ingested 2026-05-25 -->
 - [x] https://tryhamster.com/ <!-- ingested 2026-05-25 -->
+- [x] https://vibekanban.com/ <!-- ingested 2026-05-25 -->
+- [x] https://www.taskmaster.one/ <!-- ingested 2026-05-25 -->
+- [x] https://youtu.be/goOZSXmrYQ4?si=w9BiVjjSVnKdUzGf <!-- ingested 2026-05-25 -->
 - [x] https://github.com/Gitlawb/openclaude <!-- ingested 2026-05-27 -->
+- [x] https://medium.com/@unicodeveloper/10-must-have-clis-for-your-ai-agents-in-2026-51ba0d0881df <!-- ingested 2026-05-30 -->
 - [x] https://decrypt.co/369689/nvidia-open-ai-model-nemotron-3-ultra <!-- ingested 2026-06-03 -->
