@@ -8,6 +8,14 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-06 | ingest | agent-field-pr-af | Open-source AgentField multi-agent PR reviewer — dynamic review dimensions, evidence grounding, compound risk synthesis
+
+- Created: wiki/sources/agent-field-pr-af.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Related updates: everyinc-compound-engineering-plugin, qa.tech, garrytan-gstack, openrouter.ai
+
+---
+
 ## 2026-06-03 | ingest | nvidia-nemotron-3-ultra | Nemotron 3 Ultra launch — 550B MoE open-weight model, agentic benchmarks, inference speed vs Kimi K2.6
 
 - Created: wiki/sources/nvidia-nemotron-3-ultra.md

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/index.md",
+                "file": "wiki/sources/agent-field-pr-af.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "agent-field-pr-af"
             }
           }
         ]
@@ -185,14 +185,22 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/index.md",
+    "wiki/sources/agent-field-pr-af.md",
+    "raw/github/agent-field-pr-af.md",
+    "wiki/sources/njbrake-agent-of-empires.md",
+    "wiki/sources/canva.com.md",
+    "wiki/sources/langchain.com-deepagents.md",
+    "wiki/sources/langchain.com-langchain.md",
+    "wiki/sources/langchain.com-fleet.md",
     "wiki/sources/sequentialthinking-mcp.md",
+    "wiki/sources/paperclip.ing.md",
     "raw/web/sequentialthinking-mcp.md",
     "wiki/overview.md",
     "wiki/sources/nvidia-nemotron-3-ultra.md",
     "raw/web/nvidia-nemotron-3-ultra.md",
     "wiki/sources/decrypt.co.md",
     "raw/web/decrypt.co.md",
-    "wiki/index.md",
     "wiki/sources/must-have-clis-2026.md",
     "raw/web/must-have-clis-2026.md",
     "wiki/sources/medium.com.md",
@@ -203,14 +211,6 @@
     "wiki/sources/traycer.ai.md",
     "wiki/sources/openspec.dev.md",
     "wiki/sources/nidhinjs-prompt-master.md",
-    "wiki/sources/tryhamster.com.md",
-    "raw/web/tryhamster.com.md",
-    "wiki/sources/garrytan-gstack.md",
-    "raw/github/garrytan-gstack.md",
-    "wiki/sources/eyaltoledano-claude-task-master.md",
-    "wiki/sources/www.taskmaster.one.md",
-    "raw/github/eyaltoledano-claude-task-master.md",
-    "raw/web/www.taskmaster.one.md",
     "excalidraw.log",
     "skills-lock.json",
     "skills"

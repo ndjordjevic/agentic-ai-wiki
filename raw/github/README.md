@@ -44,3 +44,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/eyaltoledano-claude-task-master.md | eyaltoledano/claude-task-master | 27242 | main | task-master-ai@0.43.1 | 2026-05-25 | |
 | raw/github/garrytan-gstack.md | garrytan/gstack | 101913 | main | none | 2026-05-25 | |
 | raw/github/gitlawb-openclaude.md | Gitlawb/openclaude | 27861 | main | v0.15.0 | 2026-05-27 | |
+| raw/github/agent-field-pr-af.md | Agent-Field/pr-af | 28 | main | none | 2026-06-06 | |

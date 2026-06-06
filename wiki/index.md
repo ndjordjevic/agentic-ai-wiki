@@ -77,5 +77,6 @@ created: 2026-04-28
 | [[gitlawb-openclaude]] | github | standard | 2026-05-27 | |
 | [[must-have-clis-2026]] | web | standard | 2026-05-30 | |
 | [[nvidia-nemotron-3-ultra]] | web | standard | 2026-06-03 | |
+| [[agent-field-pr-af]] | github | standard | 2026-06-06 | |
 
-_65 sources ingested._
+_66 sources ingested._
