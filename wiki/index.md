@@ -78,5 +78,6 @@ created: 2026-04-28
 | [[must-have-clis-2026]] | web | standard | 2026-05-30 | |
 | [[nvidia-nemotron-3-ultra]] | web | standard | 2026-06-03 | |
 | [[agent-field-pr-af]] | github | standard | 2026-06-06 | |
+| [[x.com-ericzakariasson-building-clis-for-agents]] | web | standard | 2026-06-06 | |
 
-_66 sources ingested._
+_67 sources ingested._

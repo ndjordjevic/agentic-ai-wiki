@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/sources/agent-field-pr-af.md",
+                "file": "wiki/sources/x.com-ericzakariasson-building-clis-for-agents.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "agent-field-pr-af"
+              "title": "x.com-ericzakariasson-building-clis-for-agents"
             }
           }
         ]
@@ -187,6 +187,10 @@
   "lastOpenFiles": [
     "wiki/index.md",
     "wiki/sources/agent-field-pr-af.md",
+    "wiki/sources/x.com-ericzakariasson-building-clis-for-agents.md",
+    "raw/web/x.com-ericzakariasson-building-clis-for-agents.md",
+    "wiki/sources/x.com-ericzakariasson-building-clis-agents.md",
+    "raw/web/x.com-ericzakariasson-building-clis-agents.md",
     "raw/github/agent-field-pr-af.md",
     "wiki/sources/njbrake-agent-of-empires.md",
     "wiki/sources/canva.com.md",
@@ -207,10 +211,6 @@
     "inbox.md",
     "raw/web/medium.com.md",
     "wiki/sources/gitlawb-openclaude.md",
-    "raw/github/gitlawb-openclaude.md",
-    "wiki/sources/traycer.ai.md",
-    "wiki/sources/openspec.dev.md",
-    "wiki/sources/nidhinjs-prompt-master.md",
     "excalidraw.log",
     "skills-lock.json",
     "skills"

@@ -19,6 +19,7 @@ related:
   - forrestchang-andrej-karpathy-skills
   - coleam00-archon
   - gastownhall-beads
+  - x.com-ericzakariasson-building-clis-for-agents
   - snarktank-ralph
   - bmad-code-org-bmad-method
   - othmanadi-planning-with-files
@@ -28,7 +29,7 @@ related:
 product: gsd
 detail_level: standard
 created: 2026-05-14
-updated: 2026-05-25
+updated: 2026-06-06
 ---
 
 GSD (Get Shit Done) is a lightweight meta-prompting, context engineering, and spec-driven development system for AI coding agents — with 62,040 stars and MIT license, it is one of the highest-starred agent harness toolkits in the ecosystem. Built by TÂCHES for solo developers who rely entirely on Claude Code and similar agents, it solves *context rot*: the quality degradation that accumulates as an agent's context window fills up. The core mechanism is a six-command loop that keeps the main context clean by delegating all heavy work to fresh-context subagents — researchers, planners, executors, and verifiers that each start with a full 200k-token window and nothing else.

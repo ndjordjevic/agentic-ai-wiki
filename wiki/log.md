@@ -8,6 +8,13 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-06 | ingest | x.com-ericzakariasson-building-clis-for-agents | Eric Zakariasson's 10 CLI design patterns for agent-usable command-line tools
+
+- Created: wiki/sources/x.com-ericzakariasson-building-clis-for-agents.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
+---
+
 ## 2026-06-06 | ingest | agent-field-pr-af | Open-source AgentField multi-agent PR reviewer — dynamic review dimensions, evidence grounding, compound risk synthesis
 
 - Created: wiki/sources/agent-field-pr-af.md
