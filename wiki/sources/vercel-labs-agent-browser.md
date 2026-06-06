@@ -131,7 +131,7 @@ Prefer [[microsoft-playwright-mcp]] when the agent runtime already speaks MCP an
 
 ## Ecosystem
 
-- **skills.sh / npx skills**: agent-browser publishes its SKILL.md through the [[skills.sh]] ecosystem; it appears on the skills.sh leaderboard
+- **[[skills.sh]] distribution / npx skills**: agent-browser publishes its SKILL.md through the [[skills.sh]] ecosystem; it appears on the [[skills.sh]] leaderboard
 - **AWS AgentCore**: first-party `agentcore` provider integrates with Amazon Bedrock's cloud browser service
 - **Vercel Sandbox**: first-party `vercel-sandbox` skill and examples for deploying browser automation in Vercel's serverless microVMs
 - **Electron**: dedicated `skill-data/electron/` for CDP-based Electron app control

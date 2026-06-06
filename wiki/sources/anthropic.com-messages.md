@@ -19,7 +19,7 @@ created: 2026-05-14
 updated: 2026-05-14
 ---
 
-The Messages API is Anthropic's direct model-access surface for building Claude-powered applications. Developers construct every conversation turn, manage state, and write their own tool loop — giving maximum control and flexibility for custom agent architectures. It is the foundation for the Agent Skills system, which layers modular, on-demand capability modules on top of the raw API.
+The Messages API is the direct model-access surface on the [[anthropic.com]] platform for building Claude-powered applications. Developers construct every conversation turn, manage state, and write their own tool loop — giving maximum control and flexibility for custom agent architectures. It is the foundation for the Agent Skills system, which layers modular, on-demand capability modules on top of the raw API.
 
 _All claims below are sourced from ../../raw/web/anthropic.com.md unless otherwise noted._
 

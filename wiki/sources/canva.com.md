@@ -15,7 +15,7 @@ related:
 product: canva
 detail_level: standard
 created: 2026-05-02
-updated: 2026-05-02
+updated: 2026-06-06
 ---
 
 Canva is an AI-powered visual design platform used by 240 million+ people and teams worldwide to create social media posts, presentations, videos, print products, and more. It matters for this wiki because Canva has added a remote MCP server (`https://mcp.canva.com/mcp`) that exposes its design capabilities as MCP-compatible tools, making it directly usable by AI agents and assistants through the Model Context Protocol. The developer platform (`canva.dev`) also provides Connect APIs for embedding Canva into external platforms and an Apps SDK for building plugins that run inside the Canva editor.

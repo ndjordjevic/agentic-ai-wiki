@@ -13,7 +13,7 @@ related:
 product: langchain
 detail_level: deep
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-06-06
 ---
 
 LangChain is the higher-level open-source framework in the LangChain stack. It focuses on getting working agents and LLM applications built quickly by combining model integrations, tools, prompts, memory, and middleware behind a production-ready `create_agent` abstraction while still leaving room for more advanced runtime customization.

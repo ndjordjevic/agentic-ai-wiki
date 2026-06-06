@@ -16,10 +16,10 @@ related:
 product: deepagents
 detail_level: deep
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-06-06
 ---
 
-Deep Agents is LangChain's batteries-included "agent harness" — an opinionated, higher-level SDK built on top of LangGraph that adds planning capabilities, file-system context management, subagent spawning, and long-term memory out of the box. It also ships the Deep Agents CLI, a terminal coding agent built on the same SDK. The docs classify it as a distinct layer from frameworks (LangChain) and runtimes (LangGraph), positioning it for complex, multi-step tasks that require autonomous planning and decomposition.
+Deep Agents is the [[langchain.com]] platform's batteries-included "agent harness" — an opinionated, higher-level SDK built on top of LangGraph that adds planning capabilities, file-system context management, subagent spawning, and long-term memory out of the box. It also ships the Deep Agents CLI, a terminal coding agent built on the same SDK. The docs classify it as a distinct layer from frameworks (LangChain) and runtimes (LangGraph), positioning it for complex, multi-step tasks that require autonomous planning and decomposition.
 
 _All claims below are sourced from ../../raw/web/langchain.com.md unless otherwise noted._
 

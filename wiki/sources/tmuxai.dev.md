@@ -22,7 +22,7 @@ related:
 product: tmuxai
 detail_level: standard
 created: 2026-05-02
-updated: 2026-05-02
+updated: 2026-06-06
 ---
 
 TmuxAI is an AI-powered, non-intrusive terminal assistant that runs inside a tmux session as a "pair programmer" alongside your existing workflow. Rather than replacing your shell or requiring a special terminal emulator, TmuxAI reads the live content of all visible tmux panes, communicates through a dedicated Chat Pane, and executes commands in a separate Exec Pane—always with user confirmation. With 1,790 GitHub stars and an active release cadence (v2.1.4 as of May 2026), TmuxAI sits at the intersection of AI agent tooling and the [[tmux-tmux]] ecosystem, and complements multi-agent session managers like [[njbrake-agent-of-empires]].
@@ -102,4 +102,4 @@ Apache License 2.0. 1,790 stars, 109 forks. Latest release: v2.1.4 (May 2026). A
 TmuxAI is part of a growing layer of AI tooling built on [[tmux-tmux]]:
 - [[njbrake-agent-of-empires]] — session manager for running multiple AI coding agents in parallel tmux sessions; complementary at the session-orchestration layer.
 - [tmux Plugin Manager (TPM)](https://github.com/tmux-plugins/tpm) — no direct integration, but TmuxAI works alongside any existing tmux config and plugins.
-- The `skills.sh` ecosystem (see [[skills.sh]]) provides the SKILL.md format that TmuxAI's own Skills feature implements natively.
+- The [[skills.sh]] ecosystem provides the SKILL.md format that TmuxAI's own Skills feature implements natively.

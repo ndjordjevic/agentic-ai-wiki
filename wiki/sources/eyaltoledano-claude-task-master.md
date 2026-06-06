@@ -24,7 +24,7 @@ created: 2026-05-25
 updated: 2026-05-25
 ---
 
-Taskmaster (`claude-task-master`, npm: `task-master-ai`) is an open-source AI-powered task management system by @eyaltoledano and @RalphEcom with 27,000+ stars, designed to work seamlessly with any AI chat interface or coding agent. It converts Product Requirements Documents into structured, dependency-aware task graphs and exposes them through a CLI and MCP server — making it a drop-in planning layer for Cursor, Lovable, Windsurf, Roo, and other AI-driven editors. The project is now maintained under the Hamster platform at `tryhamster.com`, with full documentation at `tryhamster.com/docs/taskmaster`.
+Taskmaster (`claude-task-master`, npm: `task-master-ai`) is an open-source AI-powered task management system by @eyaltoledano and @RalphEcom with 27,000+ stars, designed to work seamlessly with any AI chat interface or coding agent. It converts Product Requirements Documents into structured, dependency-aware task graphs and exposes them through a CLI and MCP server — making it a drop-in planning layer for Cursor, Lovable, Windsurf, Roo, and other AI-driven editors. The project is now maintained under the Hamster platform at [[tryhamster.com]], with full Taskmaster documentation on [[tryhamster.com]].
 
 _All claims below are sourced from ../../raw/github/eyaltoledano-claude-task-master.md unless otherwise noted._
 
@@ -135,7 +135,7 @@ In AI chat (MCP mode):
 - **Latest release:** `task-master-ai@0.43.1` (2026-03-31)
 - **License:** MIT with Commons Clause (allows use; restricts commercial resale of the tool itself)
 - **CI:** GitHub Actions (`ci.yml`)
-- **Actively maintained** — part of the Hamster platform (tryhamster.com); monorepo structure with Turborepo; 50+ documented CLI commands and 36 MCP tools
+- **Actively maintained** — part of the Hamster platform ([[tryhamster.com]]); monorepo structure with Turborepo; 50+ documented CLI commands and 36 MCP tools
 
 ## Ecosystem
 

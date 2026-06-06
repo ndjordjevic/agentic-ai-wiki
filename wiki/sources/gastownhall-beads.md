@@ -18,7 +18,7 @@ created: 2026-05-18
 updated: 2026-05-18
 ---
 
-Beads (`bd`) is a distributed, graph-based issue tracker designed as a persistent memory upgrade for AI coding agents. With 23,795 stars and an MIT license, it solves a core problem of long-horizon agent work: coding agents forget context across sessions and resort to lossy markdown task lists. Beads replaces markdown plans with a dependency-aware Dolt-powered SQL database, giving agents a structured, versioned, conflict-free task graph that persists across sessions, branches, and even across multiple concurrent agents. The project includes native integration recipes for Claude Code, GitHub Copilot CLI, Codex, Gemini CLI, Factory.ai, and more.
+Beads (`bd`) is a distributed, graph-based issue tracker designed as a persistent memory upgrade for AI coding agents. With 23,795 stars and an MIT license, it solves a core problem of long-horizon agent work: coding agents forget context across sessions and resort to lossy markdown task lists. Beads replaces markdown plans with a dependency-aware Dolt-powered SQL database, giving agents a structured, versioned, conflict-free task graph that persists across sessions, branches, and even across multiple concurrent agents. The project includes native integration recipes for Claude Code, GitHub Copilot CLI, Codex, Gemini CLI, [[factory.ai]], and more.
 
 _All claims below are sourced from ../../raw/github/gastownhall-beads.md unless otherwise noted._
 
@@ -94,4 +94,4 @@ For Git-free use, set `BEADS_DIR` and add `--stealth` to `bd init` to disable al
 
 ## Ecosystem
 
-Beads integrates with Claude Code (SessionStart/PreCompact hooks via `bd setup claude`), GitHub Copilot CLI (native plugin via `bd setup copilot`), Gemini CLI, Factory.ai, Codex, Cursor, Windsurf, Aider, and more via the recipe system. The `full` profile writes the complete command reference into agent instruction files; the `minimal` profile writes a pointer to `bd prime` for hook-enabled agents. Community-built UIs, extensions, and native apps are listed in `docs/COMMUNITY_TOOLS.md`. Dolt remotes (DoltHub, S3, GCS) handle sync without a dedicated server. An MCP/npm package (`@beads/bd`) and PyPI package (`beads-mcp`) extend reach to Python and Node.js environments.
+Beads integrates with Claude Code (SessionStart/PreCompact hooks via `bd setup claude`), GitHub Copilot CLI (native plugin via `bd setup copilot`), Gemini CLI, [[factory.ai]], Codex, Cursor, Windsurf, Aider, and more via the recipe system. The `full` profile writes the complete command reference into agent instruction files; the `minimal` profile writes a pointer to `bd prime` for hook-enabled agents. Community-built UIs, extensions, and native apps are listed in `docs/COMMUNITY_TOOLS.md`. Dolt remotes (DoltHub, S3, GCS) handle sync without a dedicated server. An MCP/npm package (`@beads/bd`) and PyPI package (`beads-mcp`) extend reach to Python and Node.js environments.
