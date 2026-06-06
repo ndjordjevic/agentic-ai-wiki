@@ -17,7 +17,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
-- [ ] https://focusee.imobie.com/
 - [ ] https://wisprflow.ai/
 - [ ] https://github.com/VoltAgent/awesome-agent-skills
 - [ ] https://pi.dev/
@@ -155,3 +154,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://decrypt.co/369689/nvidia-open-ai-model-nemotron-3-ultra <!-- ingested 2026-06-03 -->
 - [x] https://github.com/Agent-Field/pr-af <!-- ingested 2026-06-06 -->
 - [x] https://x.com/ericzakariasson/status/2036762680401223946?s=20 <!-- ingested 2026-06-06 -->
+- [x] https://focusee.imobie.com/ <!-- ingested 2026-06-06 -->
