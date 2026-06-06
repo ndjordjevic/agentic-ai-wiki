@@ -12,7 +12,7 @@ related:
   - canva.com
   - zilliztech-claude-context
   - microsoft-playwright-mcp
-product: servers
+product: sequentialthinking-mcp
 detail_level: brief
 created: 2026-04-28
 updated: 2026-05-25
@@ -20,7 +20,7 @@ updated: 2026-05-25
 
 The Sequential Thinking MCP Server is a focused Model Context Protocol server that exposes one tool, `sequential_thinking`, for stepwise, revisable, branching reasoning inside an MCP-aware host. This source matters because it shows a concrete pattern for packaging deliberation support as a reusable MCP capability rather than as a full agent framework, and it documents how that capability is installed across Claude Desktop, VS Code, and Codex CLI.
 
-_All claims below are sourced from ../../raw/web/modelcontextprotocol-servers-tree-main-src-sequentialthinking.md unless otherwise noted._
+_All claims below are sourced from ../../raw/web/sequentialthinking-mcp.md unless otherwise noted._
 
 ## What it does
 

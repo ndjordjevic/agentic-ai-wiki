@@ -11,7 +11,7 @@ tags:
   - microsoft
   - web-testing
 related:
-  - modelcontextprotocol-servers-tree-main-src-sequentialthinking
+  - sequentialthinking-mcp
   - strandsagents.com
   - qa.tech
   - vercel-labs-agent-browser
@@ -102,4 +102,4 @@ Docker headless deployment:
 
 ## Ecosystem
 
-Playwright MCP is the primary entry point for adding Playwright browser automation to any MCP-capable agent. It complements the broader MCP tool ecosystem — [[modelcontextprotocol-servers-tree-main-src-sequentialthinking]] is a reasoning-focused MCP server in the same ecosystem, and agent SDKs like [[strandsagents.com]] (Strands Agents, which supports MCP as a first-class tool integration layer) can register `@playwright/mcp` as a tool provider. The Playwright CLI+SKILLS alternative (`github.com/microsoft/playwright-cli`) is positioned for coding agents that prefer CLI-based workflows over MCP for token efficiency.
+Playwright MCP is the primary entry point for adding Playwright browser automation to any MCP-capable agent. It complements the broader MCP tool ecosystem — [[sequentialthinking-mcp]] is a reasoning-focused MCP server in the same ecosystem, and agent SDKs like [[strandsagents.com]] (Strands Agents, which supports MCP as a first-class tool integration layer) can register `@playwright/mcp` as a tool provider. The Playwright CLI+SKILLS alternative (`github.com/microsoft/playwright-cli`) is positioned for coding agents that prefer CLI-based workflows over MCP for token efficiency.

@@ -185,6 +185,8 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/sources/sequentialthinking-mcp.md",
+    "raw/web/sequentialthinking-mcp.md",
     "wiki/overview.md",
     "wiki/sources/nvidia-nemotron-3-ultra.md",
     "raw/web/nvidia-nemotron-3-ultra.md",
@@ -209,8 +211,6 @@
     "wiki/sources/www.taskmaster.one.md",
     "raw/github/eyaltoledano-claude-task-master.md",
     "raw/web/www.taskmaster.one.md",
-    "wiki/sources/buildermethods-agent-os.md",
-    "raw/github/buildermethods-agent-os.md",
     "excalidraw.log",
     "skills-lock.json",
     "skills"

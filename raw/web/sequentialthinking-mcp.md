@@ -1,4 +1,4 @@
-# modelcontextprotocol-servers-tree-main-src-sequentialthinking
+# sequentialthinking-mcp
 
 ## Fetch log
 - Inbox URL: https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking

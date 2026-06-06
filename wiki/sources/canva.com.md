@@ -11,7 +11,7 @@ tags:
   - design-automation
   - canva-ai
 related:
-  - modelcontextprotocol-servers-tree-main-src-sequentialthinking
+  - sequentialthinking-mcp
 product: canva
 detail_level: standard
 created: 2026-05-02
@@ -61,4 +61,4 @@ Product tiers gate features: all plans support design generation, editing, searc
 
 ## Ecosystem
 
-Canva's developer community hub is at `community.canva.dev`. The Apps Marketplace hosts 70+ third-party integrations. The `canva-sdks` GitHub org publishes the Apps SDK starter kit. A dedicated Canva Dev MCP Server is also available to give AI assistants context about the developer docs themselves (`https://www.canva.dev/docs/apps/mcp-server/`). Enterprise deployments can use partner integrations via `partners.canva.com`. Related MCP tooling in this wiki: [[modelcontextprotocol-servers-tree-main-src-sequentialthinking]] documents the Sequential Thinking MCP Server pattern, showing how MCP-compatible tools can be packaged and consumed by the same AI assistants that Canva targets.
+Canva's developer community hub is at `community.canva.dev`. The Apps Marketplace hosts 70+ third-party integrations. The `canva-sdks` GitHub org publishes the Apps SDK starter kit. A dedicated Canva Dev MCP Server is also available to give AI assistants context about the developer docs themselves (`https://www.canva.dev/docs/apps/mcp-server/`). Enterprise deployments can use partner integrations via `partners.canva.com`. Related MCP tooling in this wiki: [[sequentialthinking-mcp]] documents the Sequential Thinking MCP Server pattern, showing how MCP-compatible tools can be packaged and consumed by the same AI assistants that Canva targets.

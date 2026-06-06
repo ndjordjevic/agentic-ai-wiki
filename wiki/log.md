@@ -434,9 +434,9 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
-## 2026-04-28 | ingest | modelcontextprotocol-servers-tree-main-src-sequentialthinking | Sequential Thinking MCP Server — MCP tool for structured, revisable, branching reasoning
+## 2026-04-28 | ingest | sequentialthinking-mcp | Sequential Thinking MCP Server — MCP tool for structured, revisable, branching reasoning
 
-- Created: wiki/sources/modelcontextprotocol-servers-tree-main-src-sequentialthinking.md
+- Created: wiki/sources/sequentialthinking-mcp.md
 - Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
 
 ---

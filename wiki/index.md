@@ -13,7 +13,7 @@ created: 2026-04-28
 | Slug | Type | Detail | Ingested | Notes |
 |---|---|---|---|---|
 | [[paperclip.ing]] | web | standard | 2026-04-28 | |
-| [[modelcontextprotocol-servers-tree-main-src-sequentialthinking]] | web | brief | 2026-04-28 | |
+| [[sequentialthinking-mcp]] | web | brief | 2026-04-28 | |
 | [[langchain.com]] | web | deep | 2026-04-29 | |
 | [[langchain.com-langsmith]] | web | deep | 2026-04-29 | |
 | [[langchain.com-fleet]] | web | deep | 2026-04-29 | |

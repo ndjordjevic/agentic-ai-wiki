@@ -11,7 +11,7 @@ tags:
   - code-indexing
   - embedding-search
 related:
-  - modelcontextprotocol-servers-tree-main-src-sequentialthinking
+  - sequentialthinking-mcp
 product: claude-context
 detail_level: standard
 created: 2026-05-19
