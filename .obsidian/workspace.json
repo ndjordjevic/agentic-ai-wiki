@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/sources/voltagent-awesome-agent-skills.md",
+                "file": "wiki/index.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "voltagent-awesome-agent-skills"
+              "title": "index"
             }
           }
         ]
@@ -185,8 +185,15 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
-    "wiki/index.md",
     "wiki/sources/voltagent-awesome-agent-skills.md",
+    "wiki/sources/strandsagents.com.md.tmp.4654.c7b8dcdb7a16",
+    "wiki/sources/crewai.com.md.tmp.4654.0439653f7ceb",
+    "wiki/sources/strandsagents.com.md.tmp.4654.0ad61c247528",
+    "wiki/sources/wisprflow.ai.md.tmp.4654.5fad4e6afd89",
+    "wiki/sources/pi.dev.md",
+    "raw/github/earendil-works-pi.md",
+    "raw/web/pi.dev.md",
+    "wiki/index.md",
     "raw/github/voltagent-awesome-agent-skills.md",
     "wiki/sources/wisprflow.ai.md",
     "inbox.md.tmp.4654.a149f3f661c9",
@@ -211,12 +218,7 @@
     "wiki/sources/canva.com.md",
     "wiki/sources/langchain.com-deepagents.md",
     "wiki/sources/langchain.com-langchain.md",
-    "wiki/sources/langchain.com-fleet.md",
-    "wiki/sources/sequentialthinking-mcp.md",
-    "wiki/sources/paperclip.ing.md",
-    "raw/web/sequentialthinking-mcp.md",
     "excalidraw.log",
-    "skills-lock.json",
-    "skills"
+    "skills-lock.json"
   ]
 }

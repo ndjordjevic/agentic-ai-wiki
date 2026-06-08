@@ -8,6 +8,13 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-08 | ingest | pi.dev | Minimal terminal coding harness by Earendil Inc. — 60K stars, TypeScript, 15+ providers, 3,726 packages, four operating modes, SKILL.md compatible
+
+- Created: wiki/sources/pi.dev.md, raw/web/pi.dev.md, raw/github/earendil-works-pi.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+
+---
+
 ## 2026-06-08 | ingest | voltagent-awesome-agent-skills | Curated list of 1,424+ official and community SKILL.md agent skills across 50+ vendors and 8 AI coding tools
 
 - Created: wiki/sources/voltagent-awesome-agent-skills.md

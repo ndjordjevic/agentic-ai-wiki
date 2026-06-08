@@ -82,5 +82,6 @@ created: 2026-04-28
 | [[focusee.imobie.com]] | web | standard | 2026-06-06 | |
 | [[wisprflow.ai]] | web | standard | 2026-06-08 | |
 | [[voltagent-awesome-agent-skills]] | github | standard | 2026-06-08 | |
+| [[pi.dev]] | web | standard | 2026-06-08 | companion: earendil-works/pi |
 
-_70 sources ingested._
+_71 sources ingested._
