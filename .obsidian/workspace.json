@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/index.md",
+                "file": "wiki/sources/voltagent-awesome-agent-skills.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "voltagent-awesome-agent-skills"
             }
           }
         ]
@@ -185,14 +185,16 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/index.md",
+    "wiki/sources/voltagent-awesome-agent-skills.md",
+    "raw/github/voltagent-awesome-agent-skills.md",
+    "wiki/sources/wisprflow.ai.md",
     "inbox.md.tmp.4654.a149f3f661c9",
     "wiki/overview.md.tmp.4654.89902c419821",
     "wiki/log.md.tmp.4654.a30fa4ff86c2",
     "wiki/index.md.tmp.4654.2b5ee8e5445a",
-    "wiki/sources/wisprflow.ai.md",
     "raw/web/wisprflow.ai.md",
     "wiki/sources/anthropic.com.md",
-    "wiki/index.md",
     "wiki/sources/nidhinjs-prompt-master.md",
     "wiki/sources/reseek.net.md",
     "wiki/sources/meetclaras.com.md",
@@ -213,7 +215,6 @@
     "wiki/sources/sequentialthinking-mcp.md",
     "wiki/sources/paperclip.ing.md",
     "raw/web/sequentialthinking-mcp.md",
-    "wiki/overview.md",
     "excalidraw.log",
     "skills-lock.json",
     "skills"

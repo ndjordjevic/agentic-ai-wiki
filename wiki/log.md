@@ -8,6 +8,13 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-08 | ingest | voltagent-awesome-agent-skills | Curated list of 1,424+ official and community SKILL.md agent skills across 50+ vendors and 8 AI coding tools
+
+- Created: wiki/sources/voltagent-awesome-agent-skills.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+---
+
 ## 2026-06-08 | ingest | wisprflow.ai | AI voice-to-text dictation app — 4× faster typing via speech, cross-platform, developer-focused, enterprise-grade compliance
 
 - Created: wiki/sources/wisprflow.ai.md

@@ -81,5 +81,6 @@ created: 2026-04-28
 | [[x.com-ericzakariasson-building-clis-for-agents]] | web | standard | 2026-06-06 | |
 | [[focusee.imobie.com]] | web | standard | 2026-06-06 | |
 | [[wisprflow.ai]] | web | standard | 2026-06-08 | |
+| [[voltagent-awesome-agent-skills]] | github | standard | 2026-06-08 | |
 
-_69 sources ingested._
+_70 sources ingested._
