@@ -80,5 +80,6 @@ created: 2026-04-28
 | [[agent-field-pr-af]] | github | standard | 2026-06-06 | |
 | [[x.com-ericzakariasson-building-clis-for-agents]] | web | standard | 2026-06-06 | |
 | [[focusee.imobie.com]] | web | standard | 2026-06-06 | |
+| [[wisprflow.ai]] | web | standard | 2026-06-08 | |
 
-_68 sources ingested._
+_69 sources ingested._

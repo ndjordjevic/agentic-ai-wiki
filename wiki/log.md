@@ -8,6 +8,13 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-08 | ingest | wisprflow.ai | AI voice-to-text dictation app — 4× faster typing via speech, cross-platform, developer-focused, enterprise-grade compliance
+
+- Created: wiki/sources/wisprflow.ai.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
+---
+
 ## 2026-06-06 | ingest | focusee.imobie.com | AI screen recorder with auto-zoom, cursor effects, and AI post-editing for demos and tutorials
 
 - Created: wiki/sources/focusee.imobie.com.md
