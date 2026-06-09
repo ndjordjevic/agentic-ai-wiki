@@ -85,5 +85,6 @@ created: 2026-04-28
 | [[pi.dev]] | web | standard | 2026-06-08 | companion: earendil-works/pi |
 | [[graphify.net]] | web | standard | 2026-06-09 | companion: safishamsi/graphify |
 | [[open-design.ai]] | web | standard | 2026-06-09 | companion: nexu-io/open-design |
+| [[brave-search]] | web | standard | 2026-06-09 | companion: brave/brave-search-mcp-server |
 
-_73 sources ingested._
+_74 sources ingested._

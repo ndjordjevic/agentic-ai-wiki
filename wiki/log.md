@@ -8,6 +8,14 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-09 | ingest | brave-search | Privacy-first independent web search API with LLM Context, Search Goggles, 7 endpoints, and official MCP server (1.1K stars, TypeScript, STDIO)
+
+- Created: wiki/sources/brave-search.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/brave-brave-search-mcp-server.md
+
+---
+
 ## 2026-06-09 | ingest | open-design.ai | Open-source Claude Design alternative — 62K stars, agent-native design platform, 21+ CLI adapters, SKILL.md + DESIGN.md, BYOK, Apache-2.0
 
 - Created: wiki/sources/open-design.ai.md

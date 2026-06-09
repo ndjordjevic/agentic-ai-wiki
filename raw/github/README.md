@@ -49,3 +49,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/earendil-works-pi.md | earendil-works/pi | 60792 | main | v0.78.1 | 2026-06-08 | companion for pi.dev |
 | raw/github/safishamsi-graphify.md | safishamsi/graphify | 63681 | v8 | v0.8.36 | 2026-06-09 | companion for graphify.net |
 | raw/github/nexu-io-open-design.md | nexu-io/open-design | 62118 | main | open-design-v0.9.0 | 2026-06-09 | companion for open-design.ai |
+| raw/github/brave-brave-search-mcp-server.md | brave/brave-search-mcp-server | 1166 | main | v2.0.83 | 2026-06-09 | companion for brave-search |
