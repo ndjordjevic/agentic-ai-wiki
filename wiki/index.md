@@ -86,5 +86,6 @@ created: 2026-04-28
 | [[graphify.net]] | web | standard | 2026-06-09 | companion: safishamsi/graphify |
 | [[open-design.ai]] | web | standard | 2026-06-09 | companion: nexu-io/open-design |
 | [[brave-search]] | web | standard | 2026-06-09 | companion: brave/brave-search-mcp-server |
+| [[resend.com]] | web | standard | 2026-06-09 | companion: resend/resend-cli |
 
-_74 sources ingested._
+_75 sources ingested._

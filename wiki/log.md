@@ -8,6 +8,14 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-09 | ingest | resend.com | Email API for developers — REST + MCP server + agent-first CLI + 5 SKILL.md skills + webhooks, MIT, TypeScript, v2.3.0
+
+- Created: wiki/sources/resend.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/resend-resend-cli.md
+
+---
+
 ## 2026-06-09 | ingest | brave-search | Privacy-first independent web search API with LLM Context, Search Goggles, 7 endpoints, and official MCP server (1.1K stars, TypeScript, STDIO)
 
 - Created: wiki/sources/brave-search.md
