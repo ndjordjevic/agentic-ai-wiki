@@ -87,5 +87,6 @@ created: 2026-04-28
 | [[open-design.ai]] | web | standard | 2026-06-09 | companion: nexu-io/open-design |
 | [[brave-search]] | web | standard | 2026-06-09 | companion: brave/brave-search-mcp-server |
 | [[resend.com]] | web | standard | 2026-06-09 | companion: resend/resend-cli |
+| [[hostinger.com]] | web | standard | 2026-06-09 | |
 
-_75 sources ingested._
+_76 sources ingested._

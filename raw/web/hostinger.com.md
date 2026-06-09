@@ -1,0 +1,1743 @@
+# hostinger.com
+
+## Fetch log
+- Inbox URL: https://www.hostinger.com/1
+- Final URL: https://www.hostinger.com/
+- Fetched: 2026-06-09
+- Pages: 7
+- Mode: standard
+
+## llms.txt — https://www.hostinger.com/llms.txt
+# Hostinger
+> Comprehensive overview of Hostinger's web hosting services, tools, website builders, domain options, and specialized hosting solutions.
+
+## Core Hosting Services
+- [Web Hosting](https://www.hostinger.com/web-hosting): Affordable and reliable web hosting solutions.
+- [WordPress Hosting](https://www.hostinger.com/wordpress-hosting): Optimized hosting for WordPress websites.
+- [Cloud Hosting](https://www.hostinger.com/cloud-hosting): Scalable cloud infrastructure for growing websites.
+- [VPS Hosting](https://www.hostinger.com/vps-hosting): Virtual private server solutions with dedicated resources.
+- [Cheap Web Hosting](https://www.hostinger.com/cheap-web-hosting): Budget-friendly hosting options without compromising quality.
+
+## Domain Services
+- [Domain Name Search](https://www.hostinger.com/domain-name-search): Find and register your perfect domain name.
+- [Free Domain](https://www.hostinger.com/free-domain): Get a free domain with selected hosting packages.
+- [Cheap Domain Names](https://www.hostinger.com/cheap-domain-names): Affordable domain registration options.
+- [Domain Transfer](https://www.hostinger.com/transfer-domain): Transfer your existing domain to Hostinger.
+- [WHOIS Lookup](https://www.hostinger.com/whois): Check domain ownership and registration information.
+
+## Website Building Tools
+- [Website Builder](https://www.hostinger.com/website-builder): Easy drag-and-drop website creation tool.
+- [AI Website Builder](https://www.hostinger.com/ai-website-builder): Create websites quickly with AI assistance.
+- [AI Website Builder for WordPress](https://www.hostinger.com/ai-website-builder-for-wordpress): AI-powered WordPress site creation.
+- [Landing Page Builder](https://www.hostinger.com/landing-page-builder): Create effective landing pages.
+- [Logo Maker](https://www.hostinger.com/logo-maker): Design professional logos for your brand.
+- [Blog Maker](https://www.hostinger.com/blog-maker): Easy blog creation platform.
+
+## Specialized Website Solutions
+- [eCommerce Hosting](https://www.hostinger.com/ecommerce-hosting): Hosting optimized for online stores.
+- [eCommerce Website](https://www.hostinger.com/ecommerce-website): Complete solutions for online businesses.
+- [Business Website](https://www.hostinger.com/business-website): Professional websites for businesses.
+- [Portfolio Website](https://www.hostinger.com/portfolio-website): Showcase your work with portfolio sites.
+- [Wedding Website](https://www.hostinger.com/wedding-website): Create websites for wedding events.
+- [Event Website](https://www.hostinger.com/event-website): Websites for conferences and events.
+- [Restaurant Website](https://www.hostinger.com/restaurant-website): Restaurant-specific website solutions.
+- [Photography Website](https://www.hostinger.com/photography-website): Websites for photographers.
+- [Real Estate Website](https://www.hostinger.com/real-estate-website): Solutions for real estate professionals.
+- [Fitness Website](https://www.hostinger.com/fitness-website): Websites for fitness professionals and gyms.
+
+## CMS & Application Hosting
+- [CMS Hosting](https://www.hostinger.com/cms-hosting): Hosting for content management systems.
+- [WordPress Hosting](https://www.hostinger.com/wordpress-hosting): Specialized hosting for WordPress.
+- [WooCommerce Hosting](https://www.hostinger.com/woocommerce-hosting): Optimized for WooCommerce stores.
+- [Joomla Hosting](https://www.hostinger.com/joomla-hosting): Hosting solutions for Joomla websites.
+- [Drupal Hosting](https://www.hostinger.com/drupal-hosting): Hosting optimized for Drupal CMS.
+- [PrestaShop Hosting](https://www.hostinger.com/prestashop-hosting): Hosting for PrestaShop eCommerce.
+- [PHP Hosting](https://www.hostinger.com/php-hosting): Optimized for PHP applications.
+
+## VPS Solutions
+- [Linux Hosting](https://www.hostinger.com/vps/linux-hosting): VPS with various Linux distributions.
+- [Ubuntu Hosting](https://www.hostinger.com/vps/ubuntu-hosting): Ubuntu-based VPS solutions.
+- [Debian Hosting](https://www.hostinger.com/vps/debian-hosting): Debian-based virtual servers.
+- [CentOS Hosting](https://www.hostinger.com/vps/centos-hosting): CentOS virtual private servers.
+- [Docker Hosting](https://www.hostinger.com/vps/docker-hosting): VPS optimized for Docker containers.
+- [Game Server Hosting](https://www.hostinger.com/vps/game-server-hosting): VPS solutions for game servers.
+- [Minecraft Hosting](https://www.hostinger.com/vps/minecraft-hosting): Dedicated Minecraft server hosting.
+
+## Business Solutions
+- [Business Email](https://www.hostinger.com/business-email): Professional email hosting for businesses.
+- [Google Workspace](https://www.hostinger.com/google-workspace): Google's productivity suite integration.
+- [Website Design](https://www.hostinger.com/website-design): Professional website design services.
+- [Website Migration](https://www.hostinger.com/website-migration): Transfer your existing website to Hostinger.
+- [Free SSL Certificate](https://www.hostinger.com/free-ssl-certificate): Secure your website with SSL.
+
+## Website Templates
+- [Website Templates](https://www.hostinger.com/website-templates): Pre-designed website templates.
+- [Business Templates](https://www.hostinger.com/templates/business): Templates for business websites.
+- [eCommerce Templates](https://www.hostinger.com/templates/ecommerce): Templates for online stores.
+- [Portfolio Templates](https://www.hostinger.com/templates/portfolio): Templates for portfolio websites.
+- [Blog Templates](https://www.hostinger.com/templates/blog): Templates for blog websites.
+- [Restaurant Templates](https://www.hostinger.com/templates/restaurant): Templates for restaurant websites.
+- [Wedding Templates](https://www.hostinger.com/templates/wedding): Templates for wedding websites.
+
+## Domain Extensions
+- [.com Domain](https://www.hostinger.com/tld/com-domain): Register a .com domain name.
+- [.net Domain](https://www.hostinger.com/tld/net-domain): Register a .net domain name.
+- [.org Domain](https://www.hostinger.com/tld/org-domain): Register a .org domain name.
+- [.io Domain](https://www.hostinger.com/tld/io-domain): Register a .io domain name.
+- [.tech Domain](https://www.hostinger.com/tld/tech-domain): Register a .tech domain name.
+- [Country TLDs](https://www.hostinger.com/tld): Various country-specific domain extensions.
+
+## Company Information
+- [About Hostinger](https://www.hostinger.com/about): Company information and history.
+- [Careers](https://www.hostinger.com/career): Job opportunities at Hostinger.
+- [Principles](https://www.hostinger.com/principles): Company values and mission.
+- [Technology](https://www.hostinger.com/technology): Infrastructure and technology stack.
+- [Sustainability](https://www.hostinger.com/sustainability): Environmental initiatives.
+- [Reviews](https://www.hostinger.com/reviews): Customer testimonials and reviews.
+- [Newsroom](https://www.hostinger.com/newsroom): Company news and updates.
+- [Contacts](https://www.hostinger.com/contacts): Contact information.
+
+## Partner Programs
+- [Affiliates Program](https://www.hostinger.com/affiliates): Earn commissions promoting Hostinger.
+- [Referral Program](https://www.hostinger.com/referral-program): Refer friends and earn rewards.
+- [Wall of Fame](https://www.hostinger.com/wall-of-fame): Recognition for top contributors.
+
+## Tools & Resources
+- [Business Name Generator](https://www.hostinger.com/business-name-generator): Generate unique business names.
+- [Special Offers](https://www.hostinger.com/coupons): Discounts and promotional deals.
+- [Black Friday Deals](https://www.hostinger.com/black-friday-web-hosting-deals): Special Black Friday offers.
+- [Site Map](https://www.hostinger.com/sitemap): Complete website directory.
+- [Report Abuse](https://www.hostinger.com/report-abuse): Report abuse of Hostinger services.
+- [Whistleblow](https://www.hostinger.com/whistleblow): Report violations or issues.
+
+# Hostinger Support Articles
+
+## Domains
+- [Are domain names purchased at Hostinger registered to your own name](https://support.hostinger.com/en/articles/1583416-are-domain-names-purchased-at-hostinger-registered-to-your-own-name): Domain's ownership after registering it at Hostinger
+- [Are idn domains supported at Hostinger](https://support.hostinger.com/en/articles/1583418-are-idn-domains-supported-at-hostinger): Using Internationalized Domain Names domains at Hostinger
+- [Are wildcard or multi domain SSL certificates supported at Hostinger](https://support.hostinger.com/en/articles/1583432-are-wildcard-or-multi-domain-ssl-certificates-supported-at-hostinger): Having one SSL certificate for several domain names, or for a domain name and its subdomains
+- [Can a domain name be changed after purchase](https://support.hostinger.com/en/articles/1583411-can-a-domain-name-be-changed-after-purchase): Changing or replacing a purchased domain name
+- [Can a domain transfer be canceled](https://support.hostinger.com/en/articles/8899390-can-a-domain-transfer-be-canceled): Is it possible to stop a domain transfer?
+- [Can external domains be hosted at Hostinger](https://support.hostinger.com/en/articles/1583408-can-external-domains-be-hosted-at-hostinger): Hosting a domain registered with another provider at Hostinger
+- [Complete guide to fr domains at Hostinger](https://support.hostinger.com/en/articles/10766174-complete-guide-to-fr-domains-at-hostinger): Requirements, renewal and transfer process for .fr domains
+- [Connecting a different domain to your existing website](https://support.hostinger.com/en/articles/6807580-connecting-a-different-domain-to-your-existing-website): Connecting another domain to a website created with WordPress, Website Builder, Hostinger Horizons, or other website type
+- [Dns zone management at Hostinger](https://support.hostinger.com/en/collections/2534491-dns-zone-management-at-hostinger): DNS Zone Management at Hostinger | Hostinger Help Center
+- [Dns](https://support.hostinger.com/en/collections/2590037-dns): DNS | Hostinger Help Center
+- [Dns](https://support.hostinger.com/en/collections/944831-dns): Managing your domain's DNS Zone
+- [Domain contact details](https://support.hostinger.com/en/collections/3209160-domain-contact-details): Domain Contact Details | Hostinger Help Center
+- [Domain does not work with www](https://support.hostinger.com/en/articles/1583410-domain-does-not-work-with-www): Fixing a website that cannot be accessed with www
+- [Domain life cycle](https://support.hostinger.com/en/articles/3004042-domain-life-cycle): Navigating the domain life cycle: Available, Active, Grace, Redemption, and Deletion Periods
+- [Domain registration](https://support.hostinger.com/en/collections/3209170-domain-registration): Domain Registration | Hostinger Help Center
+- [Domain renewal](https://support.hostinger.com/en/collections/3209150-domain-renewal): Domain Renewal | Hostinger Help Center
+- [Domain verification](https://support.hostinger.com/en/collections/3209156-domain-verification): Domain Verification | Hostinger Help Center
+- [Domains](https://support.hostinger.com/en/collections/3304441-domains): Domains | Hostinger Help Center
+- [Domains](https://support.hostinger.com/en/collections/944762-domains): Useful information about purchasing, transferring and managing your domains at Hostinger
+- [Hostinger email dns records](https://support.hostinger.com/en/collections/2944645-hostinger-email-dns-records): Hostinger Email: DNS Records | Hostinger Help Center
+- [Hostinger horizons how to connect a domain](https://support.hostinger.com/en/articles/10672797-hostinger-horizons-how-to-connect-a-domain): Learn how to connect a custom domain to your web app created with Hostinger Horizons and get your web application live
+- [Hostinger horizons how to connect a subdomain](https://support.hostinger.com/en/articles/10673027-hostinger-horizons-how-to-connect-a-subdomain): Learn how to connect a subdomain to your Horizons project and how to get your web application live
+- [How long does domain transfer take](https://support.hostinger.com/en/articles/1583399-how-long-does-domain-transfer-take): Find out when is your domain transfer going to be completed
+- [How long does it take for a new domain to be active](https://support.hostinger.com/en/articles/1583403-how-long-does-it-take-for-a-new-domain-to-be-active): How much time is required for new domain activation
+- [How much does it cost to register a new domain](https://support.hostinger.com/en/articles/1583426-how-much-does-it-cost-to-register-a-new-domain): Learn about domain registration prices
+- [How to access your website content without a domain](https://support.hostinger.com/en/articles/2489693-how-to-access-your-website-content-without-a-domain): Ways to access your website before or during domain connection
+- [How to add a domain to google search console](https://support.hostinger.com/en/articles/3692620-how-to-add-a-domain-to-google-search-console): Step-by-step guide for adding a domain to Google Search Console.
+- [How to add a domain to the bing search console](https://support.hostinger.com/en/articles/5844144-how-to-add-a-domain-to-the-bing-search-console): Step-by-step guide for adding a domain to the Bing Search Console
+- [How to assign a login page to a domain instead of ip at cyberpanel](https://support.hostinger.com/en/articles/5387340-how-to-assign-a-login-page-to-a-domain-instead-of-ip-at-cyberpanel): How to log in to your CyberPanel with a domain name instead of IP
+- [How to cancel a domain name](https://support.hostinger.com/en/articles/1583402-how-to-cancel-a-domain-name): What to do if you no longer want to use a domain
+- [How to change dns records in other domain registrars](https://support.hostinger.com/en/articles/4410887-how-to-change-dns-records-in-other-domain-registrars): Changing the DNS records (NS, TXT, MX, A, etc.) of your domain in different domain registrars/hosting providers
+- [How to change domain contact details for es domains](https://support.hostinger.com/en/articles/5016411-how-to-change-domain-contact-details-for-es-domains): Changing .es domain owner's details
+- [How to change domain contact details](https://support.hostinger.com/en/articles/4778256-how-to-change-domain-contact-details): Editing the contact details of a domain purchased at Hostinger
+- [How to change the php version for subfolders or subdomains](https://support.hostinger.com/en/articles/4047803-how-to-change-the-php-version-for-subfolders-or-subdomains): Setting a specific PHP version for a specific websites, subfolders or subdomains
+- [How to change the registrant of uk domain](https://support.hostinger.com/en/articles/11097933-how-to-change-the-registrant-of-uk-domain): Changing ownership of your .UK domain name
+- [How to check a domain status on whois](https://support.hostinger.com/en/articles/6614690-how-to-check-a-domain-status-on-whois): Verifying a domain's status using WHOIS and understanding its meaning
+- [How to check recent dns changes for your domain](https://support.hostinger.com/en/articles/1583671-how-to-check-recent-dns-changes-for-your-domain): Checking the progress of recent changes to the DNS zone
+- [How to check the domain transfer status](https://support.hostinger.com/en/articles/1583417-how-to-check-the-domain-transfer-status): Checking the current status of a domain that's being transferred to Hostinger
+- [How to connect a domain to Hostinger website builder](https://support.hostinger.com/en/articles/8347449-how-to-connect-a-domain-to-hostinger-website-builder): Connecting a domain to Hostinger Website Builder
+- [How to connect a preferred domain name instead of a temporary one](https://support.hostinger.com/en/articles/10085905-how-to-connect-a-preferred-domain-name-instead-of-a-temporary-one): Replacing *.hostingersite.com and *.builder-preview.com with your own domain name
+- [How to connect a subdomain to Hostinger website builder](https://support.hostinger.com/en/articles/6976680-how-to-connect-a-subdomain-to-hostinger-website-builder): Learn how to publish your website using a subdomain
+- [How to copy a wordpress website to another domain name](https://support.hostinger.com/en/articles/6601521-how-to-copy-a-wordpress-website-to-another-domain-name): Duplicating your WordPress website on a different domain at Hostinger
+- [How to create a subdomain if the root domain is connected to the builder](https://support.hostinger.com/en/articles/8479551-how-to-create-a-subdomain-if-the-root-domain-is-connected-to-the-builder): Creating a subdomain when the root domain is linked to Hostinger Website Builder
+- [How to create a subdomain without a hosting plan](https://support.hostinger.com/en/articles/8907694-how-to-create-a-subdomain-without-a-hosting-plan): Learn how to create a subdomain if you only have a domain name at Hostinger
+- [How to create and delete subdomains](https://support.hostinger.com/en/articles/1583405-how-to-create-and-delete-subdomains): Creating, managing, and deleting subdomains at Hostinger
+- [How to fix a domain suspended due to pending icann verification](https://support.hostinger.com/en/articles/1583442-how-to-fix-a-domain-suspended-due-to-pending-icann-verification): Unsuspending a domain due to missing email validation
+- [How to fix invalid cpf and other cpf errors for br domains](https://support.hostinger.com/en/articles/6361512-how-to-fix-invalid-cpf-and-other-cpf-errors-for-br-domains): Fixing document related errors (CPF/CNPJ) registration of .BR domains
+- [How to fix the cpf is already in use error for br domains](https://support.hostinger.com/en/articles/6363844-how-to-fix-the-cpf-is-already-in-use-error-for-br-domains): Using a unique CPF for .br domain registration
+- [How to fix the domain already used at Hostinger error](https://support.hostinger.com/en/articles/8947528-how-to-fix-the-domain-already-used-at-hostinger-error): Learn what to do if you get the error “Already used at Hostinger”
+- [How to fix the domain is not owned by the same user error](https://support.hostinger.com/en/articles/4744216-how-to-fix-the-domain-is-not-owned-by-the-same-user-error): Fixing the “Domain is not owned by the same user” error
+- [How to fix the gmail couldn t verify that domain actually sent this message error](https://support.hostinger.com/en/articles/1583477-how-to-fix-the-gmail-couldn-t-verify-that-domain-actually-sent-this-message-error): Setting up an SPF record to prevent Gmail's "non-authenticated email sender" indicator
+- [How to fix you already have a domain registration on another provider error for br domains](https://support.hostinger.com/en/articles/6364435-how-to-fix-you-already-have-a-domain-registration-on-another-provider-error-for-br-domains): Verifying your domain provider details in Registro.br
+- [How to fix your domain is not pointing to Hostinger error](https://support.hostinger.com/en/articles/1583300-how-to-fix-your-domain-is-not-pointing-to-hostinger-error): What does “Your domain is connecting to Hostinger” mean?
+- [How to host multiple domains](https://support.hostinger.com/en/articles/1583486-how-to-host-multiple-domains): Adding domains to the same hosting package at Hostinger
+- [How to lock or unlock a domain at Hostinger](https://support.hostinger.com/en/articles/4791444-how-to-lock-or-unlock-a-domain-at-hostinger): Enabling or disabling the domain lock to allow or disallow transferring your domain registered at Hostinger
+- [How to manage dns records at Hostinger](https://support.hostinger.com/en/articles/1583249-how-to-manage-dns-records-at-hostinger): Managing the DNS records of a domain in hPanel
+- [How to manage dns zone on 123 reg](https://support.hostinger.com/en/articles/4410564-how-to-manage-dns-zone-on-123-reg): Managing DNS records (NS, TXT, MX, A, etc) on 123-reg
+- [How to manage dns zone on aruba](https://support.hostinger.com/en/articles/4410606-how-to-manage-dns-zone-on-aruba): Managing DNS records (NS, TXT, MX, A, etc) on Aruba
+- [How to manage dns zone on bigrock](https://support.hostinger.com/en/articles/4410634-how-to-manage-dns-zone-on-bigrock): Managing DNS records (NS, TXT, MX, A, etc) on BigRock
+- [How to manage dns zone on bluehost](https://support.hostinger.com/en/articles/4410635-how-to-manage-dns-zone-on-bluehost): Managing DNS records (NS, TXT, MX, A, etc) on Bluehost
+- [How to manage dns zone on dreamhost](https://support.hostinger.com/en/articles/4410642-how-to-manage-dns-zone-on-dreamhost): Managing DNS records (NS, TXT, MX, A, etc) on Dreamhost
+- [How to manage dns zone on enom](https://support.hostinger.com/en/articles/4410647-how-to-manage-dns-zone-on-enom): Managing DNS records (NS, TXT, MX, A, etc) on eNom
+- [How to manage dns zone on fasthosts](https://support.hostinger.com/en/articles/4410680-how-to-manage-dns-zone-on-fasthosts): Managing DNS records (NS, TXT, MX, A, etc) on Fasthosts
+- [How to manage dns zone on gandi net](https://support.hostinger.com/en/articles/4410716-how-to-manage-dns-zone-on-gandi-net): Managing DNS records (NS, TXT, MX, A, etc) on Gandi.net
+- [How to manage dns zone on hostgator](https://support.hostinger.com/en/articles/4410748-how-to-manage-dns-zone-on-hostgator): Managing DNS records (NS, TXT, MX, A, etc) on HostGator
+- [How to manage dns zone on hover](https://support.hostinger.com/en/articles/4410751-how-to-manage-dns-zone-on-hover): Managing DNS records (NS, TXT, MX, A, etc) on Hover
+- [How to manage dns zone on idcloudhost](https://support.hostinger.com/en/articles/4410753-how-to-manage-dns-zone-on-idcloudhost): Managing DNS records (NS, TXT, MX, A, etc) on IDCloudHost
+- [How to manage dns zone on indoreg](https://support.hostinger.com/en/articles/4410757-how-to-manage-dns-zone-on-indoreg): Managing DNS records (NS, TXT, MX, A, etc) on Indoreg
+- [How to manage dns zone on ionos](https://support.hostinger.com/en/articles/4410602-how-to-manage-dns-zone-on-ionos): Managing DNS records (NS, TXT, MX, A, etc) on Ionos
+- [How to manage dns zone on locaweb brazil](https://support.hostinger.com/en/articles/4410758-how-to-manage-dns-zone-on-locaweb-brazil): Managing DNS records (NS, TXT, MX, A, etc) on Locaweb Brazil
+- [How to manage dns zone on name com](https://support.hostinger.com/en/articles/4410766-how-to-manage-dns-zone-on-name-com): Managing DNS records (NS, TXT, MX, A, etc) on Name.com
+- [How to manage dns zone on namecheap](https://support.hostinger.com/en/articles/4410794-how-to-manage-dns-zone-on-namecheap): Managing DNS records (NS, TXT, MX, A, etc) on Namecheap
+- [How to manage dns zone on namesilo](https://support.hostinger.com/en/articles/4410811-how-to-manage-dns-zone-on-namesilo): Managing DNS records (NS, TXT, MX, A, etc) on Namesilo
+- [How to manage dns zone on network solutions](https://support.hostinger.com/en/articles/4410828-how-to-manage-dns-zone-on-network-solutions): Managing DNS records (NS, TXT, MX, A, etc) on Network Solutions
+- [How to manage dns zone on one com](https://support.hostinger.com/en/articles/4410844-how-to-manage-dns-zone-on-one-com): Managing DNS records (NS, TXT, MX, A, etc) on One.com
+- [How to manage dns zone on ovh](https://support.hostinger.com/en/articles/4410852-how-to-manage-dns-zone-on-ovh): Managing DNS records (NS, TXT, MX, A, etc) on OVH
+- [How to manage dns zone on qwords](https://support.hostinger.com/en/articles/4410855-how-to-manage-dns-zone-on-qwords): Managing DNS records (NS, TXT, MX, A, etc) on Qwords
+- [How to manage dns zone on strato](https://support.hostinger.com/en/articles/4410868-how-to-manage-dns-zone-on-strato): We're having technical difficulties (500)
+- [How to manage dns zone on uniregistry](https://support.hostinger.com/en/articles/4410871-how-to-manage-dns-zone-on-uniregistry)
+- [How to manage dns zone on uol](https://support.hostinger.com/en/articles/4410874-how-to-manage-dns-zone-on-uol): Managing DNS records (NS, TXT, MX, A, etc) on UOL
+- [How to manage dns zone on web com](https://support.hostinger.com/en/articles/4410881-how-to-manage-dns-zone-on-web-com): Managing DNS records (NS, TXT, MX, A, etc) on Web.com
+- [How to manage dns zone on wix](https://support.hostinger.com/en/articles/4410883-how-to-manage-dns-zone-on-wix): Managing DNS records (NS, TXT, MX, A, etc) on Wix
+- [How to manage dns zone on wordpress com](https://support.hostinger.com/en/articles/4410885-how-to-manage-dns-zone-on-wordpress-com): Managing DNS records (NS, TXT, MX, A, etc) on WordPress.com
+- [How to manage the dns zone at cloudflare](https://support.hostinger.com/en/articles/4410549-how-to-manage-the-dns-zone-at-cloudflare): Managing DNS records (NS, TXT, MX, A, etc) at Cloudflare
+- [How to manage the dns zone on digitalocean](https://support.hostinger.com/en/articles/4410638-how-to-manage-the-dns-zone-on-digitalocean): Managing DNS records (NS, TXT, MX, A, etc) on DigitalOcean
+- [How to manage the dns zone on godaddy](https://support.hostinger.com/en/articles/4410579-how-to-manage-the-dns-zone-on-godaddy): Managing DNS records at GoDaddy
+- [How to manage the dns zone on rumahweb](https://support.hostinger.com/en/articles/4410858-how-to-manage-the-dns-zone-on-rumahweb): Managing DNS records (NS, TXT, MX, A, etc) on Rumahweb
+- [How to manage the dns zone on siteground](https://support.hostinger.com/en/articles/4410863-how-to-manage-the-dns-zone-on-siteground): Managing DNS records (NS, TXT, MX, A, etc) on SiteGround
+- [How to move a domain between Hostinger accounts](https://support.hostinger.com/en/articles/4068055-how-to-move-a-domain-between-hostinger-accounts): Transferring a domain between Hostinger accounts
+- [How to move a website s content to another domain name](https://support.hostinger.com/en/articles/3592280-how-to-move-a-website-s-content-to-another-domain-name): Changing the domain of a website and transferring the content at Hostinger
+- [How to move a website to another hosting plan while keeping the same domain name](https://support.hostinger.com/en/articles/7238400-how-to-move-a-website-to-another-hosting-plan-while-keeping-the-same-domain-name): Moving a website between hosting plans
+- [How to park a domain](https://support.hostinger.com/en/articles/1583404-how-to-park-a-domain): Parking and unparking domains at Hostinger
+- [How to point a domain from nic ar to Hostinger](https://support.hostinger.com/en/articles/8041102-how-to-point-a-domain-from-nic-ar-to-hostinger): Connect your .AR or .COM.AR domain to a website hosted at Hostinger from NIC Argentina
+- [How to point a domain from registro br to Hostinger](https://support.hostinger.com/en/articles/6370410-how-to-point-a-domain-from-registro-br-to-hostinger): Connect your .br domain to a website hosted at Hostinger from Registro.BR
+- [How to point a domain to Hostinger website builder via cloudflare](https://support.hostinger.com/en/articles/6865646-how-to-point-a-domain-to-hostinger-website-builder-via-cloudflare): Learn how to point your domain to Hostinger Website Builder using Cloudflare
+- [How to point a domain to Hostinger website builder](https://support.hostinger.com/en/articles/6627577-how-to-point-a-domain-to-hostinger-website-builder): Connect a domain to your site created with Hostinger Website Builder
+- [How to point a domain to Hostinger](https://support.hostinger.com/en/articles/1863967-how-to-point-a-domain-to-hostinger): Connect your domain to a website hosted at Hostinger
+- [How to point a domain to blogger](https://support.hostinger.com/en/articles/4739279-how-to-point-a-domain-to-blogger): Pointing a domain to Blogger (Blogspot) through Hostinger
+- [How to point a domain to bluehost](https://support.hostinger.com/en/articles/4739450-how-to-point-a-domain-to-bluehost): Pointing a domain to Bluehost through Hostinger
+- [How to point a domain to canva](https://support.hostinger.com/en/articles/10327454-how-to-point-a-domain-to-canva): Connect your Hostinger-registered domain to your Canva website
+- [How to point a domain to elementor](https://support.hostinger.com/en/articles/11118034-how-to-point-a-domain-to-elementor): Pointing a domain from Hostinger to Elementor
+- [How to point a domain to external services](https://support.hostinger.com/en/articles/4737652-how-to-point-a-domain-to-external-services): Pointing a Hostinger domain to external services or providers
+- [How to point a domain to godaddy](https://support.hostinger.com/en/articles/4739327-how-to-point-a-domain-to-godaddy): Pointing a domain to GoDaddy through Hostinger
+- [How to point a domain to google sites](https://support.hostinger.com/en/articles/4469015-how-to-point-a-domain-to-google-sites): Pointing a domain to Google Sites through Hostinger
+- [How to point a domain to hostgator](https://support.hostinger.com/en/articles/4739446-how-to-point-a-domain-to-hostgator): Pointing a domain to HostGator through Hostinger
+- [How to point a domain to ionos](https://support.hostinger.com/en/articles/4739453-how-to-point-a-domain-to-ionos): Pointing a domain to IONOS through Hostinger
+- [How to point a domain to namecheap](https://support.hostinger.com/en/articles/4739454-how-to-point-a-domain-to-namecheap): Pointing a domain to Namecheap through Hostinger
+- [How to point a domain to odoo](https://support.hostinger.com/en/articles/7733038-how-to-point-a-domain-to-odoo): Pointing a domain to Odoo through Hostinger
+- [How to point a domain to shopify](https://support.hostinger.com/en/articles/1583434-how-to-point-a-domain-to-shopify): Pointing a domain from Hostinger to Shopify
+- [How to point a domain to siteground](https://support.hostinger.com/en/articles/4739443-how-to-point-a-domain-to-siteground): Pointing a domain to SiteGround through Hostinger
+- [How to point a domain to systeme io](https://support.hostinger.com/en/articles/7733990-how-to-point-a-domain-to-systeme-io): Pointing a domain to systeme.io through Hostinger
+- [How to point a domain to tiendanube](https://support.hostinger.com/en/articles/8205039-how-to-point-a-domain-to-tiendanube): Pointing a domain to Tiendanube from Hostinger
+- [How to point a domain to tilda](https://support.hostinger.com/en/articles/4468879-how-to-point-a-domain-to-tilda): Pointing a domain to Tilda through Hostinger
+- [How to point a domain to weebly](https://support.hostinger.com/en/articles/4739314-how-to-point-a-domain-to-weebly): Pointing a domain to Weebly through Hostinger
+- [How to point a domain to wix](https://support.hostinger.com/en/articles/4468904-how-to-point-a-domain-to-wix): Pointing a domain to Wix through Hostinger
+- [How to point a domain to wordpress com](https://support.hostinger.com/en/articles/4739451-how-to-point-a-domain-to-wordpress-com): Pointing a domain to WordPress.com through Hostinger
+- [How to purchase a domain name](https://support.hostinger.com/en/articles/1583421-how-to-purchase-a-domain-name): Registering a domain name at Hostinger
+- [How to redirect a domain without a hosting plan](https://support.hostinger.com/en/articles/3212384-how-to-redirect-a-domain-without-a-hosting-plan): Redirecting a domain to another one without a hosting plan
+- [How to register a domain for free](https://support.hostinger.com/en/articles/1583407-how-to-register-a-domain-for-free): Claiming the free domain included in eligible hosting plans at Hostinger
+- [How to renew a domain before its expiration](https://support.hostinger.com/en/articles/4147505-how-to-renew-a-domain-before-its-expiration): Renewing an active domain at Hostinger
+- [How to renew an elsewhere registered domain at Hostinger](https://support.hostinger.com/en/articles/1583423-how-to-renew-an-elsewhere-registered-domain-at-hostinger): Renewing your domain name from a different provider
+- [How to renew an expired domain](https://support.hostinger.com/en/articles/6058634-how-to-renew-an-expired-domain): Renewing domains in the grace and redemption periods
+- [How to reset your domain s dns zone](https://support.hostinger.com/en/articles/6215812-how-to-reset-your-domain-s-dns-zone): Resetting the DNS records of domains pointing to Hostinger
+- [How to set up a domain for google workspace email](https://support.hostinger.com/en/articles/1583453-how-to-set-up-a-domain-for-google-workspace-email): DNS records required to connect a domain with Google Workspace Email
+- [How to set up a domain for titan email](https://support.hostinger.com/en/articles/3559975-how-to-set-up-a-domain-for-titan-email): Setting up email DNS records (MX and SPF records) for Titan Email
+- [How to set up different domains per language with wpml](https://support.hostinger.com/en/articles/11026631-how-to-set-up-different-domains-per-language-with-wpml): Learn how to organize translations into different domains with WPML and Hostinger
+- [How to set up the service provider for br domains](https://support.hostinger.com/en/articles/6758798-how-to-set-up-the-service-provider-for-br-domains): Changing your .br domain service provider at Registro.br
+- [How to transfer a ae domain](https://support.hostinger.com/en/articles/10427466-how-to-transfer-a-ae-domain): A comprehensive guide to the United Arab Emirates domain transfer requirements
+- [How to transfer a br domain to Hostinger](https://support.hostinger.com/en/articles/8698031-how-to-transfer-a-br-domain-to-hostinger): Transferring .br domains to Hostinger
+- [How to transfer a com au domain](https://support.hostinger.com/en/articles/10427446-how-to-transfer-a-com-au-domain): A comprehensive guide to Australian domain transfer requirements
+- [How to transfer a domain to Hostinger](https://support.hostinger.com/en/articles/1583436-how-to-transfer-a-domain-to-hostinger): Transferring your domain to Hostinger: requirements and steps
+- [How to transfer a es domain to Hostinger](https://support.hostinger.com/en/articles/9209139-how-to-transfer-a-es-domain-to-hostinger): Transferring .es domains to Hostinger
+- [How to transfer a eu domain to Hostinger](https://support.hostinger.com/en/articles/1771890-how-to-transfer-a-eu-domain-to-hostinger): Acquiring an authorization code for .EU domain transfers
+- [How to transfer a lt domain to Hostinger](https://support.hostinger.com/en/articles/6719190-how-to-transfer-a-lt-domain-to-hostinger): Transferring .lt domains to Hostinger
+- [How to transfer a ru domain from Hostinger](https://support.hostinger.com/en/articles/6080973-how-to-transfer-a-ru-domain-from-hostinger): Transferring a .RU domain from Hostinger
+- [How to transfer a uk domain to Hostinger](https://support.hostinger.com/en/articles/1771588-how-to-transfer-a-uk-domain-to-hostinger): Changing the IPS tag for .uk, .co.uk, .org.uk and .me.uk domain transfers
+- [How to transfer id domains](https://support.hostinger.com/en/articles/10243505-how-to-transfer-id-domains): Transferring your .id domain to Hostinger: requirements and steps
+- [How to unlock your domain to transfer it to Hostinger](https://support.hostinger.com/en/articles/5465728-how-to-unlock-your-domain-to-transfer-it-to-hostinger): Unlocking your domain name for transferring it from other providers to Hostinger
+- [How to upload required documents for indonesian domains](https://support.hostinger.com/en/articles/8655877-how-to-upload-required-documents-for-indonesian-domains): How to upload required documents for Indonesian domains | Hostinger Help Center
+- [How to use dnssec records at Hostinger](https://support.hostinger.com/en/articles/3667267-how-to-use-dnssec-records-at-hostinger): Adding DNSSEC records for your domain purchased at Hostinger
+- [How to use the domains section in hpanel](https://support.hostinger.com/en/articles/6940479-how-to-use-the-domains-section-in-hpanel): Locating and managing your domains in hPanel
+- [How to verify domain ownership](https://support.hostinger.com/en/articles/4771440-how-to-verify-domain-ownership): Using a domain registered at Hostinger with another account
+- [How to verify domain registrant s contact details](https://support.hostinger.com/en/articles/1583443-how-to-verify-domain-registrant-s-contact-details): Understanding the importance of verifying domain registrant's contact details
+- [Managing dns records at different registrars](https://support.hostinger.com/en/collections/2534407-managing-dns-records-at-different-registrars): Managing DNS Records at Different Registrars | Hostinger Help Center
+- [Managing your domains](https://support.hostinger.com/en/collections/3209155-managing-your-domains): Managing Your Domains | Hostinger Help Center
+- [Moving a website to another Hostinger account and another domain](https://support.hostinger.com/en/articles/7338638-moving-a-website-to-another-hostinger-account-and-another-domain): Moving a website between Hostinger accounts
+- [Moving a website to another Hostinger account keeping the same domain](https://support.hostinger.com/en/articles/7338133-moving-a-website-to-another-hostinger-account-keeping-the-same-domain): Moving a website between Hostinger accounts
+- [Moving a website to another hosting plan and another domain](https://support.hostinger.com/en/articles/7310928-moving-a-website-to-another-hosting-plan-and-another-domain): Moving a website between hosting plans
+- [Moving a wordpress website from a subdomain to the root domain](https://support.hostinger.com/en/articles/8165530-moving-a-wordpress-website-from-a-subdomain-to-the-root-domain): Learn how to manually migrate your WordPress website from a subdomain to the root domain
+- [Pointing domain to external services](https://support.hostinger.com/en/collections/2534501-pointing-domain-to-external-services): Pointing Domain to External Services  | Hostinger Help Center
+- [Requirement to transfer a se domain](https://support.hostinger.com/en/articles/10472968-requirement-to-transfer-a-se-domain): .SE domains are a type of top-level domain (TLD) specific to Sweden. They are used for websites, businesses, and organizations located or operating within the country.
+- [Requirements to register a dk domain](https://support.hostinger.com/en/articles/10301035-requirements-to-register-a-dk-domain): A comprehensive guide to Danish domain registration requirements
+- [Requirements to register a pt domain](https://support.hostinger.com/en/articles/10300990-requirements-to-register-a-pt-domain): Meeting the requirements to register a Portuguese domain at Hostinger
+- [Requirements to register id domains](https://support.hostinger.com/en/articles/8650182-requirements-to-register-id-domains): A complete list of Indonesian domain requirements
+- [Requirements to register it domains](https://support.hostinger.com/en/articles/10006475-requirements-to-register-it-domains): A comprehensive overview of Italian domain requirements
+- [Requirements to transfer ca domains](https://support.hostinger.com/en/articles/10441396-requirements-to-transfer-ca-domains): A comprehensive guide to the Canada domain transfer requirements
+- [Requirements to transfer gr domains](https://support.hostinger.com/en/articles/10472978-requirements-to-transfer-gr-domains): Transfer requirements for Greek domains
+- [Set up a domain for Hostinger email automatically](https://support.hostinger.com/en/articles/8671304-set-up-a-domain-for-hostinger-email-automatically): Automated domain configuration for Hostinger Email
+- [Set up a domain for Hostinger email manually](https://support.hostinger.com/en/articles/8671319-set-up-a-domain-for-hostinger-email-manually): Manual domain configuration for Hostinger Email
+- [Set up a domain for Hostinger email](https://support.hostinger.com/en/articles/8650765-set-up-a-domain-for-hostinger-email): Setting up Hostinger Email for your domain name
+- [Solving domain related errors](https://support.hostinger.com/en/collections/3209144-solving-domain-related-errors): Solving Domain-Related Errors | Hostinger Help Center
+- [Transfer domain from Hostinger](https://support.hostinger.com/en/collections/3209148-transfer-domain-from-hostinger): Transfer Domain From Hostinger | Hostinger Help Center
+- [Transfer domain to Hostinger](https://support.hostinger.com/en/collections/3209149-transfer-domain-to-hostinger): Transfer Domain to Hostinger | Hostinger Help Center
+- [Understanding different domain transfer statuses](https://support.hostinger.com/en/articles/4134118-understanding-different-domain-transfer-statuses): What to do if the domain transfer status is “Transferring” or “Error”
+- [Understanding domain connection what it is and how long it may take](https://support.hostinger.com/en/articles/10531094-understanding-domain-connection-what-it-is-and-how-long-it-may-take): This article explains what DNS records are, how they work, and what to expect when connecting a domain from another provider to a site at Hostinger.
+- [Website builder how to move a domain to a different website](https://support.hostinger.com/en/articles/8942654-website-builder-how-to-move-a-domain-to-a-different-website): Learn how to move a domain from one website to another
+- [Website builder how to verify a domain by facebook s request](https://support.hostinger.com/en/articles/6463042-website-builder-how-to-verify-a-domain-by-facebook-s-request): Learn how to verify a domain by Facebook's request using Hostinger Website Builder
+- [Website builder is a domain deleted when deleting a website](https://support.hostinger.com/en/articles/8942594-website-builder-is-a-domain-deleted-when-deleting-a-website): Learn what happens with the domain once you delete a builder-based website
+- [What are the differences between subdomain parked domain and add on domain](https://support.hostinger.com/en/articles/1583424-what-are-the-differences-between-subdomain-parked-domain-and-add-on-domain): Differences between subdomain, parked domain and add-on domain
+- [What are the requirements for registering a com au domain](https://support.hostinger.com/en/articles/4859624-what-are-the-requirements-for-registering-a-com-au-domain): Registering a .COM.AU domain at Hostinger
+- [What are the requirements for registering a new domain](https://support.hostinger.com/en/articles/6086871-what-are-the-requirements-for-registering-a-new-domain): Meeting all requirements to register a new domain at Hostinger
+- [What dns record types are supported at Hostinger](https://support.hostinger.com/en/articles/1583250-what-dns-record-types-are-supported-at-hostinger): Managing A, CNAME, MX, TXT, AAAA, NS, SRV and CAA records via Hostinger's hPanel
+- [What domain name extensions can be hosted at Hostinger](https://support.hostinger.com/en/articles/1583596-what-domain-name-extensions-can-be-hosted-at-hostinger): Using top-level domain (TLDs) with your services at Hostinger
+- [What free domains are available at Hostinger](https://support.hostinger.com/en/articles/8317599-what-free-domains-are-available-at-hostinger): A detailed list of the TLD that are available for free with eligible purchases at Hostinger
+- [What is dns propagation](https://support.hostinger.com/en/articles/4146975-what-is-dns-propagation): What happens after changing domain's DNS records
+- [What to do if the dns zone editor is missing or not working](https://support.hostinger.com/en/articles/4067857-what-to-do-if-the-dns-zone-editor-is-missing-or-not-working): Solving DNS zone editor not working
+- [What to do if the domain is not renewed after payment](https://support.hostinger.com/en/articles/4617944-what-to-do-if-the-domain-is-not-renewed-after-payment): Reasons why a domain may not be renewed after payment
+- [What to do if your domain is in reviewing status](https://support.hostinger.com/en/articles/6305787-what-to-do-if-your-domain-is-in-reviewing-status): Checking why a domain is in reviewing status and alternatives to fix it
+- [Whois privacy protection](https://support.hostinger.com/en/articles/1583419-whois-privacy-protection): Hiding the domain owner contact details on WHOIS database
+
+## Email
+- [Are email distribution lists supported at Hostinger](https://support.hostinger.com/en/articles/6618975-are-email-distribution-lists-supported-at-hostinger): Email groups on Hostinger Email
+- [Are idn email accounts supported at Hostinger](https://support.hostinger.com/en/articles/3608383-are-idn-email-accounts-supported-at-hostinger): Using IDN domains to create Hostinger email accounts
+- [Differences and applications of catch all forwarder and email alias](https://support.hostinger.com/en/articles/4469114-differences-and-applications-of-catch-all-forwarder-and-email-alias): Knowing the difference between catch all, email forwarders, email aliases and use cases
+- [Does Hostinger support pop3 imap and smtp](https://support.hostinger.com/en/articles/1583644-does-hostinger-support-pop3-imap-and-smtp): Using the POP3, SMTP and IMAP email protocols at Hostinger
+- [Email](https://support.hostinger.com/en/collections/2590035-email): Email | Hostinger Help Center
+- [Email](https://support.hostinger.com/en/collections/944782-email): Recommendations on setting up your email accounts and their management
+- [Expand your mailbox storage with a flexible email storage add on](https://support.hostinger.com/en/articles/10627422-expand-your-mailbox-storage-with-a-flexible-email-storage-add-on): Expand your mailbox storage with a flexible email storage add-on | Hostinger Help Center
+- [Hostinger email audit logs](https://support.hostinger.com/en/collections/7195694-hostinger-email-audit-logs): Hostinger Email: Audit Logs | Hostinger Help Center
+- [Hostinger email getting started](https://support.hostinger.com/en/collections/7177372-hostinger-email-getting-started): Hostinger Email: Getting Started | Hostinger Help Center
+- [Hostinger email management](https://support.hostinger.com/en/collections/2589696-hostinger-email-management): Hostinger Email: Management | Hostinger Help Center
+- [Hostinger email migration and backup](https://support.hostinger.com/en/collections/2952856-hostinger-email-migration-and-backup): Hostinger Email: Migration and Backup | Hostinger Help Center
+- [Hostinger email mx records](https://support.hostinger.com/en/articles/4407237-hostinger-email-mx-records): Learn what are the MX records for Hostinger Email and how to add them to your domain
+- [Hostinger email setting up email on different devices and email applications](https://support.hostinger.com/en/collections/2590052-hostinger-email-setting-up-email-on-different-devices-and-email-applications): Hostinger Email: Setting up Email on Different Devices and email applications | Hostinger Help Center
+- [Hostinger email troubleshooting](https://support.hostinger.com/en/collections/2590032-hostinger-email-troubleshooting): Hostinger Email: Troubleshooting | Hostinger Help Center
+- [Hostinger email webmail](https://support.hostinger.com/en/collections/2590024-hostinger-email-webmail): Hostinger Email: Webmail | Hostinger Help Center
+- [How to access the email accounts section at Hostinger](https://support.hostinger.com/en/articles/4768093-how-to-access-the-email-accounts-section-at-hostinger): Accessing your email accounts management area at Hostinger
+- [How to access webmail of Hostinger email](https://support.hostinger.com/en/articles/1583218-how-to-access-webmail-of-hostinger-email): Accessing your Hostinger Email via webmail
+- [How to access webmail of titan email](https://support.hostinger.com/en/articles/6281998-how-to-access-webmail-of-titan-email): Accessing Titan Email webmail
+- [How to add a custom dkim record for Hostinger email](https://support.hostinger.com/en/articles/6780535-how-to-add-a-custom-dkim-record-for-hostinger-email): Enabling custom DKIM records for Hostinger Email
+- [How to add a dmarc record for Hostinger email](https://support.hostinger.com/en/articles/8412851-how-to-add-a-dmarc-record-for-hostinger-email): Creating and adding a DMARC record to your domain's DNS zone
+- [How to add dkim records for titan email](https://support.hostinger.com/en/articles/6780569-how-to-add-dkim-records-for-titan-email): Adding DKIM records for Titan Email on hPanel
+- [How to add profile picture for gmail recipients](https://support.hostinger.com/en/articles/6987367-how-to-add-profile-picture-for-gmail-recipients): Display your profile picture for Gmail recipients
+- [How to add sender name for Hostinger email on webmail](https://support.hostinger.com/en/articles/1583484-how-to-add-sender-name-for-hostinger-email-on-webmail): Adding sender identity information to show in the "From" field for Hostinger Email
+- [How to block unwanted incoming emails on Hostinger email](https://support.hostinger.com/en/articles/1583508-how-to-block-unwanted-incoming-emails-on-hostinger-email): Filtering unwanted email/spam from your inbox
+- [How to change or delete your Hostinger email username address](https://support.hostinger.com/en/articles/11091718-how-to-change-or-delete-your-hostinger-email-username-address): Rename or remove your email address with Hostinger Email
+- [How to change the email address of a Hostinger account](https://support.hostinger.com/en/articles/3306367-how-to-change-the-email-address-of-a-hostinger-account): Changing email address linked to your Hostinger profile
+- [How to check action logs for Hostinger email](https://support.hostinger.com/en/articles/5996075-how-to-check-action-logs-for-hostinger-email): Checking action logs for your Hostinger Email
+- [How to check delivery logs for Hostinger email](https://support.hostinger.com/en/articles/6404796-how-to-check-delivery-logs-for-hostinger-email): Checking delivery logs for your Hostinger Email
+- [How to check email headers](https://support.hostinger.com/en/articles/5240979-how-to-check-email-headers): Viewing headers of email messages on Webmail and mail clients
+- [How to check the access logs for Hostinger email](https://support.hostinger.com/en/articles/5760253-how-to-check-the-access-logs-for-hostinger-email): Checking access logs for your Hostinger Email
+- [How to check the email service included in your hosting plan](https://support.hostinger.com/en/articles/5832752-how-to-check-the-email-service-included-in-your-hosting-plan): Determining whether your hosting plan comes with Hostinger Email or Titan Email
+- [How to configure smtp on prestashop](https://support.hostinger.com/en/articles/6890714-how-to-configure-smtp-on-prestashop): Configuring SMTP settings on a PrestaShop website to send email
+- [How to create an email signature for Hostinger email](https://support.hostinger.com/en/articles/1583472-how-to-create-an-email-signature-for-hostinger-email): Creating an email signature for Hostinger Email
+- [How to create an email signature with titan email](https://support.hostinger.com/en/articles/6294833-how-to-create-an-email-signature-with-titan-email): Creating an email signature for Titan Email
+- [How to create and manage email accounts for Hostinger email](https://support.hostinger.com/en/articles/1583217-how-to-create-and-manage-email-accounts-for-hostinger-email): Create an email account and manage already created accounts using Hostinger Email
+- [How to create and manage email accounts with titan email](https://support.hostinger.com/en/articles/6281443-how-to-create-and-manage-email-accounts-with-titan-email): Creating an email account and managing already created accounts using Titan Email
+- [How to customize your signature in Hostinger webmail](https://support.hostinger.com/en/articles/11009116-how-to-customize-your-signature-in-hostinger-webmail): How to Customize Your Signature in Hostinger Webmail | Hostinger Help Center
+- [How to export emails from Hostinger email](https://support.hostinger.com/en/articles/5778153-how-to-export-emails-from-hostinger-email): Exporting your emails from Hostinger Email
+- [How to get additional email accounts with Hostinger email](https://support.hostinger.com/en/articles/6272294-how-to-get-additional-email-accounts-with-hostinger-email): Purchasing additional email accounts with your Business Starter or Business Premium Hostinger Email plan
+- [How to get email account configuration details for Hostinger email](https://support.hostinger.com/en/articles/1575756-how-to-get-email-account-configuration-details-for-hostinger-email): Gathering email account configuration details (IMAP, POP, SMTP) for Hostinger Email
+- [How to get email account configuration details for titan email](https://support.hostinger.com/en/articles/5966022-how-to-get-email-account-configuration-details-for-titan-email): Gathering email account configuration details for Titan Email
+- [How to import contacts to Hostinger email](https://support.hostinger.com/en/articles/7955507-how-to-import-contacts-to-hostinger-email): Importing contacts to Hostinger Email
+- [How to import contacts to titan email](https://support.hostinger.com/en/articles/7955263-how-to-import-contacts-to-titan-email): Importing contacts to Titan Email
+- [How to import emails to Hostinger email via webmail](https://support.hostinger.com/en/articles/5778099-how-to-import-emails-to-hostinger-email-via-webmail): Importing your email messages to Hostinger Email via webmail
+- [How to import emails to Hostinger email](https://support.hostinger.com/en/articles/5866288-how-to-import-emails-to-hostinger-email): Migrating your email accounts to Hostinger with the help of the Email Import tool
+- [How to import emails to titan email](https://support.hostinger.com/en/articles/5323082-how-to-import-emails-to-titan-email): Importing emails from another email provider to your Titan Email account
+- [How to integrate Hostinger email into your website](https://support.hostinger.com/en/articles/1583505-how-to-integrate-hostinger-email-into-your-website): Integrating email services to your website
+- [How to manage mail services for Hostinger emails](https://support.hostinger.com/en/articles/4456436-how-to-manage-mail-services-for-hostinger-emails): Enabling and disabling mail services for Hostinger Emails
+- [How to manage mx records](https://support.hostinger.com/en/articles/4443666-how-to-manage-mx-records): Adding, editing and deleting MX records at Hostinger
+- [How to manage your email storage with Hostinger email](https://support.hostinger.com/en/articles/10627479-how-to-manage-your-email-storage-with-hostinger-email): Increase or free up your Hostinger email storage
+- [How to migrate email services to Hostinger email](https://support.hostinger.com/en/articles/5240867-how-to-migrate-email-services-to-hostinger-email): Migrating your email services to Hostinger Email
+- [How to migrate emails from gmail to Hostinger email](https://support.hostinger.com/en/articles/5866294-how-to-migrate-emails-from-gmail-to-hostinger-email): Migrating email accounts from Gmail to Hostinger
+- [How to migrate emails from yahoo to Hostinger email](https://support.hostinger.com/en/articles/5866297-how-to-migrate-emails-from-yahoo-to-hostinger-email): Migrating email accounts from Yahoo to Hostinger
+- [How to migrate emails to google workspace](https://support.hostinger.com/en/articles/2006943-how-to-migrate-emails-to-google-workspace): Transferring your email messages from Hostinger Email to Google Workspace
+- [How to move data between Hostinger email accounts](https://support.hostinger.com/en/articles/9719163-how-to-move-data-between-hostinger-email-accounts): Migrating sent and received messages on Hostinger email to a different hosting plan or account
+- [How to purchase additional google workspace mailboxes](https://support.hostinger.com/en/articles/5143488-how-to-purchase-additional-google-workspace-mailboxes): Purchasing additional Google Workspace mailboxes at Hostinger
+- [How to purchase additional titan email mailboxes](https://support.hostinger.com/en/articles/4529830-how-to-purchase-additional-titan-email-mailboxes): Purchasing additional Titan Email mailboxes at Hostinger
+- [How to recover deleted emails in Hostinger email](https://support.hostinger.com/en/articles/1583473-how-to-recover-deleted-emails-in-hostinger-email): Recovering deleted emails from webmail, Outlook, or Gmail when using Hostinger Email service
+- [How to recover your Hostinger account if you can t access your email](https://support.hostinger.com/en/articles/3284259-how-to-recover-your-hostinger-account-if-you-can-t-access-your-email): Regaining access to your Hostinger user account when you can't log in to the email address linked to it.
+- [How to renew a Hostinger business email plan](https://support.hostinger.com/en/articles/9310886-how-to-renew-a-hostinger-business-email-plan): Renewing Business Starter or Business Premium Email services at Hostinger
+- [How to renew a titan email plan](https://support.hostinger.com/en/articles/4528586-how-to-renew-a-titan-email-plan): Renewing Titan Business or Titan Enterprise Email services at Hostinger
+- [How to reset a Hostinger email mailbox password](https://support.hostinger.com/en/articles/1583468-how-to-reset-a-hostinger-email-mailbox-password): Changing the email password for a Hostinger Email address
+- [How to reset the email account password with titan email](https://support.hostinger.com/en/articles/6282063-how-to-reset-the-email-account-password-with-titan-email): Changing email password of email accounts created with Titan Email
+- [How to restore a deleted Hostinger email account](https://support.hostinger.com/en/articles/1583466-how-to-restore-a-deleted-hostinger-email-account): Recovering the email messages from a recently deleted Hostinger Email account
+- [How to secure Hostinger email account](https://support.hostinger.com/en/articles/8675879-how-to-secure-hostinger-email-account): Safeguarding your Hostinger Email account
+- [How to set up Hostinger email on gmail for android](https://support.hostinger.com/en/articles/4768560-how-to-set-up-hostinger-email-on-gmail-for-android): Setting up your Hostinger Email account on Gmail with your smartphone
+- [How to set up Hostinger email on ipad and iphone mail ios](https://support.hostinger.com/en/articles/4768540-how-to-set-up-hostinger-email-on-ipad-and-iphone-mail-ios): Setting up your Hostinger Email account on iPad Mail and iPhone Mail
+- [How to set up Hostinger email on mac os x mail](https://support.hostinger.com/en/articles/4768532-how-to-set-up-hostinger-email-on-mac-os-x-mail): Setting up Mac OS X Mail application with your email accounts
+- [How to set up Hostinger email on mac os x notes](https://support.hostinger.com/en/articles/4768230-how-to-set-up-hostinger-email-on-mac-os-x-notes): Adding an email account to the Mac OS X Notes application
+- [How to set up Hostinger email on mozilla thunderbird automatically](https://support.hostinger.com/en/articles/4768158-how-to-set-up-hostinger-email-on-mozilla-thunderbird-automatically): Setting up your Hostinger Email account on Mozilla Thunderbird
+- [How to set up Hostinger email on mozilla thunderbird](https://support.hostinger.com/en/articles/4768584-how-to-set-up-hostinger-email-on-mozilla-thunderbird): Setting up your Hostinger Email account on Mozilla Thunderbird
+- [How to set up Hostinger email on outlook automatically](https://support.hostinger.com/en/articles/4768170-how-to-set-up-hostinger-email-on-outlook-automatically): Setting up your Hostinger Email account on Outlook
+- [How to set up Hostinger email on outlook for macos](https://support.hostinger.com/en/articles/4768621-how-to-set-up-hostinger-email-on-outlook-for-macos): Setting up your Hostinger Email account on Outlook for Mac
+- [How to set up Hostinger email on outlook for windows](https://support.hostinger.com/en/articles/1583488-how-to-set-up-hostinger-email-on-outlook-for-windows): Setting up your Hostinger Email account on Outlook for Windows
+- [How to set up Hostinger email on samsung mail for android](https://support.hostinger.com/en/articles/4768568-how-to-set-up-hostinger-email-on-samsung-mail-for-android): Setting up your Hostinger Email account on Samsung Mail on your smartphone
+- [How to set up Hostinger email on the web version of gmail](https://support.hostinger.com/en/articles/3220927-how-to-set-up-hostinger-email-on-the-web-version-of-gmail): Setting up your Hostinger Email account on the web version of Gmail
+- [How to set up Hostinger email on your ios devices using auto config](https://support.hostinger.com/en/articles/4768133-how-to-set-up-hostinger-email-on-your-ios-devices-using-auto-config): Setting up Hostinger Mail automatically on your iOS devices: iPad, iPhone, Mac using the Mail application (mail client)
+- [How to set up a catch all for Hostinger email](https://support.hostinger.com/en/articles/1583450-how-to-set-up-a-catch-all-for-hostinger-email): Enabling the catch-all feature for Hostinger Email
+- [How to set up a catch all with titan email](https://support.hostinger.com/en/articles/5323116-how-to-set-up-a-catch-all-with-titan-email): Enabling the catch-all emails feature with Titan Email
+- [How to set up a forwarder for Hostinger email](https://support.hostinger.com/en/articles/1583221-how-to-set-up-a-forwarder-for-hostinger-email): Creating email forwarders for Hostinger Email
+- [How to set up an automatic reply for Hostinger email](https://support.hostinger.com/en/articles/1583449-how-to-set-up-an-automatic-reply-for-hostinger-email): Creating auto-responders on Hostinger Email
+- [How to set up an email alias with Hostinger email](https://support.hostinger.com/en/articles/5240877-how-to-set-up-an-email-alias-with-hostinger-email): Creating email aliases with Hostinger Email
+- [How to set up an internal forwarder with titan email](https://support.hostinger.com/en/articles/5323121-how-to-set-up-an-internal-forwarder-with-titan-email): Creating internal forwarder with Titan Email
+- [How to set up automatic replies with titan email](https://support.hostinger.com/en/articles/6286949-how-to-set-up-automatic-replies-with-titan-email): Creating auto-responders on Titan Email
+- [How to set up contact form 7 with Hostinger email](https://support.hostinger.com/en/articles/5240938-how-to-set-up-contact-form-7-with-hostinger-email): Linking the “Contact form 7” WordPress plugin with Hostinger Email
+- [How to set up email alias with titan email](https://support.hostinger.com/en/articles/6286858-how-to-set-up-email-alias-with-titan-email): Creating email aliases for Titan Email
+- [How to set up email filters with Hostinger email](https://support.hostinger.com/en/articles/4469173-how-to-set-up-email-filters-with-hostinger-email): Creating email rules with Hostinger Email
+- [How to set up email filters with titan email](https://support.hostinger.com/en/articles/5966145-how-to-set-up-email-filters-with-titan-email): Creating email rules with Titan Email
+- [How to set up the easy wp smtp plugin on wordpress](https://support.hostinger.com/en/articles/4725594-how-to-set-up-the-easy-wp-smtp-plugin-on-wordpress): Setting Easy WP SMTP plugin to send emails from your WordPress website
+- [How to set up titan email on your devices and email applications](https://support.hostinger.com/en/articles/4299903-how-to-set-up-titan-email-on-your-devices-and-email-applications): Setting up Titan Email on a mail client such as Outlook or Thunderbird
+- [How to upgrade a Hostinger email plan](https://support.hostinger.com/en/articles/5505897-how-to-upgrade-a-hostinger-email-plan): Upgrading your Hostinger Email plan
+- [How to upgrade a google workspace business email plan at Hostinger](https://support.hostinger.com/en/articles/10115132-how-to-upgrade-a-google-workspace-business-email-plan-at-hostinger): Upgrading your Google Workspace Email Business Starter plan to Standard or Plus
+- [How to upgrade a titan email plan](https://support.hostinger.com/en/articles/4528590-how-to-upgrade-a-titan-email-plan): Upgrading Titan Email
+- [Improve email deliverability](https://support.hostinger.com/en/articles/5240869-improve-email-deliverability): How to ensure that your emails are delivered to the receiver
+- [Is mass mailing supported at Hostinger](https://support.hostinger.com/en/articles/1583510-is-mass-mailing-supported-at-hostinger): Sending bulk emails or newsletters via Hostinger Email
+- [Is the Hostinger webmail client customizable](https://support.hostinger.com/en/articles/1583480-is-the-hostinger-webmail-client-customizable): Changing the preferences of the Webmail interface for Hostinger Email
+- [Official Hostinger email addresses](https://support.hostinger.com/en/articles/5394387-official-hostinger-email-addresses): How to verify that an email message you recevie from Hostinger is legitimate
+- [Parameters and limits of Hostinger email](https://support.hostinger.com/en/articles/4625828-parameters-and-limits-of-hostinger-email): Available resources and limits of Hostinger Email plans
+- [Parameters and limits of titan email](https://support.hostinger.com/en/articles/5326155-parameters-and-limits-of-titan-email): Available resources and limits of Titan Email plans
+- [Set up Hostinger email on your applications and devices](https://support.hostinger.com/en/articles/4305847-set-up-hostinger-email-on-your-applications-and-devices): Configuring Hostinger Email on iPhone, Android devices, and email clients like Outlook or Thunderbird
+- [Titan email](https://support.hostinger.com/en/collections/2589697-titan-email): Titan Email | Hostinger Help Center
+- [Website builder how to send emails from the online store](https://support.hostinger.com/en/articles/6682496-website-builder-how-to-send-emails-from-the-online-store): Learn about email notifications in your online store created with Hostinger Website Builder
+- [What are the dkim records for Hostinger email](https://support.hostinger.com/en/articles/4456413-what-are-the-dkim-records-for-hostinger-email): Learn what are the default DKIM records for Hostinger Email and how to add them to your domain
+- [What are titan email mx records](https://support.hostinger.com/en/articles/7056556-what-are-titan-email-mx-records): Learn what are the MX records for Titan Email
+- [What happens to emails in the spam folder](https://support.hostinger.com/en/articles/5240863-what-happens-to-emails-in-the-spam-folder): Time period for which spam emails are saved
+- [What is automatic email configuration](https://support.hostinger.com/en/articles/5030333-what-is-automatic-email-configuration): Setting up Hostinger Email automatically
+- [What is the spf record for Hostinger email](https://support.hostinger.com/en/articles/1583673-what-is-the-spf-record-for-hostinger-email): Learn what is the SPF record for Hostinger Email and how to add it to your domain
+- [What to do if Hostinger emails are not working](https://support.hostinger.com/en/articles/4768099-what-to-do-if-hostinger-emails-are-not-working): Troubleshooting Hostinger Email issues
+- [What to do if emails go to spam](https://support.hostinger.com/en/articles/3423286-what-to-do-if-emails-go-to-spam): Preventing your sent email from going to the spam inbox of the recipient
+- [What to do if you can send but can t receive emails with Hostinger email](https://support.hostinger.com/en/articles/1583454-what-to-do-if-you-can-send-but-can-t-receive-emails-with-hostinger-email): Learn what's behind being able to send but not receive emails with Hostinger Email
+- [What to do if you can send but can t receive emails with titan email](https://support.hostinger.com/en/articles/7067828-what-to-do-if-you-can-send-but-can-t-receive-emails-with-titan-email): Learn what's behind being able to send but not receive emails with Titan Email
+- [What to do if you can t log in to your Hostinger email account](https://support.hostinger.com/en/articles/1583447-what-to-do-if-you-can-t-log-in-to-your-hostinger-email-account): Troubleshooting when you are unable to access and use email through webmail or email clients
+- [What to do if you receive a phishing email](https://support.hostinger.com/en/articles/8344399-what-to-do-if-you-receive-a-phishing-email): You received an email from someone pretending to be Hostinger
+- [What to do if your Hostinger email account is suspended](https://support.hostinger.com/en/articles/1583452-what-to-do-if-your-hostinger-email-account-is-suspended): Troubleshooting disabled email services
+- [What to do if your titan email account is suspended](https://support.hostinger.com/en/articles/6845407-what-to-do-if-your-titan-email-account-is-suspended): Learn why Titan Email can be suspended and how to fix
+
+## Security
+- [3d secure verification failed error while making a payment](https://support.hostinger.com/en/articles/5402772-3d-secure-verification-failed-error-while-making-a-payment): What to do in case of a payment authorization error
+- [About Hostinger](https://support.hostinger.com/en/collections/944862-about-hostinger): Information about Hostinger as a company
+- [Access and order setup](https://support.hostinger.com/en/collections/2856648-access-and-order-setup): Access and Order Setup | Hostinger Help Center
+- [Account sharing](https://support.hostinger.com/en/collections/2757130-account-sharing): Account Sharing | Hostinger Help Center
+- [Account troubleshooting](https://support.hostinger.com/en/collections/2757131-account-troubleshooting): Account Troubleshooting | Hostinger Help Center
+- [Accounts](https://support.hostinger.com/en/collections/3304443-accounts): Accounts | Hostinger Help Center
+- [Additional information](https://support.hostinger.com/en/collections/2856659-additional-information): Additional Information | Hostinger Help Center
+- [Advanced cdn header management](https://support.hostinger.com/en/articles/8052370-advanced-cdn-header-management): Learn about cache control header types and directives
+- [Advanced](https://support.hostinger.com/en/collections/3190855-advanced): Advanced | Hostinger Help Center
+- [Advanced](https://support.hostinger.com/en/collections/3304438-advanced): Advanced | Hostinger Help Center
+- [Affiliates and referrals](https://support.hostinger.com/en/collections/944855-affiliates-and-referrals): Information about the affiliate and referral programs at Hostinger
+- [Agency hosting plans how to add a collaborator to my website](https://support.hostinger.com/en/articles/10656950-agency-hosting-plans-how-to-add-a-collaborator-to-my-website): Granting secure access to specific websites for collaborators or clients using the Account Sharing feature
+- [Agency hosting plans how to get started](https://support.hostinger.com/en/articles/10656861-agency-hosting-plans-how-to-get-started): A short guide introducing Hostinger Agency plans
+- [Agency hosting plans](https://support.hostinger.com/en/collections/11831984-agency-hosting-plans): Information about Agency hosting plans
+- [Api](https://support.hostinger.com/en/collections/12461264-api): Articles explaining and showcasing Hostinger API usage
+- [Archives management](https://support.hostinger.com/en/collections/3185651-archives-management): Archives Management | Hostinger Help Center
+- [Are Hostinger services available for purchase in every country](https://support.hostinger.com/en/articles/1583271-are-hostinger-services-available-for-purchase-in-every-country): Use Hostinger services from all around the world
+- [Are affiliate websites allowed at Hostinger](https://support.hostinger.com/en/articles/1583266-are-affiliate-websites-allowed-at-hostinger): Hosting affiliate-based websites at Hostinger
+- [Are codecs supported at Hostinger](https://support.hostinger.com/en/articles/8194104-are-codecs-supported-at-hostinger): Support of AC3, AAC, divx, OGG VORBIS, x264, xvid, etc. on your hosting plan
+- [Are custom hosting packages available at Hostinger](https://support.hostinger.com/en/articles/1583643-are-custom-hosting-packages-available-at-hostinger): Custom hosting packages at Hostinger
+- [Are free hosting plans available at Hostinger](https://support.hostinger.com/en/articles/1583320-are-free-hosting-plans-available-at-hostinger): Trying Hostinger services without the risk of losing money
+- [Are gcc compilers supported at Hostinger](https://support.hostinger.com/en/articles/1583199-are-gcc-compilers-supported-at-hostinger): Using a GCC compiler at Hostinger
+- [Are ipnat modules supported at Hostinger](https://support.hostinger.com/en/articles/1583754-are-ipnat-modules-supported-at-hostinger): Ipnat modules on Web, Cloud and VPS hosting plans
+- [Are mysql heap tables supported at Hostinger](https://support.hostinger.com/en/articles/1583743-are-mysql-heap-tables-supported-at-hostinger): MySQL heap tables on shared hosting packages
+- [Are sockets supported at Hostinger](https://support.hostinger.com/en/articles/1583738-are-sockets-supported-at-hostinger): Using WebSockets at Hostinger
+- [Auto renewal](https://support.hostinger.com/en/collections/3031977-auto-renewal): Auto-Renewal | Hostinger Help Center
+- [Available payment methods](https://support.hostinger.com/en/collections/3031978-available-payment-methods): Available Payment Methods | Hostinger Help Center
+- [Backups management](https://support.hostinger.com/en/collections/3185637-backups-management): Backups Management | Hostinger Help Center
+- [Basic actions in the file manager](https://support.hostinger.com/en/articles/4548688-basic-actions-in-the-file-manager): Managing your files and folders using the file manager at Hostinger
+- [Billing](https://support.hostinger.com/en/collections/944805-billing): Information about invoices, billing, and managing your subscriptions
+- [Blog](https://support.hostinger.com/en/collections/3592108-blog): Blog | Hostinger Help Center
+- [Can chat scripts be used at Hostinger](https://support.hostinger.com/en/articles/1583701-can-chat-scripts-be-used-at-hostinger): Hosting online chat services at Hostinger
+- [Can compilers or compiled scripts be hosted at Hostinger](https://support.hostinger.com/en/articles/1583725-can-compilers-or-compiled-scripts-be-hosted-at-hostinger): Using compilers at Hostinger
+- [Can file sharing services be hosted at Hostinger](https://support.hostinger.com/en/articles/1583635-can-file-sharing-services-be-hosted-at-hostinger): Hosting and sharing files or images at Hostinger
+- [Can gpt sites be hosted at Hostinger](https://support.hostinger.com/en/articles/1583730-can-gpt-sites-be-hosted-at-hostinger): Hosting GPT sites at Hostinger
+- [Can i install svn packages](https://support.hostinger.com/en/articles/1583633-can-i-install-svn-packages): SVN packages on Shared, Cloud and VPS hosting packages
+- [Can i set up vhosts on your hosting](https://support.hostinger.com/en/articles/1583722-can-i-set-up-vhosts-on-your-hosting): Virtual Hosts on Shared, Cloud and VPS hosting packages
+- [Can i use ajax on my website](https://support.hostinger.com/en/articles/1583721-can-i-use-ajax-on-my-website): AJAX at Hostinger
+- [Can i use dreamweaver to publish my sites](https://support.hostinger.com/en/articles/1583315-can-i-use-dreamweaver-to-publish-my-sites): Using Adobe Dreamweaver with Hostinger
+- [Can nulled scripts be used at Hostinger](https://support.hostinger.com/en/articles/8193929-can-nulled-scripts-be-used-at-hostinger): Using nulled or cracked software applications on your hosting plan
+- [Can online game scripts be hosted at Hostinger](https://support.hostinger.com/en/articles/1583712-can-online-game-scripts-be-hosted-at-hostinger): Hosting online game scripts on Shared hosting
+- [Can phplist be used at Hostinger](https://support.hostinger.com/en/articles/1583649-can-phplist-be-used-at-hostinger): Using phpList for email marketing
+- [Can proxy websites be hosted at Hostinger](https://support.hostinger.com/en/articles/1583752-can-proxy-websites-be-hosted-at-hostinger): Hosting Proxy websites or running proxy scripts at Hostinger
+- [Can ptc sites be hosted at Hostinger](https://support.hostinger.com/en/articles/1583729-can-ptc-sites-be-hosted-at-hostinger): Hosting Paid-to-Click sites at Hostinger
+- [Cdn](https://support.hostinger.com/en/collections/3242718-cdn): CDN | Hostinger Help Center
+- [Changes in hpanel navigation](https://support.hostinger.com/en/articles/9323509-changes-in-hpanel-navigation): Find the latest improvements made to the hPanel
+- [Cname vs alias records](https://support.hostinger.com/en/articles/10085192-cname-vs-alias-records): Learn about the difference between CNAME and ALIAS DNS records
+- [Como apontar um dominio para a hotmart](https://support.hostinger.com/en/articles/10327633-como-apontar-um-dominio-para-a-hotmart): Apontando um domínio para o Hotmart por meio da Hostinger
+- [Comprehensive guide of hpanel](https://support.hostinger.com/en/articles/1583483-comprehensive-guide-of-hpanel): Accessing your control panel at Hostinger and all its options
+- [Creating your own website](https://support.hostinger.com/en/collections/2856658-creating-your-own-website): Creating Your Own Website | Hostinger Help Center
+- [Cron jobs](https://support.hostinger.com/en/collections/3174587-cron-jobs): Cron Jobs | Hostinger Help Center
+- [Database management](https://support.hostinger.com/en/collections/3190869-database-management): Database Management | Hostinger Help Center
+- [Database troubleshooting](https://support.hostinger.com/en/collections/3190856-database-troubleshooting): Database Troubleshooting | Hostinger Help Center
+- [Design](https://support.hostinger.com/en/collections/3592107-design): Design | Hostinger Help Center
+- [Do hosting plans include dedicated ips](https://support.hostinger.com/en/articles/4601549-do-hosting-plans-include-dedicated-ips): Dedicated IP addresses on your hosting plan
+- [Do not honor authorization error while making a payment](https://support.hostinger.com/en/articles/1583237-do-not-honor-authorization-error-while-making-a-payment): What to do in case of a declined transaction error
+- [Do you offer pdo and pdo_mysql](https://support.hostinger.com/en/articles/1583709-do-you-offer-pdo-and-pdo_mysql): PDO and pdo_mysql on shared hosting packages
+- [Do you support flash](https://support.hostinger.com/en/articles/1583612-do-you-support-flash): Flash on Shared and Cloud hosting packages
+- [Do you support mcrypt](https://support.hostinger.com/en/articles/1583656-do-you-support-mcrypt): MCrypt on shared hosting packages
+- [Do you support openSSL](https://support.hostinger.com/en/articles/1583716-do-you-support-openssl): OpenSSL at Hostinger
+- [Does Hostinger support jquery](https://support.hostinger.com/en/articles/2032591-does-hostinger-support-jquery): Using jQuery at Hostinger
+- [Does Hostinger support multimedia content](https://support.hostinger.com/en/articles/1583737-does-hostinger-support-multimedia-content): Embedding multimedia content on your website at Hostinger
+- [Epp auth code](https://support.hostinger.com/en/collections/3209146-epp-auth-code): EPP (Auth) Code | Hostinger Help Center
+- [Faq about pro panel functionalities moved to hpanel](https://support.hostinger.com/en/articles/8772532-faq-about-pro-panel-functionalities-moved-to-hpanel): All the Pro Panel functionalities are now moved to hPanel to help you improve your workflow and efficiency.
+- [Features](https://support.hostinger.com/en/collections/2635684-features): Features | Hostinger Help Center
+- [Features](https://support.hostinger.com/en/collections/944815-features): Information about different features and technologies being supported at Hostinger
+- [File manager](https://support.hostinger.com/en/collections/2590290-file-manager): File Manager | Hostinger Help Center
+- [Files and folders permissions](https://support.hostinger.com/en/collections/3185648-files-and-folders-permissions): Files and Folders Permissions | Hostinger Help Center
+- [Files management](https://support.hostinger.com/en/collections/944821-files-management): Information about access to your website files, backups. Also, FTP, SFTP, and SSH access
+- [Fiverr services at Hostinger](https://support.hostinger.com/en/articles/5375833-fiverr-services-at-hostinger): Accessing Fiverr via Hostinger to help you with website development
+- [Ftp and sftp](https://support.hostinger.com/en/collections/2590291-ftp-and-sftp): FTP and SFTP | Hostinger Help Center
+- [Ftp file manager](https://support.hostinger.com/en/collections/2601703-ftp-file-manager): FTP / File Manager | Hostinger Help Center
+- [Game panel](https://support.hostinger.com/en/collections/3306903-game-panel): Game Panel | Hostinger Help Center
+- [General information](https://support.hostinger.com/en/collections/2589694-general-information): General Information | Hostinger Help Center
+- [General information](https://support.hostinger.com/en/collections/2589726-general-information): General Information | Hostinger Help Center
+- [General information](https://support.hostinger.com/en/collections/2884210-general-information): General Information | Hostinger Help Center
+- [General information](https://support.hostinger.com/en/collections/3031974-general-information): General Information | Hostinger Help Center
+- [General information](https://support.hostinger.com/en/collections/3190872-general-information): General Information | Hostinger Help Center
+- [General information](https://support.hostinger.com/en/collections/3209172-general-information): General Information | Hostinger Help Center
+- [General](https://support.hostinger.com/en/collections/2589713-general): General | Hostinger Help Center
+- [General](https://support.hostinger.com/en/collections/2876461-general): General | Hostinger Help Center
+- [General](https://support.hostinger.com/en/collections/3592103-general): General | Hostinger Help Center
+- [Getting started with the Hostinger terraform provider](https://support.hostinger.com/en/articles/11080294-getting-started-with-the-hostinger-terraform-provider): Learn how to manage your Hostinger infrastructure efficiently using the Hostinger Terraform provider
+- [Getting started](https://support.hostinger.com/en/collections/2590047-getting-started): Getting Started | Hostinger Help Center
+- [Getting started](https://support.hostinger.com/en/collections/2690706-getting-started): Guides new users through the essentials of VPS hosting, including purchasing, setup, and initial configurations
+- [Getting started](https://support.hostinger.com/en/collections/3304444-getting-started): Getting Started | Hostinger Help Center
+- [Getting started](https://support.hostinger.com/en/collections/944868-getting-started): Things you wish to know before starting your website
+- [Google workspace](https://support.hostinger.com/en/collections/2651279-google-workspace): Google Workspace | Hostinger Help Center
+- [Hostinger cdn how to block countries](https://support.hostinger.com/en/articles/7931101-hostinger-cdn-how-to-block-countries): Blocking countries, and removing a country block
+- [Hostinger cdn how to block ips](https://support.hostinger.com/en/articles/7930807-hostinger-cdn-how-to-block-ips): Blocking an IP address, and removing an IP block
+- [Hostinger cdn security levels](https://support.hostinger.com/en/articles/10695636-hostinger-cdn-security-levels): Selecting security level for your CDN setting
+- [Hostinger cdn the under attack mode?q=cdn+securit](https://support.hostinger.com/en/articles/8512979-hostinger-cdn-the-under-attack-mode?q=cdn+securit): Learn how to enable the “I'm under attack” mode with Hostinger Content Delivery Network
+- [Hostinger cdn the under attack mode](https://support.hostinger.com/en/articles/8512979-hostinger-cdn-the-under-attack-mode): Learn how to enable the “I'm under attack” mode with Hostinger Content Delivery Network
+- [Hostinger cdn website optimization](https://support.hostinger.com/en/articles/7935917-hostinger-cdn-website-optimization): Enhancing your website's performance with the help of Hostinger CDN
+- [Hostinger horizons a guide to possible and restricted actions](https://support.hostinger.com/en/articles/10599779-hostinger-horizons-a-guide-to-possible-and-restricted-actions): Learn about different examples of what can be achieved using Horizons and what should be avoided
+- [Hostinger horizons account sharing](https://support.hostinger.com/en/articles/10873595-hostinger-horizons-account-sharing): Learn how to share access with other editors and users regarding your projects inside Horizons
+- [Hostinger horizons ask horizons to fix message error](https://support.hostinger.com/en/articles/11004209-hostinger-horizons-ask-horizons-to-fix-message-error): Learn more how to fix when facing a situation which the message to fix errors appears inside your preview
+- [Hostinger horizons best communication and prompt practices](https://support.hostinger.com/en/articles/11028493-hostinger-horizons-best-communication-and-prompt-practices): Learn more how to prompt efficiently and get the best results out of the communication with Horizons AI
+- [Hostinger horizons creating and managing your projects](https://support.hostinger.com/en/articles/11004356-hostinger-horizons-creating-and-managing-your-projects): Learn more how to create and manage additional web application projects under Hostinger Horizons
+- [Hostinger horizons difference between web app and mobile app](https://support.hostinger.com/en/articles/10673108-hostinger-horizons-difference-between-web-app-and-mobile-app): Learn more about web applications created with Hostinger Horizons, which are yet to be available for mobile applications
+- [Hostinger horizons failed to deploy error](https://support.hostinger.com/en/articles/11013993-hostinger-horizons-failed-to-deploy-error): Learn more how to solve the error Failed to deploy inside your Horizons project
+- [Hostinger horizons frequently asked questions](https://support.hostinger.com/en/articles/10673155-hostinger-horizons-frequently-asked-questions): Find out the answers to the most common questions about Hostinger Horizons
+- [Hostinger horizons google adsense integration](https://support.hostinger.com/en/articles/10771490-hostinger-horizons-google-adsense-integration): Learn how to integrate your web application to your Horizons project
+- [Hostinger horizons high system usage error](https://support.hostinger.com/en/articles/11004142-hostinger-horizons-high-system-usage-error): Learn how to proceed when you get the banner regarding high system usage while using Hostinger Horizons
+- [Hostinger horizons how to deploy your app](https://support.hostinger.com/en/articles/10506149-hostinger-horizons-how-to-deploy-your-app): How to deploy a web application with Hostinger Horizons and get your web app live
+- [Hostinger horizons how to edit and update your project](https://support.hostinger.com/en/articles/10673361-hostinger-horizons-how-to-edit-and-update-your-project): Learn how to update and make changes in your already ready Hostinger Horizons project
+- [Hostinger horizons how to export code](https://support.hostinger.com/en/articles/10771345-hostinger-horizons-how-to-export-code): Learn how to export your web application code, access its backend and make manual changes
+- [Hostinger horizons how to get started](https://support.hostinger.com/en/articles/10505889-hostinger-horizons-how-to-get-started): A short guide introducing Hostinger Horizons AI-powered software development tool
+- [Hostinger horizons how to index your web app](https://support.hostinger.com/en/articles/10946162-hostinger-horizons-how-to-index-your-web-app): Learn how to get your web application indexed by search engines such as Google
+- [Hostinger horizons how to upgrade a plan](https://support.hostinger.com/en/articles/10771095-hostinger-horizons-how-to-upgrade-a-plan): Learn more how to upgrade your Horizons subscription
+- [Hostinger horizons how to use integrations](https://support.hostinger.com/en/articles/11132691-hostinger-horizons-how-to-use-integrations): Learn how to use integrations with Hostinger Horizons
+- [Hostinger horizons join our community](https://support.hostinger.com/en/articles/10873900-hostinger-horizons-join-our-community): Find out how to join to our Discord community and share your experience with Hostinger Horizons with other users
+- [Hostinger horizons mobile device editing](https://support.hostinger.com/en/articles/10683725-hostinger-horizons-mobile-device-editing): Learn how to use Horizons solution while accessing it via mobile device
+- [Hostinger horizons preview error](https://support.hostinger.com/en/articles/11063319-hostinger-horizons-preview-error): Learn how to proceed in case you face a blank or white screen result in your preview screen
+- [Hostinger horizons prompt to fix errors](https://support.hostinger.com/en/articles/11003887-hostinger-horizons-prompt-to-fix-errors): Learn more about those situations in which you write to Horizons about fixing errors and the errors persist after this
+- [Hostinger horizons refund policy](https://support.hostinger.com/en/articles/11013823-hostinger-horizons-refund-policy): Learn more details about the refund policy and special terms for Hostinger Horizons
+- [Hostinger horizons restore message button to fix errors](https://support.hostinger.com/en/articles/11010357-hostinger-horizons-restore-message-button-to-fix-errors): Learn the best course of action to quickly fix errors when creating your web app inside Hostinger Horizons
+- [Hostinger horizons seo settings](https://support.hostinger.com/en/articles/10771376-hostinger-horizons-seo-settings): Learn more how to address the SEO settings inside your web application
+- [Hostinger horizons stripe integration](https://support.hostinger.com/en/articles/10968832-hostinger-horizons-stripe-integration): Learn how to integrate your web application and start getting paid with Online Payments inside Hostinger Horizons
+- [Hostinger horizons stuck on loading error](https://support.hostinger.com/en/articles/11003989-hostinger-horizons-stuck-on-loading-error): Learn how to fix when your Horizons tool is stuck on loading and no action can be taken inside of it
+- [Hostinger horizons subscription management](https://support.hostinger.com/en/articles/10683662-hostinger-horizons-subscription-management): Get to know all the details and information about your Horizons plan subscription
+- [Hostinger horizons supabase integration](https://support.hostinger.com/en/articles/10945694-hostinger-horizons-supabase-integration): Learn more how to make a database connection using your web application under Hostinger Horizons
+- [Hostinger horizons troubleshooting](https://support.hostinger.com/en/articles/10506025-hostinger-horizons-troubleshooting): Most common practices to fix errors when using Hostinger Horizons and how to troubleshot them
+- [Hostinger horizons web app is deployed but offline](https://support.hostinger.com/en/articles/11014035-hostinger-horizons-web-app-is-deployed-but-offline): Learn how to deploy your web application and make it live and working for your customers
+- [Hostinger horizons](https://support.hostinger.com/en/collections/11587877-hostinger-horizons): Everything related to Hostinger Horizons - our AI-powered software development tool
+- [How are affiliate commissions paid](https://support.hostinger.com/en/articles/1583263-how-are-affiliate-commissions-paid): Receiving payments from the Affiliate program at Hostinger
+- [How long does a refund take](https://support.hostinger.com/en/articles/7845630-how-long-does-a-refund-take): Estimated timeframes where you can expect your refund to be completed
+- [How many cron jobs can you set up](https://support.hostinger.com/en/articles/1583765-how-many-cron-jobs-can-you-set-up): Hosting limits for Cron Job creation at Hostinger
+- [How to access Hostinger account from a mobile device](https://support.hostinger.com/en/articles/1583519-how-to-access-hostinger-account-from-a-mobile-device): Logging in to your Hostinger account using a tablet or mobile
+- [How to access phpmyadmin at Hostinger](https://support.hostinger.com/en/articles/1583545-how-to-access-phpmyadmin-at-hostinger): Accessing phpMyAdmin via hPanel or direct link on Hostinger
+- [How to access the dashboard in Hostinger](https://support.hostinger.com/en/articles/1583518-how-to-access-the-dashboard-in-hostinger): Log in to your Hostinger account and manage your services
+- [How to activate daily backups](https://support.hostinger.com/en/articles/1665153-how-to-activate-daily-backups): Enabling daily backups at Hostinger for Single, Premium and VPS plans
+- [How to add a login form to a website](https://support.hostinger.com/en/articles/1583316-how-to-add-a-login-form-to-a-website): Requiring visitors to log in before accessing the website
+- [How to add a website to cyberpanel](https://support.hostinger.com/en/articles/5387244-how-to-add-a-website-to-cyberpanel): Adding a website or a new domain as an add-on to your CyberPanel VPS
+- [How to add a website](https://support.hostinger.com/en/articles/1583214-how-to-add-a-website): Learn how to add more websites to your hosting plan
+- [How to add clients and manage their services](https://support.hostinger.com/en/articles/8661934-how-to-add-clients-and-manage-their-services): Using the access sharing feature to add clients and manage their services in hPanel
+- [How to add file extension to mime types](https://support.hostinger.com/en/articles/1583371-how-to-add-file-extension-to-mime-types): Adding MIME types using .htaccess
+- [How to allow or block a specific ip address for your website](https://support.hostinger.com/en/articles/1583474-how-to-allow-or-block-a-specific-ip-address-for-your-website): IPs whitelisting/blocking via Hostinger’s hPanel, using IP Manager
+- [How to analyze your website s performance with gtmetrix](https://support.hostinger.com/en/articles/5562431-how-to-analyze-your-website-s-performance-with-gtmetrix): Optimizing your website with GTmetrix recommendations
+- [How to analyze your website s speed](https://support.hostinger.com/en/articles/6104420-how-to-analyze-your-website-s-speed): Using the PageSpeed Insights tool at Hostinger to analyze your website's performance
+- [How to apply for a position at Hostinger](https://support.hostinger.com/en/articles/1583269-how-to-apply-for-a-position-at-hostinger): How to join the Hostinger Team
+- [How to automatically renew Hostinger services](https://support.hostinger.com/en/articles/3316237-how-to-automatically-renew-hostinger-services): Renewing Hostinger products and services automatically
+- [How to back up a website at bluehost](https://support.hostinger.com/en/articles/1863731-how-to-back-up-a-website-at-bluehost): Making a backup of a website at Bluehost
+- [How to back up a website at godaddy](https://support.hostinger.com/en/articles/1863670-how-to-back-up-a-website-at-godaddy): Making a backup of a website at GoDaddy
+- [How to back up a website at hostgator](https://support.hostinger.com/en/articles/1863686-how-to-back-up-a-website-at-hostgator): Creating a backup of your website at HostGator
+- [How to block an ip using the htaccess file](https://support.hostinger.com/en/articles/1583355-how-to-block-an-ip-using-the-htaccess-file): Blocking IP addresses with the help of the .htaccess file
+- [How to boost your hosting plan](https://support.hostinger.com/en/articles/6121051-how-to-boost-your-hosting-plan): Using the Boost performance option in hPanel
+- [How to cancel a hosting plan](https://support.hostinger.com/en/articles/1583775-how-to-cancel-a-hosting-plan): Learn how to cancel a hosting plan at Hostinger
+- [How to change a database password](https://support.hostinger.com/en/articles/1583522-how-to-change-a-database-password): Changing a MySQL database password via hPanel at Hostinger
+- [How to change permissions for a database user](https://support.hostinger.com/en/articles/4564363-how-to-change-permissions-for-a-database-user): Changing permissions for a database user in hPanel
+- [How to change the database timezone on phpmyadmin](https://support.hostinger.com/en/articles/4605619-how-to-change-the-database-timezone-on-phpmyadmin): Changing the time zone of a database via phpMyAdmin on Hostinger
+- [How to change the hpanel language](https://support.hostinger.com/en/articles/1583539-how-to-change-the-hpanel-language): Changing the display language on your hPanel at Hostinger
+- [How to change the language on a prestashop website](https://support.hostinger.com/en/articles/6895108-how-to-change-the-language-on-a-prestashop-website): Changing the language on PrestaShop
+- [How to change the password of your hosting plan](https://support.hostinger.com/en/articles/1583462-how-to-change-the-password-of-your-hosting-plan): Changing the FTP and SSH password of your hosting plan
+- [How to change the php timezone setting for your website](https://support.hostinger.com/en/articles/1583192-how-to-change-the-php-timezone-setting-for-your-website): Setting a different timezone with hPanel and PHP function
+- [How to change the php version of your hosting plan](https://support.hostinger.com/en/articles/1575755-how-to-change-the-php-version-of-your-hosting-plan): Changing the PHP version of all your websites at once using hPanel at Hostinger
+- [How to change values of php parameters](https://support.hostinger.com/en/articles/4622479-how-to-change-values-of-php-parameters): Changing upload_max_filesize, max_input_vars, and other PHP parameters at Hostinger
+- [How to change your Hostinger account details](https://support.hostinger.com/en/articles/8916407-how-to-change-your-hostinger-account-details): Learn how to update personal or company information in your Hostinger account
+- [How to change your Hostinger account password](https://support.hostinger.com/en/articles/1583257-how-to-change-your-hostinger-account-password): Changing the password of your Hostinger profile
+- [How to change your billing cycle](https://support.hostinger.com/en/articles/1583235-how-to-change-your-billing-cycle): Changing the renewal period for your services
+- [How to change your ftp password on hpanel](https://support.hostinger.com/en/articles/5634574-how-to-change-your-ftp-password-on-hpanel): Changing FTP/SSH password via Hostinger’s hPanel
+- [How to check cyberpanel log files](https://support.hostinger.com/en/articles/8861464-how-to-check-cyberpanel-log-files): Accessing and understanding CyberPanel log files
+- [How to check resources usage](https://support.hostinger.com/en/articles/2436138-how-to-check-resources-usage): Learn where to check the usage of your hosting plan resources at Hostinger
+- [How to check the activity on your hosting plan](https://support.hostinger.com/en/articles/1583478-how-to-check-the-activity-on-your-hosting-plan): Accessing the Activity Log feature at Hostinger
+- [How to check the login history of your Hostinger account](https://support.hostinger.com/en/articles/5863678-how-to-check-the-login-history-of-your-hostinger-account): Checking the Account Activity section of your Hostinger account
+- [How to check the number of inodes and disk usage per directory](https://support.hostinger.com/en/articles/5776151-how-to-check-the-number-of-inodes-and-disk-usage-per-directory): Checking the number of inodes, and disk usage per directory within a hosting plan at Hostinger
+- [How to check the output of a cron job](https://support.hostinger.com/en/articles/5647075-how-to-check-the-output-of-a-cron-job): Viewing output of your Cron Job in hPanel
+- [How to check the php information of your website](https://support.hostinger.com/en/articles/1583467-how-to-check-the-php-information-of-your-website): Checking the PHP information and parameters of your hosting plan
+- [How to check the php version](https://support.hostinger.com/en/articles/5920192-how-to-check-the-php-version): Checking the PHP version of a website, subdomain, or specific folders
+- [How to check the website migration status](https://support.hostinger.com/en/articles/8385661-how-to-check-the-website-migration-status): Checking the status of a website that's being migrated to Hostinger from another platform
+- [How to check your website s traffic](https://support.hostinger.com/en/articles/1583344-how-to-check-your-website-s-traffic): Using hPanel and external tools to monitor website's traffic
+- [How to claim a free SSL that comes with a hosting plan](https://support.hostinger.com/en/articles/1575761-how-to-claim-a-free-ssl-that-comes-with-a-hosting-plan): Claiming free SSL certificates after purchasing hosting services
+- [How to clear cache](https://support.hostinger.com/en/articles/1583501-how-to-clear-cache): Clearing your browser cache, DNS cache, and website cache
+- [How to clear the litespeed cache](https://support.hostinger.com/en/articles/6973388-how-to-clear-the-litespeed-cache): Learn how to purge the LiteSpeed cache on your website
+- [How to connect to your hosting plan using sftp](https://support.hostinger.com/en/articles/10442158-how-to-connect-to-your-hosting-plan-using-sftp): Connecting to your hosting plan using SFTP
+- [How to connect to your hosting using ftp](https://support.hostinger.com/en/articles/4480505-how-to-connect-to-your-hosting-using-ftp): Transfer files to your websites at Hostinger using an FTP connection
+- [How to connect to your hosting using sftp](https://support.hostinger.com/en/articles/5972689-how-to-connect-to-your-hosting-using-sftp): Connecting to your hosting plan using SFTP
+- [How to contact Hostinger support](https://support.hostinger.com/en/articles/1583780-how-to-contact-hostinger-support): Obtaining assistance for your services at Hostinger
+- [How to create a new mysql database](https://support.hostinger.com/en/articles/1583542-how-to-create-a-new-mysql-database): Creating MySQL databases through via hPanel at Hostinger
+- [How to create a redirection via html](https://support.hostinger.com/en/articles/8193624-how-to-create-a-redirection-via-html): Redirecting a page to a different URL using meta tags in HTML
+- [How to create a website without programming experience](https://support.hostinger.com/en/articles/1583273-how-to-create-a-website-without-programming-experience): Designing a new website using Website Builder at Hostinger
+- [How to create a website](https://support.hostinger.com/en/articles/2458059-how-to-create-a-website): Building a new website using CMS, uploading website files or with the Website Builder
+- [How to create additional ftp accounts](https://support.hostinger.com/en/articles/1583246-how-to-create-additional-ftp-accounts): Creating more FTP accounts at Hostinger
+- [How to create an archive in file manager](https://support.hostinger.com/en/articles/5972776-how-to-create-an-archive-in-file-manager): How to create archives of your files and folders at Hostinger
+- [How to create an htaccess file](https://support.hostinger.com/en/articles/1583307-how-to-create-an-htaccess-file): Creating an .htaccess file at Hostinger
+- [How to create and manage website reports](https://support.hostinger.com/en/articles/9973282-how-to-create-and-manage-website-reports): Customise your website reports and schedule them to be sent to your clients
+- [How to create and upload a database on cyberpanel](https://support.hostinger.com/en/articles/5387479-how-to-create-and-upload-a-database-on-cyberpanel): Creating and uploading databases at your CyberPanel VPS
+- [How to create backups at Hostinger](https://support.hostinger.com/en/articles/2298928-how-to-create-backups-at-hostinger): Creating backups of your website at Hostinger
+- [How to create backups for your joomla site](https://support.hostinger.com/en/articles/10615096-how-to-create-backups-for-your-joomla-site): Creating backups of your Joomla site
+- [How to create multiple logins to your account for friends or customers](https://support.hostinger.com/en/articles/1583535-how-to-create-multiple-logins-to-your-account-for-friends-or-customers): Creating additional FTP, email, and database accounts for your friends or colleagues
+- [How to customize your website s error pages](https://support.hostinger.com/en/articles/1583295-how-to-customize-your-website-s-error-pages): Setting up HTML-based custom error pages
+- [How to delete a database](https://support.hostinger.com/en/articles/1583544-how-to-delete-a-database): Deleting MySQL databases at Hostinger
+- [How to delete a website from a hosting plan](https://support.hostinger.com/en/articles/3624731-how-to-delete-a-website-from-a-hosting-plan): Removing a website from a web or cloud hosting plan at Hostinger
+- [How to delete all database tables in phpmyadmin](https://support.hostinger.com/en/articles/4536290-how-to-delete-all-database-tables-in-phpmyadmin): Deleting the content of the database in phpMyAdmin
+- [How to delete an unpaid invoice](https://support.hostinger.com/en/articles/5401909-how-to-delete-an-unpaid-invoice): What happens with unpaid invoices at Hostinger
+- [How to delete your Hostinger profile](https://support.hostinger.com/en/articles/1583261-how-to-delete-your-hostinger-profile): Fully deleting your Hostinger profile and removing personal data
+- [How to deploy a git repository](https://support.hostinger.com/en/articles/1583302-how-to-deploy-a-git-repository): Deploying and managing git repositories using Hostinger’s hPanel
+- [How to deploy laravel 8 at Hostinger](https://support.hostinger.com/en/articles/6152127-how-to-deploy-laravel-8-at-hostinger): Deploying Laravel 8 on Web and Cloud hosting at Hostinger
+- [How to disable 2fa for website migration](https://support.hostinger.com/en/articles/9532087-how-to-disable-2fa-for-website-migration): Disabling two-factor authentication on your current hosting provider to migrate your websites to Hostinger
+- [How to disable auto renewal](https://support.hostinger.com/en/articles/1583234-how-to-disable-auto-renewal): Disabling the automatic renewal of your Hostinger services
+- [How to disable ipv6 on linux distributions](https://support.hostinger.com/en/articles/10374632-how-to-disable-ipv6-on-linux-distributions): How to disable IPv6 on Linux distributions | Hostinger Help Center
+- [How to disable magic quotes by using htaccess](https://support.hostinger.com/en/articles/1583527-how-to-disable-magic-quotes-by-using-htaccess): How to disable magic quotes? (by using .htaccess) | Hostinger Help Center
+- [How to disable modsecurity](https://support.hostinger.com/en/articles/1583370-how-to-disable-modsecurity): Disabling mod_security through .htaccess
+- [How to disable php output_buffering](https://support.hostinger.com/en/articles/1583369-how-to-disable-php-output_buffering): Disabling output_buffering via the .htaccess file
+- [How to display php error messages](https://support.hostinger.com/en/articles/4259219-how-to-display-php-error-messages): Enabling PHP error messages for website troubleshooting at Hostinger
+- [How to download a website copy from 000webhost](https://support.hostinger.com/en/articles/9502768-how-to-download-a-website-copy-from-000webhost): Downloading your website files and database from 000webhost
+- [How to download backups at Hostinger](https://support.hostinger.com/en/articles/5981435-how-to-download-backups-at-hostinger): Downloading a full hosting backup at Hostinger to your local device
+- [How to download your invoices](https://support.hostinger.com/en/articles/5401907-how-to-download-your-invoices): How to store a copy of your Hostinger invoices on your local device
+- [How to edit hidden minecraft settings](https://support.hostinger.com/en/articles/5605846-how-to-edit-hidden-minecraft-settings): Editing hidden Minecraft server settings (server.properties) via Game Panel
+- [How to edit php values via htaccess](https://support.hostinger.com/en/articles/4622356-how-to-edit-php-values-via-htaccess): Increasing PHP limits via the .htaccess file
+- [How to edit the php ini file](https://support.hostinger.com/en/articles/1583191-how-to-edit-the-php-ini-file): Editing the php.ini file at Hostinger
+- [How to enable cloudflare development mode](https://support.hostinger.com/en/articles/5782198-how-to-enable-cloudflare-development-mode): Enabling the development mode to bypass cache at Cloudflare
+- [How to enable disabled php functions](https://support.hostinger.com/en/articles/3212034-how-to-enable-disabled-php-functions): Enabling PHP functions, which are disabled by default: system, exec, shell_exec, and others
+- [How to enable geoip](https://support.hostinger.com/en/articles/3738302-how-to-enable-geoip): Using IP geolocation for your websites at Hostinger
+- [How to enable hotlink protection](https://support.hostinger.com/en/articles/1583475-how-to-enable-hotlink-protection): Enabling hotlink protection at Hostinger
+- [How to enable or disable https for your website at Hostinger](https://support.hostinger.com/en/articles/1583201-how-to-enable-or-disable-https-for-your-website-at-hostinger): Forcing and unforcing HTTPS connections to your website
+- [How to enable root access in cyberpanel](https://support.hostinger.com/en/articles/8231671-how-to-enable-root-access-in-cyberpanel): Enabling root access in CyberPanel
+- [How to enable website monitoring](https://support.hostinger.com/en/articles/9173071-how-to-enable-website-monitoring): Receiving email notifications about website vulnerabilities and HTTP errors
+- [How to enable website monitoring](https://support.hostinger.com/en/articles/9973210-how-to-enable-website-monitoring): Receiving email notifications about website vulnerabilities and HTTP errors
+- [How to enable wp_debug at Hostinger](https://support.hostinger.com/en/articles/5157262-how-to-enable-wp_debug-at-hostinger): Enabling error debugging of your WordPress website
+- [How to enable zend opcache and ioncube at Hostinger](https://support.hostinger.com/en/articles/1583598-how-to-enable-zend-opcache-and-ioncube-at-hostinger): Enabling the Zend OPcache and ionCube PHP extensions at Hostinger
+- [How to export a database with phpmyadmin](https://support.hostinger.com/en/articles/4529011-how-to-export-a-database-with-phpmyadmin): Exporting a database via phpMyAdmin at Hostinger
+- [How to extract archives using the file manager](https://support.hostinger.com/en/articles/1583613-how-to-extract-archives-using-the-file-manager): Extracting compressed files with File Manager at Hostinger
+- [How to extract rar files at Hostinger](https://support.hostinger.com/en/articles/1583617-how-to-extract-rar-files-at-hostinger): Extraction of archives at Hostinger
+- [How to find ftp details on hpanel](https://support.hostinger.com/en/articles/1714427-how-to-find-ftp-details-on-hpanel): Connect to your web or cloud hosting using FTP
+- [How to find the details of your hosting plan](https://support.hostinger.com/en/articles/1583276-how-to-find-the-details-of-your-hosting-plan): Finding your hosting details at Hostinger
+- [How to find the ip address of your computer](https://support.hostinger.com/en/articles/1583365-how-to-find-the-ip-address-of-your-computer): Using your computer's IP address for troubleshooting and testing
+- [How to find the website s configuration file](https://support.hostinger.com/en/articles/3313359-how-to-find-the-website-s-configuration-file): Name and location of the configuration file for different CMS
+- [How to find your mysql database details](https://support.hostinger.com/en/articles/1583552-how-to-find-your-mysql-database-details): Checking your MySQL database details via Hostinger’s hPanel
+- [How to fix SSL redirect loop](https://support.hostinger.com/en/articles/2197891-how-to-fix-ssl-redirect-loop): Possible reasons for the ERR_TOO_MANY_REDIRECTS error and how to fix it
+- [How to fix a 403 forbidden error](https://support.hostinger.com/en/articles/1583304-how-to-fix-a-403-forbidden-error): Fixing 403 Forbidden error on your website
+- [How to fix a failed lifetime SSL installation](https://support.hostinger.com/en/articles/5613445-how-to-fix-a-failed-lifetime-ssl-installation): Fixing Lifetime SSL installation issue: Failed status
+- [How to fix a network error in hpanel](https://support.hostinger.com/en/articles/6820458-how-to-fix-a-network-error-in-hpanel): Fixing connection issues in hPanel
+- [How to fix a website blocked by facebook](https://support.hostinger.com/en/articles/4664877-how-to-fix-a-website-blocked-by-facebook): Fixing the issue where you can’t share your website on Facebook
+- [How to fix common errors when creating a migration request](https://support.hostinger.com/en/articles/10558490-how-to-fix-common-errors-when-creating-a-migration-request): Comprehensive guide to fix common errors when creating a migration request in Hostinger
+- [How to fix could not create directory error](https://support.hostinger.com/en/articles/10259847-how-to-fix-could-not-create-directory-error): Causes of "Could Not Create Directory" error in Wordpress and how to fix it
+- [How to fix custom SSL installation issues](https://support.hostinger.com/en/articles/6064886-how-to-fix-custom-ssl-installation-issues): Fixing SSL installation Failed error
+- [How to fix error establishing a database connection](https://support.hostinger.com/en/articles/1583224-how-to-fix-error-establishing-a-database-connection): Fixing a database configuration error on Joomla, OpenCart, and other CMS
+- [How to fix errors in the file manager](https://support.hostinger.com/en/articles/8004148-how-to-fix-errors-in-the-file-manager): Troubleshooting errors in the file manager
+- [How to fix file permissions](https://support.hostinger.com/en/articles/1583479-how-to-fix-file-permissions): Setting file permissions to default via Hostinger’s hPanel
+- [How to fix ftp connection errors](https://support.hostinger.com/en/articles/1583242-how-to-fix-ftp-connection-errors): Fixing connectivity issues while using an FTP client
+- [How to fix images not being displayed on a website](https://support.hostinger.com/en/articles/1583313-how-to-fix-images-not-being-displayed-on-a-website): Learn what to do if images don't show or load properly on your website
+- [How to fix not secure or not private connection errors](https://support.hostinger.com/en/articles/1583317-how-to-fix-not-secure-or-not-private-connection-errors): Troubleshooting a website showing that the connection is not secure or not private
+- [How to fix outdated images on facebook website preview](https://support.hostinger.com/en/articles/1583364-how-to-fix-outdated-images-on-facebook-website-preview): Updating website preview when you share it on Facebook
+- [How to fix the 404 error](https://support.hostinger.com/en/articles/2425385-how-to-fix-the-404-error): Fixing a new website that shows a 404 error page
+- [How to fix the 503 error](https://support.hostinger.com/en/articles/3417446-how-to-fix-the-503-error): Fixing the 503 Service Temporarily Unavailable error
+- [How to fix the blank page error](https://support.hostinger.com/en/articles/1583376-how-to-fix-the-blank-page-error): Fixing white screen error when your website appears empty
+- [How to fix the err_SSL_version_or_cipher_mismatch error](https://support.hostinger.com/en/articles/3428357-how-to-fix-the-err_ssl_version_or_cipher_mismatch-error): Understanding and fixing the ERR SSL VERSION OR CIPHER MISMATCH error
+- [How to fix the err_connection_closed error](https://support.hostinger.com/en/articles/6028420-how-to-fix-the-err_connection_closed-error): Fixing the connection closed error
+- [How to fix the host key verification failed error](https://support.hostinger.com/en/articles/7266279-how-to-fix-the-host-key-verification-failed-error): Fixing failed verification error when connecting via SSH to your VPS
+- [How to fix the max_connections_per_hour mysql error](https://support.hostinger.com/en/articles/4274567-how-to-fix-the-max_connections_per_hour-mysql-error): Solving max_connections_per_hour error
+- [How to fix the mixed content error in joomla](https://support.hostinger.com/en/articles/4468940-how-to-fix-the-mixed-content-error-in-joomla): All about mixed content issues and how to fix them in Joomla
+- [How to fix the mixed content error in opencart](https://support.hostinger.com/en/articles/4468956-how-to-fix-the-mixed-content-error-in-opencart): All about mixed content issues and how to fix them in OpenCart
+- [How to fix the mixed content error in prestashop](https://support.hostinger.com/en/articles/4468993-how-to-fix-the-mixed-content-error-in-prestashop): All about mixed content issues and how to fix them in PrestaShop
+- [How to fix the mysql 1064 error](https://support.hostinger.com/en/articles/1583555-how-to-fix-the-mysql-1064-error): Fixing the "#1064 - You have an error in your SQL syntax" error in phpMyAdmin
+- [How to fix the php cannot redeclare error](https://support.hostinger.com/en/articles/1583195-how-to-fix-the-php-cannot-redeclare-error): Fixing "Fatal error: Cannot redeclare"
+- [How to fix the query refused error at registro br](https://support.hostinger.com/en/articles/9241817-how-to-fix-the-query-refused-error-at-registro-br): Understanding and fixing the “Query refused” error
+- [How to fix the unexpected t_string error](https://support.hostinger.com/en/articles/1583196-how-to-fix-the-unexpected-t_string-error): Fixing "Parse error: syntax error Unexpected T_STRING error"
+- [How to fix the user already has more than max user connections error](https://support.hostinger.com/en/articles/1583511-how-to-fix-the-user-already-has-more-than-max-user-connections-error): What to do if you reach the user connection limit
+- [How to generate backups from other providers](https://support.hostinger.com/en/articles/1863862-how-to-generate-backups-from-other-providers): Making a backup of a website at different providers
+- [How to get a refund for a payment made offline e g in cash](https://support.hostinger.com/en/articles/8037733-how-to-get-a-refund-for-a-payment-made-offline-e-g-in-cash): Learn what additional information is required to receive a refund for a payment made using an offline payment method, such as cash
+- [How to get a refund](https://support.hostinger.com/en/articles/3958999-how-to-get-a-refund): Requesting a refund for services and products purchased at Hostinger
+- [How to get all cyberpanel addons](https://support.hostinger.com/en/articles/9453608-how-to-get-all-cyberpanel-addons): How to Get All CyberPanel Addons | Hostinger Help Center
+- [How to get shared access to another account](https://support.hostinger.com/en/articles/4883367-how-to-get-shared-access-to-another-account): Obtaining secure access as a developer or collaborator using the Account Sharing feature
+- [How to get started with Hostinger s game panel](https://support.hostinger.com/en/articles/10046176-how-to-get-started-with-hostinger-s-game-panel): Getting started guide with Hostinger's Game Panel
+- [How to get the epp code at Hostinger](https://support.hostinger.com/en/articles/1583203-how-to-get-the-epp-code-at-hostinger): Obtaining the EPP or Auth code for domains purchased from Hostinger
+- [How to get the epp code from bluehost](https://support.hostinger.com/en/articles/1583438-how-to-get-the-epp-code-from-bluehost): Acquiring EPP/Auth code from Bluehost
+- [How to get the epp code from godaddy](https://support.hostinger.com/en/articles/1583437-how-to-get-the-epp-code-from-godaddy): Acquiring the EPP/Auth code from GoDaddy
+- [How to get the epp code from hostgator](https://support.hostinger.com/en/articles/1583439-how-to-get-the-epp-code-from-hostgator): Acquiring the EPP/Auth code from HostGator
+- [How to hide errors and warnings on your website](https://support.hostinger.com/en/articles/1583189-how-to-hide-errors-and-warnings-on-your-website): How to hide PHP errors from your website, using hPanel, .htaccess, and configuration files
+- [How to identify and fix website errors](https://support.hostinger.com/en/articles/4152553-how-to-identify-and-fix-website-errors): Learn how to identify and resolve issues that cause your website to be offline
+- [How to identify and handle unauthorized payments from Hostinger](https://support.hostinger.com/en/articles/11027848-how-to-identify-and-handle-unauthorized-payments-from-hostinger): How to Identify and Handle Unauthorized Payments from Hostinger | Hostinger Help Center
+- [How to import a database with phpmyadmin](https://support.hostinger.com/en/articles/1884149-how-to-import-a-database-with-phpmyadmin): Importing a database via phpMyAdmin using hPanel
+- [How to improve your hosting s download or upload speed](https://support.hostinger.com/en/articles/1583354-how-to-improve-your-hosting-s-download-or-upload-speed): Understanding and solving a slow download or upload speed from and to your hosting plan
+- [How to inspect website elements in your browser](https://support.hostinger.com/en/articles/2152545-how-to-inspect-website-elements-in-your-browser): Inspecting the website elements via different browsers
+- [How to install a custom SSL](https://support.hostinger.com/en/articles/1583785-how-to-install-a-custom-ssl): Installing a custom SSL certificate
+- [How to install a free SSL on cyberpanel](https://support.hostinger.com/en/articles/5387409-how-to-install-a-free-ssl-on-cyberpanel): Installing SSL certificate on domain using CyberPanel
+- [How to install a modpack for minecraft](https://support.hostinger.com/en/articles/9997286-how-to-install-a-modpack-for-minecraft): Modpack installation for Minecraft in Game Panel
+- [How to install an ecommerce or business cms at Hostinger](https://support.hostinger.com/en/articles/1583676-how-to-install-an-ecommerce-or-business-cms-at-hostinger): Installing an eCommerce or business content management systems on your website via hPanel
+- [How to install applications automatically at Hostinger](https://support.hostinger.com/en/articles/1583296-how-to-install-applications-automatically-at-hostinger): Using the Auto Installer feature
+- [How to install composer locally](https://support.hostinger.com/en/articles/8727597-how-to-install-composer-locally): Installing and using Composer at Hostinger
+- [How to install deepseek on ollama](https://support.hostinger.com/en/articles/10506050-how-to-install-deepseek-on-ollama): How to install Deepseek model on Ollama template using OpenWebUI
+- [How to install flask on ubuntu 24 04](https://support.hostinger.com/en/articles/10725412-how-to-install-flask-on-ubuntu-24-04): Installing Flask application on Ubuntu 24.04
+- [How to install lifetime SSL at Hostinger](https://support.hostinger.com/en/articles/1583258-how-to-install-lifetime-ssl-at-hostinger): How to install or configure a free Lifetime SSL and make your website secure
+- [How to install mods in minecraft using game panel](https://support.hostinger.com/en/articles/5379405-how-to-install-mods-in-minecraft-using-game-panel): Installing Minecraft mods on Hostinger's Game Panel
+- [How to install prestashop using auto installer](https://support.hostinger.com/en/articles/6949182-how-to-install-prestashop-using-auto-installer): Setting up a PrestaShop website using Auto Installer at Hostinger
+- [How to join the Hostinger affiliate program](https://support.hostinger.com/en/articles/1583642-how-to-join-the-hostinger-affiliate-program): Becoming a Hostinger Affiliate
+- [How to launch an asp net application](https://support.hostinger.com/en/articles/8184984-how-to-launch-an-asp-net-application): Launching an ASP.NET application at Hostinger
+- [How to link your Hostinger account to social login](https://support.hostinger.com/en/articles/4888385-how-to-link-your-hostinger-account-to-social-login): Enabling social login for your Hostinger account: Google, Facebook, GitHub
+- [How to log in to whm](https://support.hostinger.com/en/articles/4469080-how-to-log-in-to-whm): Logging in to your WHM cPanel reseller account
+- [How to make an op user in minecraft](https://support.hostinger.com/en/articles/5379357-how-to-make-an-op-user-in-minecraft): Setting an user with OP permissions in Minecraft
+- [How to make files downloadable upon a click on a link](https://support.hostinger.com/en/articles/6987484-how-to-make-files-downloadable-upon-a-click-on-a-link): Learn how to force file downloads using the .htaccess file
+- [How to make your website appear on search results](https://support.hostinger.com/en/articles/1583312-how-to-make-your-website-appear-on-search-results): Submitting your website to search engines like Google or Bing
+- [How to manage a records](https://support.hostinger.com/en/articles/4468886-how-to-manage-a-records): Adding new A records and managing already created A records at Hostinger
+- [How to manage aaaa records](https://support.hostinger.com/en/articles/8899705-how-to-manage-aaaa-records): Managing AAAA records at Hostinger
+- [How to manage ad blocker on your browser](https://support.hostinger.com/en/articles/2032794-how-to-manage-ad-blocker-on-your-browser): Disabling Ad Blocker on browsers when it's preventing you from reaching Hostinger support
+- [How to manage alias records](https://support.hostinger.com/en/articles/10067986-how-to-manage-alias-records): Adding an ALIAS record and managing an existing ALIAS record at Hostinger
+- [How to manage caa records](https://support.hostinger.com/en/articles/5950464-how-to-manage-caa-records): Adding new CAA records and managing already created CAA records at Hostinger
+- [How to manage cname records](https://support.hostinger.com/en/articles/4738777-how-to-manage-cname-records): Managing CNAME records via Hostinger’s DNS Zone Editor
+- [How to manage mysql databases](https://support.hostinger.com/en/articles/1864454-how-to-manage-mysql-databases): Managing MySQL databases via Hostinger’s hPanel
+- [How to manage payment methods in a Hostinger account](https://support.hostinger.com/en/articles/5394917-how-to-manage-payment-methods-in-a-hostinger-account): Adding a payment method to your Hostinger account and removing it
+- [How to manage php extensions and options](https://support.hostinger.com/en/articles/4667515-how-to-manage-php-extensions-and-options): Managing PHP extensions and options at Hostinger
+- [How to manage srv records](https://support.hostinger.com/en/articles/1583251-how-to-manage-srv-records): Adding new SRV records and managing already created SRV records at Hostinger
+- [How to manage txt records](https://support.hostinger.com/en/articles/1583664-how-to-manage-txt-records): Adding new TXT records and managing already created TXT records at Hostinger
+- [How to manually transfer a website to Hostinger](https://support.hostinger.com/en/articles/1583289-how-to-manually-transfer-a-website-to-hostinger): Manually transferring a website to Hostinger
+- [How to merge Hostinger accounts](https://support.hostinger.com/en/articles/1583262-how-to-merge-hostinger-accounts): Merging different Hostinger accounts
+- [How to migrate a website to Hostinger](https://support.hostinger.com/en/articles/4455931-how-to-migrate-a-website-to-hostinger): Migrating your website from another hosting provider or platform to Hostinger
+- [How to move services from one Hostinger account to another](https://support.hostinger.com/en/articles/1583284-how-to-move-services-from-one-hostinger-account-to-another): Moving Hostinger products or services to a different Hostinger account
+- [How to optimize your website to make it load faster](https://support.hostinger.com/en/articles/1583325-how-to-optimize-your-website-to-make-it-load-faster): Identifying why your website is slow and making it faster
+- [How to parse php in html files](https://support.hostinger.com/en/articles/1583190-how-to-parse-php-in-html-files): Parsing PHP in HTML files
+- [How to password protect a website](https://support.hostinger.com/en/articles/1583470-how-to-password-protect-a-website): Adding password protection for websites at Hostinger
+- [How to pay for Hostinger ru services](https://support.hostinger.com/en/articles/6080979-how-to-pay-for-hostinger-ru-services): Renewing services purchased at Hostinger.RU
+- [How to pay for Hostinger services in advance](https://support.hostinger.com/en/articles/1583589-how-to-pay-for-hostinger-services-in-advance): Paying for Hostinger services in advance
+- [How to pay with oxxo or spei](https://support.hostinger.com/en/articles/7302480-how-to-pay-with-oxxo-or-spei): Procedure to pay with local means of payment in Mexico OXXO and SPEI
+- [How to pay with paypal on Hostinger](https://support.hostinger.com/en/articles/1583586-how-to-pay-with-paypal-on-hostinger): Using PayPal as a payment method at Hostinger
+- [How to purchase a hosting plan](https://support.hostinger.com/en/articles/1583274-how-to-purchase-a-hosting-plan): Purchasing a hosting plan at Hostinger
+- [How to purge the cloudflare cache](https://support.hostinger.com/en/articles/5782209-how-to-purge-the-cloudflare-cache): Clearing the Cloudflare cache to update a website's content
+- [How to read the gtmetrix waterfall](https://support.hostinger.com/en/articles/5562455-how-to-read-the-gtmetrix-waterfall): Understanding Waterfall generated by GTmetrix
+- [How to remove the phishing or deceptive message from your website](https://support.hostinger.com/en/articles/1583319-how-to-remove-the-phishing-or-deceptive-message-from-your-website): Removing suspected malware/phishing warning from your website
+- [How to renew a google workspace plan](https://support.hostinger.com/en/articles/5143490-how-to-renew-a-google-workspace-plan): Renewing Google Workspace services provided by Hostinger
+- [How to renew a hosting plan](https://support.hostinger.com/en/articles/1583464-how-to-renew-a-hosting-plan): Extending the duration of your hosting plan at Hostinger
+- [How to report a security issue](https://support.hostinger.com/en/articles/8001450-how-to-report-a-security-issue): What to do if you encounter a bug or security issue at Hostinger
+- [How to request an indonesian e faktur](https://support.hostinger.com/en/articles/8624514-how-to-request-an-indonesian-e-faktur): Easy steps to submit an e-Faktur invoice request
+- [How to reset your Hostinger account password](https://support.hostinger.com/en/articles/1583493-how-to-reset-your-hostinger-account-password): Requesting a password reset to your account email if you forgot your password
+- [How to reset your cyberpanel login credentials](https://support.hostinger.com/en/articles/6481759-how-to-reset-your-cyberpanel-login-credentials): Resetting the CyberPanel password on a Hostinger VPS
+- [How to resolve slow upload issues in file manager](https://support.hostinger.com/en/articles/10485541-how-to-resolve-slow-upload-issues-in-file-manager): Troubleshooting steps for slow upload speed in Hostinger File Manager
+- [How to restore a backup on another Hostinger account](https://support.hostinger.com/en/articles/5981410-how-to-restore-a-backup-on-another-hostinger-account): Restoring a backup on a different user account at Hostinger
+- [How to restore a deleted website](https://support.hostinger.com/en/articles/1583283-how-to-restore-a-deleted-website): Using backups to restore a deleted website on your hosting plan at Hostinger
+- [How to restore an expired hosting plan](https://support.hostinger.com/en/articles/8291133-how-to-restore-an-expired-hosting-plan): Restoring a hosting plan canceled due to non-payment
+- [How to restore backups at Hostinger](https://support.hostinger.com/en/articles/4283700-how-to-restore-backups-at-hostinger): Restoring a website from automated backups at Hostinger
+- [How to secure your contact forms against spam](https://support.hostinger.com/en/articles/9005870-how-to-secure-your-contact-forms-against-spam): Preventing spam messaes being submitted using your website's contact form
+- [How to select a hosting plan for your clients](https://support.hostinger.com/en/articles/8906470-how-to-select-a-hosting-plan-for-your-clients): Choosing a web hosting plan while requesting access and sending your referral link to a new client.
+- [How to set access rights for files and folders](https://support.hostinger.com/en/articles/1583244-how-to-set-access-rights-for-files-and-folders): Setting permissions for files and folders with CHMOD via Hostinger’s  hPanel and FTP client
+- [How to set up a cron job at Hostinger](https://support.hostinger.com/en/articles/1583465-how-to-set-up-a-cron-job-at-hostinger): Configuring cron jobs for web and cloud hosting plans at Hostinger
+- [How to set up a cron job with special characters at Hostinger](https://support.hostinger.com/en/articles/5646919-how-to-set-up-a-cron-job-with-special-characters-at-hostinger): Setting up a cron job with special characters like >/dev/null 2>&1 in hPanel
+- [How to set up a hosting plan](https://support.hostinger.com/en/articles/6926920-how-to-set-up-a-hosting-plan): Setting up your newly purchased hosting plan at Hostinger with our onboarding process
+- [How to set up a redirect](https://support.hostinger.com/en/articles/1583406-how-to-set-up-a-redirect): Creating a domain redirection using the redirect feature at Hostinger
+- [How to set up google analytics](https://support.hostinger.com/en/articles/4707793-how-to-set-up-google-analytics): Setting up Google Analytics for your website
+- [How to set up google workspace on Hostinger](https://support.hostinger.com/en/articles/3223694-how-to-set-up-google-workspace-on-hostinger): Step by step guide to set up Google Workspace on your Hostinger account
+- [How to set up new relic at Hostinger](https://support.hostinger.com/en/articles/6868041-how-to-set-up-new-relic-at-hostinger): Enabling New Relic monitoring for your web applications
+- [How to set up or change your tax code](https://support.hostinger.com/en/articles/4933340-how-to-set-up-or-change-your-tax-code): Changing the VAT/GST code for your profile
+- [How to set up orders at Hostinger](https://support.hostinger.com/en/articles/4598546-how-to-set-up-orders-at-hostinger): Start using your services purchased at Hostinger
+- [How to set up prestashop with litespeed cache](https://support.hostinger.com/en/articles/6103593-how-to-set-up-prestashop-with-litespeed-cache): Optimizing your Prestashop website
+- [How to set up remote mysql access](https://support.hostinger.com/en/articles/1583546-how-to-set-up-remote-mysql-access): Setting up a remote MySQL connection for your databases at Hostinger
+- [How to set up two factor authentication on your Hostinger account](https://support.hostinger.com/en/articles/4888148-how-to-set-up-two-factor-authentication-on-your-hostinger-account): Setting up 2FA on your Hostinger's profile
+- [How to share access to your account](https://support.hostinger.com/en/articles/1583777-how-to-share-access-to-your-account): Granting secure access to developers or collaborators using the Account Sharing feature
+- [How to solve common composer issues](https://support.hostinger.com/en/articles/5792082-how-to-solve-common-composer-issues): Fixing the most frequent issues while using Composer at Hostinger
+- [How to solve err_SSL_protocol_error](https://support.hostinger.com/en/articles/4469061-how-to-solve-err_ssl_protocol_error): Troubleshooting the ERR_SSL_PROTOCOL_ERROR message
+- [How to switch from shopify to woocommerce](https://support.hostinger.com/en/articles/10533880-how-to-switch-from-shopify-to-woocommerce): Migrating your online store from Shopify to WooCommerce on WordPress
+- [How to take a screenshot in google chrome](https://support.hostinger.com/en/articles/7946350-how-to-take-a-screenshot-in-google-chrome): Creating screenshots and saving them to your device
+- [How to test Hostinger services](https://support.hostinger.com/en/articles/1583243-how-to-test-hostinger-services): Trying out Hostinger services with a 30-day money-back guarantee
+- [How to transfer google workspace to Hostinger](https://support.hostinger.com/en/articles/2713330-how-to-transfer-google-workspace-to-hostinger): Generating a transfer token for Google Workspace
+- [How to transfer website ownership](https://support.hostinger.com/en/articles/9214881-how-to-transfer-website-ownership): How to transfer website ownership | Hostinger Help Center
+- [How to turn off php error messages](https://support.hostinger.com/en/articles/1583197-how-to-turn-off-php-error-messages): Disabling PHP error messages
+- [How to uninstall a lifetime SSL certificate](https://support.hostinger.com/en/articles/5733346-how-to-uninstall-a-lifetime-ssl-certificate): Removing an SSL certificate from a website at Hostinger
+- [How to unlink your Hostinger account from social login](https://support.hostinger.com/en/articles/1583259-how-to-unlink-your-hostinger-account-from-social-login): Switching from social login to email and password for your Hostinger account
+- [How to update a website migration request](https://support.hostinger.com/en/articles/4443653-how-to-update-a-website-migration-request): Updating the details related to your website's migration to Hostinger
+- [How to update the paypal account for the referral program](https://support.hostinger.com/en/articles/6740812-how-to-update-the-paypal-account-for-the-referral-program): Changing the PayPal account to receive payments from the Hostinger Referral Program
+- [How to upgrade a hosting plan](https://support.hostinger.com/en/articles/1583459-how-to-upgrade-a-hosting-plan): Increasing the resources of your hosting plan
+- [How to upgrade the game panel](https://support.hostinger.com/en/articles/8226990-how-to-upgrade-the-game-panel): Updating your Game Panel with Hostinger's Minecraft VPS
+- [How to upgrade your game panel plan](https://support.hostinger.com/en/articles/9755639-how-to-upgrade-your-game-panel-plan): Upgrading your Game Panel server to a more powerful one
+- [How to upload a files to cyberpanel using file manager](https://support.hostinger.com/en/articles/5387457-how-to-upload-a-files-to-cyberpanel-using-file-manager): Uploading your website files to CyberPanel VPS
+- [How to upload a website to cyberpanel using ftp](https://support.hostinger.com/en/articles/5465598-how-to-upload-a-website-to-cyberpanel-using-ftp): Uploading your website files to CyberPanel VPS using the FileZilla FTP client
+- [How to upload and set up your database at Hostinger](https://support.hostinger.com/en/articles/1864324-how-to-upload-and-set-up-your-database-at-hostinger): A step-by-step guide to importing and setting up a MySQL database at Hostinger
+- [How to upload backups at Hostinger](https://support.hostinger.com/en/articles/1884234-how-to-upload-backups-at-hostinger): Uploading your website's backups
+- [How to upload backups with file manager](https://support.hostinger.com/en/articles/1869114-how-to-upload-backups-with-file-manager): Uploading a backup via the file manager
+- [How to upload backups with ftp](https://support.hostinger.com/en/articles/1869164-how-to-upload-backups-with-ftp): Uploading file backups with FTP and SFTP for Web and Cloud hosting plans at Hostinger
+- [How to use Hostinger balance](https://support.hostinger.com/en/articles/4334278-how-to-use-hostinger-balance): Using Hostinger Balance as credit for future purchases
+- [How to use cache manager](https://support.hostinger.com/en/articles/6215624-how-to-use-cache-manager): Improve your website’s speed with the help of Cache Manager at Hostinger
+- [How to use cloudflare](https://support.hostinger.com/en/articles/4741545-how-to-use-cloudflare): Enable Cloudflare for free and protect your domain
+- [How to use composer](https://support.hostinger.com/en/articles/5792078-how-to-use-composer): Using Composer with on Web and Cloud hosting plans at Hostinger
+- [How to use custom website tags on hpanel](https://support.hostinger.com/en/articles/9431961-how-to-use-custom-website-tags-on-hpanel): Manage your websites and your clients' websites easily at Hostinger using custom tags
+- [How to use litespeed crawler](https://support.hostinger.com/en/articles/4259027-how-to-use-litespeed-crawler): Using the LiteSpeed Crawler on your WordPress website to make it load faster
+- [How to use the browser terminal](https://support.hostinger.com/en/articles/7978544-how-to-use-the-browser-terminal): An introduction to the Browser Terminal feature available with all our VPS plans
+- [How to use the file editor at Hostinger](https://support.hostinger.com/en/articles/7949267-how-to-use-the-file-editor-at-hostinger): Working with text-based files directly from the File Manager edit option
+- [How to use the hosting dashboard in Hostinger](https://support.hostinger.com/en/articles/6627955-how-to-use-the-hosting-dashboard-in-hostinger): Getting to know the Hosting dashboard and easily manage your hosting plan from one place
+- [How to use the malware scanner at Hostinger](https://support.hostinger.com/en/articles/6197555-how-to-use-the-malware-scanner-at-hostinger): Detecting and cleaning up malware on your websites
+- [How to use the referral program at Hostinger](https://support.hostinger.com/en/articles/6080777-how-to-use-the-referral-program-at-hostinger): Earning money by sharing referral links
+- [How to use traceroute](https://support.hostinger.com/en/articles/1583374-how-to-use-traceroute): Understanding the results of tracert or traceroute command
+- [Hpanel](https://support.hostinger.com/en/collections/944773-hpanel): The features of Hostinger control panel
+- [Htaccess file](https://support.hostinger.com/en/collections/3185639-htaccess-file): .htaccess File | Hostinger Help Center
+- [I m not able to delete a folder from the file manager what to do](https://support.hostinger.com/en/articles/1583605-i-m-not-able-to-delete-a-folder-from-the-file-manager-what-to-do): Fixing file ownership and deleting folders from File Manager
+- [Importing and exporting databases](https://support.hostinger.com/en/collections/3190863-importing-and-exporting-databases): Importing and Exporting Databases | Hostinger Help Center
+- [Inodes and disk usage](https://support.hostinger.com/en/collections/3240031-inodes-and-disk-usage): Inodes and Disk Usage | Hostinger Help Center
+- [Installing applications](https://support.hostinger.com/en/collections/3304440-installing-applications): Installing Applications | Hostinger Help Center
+- [Integrations](https://support.hostinger.com/en/collections/3592110-integrations): Integrations | Hostinger Help Center
+- [Introduction to Hostinger api sdks](https://support.hostinger.com/en/articles/11080244-introduction-to-hostinger-api-sdks): Get to know Hostinger API PHP, Python, and TypeScript SDKs
+- [Introduction to SSL](https://support.hostinger.com/en/articles/1583278-introduction-to-ssl): Protecting sensitive data and boosting user trust with SSL encryption
+- [Invoices management](https://support.hostinger.com/en/collections/3040884-invoices-management): Invoices Management | Hostinger Help Center
+- [Is SSL supported at Hostinger](https://support.hostinger.com/en/articles/1583430-is-ssl-supported-at-hostinger): How to use SSL certificates at Hostinger
+- [Is adult content allowed at Hostinger](https://support.hostinger.com/en/articles/1583358-is-adult-content-allowed-at-hostinger): Hosting adult content at Hostinger
+- [Is anime or hentai content allowed at Hostinger](https://support.hostinger.com/en/articles/1583707-is-anime-or-hentai-content-allowed-at-hostinger): Hosting anime and hentai at Hostinger
+- [Is asp and asp net supported at Hostinger](https://support.hostinger.com/en/articles/1583610-is-asp-and-asp-net-supported-at-hostinger): ASP and ASP.net at Hostinger
+- [Is clipbucket supported at Hostinger](https://support.hostinger.com/en/articles/1583677-is-clipbucket-supported-at-hostinger): An open source PHP script for video sharing
+- [Is cloudflare supported at Hostinger](https://support.hostinger.com/en/articles/5782174-is-cloudflare-supported-at-hostinger): Using Cloudflare at Hostinger
+- [Is cors supported at Hostinger](https://support.hostinger.com/en/articles/6320787-is-cors-supported-at-hostinger): Enabling CORS at Hostinger
+- [Is curl enabled at Hostinger](https://support.hostinger.com/en/articles/1583626-is-curl-enabled-at-hostinger): Using the cURL command on your hosting plan at Hostinger
+- [Is ddos protection included at Hostinger](https://support.hostinger.com/en/articles/1583699-is-ddos-protection-included-at-hostinger): Protection against DDoS on Web and Cloud hosting plans at Hostinger
+- [Is django supported at Hostinger](https://support.hostinger.com/en/articles/1583678-is-django-supported-at-hostinger): Django on Web hosting and VPS hosting plans
+- [Is dl enabled at Hostinger](https://support.hostinger.com/en/articles/1583748-is-dl-enabled-at-hostinger): Using dl() on Web and Cloud hosting plans
+- [Is dolphin emulator supported at Hostinger](https://support.hostinger.com/en/articles/1583741-is-dolphin-emulator-supported-at-hostinger): Hopsing Dolphin Emulator
+- [Is editing httpd conf possible at Hostinger](https://support.hostinger.com/en/articles/1583334-is-editing-httpd-conf-possible-at-hostinger): Learn about use of the httpd.conf file at Hostinger
+- [Is event_scheduler enabled for mysql](https://support.hostinger.com/en/articles/1583548-is-event_scheduler-enabled-for-mysql): Enabling event_scheduler
+- [Is ffmpeg supported at Hostinger](https://support.hostinger.com/en/articles/1583239-is-ffmpeg-supported-at-hostinger): Using FFMPEG at Hostinger
+- [Is flask supported at Hostinger](https://support.hostinger.com/en/articles/9791148-is-flask-supported-at-hostinger): Using the Flask framework to build web applications at Hostinger
+- [Is fxp supported at Hostinger](https://support.hostinger.com/en/articles/1583641-is-fxp-supported-at-hostinger): Transferring files using FXP at Hostinger
+- [Is gambling content allowed at Hostinger](https://support.hostinger.com/en/articles/1583393-is-gambling-content-allowed-at-hostinger): Hosting gambling websites at Hostinger
+- [Is gzip supported at Hostinger](https://support.hostinger.com/en/articles/1583638-is-gzip-supported-at-hostinger): Gzip compression available at Hostinger
+- [Is java supported at Hostinger](https://support.hostinger.com/en/articles/1583593-is-java-supported-at-hostinger): How to host Java-based applications at Hostinger
+- [Is magento supported at Hostinger](https://support.hostinger.com/en/articles/10095713-is-magento-supported-at-hostinger): Hosting a Magento project at Hostinger
+- [Is mining allowed at Hostinger](https://support.hostinger.com/en/articles/8560191-is-mining-allowed-at-hostinger): Using Hostinger servers to mine digital currencies such as Bitcoin, Ethereum, etc.
+- [Is mod_rewrite enabled](https://support.hostinger.com/en/articles/1583636-is-mod_rewrite-enabled): mod_rewrite module on shared hosting packages
+- [Is mongodb supported at Hostinger](https://support.hostinger.com/en/articles/9196562-is-mongodb-supported-at-hostinger): Using MongoDB at Hostinger
+- [Is mysqli enabled](https://support.hostinger.com/en/articles/1583551-is-mysqli-enabled): Learn about the mysqli PHP extension at Hostinger
+- [Is nested virtualization supported](https://support.hostinger.com/en/articles/10429687-is-nested-virtualization-supported): Why Nested Virtualization is Disabled on Hostinger VPS
+- [Is offshore hosting supported at Hostinger](https://support.hostinger.com/en/articles/1583751-is-offshore-hosting-supported-at-hostinger): Getting offshore hosting at Hostinger
+- [Is perl supported at Hostinger](https://support.hostinger.com/en/articles/1583745-is-perl-supported-at-hostinger): Using Perl at Hostinger
+- [Is phone support available at Hostinger](https://support.hostinger.com/en/articles/1583604-is-phone-support-available-at-hostinger): Live support via control panel
+- [Is php soap enabled at Hostinger](https://support.hostinger.com/en/articles/1583749-is-php-soap-enabled-at-hostinger): Using PHP SOAP on Web and Cloud hosting at Hostinger
+- [Is phpmotion supported at Hostinger](https://support.hostinger.com/en/articles/1583750-is-phpmotion-supported-at-hostinger): Using PHPMotion at Hostinger
+- [Is postgresql supported at Hostinger](https://support.hostinger.com/en/articles/1583659-is-postgresql-supported-at-hostinger): Using PostgreSQL at Hostinger
+- [Is python supported at Hostinger](https://support.hostinger.com/en/articles/3648030-is-python-supported-at-hostinger): Hosting Python projects at Hostinger
+- [Is redis supported at Hostinger](https://support.hostinger.com/en/articles/9581774-is-redis-supported-at-hostinger): Using Redis at Hostinger
+- [Is rsync enabled at Hostinger](https://support.hostinger.com/en/articles/1583739-is-rsync-enabled-at-hostinger): Using rsync on Web and Cloud hosting plans at Hostinger
+- [Is sftp access enabled at Hostinger](https://support.hostinger.com/en/articles/1583647-is-sftp-access-enabled-at-hostinger): Setting up SFTP access
+- [Is simplexml supported at Hostinger](https://support.hostinger.com/en/articles/1583753-is-simplexml-supported-at-hostinger): Enabling SimpleXML on Web and Cloud hosting plans at Hostinger
+- [Is streaming supported at Hostinger](https://support.hostinger.com/en/articles/1583684-is-streaming-supported-at-hostinger): Audio and video streaming options at Hostinger
+- [Is symlink function enabled](https://support.hostinger.com/en/articles/1583694-is-symlink-function-enabled): Creating symbolic links via SSH
+- [Is the show databases privilege enabled at Hostinger](https://support.hostinger.com/en/articles/1583547-is-the-show-databases-privilege-enabled-at-hostinger): Using the SHOW DATABASES privilege at Hostinger
+- [Is traceroute enabled at Hostinger](https://support.hostinger.com/en/articles/1583756-is-traceroute-enabled-at-hostinger): Using the traceroute command at Hostinger
+- [Is vpn available at Hostinger](https://support.hostinger.com/en/articles/1583387-is-vpn-available-at-hostinger): Setting up a VPN at Hostinger
+- [Is windows hosting available at Hostinger](https://support.hostinger.com/en/articles/1583760-is-windows-hosting-available-at-hostinger): Can Windows be installed on Hostinger VPS?
+- [Is zlib compression enabled](https://support.hostinger.com/en/articles/1583188-is-zlib-compression-enabled): Enabling ZLib compression at Hostinger
+- [Issues with payment](https://support.hostinger.com/en/collections/3031979-issues-with-payment): Issues with Payment | Hostinger Help Center
+- [Join the Hostinger testers initiative](https://support.hostinger.com/en/articles/8463032-join-the-hostinger-testers-initiative): Become a part of our testers community and help us create the best web hosting solutions for you!
+- [Managing your profile](https://support.hostinger.com/en/collections/2757129-managing-your-profile): Managing Your Profile | Hostinger Help Center
+- [Migrating to Hostinger](https://support.hostinger.com/en/collections/2856657-migrating-to-hostinger): Migrating to Hostinger | Hostinger Help Center
+- [Migration request inaccessible login url](https://support.hostinger.com/en/articles/10660325-migration-request-inaccessible-login-url): How to fix error Inaccessible login URL when creating a migration request
+- [Migration request incorrect login credentials](https://support.hostinger.com/en/articles/10660331-migration-request-incorrect-login-credentials): How to fix Incorrect login credentials error when creating a migration request
+- [Migration request user requires administrator role](https://support.hostinger.com/en/articles/10660358-migration-request-user-requires-administrator-role): How to fix error User requires Administrator role when creating a migration request
+- [Minecraft](https://support.hostinger.com/en/collections/10228713-minecraft): Minecraft | Hostinger Help Center
+- [Missing or outdated scripts on auto installer](https://support.hostinger.com/en/articles/1583391-missing-or-outdated-scripts-on-auto-installer): Changing the available CMS in hPanel's Auto Installer at Hostinger
+- [Mixed content](https://support.hostinger.com/en/collections/2876463-mixed-content): Mixed Content | Hostinger Help Center
+- [Most common issues after migration](https://support.hostinger.com/en/articles/10391363-most-common-issues-after-migration): Most common issues after migration
+- [Mysql databases](https://support.hostinger.com/en/collections/944793-mysql-databases): Information about managing your databases at Hostinger
+- [Mysql](https://support.hostinger.com/en/collections/2601702-mysql): MySQL | Hostinger Help Center
+- [New web and cloud hosting limits](https://support.hostinger.com/en/articles/10717644-new-web-and-cloud-hosting-limits): Limits for websites, storage, and email accounts in new web and cloud hosting plans.
+- [Online store](https://support.hostinger.com/en/collections/3638826-online-store): Online Store | Hostinger Help Center
+- [Order usage](https://support.hostinger.com/en/collections/3229899-order-usage): Order Usage | Hostinger Help Center
+- [Other](https://support.hostinger.com/en/collections/3304216-other): Other | Hostinger Help Center
+- [Other](https://support.hostinger.com/en/collections/3555343-other): Other | Hostinger Help Center
+- [Pages and navigation](https://support.hostinger.com/en/collections/3592104-pages-and-navigation): Pages and Navigation | Hostinger Help Center
+- [Parameters and limits of google workspace](https://support.hostinger.com/en/articles/4791391-parameters-and-limits-of-google-workspace): Available resources and limits of Google Workspace Email plans at Hostinger
+- [Parameters and limits of hosting plans](https://support.hostinger.com/en/articles/6976044-parameters-and-limits-of-hosting-plans): CPU, RAM, inode, disk, database and PHP limits of Hostinger plans
+- [Php advanced](https://support.hostinger.com/en/collections/3185612-php-advanced): PHP Advanced | Hostinger Help Center
+- [Php errors](https://support.hostinger.com/en/collections/3185615-php-errors): PHP Errors | Hostinger Help Center
+- [Php extensions and options](https://support.hostinger.com/en/collections/3185616-php-extensions-and-options): PHP Extensions and Options | Hostinger Help Center
+- [Php info](https://support.hostinger.com/en/collections/3185618-php-info): PHP Info | Hostinger Help Center
+- [Php versions](https://support.hostinger.com/en/collections/3185619-php-versions): PHP Versions | Hostinger Help Center
+- [Php](https://support.hostinger.com/en/collections/2601698-php): PHP | Hostinger Help Center
+- [Php](https://support.hostinger.com/en/collections/944757-php): Changes in PHP configuration of your hosting account
+- [Phpmyadmin](https://support.hostinger.com/en/collections/3190866-phpmyadmin): phpMyAdmin | Hostinger Help Center
+- [Profile management](https://support.hostinger.com/en/collections/944847-profile-management): All the information about managing your Hostinger account
+- [Purchasing a hosting plan](https://support.hostinger.com/en/collections/2856652-purchasing-a-hosting-plan): Purchasing a Hosting Plan | Hostinger Help Center
+- [Quick start guide for minecraft on game panel](https://support.hostinger.com/en/articles/4541961-quick-start-guide-for-minecraft-on-game-panel): Setting up Minecraft server on Game Panel
+- [Refunds](https://support.hostinger.com/en/collections/3031980-refunds): Refunds | Hostinger Help Center
+- [Remote mysql connection](https://support.hostinger.com/en/collections/3190857-remote-mysql-connection): Remote MySQL Connection | Hostinger Help Center
+- [Requesting backups for canceled plans and restoring them](https://support.hostinger.com/en/articles/10485579-requesting-backups-for-canceled-plans-and-restoring-them): Steps to restore backups on a fresh plan from a canceled account
+- [Rust admin commands list](https://support.hostinger.com/en/articles/5963278-rust-admin-commands-list): List of useful commands for Rust
+- [Rust](https://support.hostinger.com/en/collections/10229152-rust): Rust | Hostinger Help Center
+- [Seo](https://support.hostinger.com/en/collections/2589718-seo): SEO | Hostinger Help Center
+- [Seo](https://support.hostinger.com/en/collections/3592109-seo): SEO | Hostinger Help Center
+- [Specific tlds registration requirements](https://support.hostinger.com/en/collections/3209165-specific-tlds-registration-requirements): Specific TLDs Registration Requirements | Hostinger Help Center
+- [Ssl certificates](https://support.hostinger.com/en/collections/2590036-ssl-certificates): SSL Certificates | Hostinger Help Center
+- [Ssl certificates](https://support.hostinger.com/en/collections/944840-ssl-certificates): Everything that you need to know about SSL certificate and how to protect your website with it
+- [Ssl installation](https://support.hostinger.com/en/collections/2876462-ssl-installation): SSL Installation | Hostinger Help Center
+- [Ssl troubleshooting](https://support.hostinger.com/en/collections/2876464-ssl-troubleshooting): SSL Troubleshooting | Hostinger Help Center
+- [Support ticket status explained](https://support.hostinger.com/en/articles/8205398-support-ticket-status-explained): Understanding the status of support tickets
+- [Supported technologies and functions](https://support.hostinger.com/en/collections/2884232-supported-technologies-and-functions): Supported Technologies and Functions | Hostinger Help Center
+- [The website shows a you are all set to go message](https://support.hostinger.com/en/articles/5811527-the-website-shows-a-you-are-all-set-to-go-message): Understanding the default message on your website
+- [Troubleshooting 5xx errors](https://support.hostinger.com/en/articles/4714113-troubleshooting-5xx-errors): How to fix server 5xx errors on your website
+- [Troubleshooting cloudflare universal SSL](https://support.hostinger.com/en/articles/6299503-troubleshooting-cloudflare-universal-ssl): Enabling and disabling Universal SSL via the Cloudflare Dashboard
+- [Troubleshooting cron jobs](https://support.hostinger.com/en/articles/1583514-troubleshooting-cron-jobs): Solving common cron job issues
+- [Troubleshooting cyberpanel upgrade](https://support.hostinger.com/en/articles/10058965-troubleshooting-cyberpanel-upgrade): How to fix issues for CyberPanel upgrade
+- [Understanding chargebacks causes impact and resolution](https://support.hostinger.com/en/articles/11027777-understanding-chargebacks-causes-impact-and-resolution): Understanding Chargebacks: Causes, Impact, and Resolution | Hostinger Help Center
+- [Understanding fraud payments and how to resolve them](https://support.hostinger.com/en/articles/11027694-understanding-fraud-payments-and-how-to-resolve-them): Understanding Fraud Payments and How to Resolve Them | Hostinger Help Center
+- [Uploading a backup](https://support.hostinger.com/en/collections/3338545-uploading-a-backup): Uploading a Backup | Hostinger Help Center
+- [Using Hostinger ansible collection](https://support.hostinger.com/en/articles/11086323-using-hostinger-ansible-collection): Introducing the Hostinger Ansible Collection
+- [Using post install scripts with Hostinger api](https://support.hostinger.com/en/articles/11080657-using-post-install-scripts-with-hostinger-api): Article about using post-install scripts with the Hostinger API
+- [Website content](https://support.hostinger.com/en/collections/2884231-website-content): Website Content | Hostinger Help Center
+- [Website development](https://support.hostinger.com/en/collections/3555338-website-development): Website Development | Hostinger Help Center
+- [Website elements](https://support.hostinger.com/en/collections/3592106-website-elements): Website Elements | Hostinger Help Center
+- [Website optimization](https://support.hostinger.com/en/collections/3129937-website-optimization): Website Optimization | Hostinger Help Center
+- [Website security](https://support.hostinger.com/en/collections/3555337-website-security): Website Security | Hostinger Help Center
+- [Website troubleshooting](https://support.hostinger.com/en/collections/2589717-website-troubleshooting): Website Troubleshooting | Hostinger Help Center
+- [Website](https://support.hostinger.com/en/collections/2590038-website): Website | Hostinger Help Center
+- [Website](https://support.hostinger.com/en/collections/3304439-website): Website | Hostinger Help Center
+- [Website](https://support.hostinger.com/en/collections/944749-website): Website development from first steps to SEO
+- [What actions can the user with granted access perform on the account](https://support.hostinger.com/en/articles/10570051-what-actions-can-the-user-with-granted-access-perform-on-the-account): Learn what actions a user with granted access can and can't perform on your account.
+- [What applications can be automatically installed at Hostinger](https://support.hostinger.com/en/articles/6990738-what-applications-can-be-automatically-installed-at-hostinger): A comprehensive list of available applications on Auto Installer at Hostinger
+- [What are google workspace features](https://support.hostinger.com/en/articles/4586380-what-are-google-workspace-features): Learn about Google Workspace at Hostinger
+- [What content isn t allowed at Hostinger](https://support.hostinger.com/en/articles/11053974-what-content-isn-t-allowed-at-hostinger): Choosing content that’s allowed on Hostinger’s hosting services.
+- [What happens after upgrading a hosting plan](https://support.hostinger.com/en/articles/2512632-what-happens-after-upgrading-a-hosting-plan): How is the upgrade applied to your current hosting plan
+- [What image optimization tools are supported at Hostinger](https://support.hostinger.com/en/articles/3738441-what-image-optimization-tools-are-supported-at-hostinger): Using optimization tools for images via SSH or plugins
+- [What is Hostinger api](https://support.hostinger.com/en/articles/10840865-what-is-hostinger-api): Learn more about Hostinger API, with steps on how to set it up.
+- [What is Hostinger refund policy](https://support.hostinger.com/en/articles/9088216-what-is-hostinger-refund-policy): Application of the 30-day money-back guarantee on hosting services
+- [What is a ddos attack and how to prevent it](https://support.hostinger.com/en/articles/5634639-what-is-a-ddos-attack-and-how-to-prevent-it): Understanding DDoS attacks and taking actions to avoid them.
+- [What is dark web monitoring](https://support.hostinger.com/en/articles/10383396-what-is-dark-web-monitoring): Protect your sensitive data from being leaked
+- [What is kvm virtualization](https://support.hostinger.com/en/articles/6988144-what-is-kvm-virtualization): Find out more about KVM on VPS plans at Hostinger
+- [What is php memory limit](https://support.hostinger.com/en/articles/1583711-what-is-php-memory-limit): Knowing the PHP memory limit of your hosting package
+- [What is the database information_schema on phpmyadmin](https://support.hostinger.com/en/articles/1583521-what-is-the-database-information_schema-on-phpmyadmin): Exploring the role and use of information_schema in database management
+- [What is the database socket path](https://support.hostinger.com/en/articles/1583557-what-is-the-database-socket-path): Locating the database socket in Linux hosting environments
+- [What is the difference between php memory limit and ram](https://support.hostinger.com/en/articles/4466613-what-is-the-difference-between-php-memory-limit-and-ram): PHP memory limit and RAM differences
+- [What is the epp code and how to use it](https://support.hostinger.com/en/articles/1583441-what-is-the-epp-code-and-how-to-use-it): Learn more about the EPP, or authorization code for domain transfers
+- [What is the inode limit and what happens when it is reached](https://support.hostinger.com/en/articles/1583210-what-is-the-inode-limit-and-what-happens-when-it-is-reached): Understanding what are inodes and the inode limit on your hosting plan
+- [What is the path to your website s root home directory and how to change it](https://support.hostinger.com/en/articles/1583494-what-is-the-path-to-your-website-s-root-home-directory-and-how-to-change-it): Finding the path to your root home directory
+- [What mysql port is used at Hostinger](https://support.hostinger.com/en/articles/1583223-what-mysql-port-is-used-at-hostinger): Default port used for remote database connections at Hostinger
+- [What payment methods are available at Hostinger](https://support.hostinger.com/en/articles/1583236-what-payment-methods-are-available-at-hostinger): A detailed list of payment methods that can be used to make purchases for services at Hostinger
+- [What ports are open at Hostinger](https://support.hostinger.com/en/articles/1583736-what-ports-are-open-at-hostinger): Detailed list of open ports at Hostinger
+- [What security measures does Hostinger use](https://support.hostinger.com/en/articles/1583287-what-security-measures-does-hostinger-use): Server protection and certifications at Hostinger
+- [What to do if a website shows a mixed content warning](https://support.hostinger.com/en/articles/2140906-what-to-do-if-a-website-shows-a-mixed-content-warning): Fixing SSL mixed content warning
+- [What to do if an invoice still appears as unpaid after making a payment](https://support.hostinger.com/en/articles/3592497-what-to-do-if-an-invoice-still-appears-as-unpaid-after-making-a-payment): Troubleshooting invoices appearing as unpaid after making the payment
+- [What to do if the database size limit has been reached](https://support.hostinger.com/en/articles/5534251-what-to-do-if-the-database-size-limit-has-been-reached): Fixing the database size limit error
+- [What to do if the htaccess file is missing](https://support.hostinger.com/en/articles/1583395-what-to-do-if-the-htaccess-file-is-missing): Troubleshooting missing .htaccess file using File Manager at Hostinger
+- [What to do if the ip location of your Hostinger services is incorrect](https://support.hostinger.com/en/articles/8649902-what-to-do-if-the-ip-location-of-your-hostinger-services-is-incorrect): Learn why you may see the incorrect IP location of your Hostinger services
+- [What to do if there is an error during payment](https://support.hostinger.com/en/articles/4147167-what-to-do-if-there-is-an-error-during-payment): What to do in case of error messages while making a payment and purchase cannot be completed
+- [What to do if you cannot access your website](https://support.hostinger.com/en/articles/1583286-what-to-do-if-you-cannot-access-your-website): Troubleshooting a website that cannot be reached
+- [What to do if you have been charged twice](https://support.hostinger.com/en/articles/1583233-what-to-do-if-you-have-been-charged-twice): What to do if you were charged twice
+- [What to do if you re charged a different amount](https://support.hostinger.com/en/articles/6321175-what-to-do-if-you-re-charged-a-different-amount): Reasons why a payment may reflect a different amount on your payment method from the cart or invoice
+- [What to do if your account appears empty](https://support.hostinger.com/en/articles/2474251-what-to-do-if-your-account-appears-empty): What to check if you cannot find your purchased services at Hostinger
+- [What to do if your account or site has been hacked](https://support.hostinger.com/en/articles/1583390-what-to-do-if-your-account-or-site-has-been-hacked): Learning why accounts might get hacked and how to avoid it
+- [What to do if your hosting plan becomes inactive](https://support.hostinger.com/en/articles/4146981-what-to-do-if-your-hosting-plan-becomes-inactive): Understand the causes behind inactive hosting plans and discover the available options to reactivate your services.
+- [What to do if your hosting plan limits are reached](https://support.hostinger.com/en/articles/1583532-what-to-do-if-your-hosting-plan-limits-are-reached): Addressing the message “Your websites could experience slower performance”
+- [What to do if your website migration is rejected](https://support.hostinger.com/en/articles/10385247-what-to-do-if-your-website-migration-is-rejected): What to do if your website migration is rejected
+- [What to do when a website shows index of](https://support.hostinger.com/en/articles/1583328-what-to-do-when-a-website-shows-index-of): Alternatives to fix the "Index of /"  error on a website
+- [Where to find information about Hostinger](https://support.hostinger.com/en/articles/1583268-where-to-find-information-about-hostinger): Getting to know more about Hostinger as a Company
+- [Where to find the a record of your hosting plan](https://support.hostinger.com/en/articles/4407303-where-to-find-the-a-record-of-your-hosting-plan): Locating your hosting plan’s IP address in hPanel
+- [Where to find the affiliate program agreement](https://support.hostinger.com/en/articles/1583264-where-to-find-the-affiliate-program-agreement): Conditions of the Affiliate Program at Hostinger
+- [Where to find your website s error logs](https://support.hostinger.com/en/articles/1583298-where-to-find-your-website-s-error-logs): Tracking your website errors through the PHP error log files
+- [Which database management system is used at Hostinger](https://support.hostinger.com/en/articles/1583226-which-database-management-system-is-used-at-hostinger): Determining the type of SQL used at Hostinger
+- [Which languages does the Hostinger support team speak](https://support.hostinger.com/en/articles/1583778-which-languages-does-the-hostinger-support-team-speak): Hostinger Customer Success team's languages
+- [Which laravel versions are supported at Hostinger](https://support.hostinger.com/en/articles/1583301-which-laravel-versions-are-supported-at-hostinger): Installing and using Laravel at Hostinger
+- [Why does a password protected directory ask for the password twice](https://support.hostinger.com/en/articles/1583526-why-does-a-password-protected-directory-ask-for-the-password-twice): Solving duplicating password requests
+- [Why does the number of inodes stay the same after removing files or folders](https://support.hostinger.com/en/articles/1583491-why-does-the-number-of-inodes-stay-the-same-after-removing-files-or-folders): Learn what to do if the number of inodes doesn't change after deleting files or folders
+
+## VPS
+- [Agency hosting plans how to use remote access ssh sftp](https://support.hostinger.com/en/articles/10657418-agency-hosting-plans-how-to-use-remote-access-ssh-sftp): Agency hosting plans: How to use remote access (SSH/SFTP) | Hostinger Help Center
+- [Are Hostinger servers pci compliant](https://support.hostinger.com/en/articles/1583660-are-hostinger-servers-pci-compliant): PCI compliant servers at Hostinger
+- [Can background processes be executed via ssh](https://support.hostinger.com/en/articles/1583713-can-background-processes-be-executed-via-ssh): Running permanent or temporary background SSH processes at Hostinger
+- [Can you add your own os image to VPS](https://support.hostinger.com/en/articles/8852324-can-you-add-your-own-os-image-to-vps): Learn if it's possible to install your own operating system on a virtual private server at Hostinger
+- [Common ssh commands](https://support.hostinger.com/en/articles/5822386-common-ssh-commands): Check all the most useful SSH commands in one place
+- [Cyberpanel VPS](https://support.hostinger.com/en/collections/2690702-cyberpanel-vps): CyberPanel VPS | Hostinger Help Center
+- [Hostinger api mcp server](https://support.hostinger.com/en/articles/11079316-hostinger-api-mcp-server): Running your own Hostinger API MCP server
+- [How and why to purchase VPS hosting](https://support.hostinger.com/en/articles/1583582-how-and-why-to-purchase-vps-hosting): Main features of VPS self-managed hosting
+- [How soon will your VPS be set up and ready for use](https://support.hostinger.com/en/articles/8852211-how-soon-will-your-vps-be-set-up-and-ready-for-use): Find out how soon you can use your new Hostinger VPS
+- [How to add custom maps to source server](https://support.hostinger.com/en/articles/5922265-how-to-add-custom-maps-to-source-server): Adding custom maps to your CS:GO, TF2 or CS Source server
+- [How to add your ssh key to github bitbucket](https://support.hostinger.com/en/articles/1583773-how-to-add-your-ssh-key-to-github-bitbucket): Deplying your website from a git repository using SSH
+- [How to allocate more ram to minecraft server](https://support.hostinger.com/en/articles/5605849-how-to-allocate-more-ram-to-minecraft-server): Learn how to dedicate more RAM to your Minecraft Server via Game Panel at Hostinger
+- [How to back up or restore a VPS](https://support.hostinger.com/en/articles/1583232-how-to-back-up-or-restore-a-vps): Saving and restoring VPS backups or snapshots on a Hostinger VPS
+- [How to change an ssh password on hpanel](https://support.hostinger.com/en/articles/6440760-how-to-change-an-ssh-password-on-hpanel): Changing the SSH password via Hostinger’s hPanel
+- [How to change nameservers at Hostinger](https://support.hostinger.com/en/articles/1696789-how-to-change-nameservers-at-hostinger): Changing your domain's nameservers at Hostinger
+- [How to change nameservers for de domains](https://support.hostinger.com/en/articles/10010960-how-to-change-nameservers-for-de-domains): Changing .de nameservers
+- [How to change the dns resolvers on VPS](https://support.hostinger.com/en/articles/5726596-how-to-change-the-dns-resolvers-on-vps): Understanding what are DNS resolvers and how to add custom DNS resolvers for your VPS
+- [How to change the java version on your minecraft server](https://support.hostinger.com/en/articles/5605868-how-to-change-the-java-version-on-your-minecraft-server): Changing Java version on your Minecraft server via Game Panel at Hostinger
+- [How to change the mariadb version on cyberpanel VPS](https://support.hostinger.com/en/articles/5496540-how-to-change-the-mariadb-version-on-cyberpanel-vps): Upgrading and downgrading MariaDB (MySQL) package on CyberPanel VPS
+- [How to change the operating system of your VPS](https://support.hostinger.com/en/articles/4965922-how-to-change-the-operating-system-of-your-vps): Changing the OS template for your Hostinger VPS
+- [How to change your VPS hostname](https://support.hostinger.com/en/articles/4805490-how-to-change-your-vps-hostname): Checking your VPS hostname and changing it at Hostinger
+- [How to change your VPS ssh password](https://support.hostinger.com/en/articles/8942826-how-to-change-your-vps-ssh-password): Changing your password to connect to your VPS via SSH
+- [How to change your minecraft server configuration](https://support.hostinger.com/en/articles/5605839-how-to-change-your-minecraft-server-configuration): Changing your Minecraft server configuration via Game Panel
+- [How to check VPS resources usage](https://support.hostinger.com/en/articles/4725768-how-to-check-vps-resources-usage): Learn where to check the usage of your VPS resources
+- [How to check detailed ram usage on your VPS](https://support.hostinger.com/en/articles/6867460-how-to-check-detailed-ram-usage-on-your-vps): Checking RAM usage on VPS
+- [How to check the files and folders ownership using ssh](https://support.hostinger.com/en/articles/4726775-how-to-check-the-files-and-folders-ownership-using-ssh): Checking file and folders ownership via SSH
+- [How to choose a game panel server hosting plan](https://support.hostinger.com/en/articles/7854557-how-to-choose-a-game-panel-server-hosting-plan): Choosing the best Game Panel server hosting plan for you
+- [How to configure a server icon and motd on game panel](https://support.hostinger.com/en/articles/5379419-how-to-configure-a-server-icon-and-motd-on-game-panel): Setting up server icon and Message Of The Day for your Minecraft server
+- [How to connect to VPS using sftp](https://support.hostinger.com/en/articles/8868611-how-to-connect-to-vps-using-sftp): Transfer files to and from VPS easily
+- [How to connect to a hosting plan remotely using ssh](https://support.hostinger.com/en/articles/10441250-how-to-connect-to-a-hosting-plan-remotely-using-ssh): Access your hosting plan remotely with an SSH connection
+- [How to connect to a hosting plan via ssh](https://support.hostinger.com/en/articles/1583245-how-to-connect-to-a-hosting-plan-via-ssh): Logging in to your account with the details found in your control panel via different SSH clients
+- [How to connect to the microsoft sql server odbc](https://support.hostinger.com/en/articles/8583784-how-to-connect-to-the-microsoft-sql-server-odbc): Connecting to the Microsoft SQL Server
+- [How to connect to your VPS via ssh](https://support.hostinger.com/en/articles/5723772-how-to-connect-to-your-vps-via-ssh): Connecting to your VPS at Hostinger using SSH
+- [How to copy files or folders using ssh](https://support.hostinger.com/en/articles/4725353-how-to-copy-files-or-folders-using-ssh): Copying files and folders using SSH
+- [How to create a backup of your minecraft server](https://support.hostinger.com/en/articles/5605866-how-to-create-a-backup-of-your-minecraft-server): Creating your Minecraft server backups via Game Panel
+- [How to create and start a minecraft server at Hostinger](https://support.hostinger.com/en/articles/5605828-how-to-create-and-start-a-minecraft-server-at-hostinger): Creating and starting your first server via Game Panel
+- [How to create archives with ssh](https://support.hostinger.com/en/articles/5973347-how-to-create-archives-with-ssh): Compressing files using SSH
+- [How to create child nameservers](https://support.hostinger.com/en/articles/1583401-how-to-create-child-nameservers): Creating child nameservers at Hostinger
+- [How to delete VPS logs](https://support.hostinger.com/en/articles/7831525-how-to-delete-vps-logs): Save space by removing the log files on your VPS at Hostinger
+- [How to delete files or folders using ssh](https://support.hostinger.com/en/articles/4725430-how-to-delete-files-or-folders-using-ssh): Deleting files and folders using SSH
+- [How to deploy bolt new applications to your Hostinger VPS](https://support.hostinger.com/en/articles/10164793-how-to-deploy-bolt-new-applications-to-your-hostinger-vps): Getting started with bolt.new tool on your VPS
+- [How to disable online mode for your minecraft server](https://support.hostinger.com/en/articles/7329766-how-to-disable-online-mode-for-your-minecraft-server): Managing online mode server settings in Minecraft at Hostinger
+- [How to download a particular website s backup via ssh](https://support.hostinger.com/en/articles/8535692-how-to-download-a-particular-website-s-backup-via-ssh): Downloading a backup of a particular website
+- [How to enable disk quota on your VPS](https://support.hostinger.com/en/articles/4805487-how-to-enable-disk-quota-on-your-vps): Enabling second-level disk quota on your OpenVZ VPS at Hostinger
+- [How to enable network file system nfs at VPS](https://support.hostinger.com/en/articles/4797562-how-to-enable-network-file-system-nfs-at-vps): Enabling NFS with your OpenVZ VPS at Hostinger
+- [How to enable ssh access](https://support.hostinger.com/en/articles/1583645-how-to-enable-ssh-access): Enabling access via SSH to your Web or Cloud hosting plan at Hostinger
+- [How to export a database over ssh](https://support.hostinger.com/en/articles/4536328-how-to-export-a-database-over-ssh): Exporting a database over SSH
+- [How to extract archives with ssh](https://support.hostinger.com/en/articles/5966088-how-to-extract-archives-with-ssh): Unpacking archives using SSH
+- [How to find your VPS ip address](https://support.hostinger.com/en/articles/5139756-how-to-find-your-vps-ip-address): Finding your VPS IP at Hostinger
+- [How to fix 500 internal server error](https://support.hostinger.com/en/articles/1583187-how-to-fix-500-internal-server-error): Fixing 500 Internal Server Error on Hostinger
+- [How to fix SSL issues on cyberpanel VPS](https://support.hostinger.com/en/articles/5496683-how-to-fix-ssl-issues-on-cyberpanel-vps): Fixing common SSL errors on CyberPanel VPS
+- [How to fix serverhold suspension for in domains](https://support.hostinger.com/en/articles/10656584-how-to-fix-serverhold-suspension-for-in-domains): Activating .in domain name that's suspended due to serverHold status.
+- [How to fix the mysql server has gone away error](https://support.hostinger.com/en/articles/1583503-how-to-fix-the-mysql-server-has-gone-away-error): Solving MySQL timeout errors
+- [How to fix the status error on VPS](https://support.hostinger.com/en/articles/9453536-how-to-fix-the-status-error-on-vps): How to fix the status: error on VPS | Hostinger Help Center
+- [How to fix the your connection is not private error on VPS login](https://support.hostinger.com/en/articles/5602852-how-to-fix-the-your-connection-is-not-private-error-on-vps-login): Resolving the "Your connection is not private" error when logging in to your VPS control panel
+- [How to generate ssh keys and add them to hpanel](https://support.hostinger.com/en/articles/5634532-how-to-generate-ssh-keys-and-add-them-to-hpanel): Generating SSH keys and adding them to Hostinger’s hPanel
+- [How to host a call of duty 4 modern warfare dedicated server](https://support.hostinger.com/en/articles/8917635-how-to-host-a-call-of-duty-4-modern-warfare-dedicated-server): Creating a server for Call of Duty 4: Modern Warfare with Hostinger VPS
+- [How to host a counter strike 2 dedicated server](https://support.hostinger.com/en/articles/5916326-how-to-host-a-counter-strike-2-dedicated-server): Hosting a Counter-Strike 2 server on Game Panel with a VPS at Hostinger
+- [How to host a dota 2 dedicated server](https://support.hostinger.com/en/articles/8908619-how-to-host-a-dota-2-dedicated-server): Creating a Dota 2 server using VPS hosting
+- [How to host a rust dedicated server](https://support.hostinger.com/en/articles/5900634-how-to-host-a-rust-dedicated-server): Creating and starting your first Rust server with Game Panel!
+- [How to host a sunkenland dedicated server](https://support.hostinger.com/en/articles/8942552-how-to-host-a-sunkenland-dedicated-server): Creating a Sunkenland server on a Hostinger VPS
+- [How to host a team fortress 2 dedicated server](https://support.hostinger.com/en/articles/6040043-how-to-host-a-team-fortress-2-dedicated-server): Hosting your first Team Fortress 2 server via Hostinger's Game Panel
+- [How to host a valheim dedicated server](https://support.hostinger.com/en/articles/8910941-how-to-host-a-valheim-dedicated-server): Creating a Valheim server using VPS hosting
+- [How to host an ark survival ascended dedicated server](https://support.hostinger.com/en/articles/8917739-how-to-host-an-ark-survival-ascended-dedicated-server): Creating a server for ARK: Survival Ascended with Hostinger VPS
+- [How to host an enshrouded dedicated server](https://support.hostinger.com/en/articles/8899523-how-to-host-an-enshrouded-dedicated-server): How to Host an Enshrouded Dedicated Server | Hostinger Help Center
+- [How to host an unturned dedicated server](https://support.hostinger.com/en/articles/8910698-how-to-host-an-unturned-dedicated-server): Creating an Unturned server using VPS hosting
+- [How to import a database over ssh](https://support.hostinger.com/en/articles/4536306-how-to-import-a-database-over-ssh): Importing a database via SSH at Hostinger
+- [How to increase VPS partition size](https://support.hostinger.com/en/articles/8899490-how-to-increase-vps-partition-size): Maintaining a properly sized VPS
+- [How to install SSL on VPS using certbot](https://support.hostinger.com/en/articles/6865487-how-to-install-ssl-on-vps-using-certbot): Installing an SSL certificate on your VPS with Certbot using Python
+- [How to install SSL on VPS](https://support.hostinger.com/en/articles/6360129-how-to-install-ssl-on-vps): Exploring SSL certificate options for domains hosted on your Hostinger VPS
+- [How to install a custom map on a rust server](https://support.hostinger.com/en/articles/5913331-how-to-install-a-custom-map-on-a-rust-server): Installing a custom map on your Rust server
+- [How to install a let s encrypt SSL certificate on a VPS with cloudpanel](https://support.hostinger.com/en/articles/8592551-how-to-install-a-let-s-encrypt-ssl-certificate-on-a-vps-with-cloudpanel): Installing a Let's Encrypt SSL on a VPS with CloudPanel at Hostinger
+- [How to install fabric loader for minecraft server via game panel](https://support.hostinger.com/en/articles/6003328-how-to-install-fabric-loader-for-minecraft-server-via-game-panel): Installing and running Fabric Mod loader
+- [How to install flutter web on a VPS](https://support.hostinger.com/en/articles/9967651-how-to-install-flutter-web-on-a-vps): Getting started with the Flutter web on a VPS
+- [How to install sourcemod and metamod for source game servers](https://support.hostinger.com/en/articles/5922322-how-to-install-sourcemod-and-metamod-for-source-game-servers): Installing plugin support framework on Source Game Server
+- [How to log in to your VPS](https://support.hostinger.com/en/articles/5577900-how-to-log-in-to-your-vps): Accessing your VPS control panel
+- [How to look up domain nameservers](https://support.hostinger.com/en/articles/8671230-how-to-look-up-domain-nameservers): Finding out which nameservers are currently set for your domain
+- [How to migrate a website from directadmin to Hostinger s directadmin VPS](https://support.hostinger.com/en/articles/5891011-how-to-migrate-a-website-from-directadmin-to-hostinger-s-directadmin-vps): Migrating your website from DirectAdmin to Hostinger’s VPS
+- [How to migrate a website from hpanel to cyberpanel VPS](https://support.hostinger.com/en/articles/4035580-how-to-migrate-a-website-from-hpanel-to-cyberpanel-vps): Moving your website from hPanel to VPS with CyberPanel
+- [How to migrate your VPS from openvz to kvm at Hostinger](https://support.hostinger.com/en/articles/10469992-how-to-migrate-your-vps-from-openvz-to-kvm-at-hostinger): Migrate Your VPS from OpenVZ to KVM at Hostinger
+- [How to migrate your VPS to Hostinger](https://support.hostinger.com/en/articles/2774885-how-to-migrate-your-vps-to-hostinger): Transferring VPS data from another provider to VPS at Hostinger
+- [How to migrate your website from VPS to shared hosting on Hostinger](https://support.hostinger.com/en/articles/10091923-how-to-migrate-your-website-from-vps-to-shared-hosting-on-hostinger): Two simple ways how to migrate from VPS to a Shared Hosting on Hostinger
+- [How to open the website s root directory via ssh](https://support.hostinger.com/en/articles/5973000-how-to-open-the-website-s-root-directory-via-ssh): Locating and reaching the root directory of your website using SSH
+- [How to point a domain to your VPS](https://support.hostinger.com/en/articles/1583227-how-to-point-a-domain-to-your-vps): Pointing a domain to your virtual private server
+- [How to point a domain to your minecraft server](https://support.hostinger.com/en/articles/5379258-how-to-point-a-domain-to-your-minecraft-server): Pointing a domain or a subdomain to a Minecraft server hosted on Game Panel
+- [How to purchase a control panel license for VPS](https://support.hostinger.com/en/articles/7034536-how-to-purchase-a-control-panel-license-for-vps): Choosing a paid OS license with control panel for VPS at Hostinger
+- [How to recover mysql databases from mysql data files in VPS](https://support.hostinger.com/en/articles/4635603-how-to-recover-mysql-databases-from-mysql-data-files-in-vps): Recovering MySQL databases from MySQL data files /var/lib/mysql
+- [How to reset login credentials on VPS](https://support.hostinger.com/en/articles/6484943-how-to-reset-login-credentials-on-vps): Setting up new admin credentials on different operating systems
+- [How to run metatrader 5 on Hostinger VPS](https://support.hostinger.com/en/articles/9571800-how-to-run-metatrader-5-on-hostinger-vps): Running MetaTrader 5 on a Hostinger Linux-based VPS using XFCE and RDP
+- [How to secure your VPS from abusive activity](https://support.hostinger.com/en/articles/8224050-how-to-secure-your-vps-from-abusive-activity): Prevent exploitation by malicious actors and take action against abusive activity originating from your VPS
+- [How to set up a firewall at VPS](https://support.hostinger.com/en/articles/4805502-how-to-set-up-a-firewall-at-vps): Setting up a firewall with your VPS
+- [How to set up swap on Hostinger VPS](https://support.hostinger.com/en/articles/8124185-how-to-set-up-swap-on-hostinger-vps): Configuring and Optimizing SWAP memory for enhanced perform
+- [How to setup reverse dns on VPS](https://support.hostinger.com/en/articles/4805528-how-to-setup-reverse-dns-on-vps): Using PTR record to setup reverse DNS on VPS at Hostinger
+- [How to solve the most common errors in ssh](https://support.hostinger.com/en/articles/5634587-how-to-solve-the-most-common-errors-in-ssh): Solving errors in SSH terminal
+- [How to transfer your VPS to a different location](https://support.hostinger.com/en/articles/10289743-how-to-transfer-your-vps-to-a-different-location): Learn how to move your VPS to a different data center
+- [How to transfer your hosting plan to a different server](https://support.hostinger.com/en/articles/5577027-how-to-transfer-your-hosting-plan-to-a-different-server): When, why and how to transfer your hosting to a different location
+- [How to troubleshoot ssh connection issues on VPS](https://support.hostinger.com/en/articles/9969102-how-to-troubleshoot-ssh-connection-issues-on-vps): Common SSH connection issues and troubleshooting steps
+- [How to update your minecraft server](https://support.hostinger.com/en/articles/5605857-how-to-update-your-minecraft-server): Updating your Minecraft server via Game Panel
+- [How to upgrade a VPS server](https://support.hostinger.com/en/articles/1583229-how-to-upgrade-a-vps-server): Upgrading your VPS to a more powerful one
+- [How to upload a backup using ssh](https://support.hostinger.com/en/articles/4466851-how-to-upload-a-backup-using-ssh): Uploading files from your local device to your hosting with SSH
+- [How to upload a custom world to your minecraft server](https://support.hostinger.com/en/articles/4966663-how-to-upload-a-custom-world-to-your-minecraft-server): Uploading custom world to your Minecraft server at Hostinger via Game Panel
+- [How to upload an existing world to your palworld server](https://support.hostinger.com/en/articles/9005775-how-to-upload-an-existing-world-to-your-palworld-server): Migrating your Palworld server to a Hostinger Game Panel VPS
+- [How to upload files to your minecraft server](https://support.hostinger.com/en/articles/5550782-how-to-upload-files-to-your-minecraft-server): Uploading files via File manager or FTP to your Minecraft server
+- [How to upload jar minecraft server into your VPS game panel](https://support.hostinger.com/en/articles/10365092-how-to-upload-jar-minecraft-server-into-your-vps-game-panel): Getting started guide, on how to upload Minecraft .jar server in Hostinger Game Panel.
+- [How to use a managed VPS firewall](https://support.hostinger.com/en/articles/8172641-how-to-use-a-managed-vps-firewall): Learn more about managed VPS Firewall at Hostinger
+- [How to use azuracast VPS template](https://support.hostinger.com/en/articles/10905872-how-to-use-azuracast-vps-template): Guide on how to install and use AzuraCast VPS pre-installed template
+- [How to use cyberpanel with a VPS](https://support.hostinger.com/en/articles/4983641-how-to-use-cyberpanel-with-a-vps): Accessing and setting up CyberPanel on VPS at Hostinger
+- [How to use directadmin VPS template](https://support.hostinger.com/en/articles/5790024-how-to-use-directadmin-vps-template): Accessing and setting up DirectAdmin on Hostinger’s VPS
+- [How to use emergency mode on your VPS](https://support.hostinger.com/en/articles/5726577-how-to-use-emergency-mode-on-your-vps): Enabling Emergency mode for your VPS
+- [How to use ssh keys at VPS](https://support.hostinger.com/en/articles/4792364-how-to-use-ssh-keys-at-vps): Setting up SSH keys on your VPS
+- [How to use the VPS dashboard in Hostinger](https://support.hostinger.com/en/articles/5726606-how-to-use-the-vps-dashboard-in-hostinger): Understanding your VPS management panel
+- [How to use the akaunting VPS template](https://support.hostinger.com/en/articles/8807596-how-to-use-the-akaunting-vps-template): Getting started with the Akaunting VPS Template
+- [How to use the anaconda VPS template](https://support.hostinger.com/en/articles/10442498-how-to-use-the-anaconda-vps-template): Getting started with the Anaconda VPS Template
+- [How to use the appwrite VPS template](https://support.hostinger.com/en/articles/9957127-how-to-use-the-appwrite-vps-template): Getting started with the Appwrite VPS template at Hostinger
+- [How to use the bluesky VPS template](https://support.hostinger.com/en/articles/10537469-how-to-use-the-bluesky-vps-template): Getting started with the Bluesky VPS template
+- [How to use the centos panel with VPS](https://support.hostinger.com/en/articles/4971251-how-to-use-the-centos-panel-with-vps): Accessing and setting up the CentOS panel on Hostinger’s VPS
+- [How to use the cloudlinux VPS template](https://support.hostinger.com/en/articles/8683898-how-to-use-the-cloudlinux-vps-template): Getting Started with Hostinger VPS CloudLinux Template
+- [How to use the cloudpanel VPS template](https://support.hostinger.com/en/articles/8794480-how-to-use-the-cloudpanel-vps-template): Getting started with the CloudPanel VPS template
+- [How to use the cloudron VPS template](https://support.hostinger.com/en/articles/8637788-how-to-use-the-cloudron-vps-template): Getting started with Cloudron VPS template
+- [How to use the clustercontrol VPS template](https://support.hostinger.com/en/articles/10441716-how-to-use-the-clustercontrol-vps-template): Getting started with the ClusterControl VPS Template
+- [How to use the coolify VPS template](https://support.hostinger.com/en/articles/9615197-how-to-use-the-coolify-vps-template): Getting started with the Coolify VPS template
+- [How to use the discourse VPS template](https://support.hostinger.com/en/articles/9336092-how-to-use-the-discourse-vps-template): Getting started with the Discourse VPS template
+- [How to use the docker VPS template](https://support.hostinger.com/en/articles/8306612-how-to-use-the-docker-vps-template): Getting started with Hostinger VPS Docker template
+- [How to use the dokku VPS template](https://support.hostinger.com/en/articles/10100263-how-to-use-the-dokku-vps-template): How to get started with Dokku template on Hostinger VPS
+- [How to use the dokploy VPS template](https://support.hostinger.com/en/articles/9822596-how-to-use-the-dokploy-vps-template): Getting started with the Dokploy VPS template at Hostinger
+- [How to use the easypanel VPS template](https://support.hostinger.com/en/articles/8703798-how-to-use-the-easypanel-vps-template): Getting started with EasyPanel on your Hostinger VPS
+- [How to use the elasticsearch VPS template](https://support.hostinger.com/en/articles/10157780-how-to-use-the-elasticsearch-vps-template): Getting started with Elasticsearch on VPS
+- [How to use the fastpanel VPS template](https://support.hostinger.com/en/articles/8861388-how-to-use-the-fastpanel-vps-template): Getting started with the FASTPANEL VPS template
+- [How to use the freepbx VPS template](https://support.hostinger.com/en/articles/9956443-how-to-use-the-freepbx-vps-template): Getting started with the FreePBX VPS template at Hostinger
+- [How to use the ghost VPS template](https://support.hostinger.com/en/articles/8825599-how-to-use-the-ghost-vps-template): Getting started with the Ghost VPS template at Hostinger
+- [How to use the gitlab VPS template](https://support.hostinger.com/en/articles/8583863-how-to-use-the-gitlab-vps-template): Getting started with the GitLab VPS Template
+- [How to use the grafana VPS template](https://support.hostinger.com/en/articles/10551138-how-to-use-the-grafana-vps-template): Getting started with Grafana VPS template
+- [How to use the hestiacp with VPS](https://support.hostinger.com/en/articles/5658627-how-to-use-the-hestiacp-with-vps): Accessing and setting up HestiaCP on your VPS at Hostinger
+- [How to use the jitsi VPS template](https://support.hostinger.com/en/articles/9030755-how-to-use-the-jitsi-vps-template): Getting started with the Jitsi VPS template at Hostinger
+- [How to use the kubesphere VPS template](https://support.hostinger.com/en/articles/8687660-how-to-use-the-kubesphere-vps-template): Getting started with the KubeSphere VPS template
+- [How to use the kusanagi VPS template](https://support.hostinger.com/en/articles/10469876-how-to-use-the-kusanagi-vps-template): Getting Started with KUSANAGI VPS template
+- [How to use the laravel VPS template](https://support.hostinger.com/en/articles/9070980-how-to-use-the-laravel-vps-template): Getting started with the Laravel VPS template at Hostinger
+- [How to use the magento 2 VPS template](https://support.hostinger.com/en/articles/8999410-how-to-use-the-magento-2-vps-template): Getting started with the Magento 2 VPS Template
+- [How to use the mean stack VPS template](https://support.hostinger.com/en/articles/8805712-how-to-use-the-mean-stack-vps-template): Getting started with the MEAN stack VPS Template
+- [How to use the mediawiki VPS template](https://support.hostinger.com/en/articles/8974759-how-to-use-the-mediawiki-vps-template): Getting started with Hostinger VPS MediaWiki template
+- [How to use the metatrader VPS template](https://support.hostinger.com/en/articles/10420155-how-to-use-the-metatrader-vps-template): Using MetaTrader VPS template on Hostinger
+- [How to use the mevn stack VPS template](https://support.hostinger.com/en/articles/9070856-how-to-use-the-mevn-stack-vps-template): Getting started with the MEVN Stack VPS template at Hostinger
+- [How to use the moodle VPS template](https://support.hostinger.com/en/articles/8868583-how-to-use-the-moodle-vps-template): Getting started with the Moodle VPS template
+- [How to use the n8n VPS template](https://support.hostinger.com/en/articles/10473267-how-to-use-the-n8n-vps-template): Getting started with the n8n VPS template
+- [How to use the nextcloud VPS template](https://support.hostinger.com/en/articles/8794598-how-to-use-the-nextcloud-vps-template): Getting started with the Nextcloud VPS template
+- [How to use the odoo VPS template](https://support.hostinger.com/en/articles/9220073-how-to-use-the-odoo-vps-template): Getting started with the Odoo template on your VPS
+- [How to use the ollama VPS template](https://support.hostinger.com/en/articles/9310983-how-to-use-the-ollama-vps-template): Getting started with the Ollama VPS template at Hostinger
+- [How to use the opencart VPS template](https://support.hostinger.com/en/articles/9271825-how-to-use-the-opencart-vps-template): Getting started with the OpenCart VPS template
+- [How to use the openvpn VPS template](https://support.hostinger.com/en/articles/8710637-how-to-use-the-openvpn-vps-template): Getting started with the OpenVPN Access Server on your VPS
+- [How to use the owncast VPS template](https://support.hostinger.com/en/articles/9805021-how-to-use-the-owncast-vps-template): Getting started with the Owncast VPS template at Hostinger
+- [How to use the plesk VPS template](https://support.hostinger.com/en/articles/4971295-how-to-use-the-plesk-vps-template): Accessing and setting up Plesk on Hostinger’s VPS
+- [How to use the plex VPS template](https://support.hostinger.com/en/articles/8122780-how-to-use-the-plex-vps-template): Getting started with the Plex VPS template
+- [How to use the pocketbase VPS template](https://support.hostinger.com/en/articles/10490129-how-to-use-the-pocketbase-vps-template): Getting started with PocketBase VPS template
+- [How to use the portainer VPS template](https://support.hostinger.com/en/articles/8310577-how-to-use-the-portainer-vps-template): Getting started with Hostinger VPS Portainer template
+- [How to use the prestashop VPS template](https://support.hostinger.com/en/articles/8564319-how-to-use-the-prestashop-vps-template): Getting started with the PrestaShop VPS template
+- [How to use the redmine VPS template](https://support.hostinger.com/en/articles/9627451-how-to-use-the-redmine-vps-template): Getting started with Redmine on your Hostinger VPS
+- [How to use the rocket chat VPS template](https://support.hostinger.com/en/articles/9099779-how-to-use-the-rocket-chat-vps-template): Getting started with the Rocket.Chat VPT template at Hostinger
+- [How to use the strapi VPS template](https://support.hostinger.com/en/articles/9054766-how-to-use-the-strapi-vps-template): Getting started with the Strapi VPS template
+- [How to use the supabase VPS template](https://support.hostinger.com/en/articles/9956903-how-to-use-the-supabase-vps-template): Getting started with the Supabase VPS template at Hostinger
+- [How to use the tinycp VPS template](https://support.hostinger.com/en/articles/9749761-how-to-use-the-tinycp-vps-template): Getting started with the TinyCP VPS template
+- [How to use the typo3 VPS template](https://support.hostinger.com/en/articles/9172486-how-to-use-the-typo3-vps-template): Getting started with a Hostinger VPS TYPO3 template
+- [How to use the ubuntu 22 04 template with desktop on VPS](https://support.hostinger.com/en/articles/7982877-how-to-use-the-ubuntu-22-04-template-with-desktop-on-vps): Selecting the preferred OS template for your VPS
+- [How to use the ubuntu 24 04 template with desktop on VPS with vnc](https://support.hostinger.com/en/articles/10856380-how-to-use-the-ubuntu-24-04-template-with-desktop-on-vps-with-vnc): Step by step tutorial on how to set up
+- [How to use the ubuntu 24 04 template with desktop on VPS](https://support.hostinger.com/en/articles/9901438-how-to-use-the-ubuntu-24-04-template-with-desktop-on-vps): Ubuntu 24.04 with Remote Desktop
+- [How to use the uptime kuma VPS template](https://support.hostinger.com/en/articles/9956811-how-to-use-the-uptime-kuma-vps-template): Getting started with the Uptime Kuma VPS template at Hostinger
+- [How to use the vs code VPS template](https://support.hostinger.com/en/articles/9292934-how-to-use-the-vs-code-vps-template): Getting started with the VS Code VPS template
+- [How to use the webmin virtualmin VPS template](https://support.hostinger.com/en/articles/4971301-how-to-use-the-webmin-virtualmin-vps-template): Webmin/Virtualmin/LAMP features on Hostinger’s VPS
+- [How to use the webuzo VPS template](https://support.hostinger.com/en/articles/4971303-how-to-use-the-webuzo-vps-template): Accessing and setting up Webuzo on Hostinger’s VPS
+- [How to use the woocommerce VPS template](https://support.hostinger.com/en/articles/8837899-how-to-use-the-woocommerce-vps-template): Getting started with the WooCommerce VPS template at Hostinger
+- [How to use the wordpress VPS template](https://support.hostinger.com/en/articles/8929958-how-to-use-the-wordpress-vps-template): Getting started with WordPress template on your VPS
+- [How to use the zabbix VPS template](https://support.hostinger.com/en/articles/9140075-how-to-use-the-zabbix-vps-template): Getting started with the Zabbix VPS template
+- [Installing laravel forge on Hostinger s VPS](https://support.hostinger.com/en/articles/9979315-installing-laravel-forge-on-hostinger-s-vps): Getting started guide with Laravel Forge and Hostinger VPS
+- [Is allow_url_fopen enabled on your servers](https://support.hostinger.com/en/articles/1583198-is-allow_url_fopen-enabled-on-your-servers): Is allow_url_fopen enabled on your servers? | Hostinger Help Center
+- [Is flash media server supported at Hostinger](https://support.hostinger.com/en/articles/1583651-is-flash-media-server-supported-at-hostinger): Using Flash Media Server at Hostinger
+- [Is smtp port 25 blocked on VPS](https://support.hostinger.com/en/articles/7854530-is-smtp-port-25-blocked-on-vps): SMTP limits in VPS
+- [Migrating to VPS](https://support.hostinger.com/en/collections/3142999-migrating-to-vps): Provides step-by-step instructions for transferring data and services from other hosting environments to Hostinger’s VPS
+- [Reinstalling monarx malware scanner on your VPS](https://support.hostinger.com/en/articles/10043136-reinstalling-monarx-malware-scanner-on-your-vps): Guide on how to reinstall Monarx for your VPS
+- [Ssh connection and ssh keys](https://support.hostinger.com/en/collections/3185633-ssh-connection-and-ssh-keys): SSH Connection and SSH Keys | Hostinger Help Center
+- [Troubleshooting ssh connection timeout issues on VPS](https://support.hostinger.com/en/articles/8894153-troubleshooting-ssh-connection-timeout-issues-on-vps): Understanding the reasons why a VPS may not respond via SSH and what to do
+- [Understanding cloud init on Hostinger VPS](https://support.hostinger.com/en/articles/9553229-understanding-cloud-init-on-hostinger-vps): The importance of Cloud-Init for maintaining a secure and up-to-date VPS
+- [Understanding cpu steal and its impact on VPS](https://support.hostinger.com/en/articles/9615642-understanding-cpu-steal-and-its-impact-on-vps): What is CPU steal and is it critical?
+- [Understanding dns resolvers on VPS](https://support.hostinger.com/en/articles/9625845-understanding-dns-resolvers-on-vps): What are DNS resolvers and why to change them on a Hostinger VPS
+- [Using Hostinger VPS api with postman a step by step guide](https://support.hostinger.com/en/articles/11079560-using-hostinger-vps-api-with-postman-a-step-by-step-guide): Learn how to install Hostinger API Postman collection
+- [Vps emergency mode how to change apparent root on your disk](https://support.hostinger.com/en/articles/8611503-vps-emergency-mode-how-to-change-apparent-root-on-your-disk): Changing the apparent root when the emergency mode is enabled in your VPS
+- [Vps emergency mode where to find files](https://support.hostinger.com/en/articles/8600853-vps-emergency-mode-where-to-find-files): Locating the files while the emergency mode is enabled in your VPS
+- [Vps licenses](https://support.hostinger.com/en/collections/11454222-vps-licenses): Answers to the most frequently asked question about VPS licenses
+- [Vps malware scanner](https://support.hostinger.com/en/articles/8450363-vps-malware-scanner): Monitor and secure your VPS by detecting, managing, and cleaning compromised and malicious files
+- [Vps management](https://support.hostinger.com/en/collections/2690701-vps-management): Covers topics related to the administration and maintenance of VPS, including security measures, performance monitoring, and troubleshooting common issues
+- [Vps os and templates](https://support.hostinger.com/en/collections/2797407-vps-os-and-templates): Offers insights into selecting and managing operating systems and pre-configured templates available for VPS, such as cPanel, Plesk, Docker, and more
+- [Vps](https://support.hostinger.com/en/collections/944797-vps): Hostinger’s Virtual Private Server (VPS) Knowledge Base is a comprehensive resource designed to assist users in effectively managing and optimizing their VPS hosting services. It encompasses a wide array of articles and tutorials, categorized to address various aspects of VPS usage
+- [What VPS operating system to choose](https://support.hostinger.com/en/articles/8999382-what-vps-operating-system-to-choose): Learn how to pick the most suitable OS for your virtual private servers
+- [What are the available operating systems for VPS](https://support.hostinger.com/en/articles/1583571-what-are-the-available-operating-systems-for-vps): Choosing between available operating systems for VPS at Hostinger
+- [What game servers are supported on game panel VPS](https://support.hostinger.com/en/articles/7877961-what-game-servers-are-supported-on-game-panel-vps): Comprehensive list of games supported on Game Panel VPS
+- [What happens if your VPS bandwidth resource limits are exceeded](https://support.hostinger.com/en/articles/8789965-what-happens-if-your-vps-bandwidth-resource-limits-are-exceeded): Reasons why you may reach your VPS bandwidth usage limit and what to do
+- [What is a self managed VPS](https://support.hostinger.com/en/articles/8852150-what-is-a-self-managed-vps): Understanding what are self-managed virtual private servers
+- [What is the cpu use limit for VPS](https://support.hostinger.com/en/articles/6899741-what-is-the-cpu-use-limit-for-vps): What happens when CPU limits are reached on VPS
+- [What is the server timezone at Hostinger](https://support.hostinger.com/en/articles/1583329-what-is-the-server-timezone-at-hostinger): Default timezone used at Hostinger's servers
+- [What mysql storage engines are supported on your servers](https://support.hostinger.com/en/articles/1583742-what-mysql-storage-engines-are-supported-on-your-servers): InnoDB and MyISAM MySQL storage engines on Hostinger servers
+- [What to do if the VPS ip is blacklisted](https://support.hostinger.com/en/articles/6987836-what-to-do-if-the-vps-ip-is-blacklisted): Learn what to do if you can't send emails because the IP address of your VPS is blacklisted
+- [What to do if the VPS ip is blocked](https://support.hostinger.com/en/articles/7329020-what-to-do-if-the-vps-ip-is-blocked): What to do if you can't reach your VPS IP due to being blocked by your country or ISP
+- [What to do if your VPS has been hacked](https://support.hostinger.com/en/articles/7161064-what-to-do-if-your-vps-has-been-hacked): Learning how to handle a hacked VPS
+- [What to do if your VPS is in grub rescue mode](https://support.hostinger.com/en/articles/8624545-what-to-do-if-your-vps-is-in-grub-rescue-mode): Resolving VPS boot issues caused by filesystem errors
+- [Where are Hostinger servers located](https://support.hostinger.com/en/articles/1583267-where-are-hostinger-servers-located): Server locations according to your type of hosting plan
+- [Where to find Hostinger nameservers](https://support.hostinger.com/en/articles/1583247-where-to-find-hostinger-nameservers): Locate the required nameservers to connect your domain to Hostinger
+- [Which nameservers to choose when transferring a domain to Hostinger](https://support.hostinger.com/en/articles/8925103-which-nameservers-to-choose-when-transferring-a-domain-to-hostinger): Learn how nameservers and DNS records work when transferring a domain to Hostinger and the available options
+- [Why is the VPS license blocked](https://support.hostinger.com/en/articles/7193948-why-is-the-vps-license-blocked): Reasons why a VPS license appears with Blocked status and how to fix it
+
+## Website Builder
+- [Hostinger horizons difference between Hostinger horizons and website builder](https://support.hostinger.com/en/articles/10683629-hostinger-horizons-difference-between-hostinger-horizons-and-website-builder): Understand better the differences between Horizons and Website Builder to decide on the ideal solution for your project
+- [How to fix the 403 forbidden error in Hostinger website builder](https://support.hostinger.com/en/articles/8215808-how-to-fix-the-403-forbidden-error-in-hostinger-website-builder): Learn what to do if you encounter the “403 Forbidden” error on a website created with Hostinger Website Builder
+- [How to manually enable the wordpress overview section on hpanel](https://support.hostinger.com/en/articles/5609869-how-to-manually-enable-the-wordpress-overview-section-on-hpanel): Enabling the WordPress Overview section via hPanel
+- [How to move a builder website to another hosting plan](https://support.hostinger.com/en/articles/8591902-how-to-move-a-builder-website-to-another-hosting-plan): Moving a builder-based site between hosting plans within the same Hostinger account
+- [How to read the grade and summary sections on gtmetrix](https://support.hostinger.com/en/articles/5562438-how-to-read-the-grade-and-summary-sections-on-gtmetrix): Understanding Grade and Summary sections inside the report about your website
+- [How to read the gtmetrix performance and structure sections](https://support.hostinger.com/en/articles/5562452-how-to-read-the-gtmetrix-performance-and-structure-sections): Understanding Performance and Structure sections inside the report about your website
+- [How to secure mysql on ubuntu 22 04 with lamp lemp stack templates](https://support.hostinger.com/en/articles/8661850-how-to-secure-mysql-on-ubuntu-22-04-with-lamp-lemp-stack-templates): Enhancing Database Security: A Comprehensive Guide to Safeguarding MySQL on Ubuntu 22.04 Using Lamp/Lemp Stack Templates
+- [How to switch from Hostinger website builder to wordpress or another content management system](https://support.hostinger.com/en/articles/6639802-how-to-switch-from-hostinger-website-builder-to-wordpress-or-another-content-management-system): Learn how to select another platform for building your website
+- [How to switch godaddy website builder to wordpress](https://support.hostinger.com/en/articles/10429541-how-to-switch-godaddy-website-builder-to-wordpress): How to Switch GoDaddy Website Builder to WordPress
+- [How to try Hostinger website builder for free](https://support.hostinger.com/en/articles/10323594-how-to-try-hostinger-website-builder-for-free): Experience the AI-powered Hostinger Website Builder with a free trial
+- [How to use Hostinger ai website builder](https://support.hostinger.com/en/articles/7266945-how-to-use-hostinger-ai-website-builder): Build your website with ease: unleashing the power of Hostinger's AI Website Builder
+- [How to use Hostinger website builder](https://support.hostinger.com/en/articles/6611782-how-to-use-hostinger-website-builder): Conquer the Internet with Hostinger Website Builder
+- [How to use the analytics section on hpanel](https://support.hostinger.com/en/articles/5650167-how-to-use-the-analytics-section-on-hpanel): Using Analytics in Hostinger’s hPanel to track your website’s data
+- [How to use the billing section in Hostinger](https://support.hostinger.com/en/articles/4469042-how-to-use-the-billing-section-in-hostinger): Managing your invoices and payment methods at Hostinger
+- [How to use the peppermint sh template](https://support.hostinger.com/en/articles/8807239-how-to-use-the-peppermint-sh-template): Getting started with the Peppermint.sh VPS Template
+- [How to use the websites section in Hostinger](https://support.hostinger.com/en/articles/6501982-how-to-use-the-websites-section-in-hostinger): Understanding the Websites page in your Hostinger account
+- [Website builder SSL](https://support.hostinger.com/en/articles/8368399-website-builder-ssl): Learn about SSL with Hostinger Website Builder
+- [Website builder accepting payments via afterpay clearpay](https://support.hostinger.com/en/articles/6538507-website-builder-accepting-payments-via-afterpay-clearpay): Afterpay (aka Clearpay) is particularly popular among businesses selling fashion, beauty, and sports products
+- [Website builder accepting payments via alipay](https://support.hostinger.com/en/articles/6538544-website-builder-accepting-payments-via-alipay): Alipay is a digital wallet in China that has more than a billion active users worldwide
+- [Website builder accepting payments via bancontact](https://support.hostinger.com/en/articles/6538681-website-builder-accepting-payments-via-bancontact): Learn how to enable Bancontact payment method in your online store
+- [Website builder accepting payments via blik](https://support.hostinger.com/en/articles/6538684-website-builder-accepting-payments-via-blik): BLIK is the strongest brand in Poland in the mobile payments category
+- [Website builder accepting payments via cartes bancaires](https://support.hostinger.com/en/articles/6538685-website-builder-accepting-payments-via-cartes-bancaires): Cartes Bancaires is a common payment method in France
+- [Website builder accepting payments via eps](https://support.hostinger.com/en/articles/6538689-website-builder-accepting-payments-via-eps): EPS is a common payment method in Austria
+- [Website builder accepting payments via giropay](https://support.hostinger.com/en/articles/6538709-website-builder-accepting-payments-via-giropay): giropay is a common payment method in Germany
+- [Website builder accepting payments via grabpay](https://support.hostinger.com/en/articles/6538715-website-builder-accepting-payments-via-grabpay): GrabPay is a common payment method in Southeast Asia
+- [Website builder accepting payments via ideal](https://support.hostinger.com/en/articles/6538716-website-builder-accepting-payments-via-ideal): iDEAL is a common payment method in the Netherlands
+- [Website builder accepting payments via klarna](https://support.hostinger.com/en/articles/6538724-website-builder-accepting-payments-via-klarna): Klarna is a global payment method for customers to buy now and pay later
+- [Website builder accepting payments via paynow](https://support.hostinger.com/en/articles/6538727-website-builder-accepting-payments-via-paynow): PayNow is a popular payment method in Singapore
+- [Website builder accepting payments via przelewy24](https://support.hostinger.com/en/articles/6538729-website-builder-accepting-payments-via-przelewy24): Przelewy24 is a common payment method in Poland
+- [Website builder accepting payments via wechat pay](https://support.hostinger.com/en/articles/6538731-website-builder-accepting-payments-via-wechat-pay): WeChat Pay is a digital wallet popular among customers from China
+- [Website builder accepting payments with boleto](https://support.hostinger.com/en/articles/6677714-website-builder-accepting-payments-with-boleto): Boleto is an official payment method in Brazil
+- [Website builder add to bag buttons](https://support.hostinger.com/en/articles/6570087-website-builder-add-to-bag-buttons): Learn about “Add to bag button” elements in Hostinger Website Builder
+- [Website builder age verification banner](https://support.hostinger.com/en/articles/8343548-website-builder-age-verification-banner): Learn how to add a banner for age verification to your website created with Hostinger Website Builder
+- [Website builder ai image generator](https://support.hostinger.com/en/articles/8670037-website-builder-ai-image-generator): Learn how to use image generating tools in Hostinger Website Builder
+- [Website builder boost your website s performance with google ads app](https://support.hostinger.com/en/articles/10572085-website-builder-boost-your-website-s-performance-with-google-ads-app): Learn more on how to improve your website's performance using Google Ads application
+- [Website builder coming soon mode](https://support.hostinger.com/en/articles/9745020-website-builder-coming-soon-mode): Learn how to setup a maintenance mode view for your users as an initial preview of your website before it's fully ready to be launched.
+- [Website builder common warnings in google search console](https://support.hostinger.com/en/articles/6493053-website-builder-common-warnings-in-google-search-console): Resolving the most popular issues in Google Search Console
+- [Website builder digital products](https://support.hostinger.com/en/articles/6538373-website-builder-digital-products): Selling digital products with Hostinger Website Builder
+- [Website builder displaying products on the mobile view](https://support.hostinger.com/en/articles/9821389-website-builder-displaying-products-on-the-mobile-view): Learn how to change the number of columns in which products are displayed on the mobile version of your website
+- [Website builder dofollow and nofollow links](https://support.hostinger.com/en/articles/6615140-website-builder-dofollow-and-nofollow-links): Learn more about the link settings in Hostinger Website Builder
+- [Website builder enabling dlocal go payments](https://support.hostinger.com/en/articles/9229193-website-builder-enabling-dlocal-go-payments): Learn how to enable the dLocal Go payment gateway in Hostinger Website Builder
+- [Website builder enabling paypal payments](https://support.hostinger.com/en/articles/6940790-website-builder-enabling-paypal-payments): Learn how to enable PayPal in your e-store created with Hostinger Website Builder
+- [Website builder enabling paysera payments](https://support.hostinger.com/en/articles/10278317-website-builder-enabling-paysera-payments): Learn how to enable Paysera in your e-store created with Hostinger Website Builder
+- [Website builder enabling razorpay payments](https://support.hostinger.com/en/articles/10057008-website-builder-enabling-razorpay-payments): Learn how to enable the Razorpay payment gateway in Hostinger Website Builder
+- [Website builder enabling stripe payments](https://support.hostinger.com/en/articles/6538420-website-builder-enabling-stripe-payments): Learn how to enable Stripe in Hostinger Website Builder
+- [Website builder general website settings](https://support.hostinger.com/en/articles/6521387-website-builder-general-website-settings): Learn where to find the general website settings in Hostinger Website Builder
+- [Website builder getting paid with stripe](https://support.hostinger.com/en/articles/6538426-website-builder-getting-paid-with-stripe): Learn how to receive payouts with Stripe
+- [Website builder google ads common issues](https://support.hostinger.com/en/articles/10572338-website-builder-google-ads-common-issues): Learn how to troubleshoot and solve any issues you may have faced while making the integration between your editor and Google Ads
+- [Website builder google ads credit terms and conditions](https://support.hostinger.com/en/articles/10587836-website-builder-google-ads-credit-terms-and-conditions): Learn more on the terms and conditions set from Google Ads side
+- [Website builder google ads for customers not selling products online](https://support.hostinger.com/en/articles/10572117-website-builder-google-ads-for-customers-not-selling-products-online): Learn more on how to connect and get the best integration results while not selling online using Google Ads
+- [Website builder google ads for customers selling physical products online](https://support.hostinger.com/en/articles/10572296-website-builder-google-ads-for-customers-selling-physical-products-online): Learn more on how to integrate with Google Ads while selling your products using our Online Store
+- [Website builder google shopping](https://support.hostinger.com/en/articles/6539056-website-builder-google-shopping): Learn how to set up Google Shopping with your online store created with Hostinger Website Builder
+- [Website builder guidelines for ai image generation](https://support.hostinger.com/en/articles/8670801-website-builder-guidelines-for-ai-image-generation): Learn how to write a proper prompt for image generation in Hostinger Website Builder
+- [Website builder homepage](https://support.hostinger.com/en/articles/6466225-website-builder-homepage): Learn more about the homepage of your website created with Hostinger Website Builder
+- [Website builder how is blog post reading time calculated](https://support.hostinger.com/en/articles/6877933-website-builder-how-is-blog-post-reading-time-calculated): Learn how the blog post reading time is calculated in Hostinger Website Builder
+- [Website builder how to accept appointments](https://support.hostinger.com/en/articles/6538407-website-builder-how-to-accept-appointments): Let your clients make appointments with the help of Hostinger Website Builder
+- [Website builder how to accept bank card payments](https://support.hostinger.com/en/articles/6538504-website-builder-how-to-accept-bank-card-payments): Learn about accepting card payments in your online store
+- [Website builder how to accept donations](https://support.hostinger.com/en/articles/6911441-website-builder-how-to-accept-donations): Learn how to accept donations using Hostinger Website Builder
+- [Website builder how to accept payments via apple pay](https://support.hostinger.com/en/articles/6538547-website-builder-how-to-accept-payments-via-apple-pay): Accepting payments via Apple Pay with Hostinger Website Builder
+- [Website builder how to accept payments via google wallet](https://support.hostinger.com/en/articles/6538712-website-builder-how-to-accept-payments-via-google-wallet): Accepting payments via Google Wallet with Hostinger Website Builder
+- [Website builder how to access the online store settings](https://support.hostinger.com/en/articles/6538340-website-builder-how-to-access-the-online-store-settings): Learn how to access the online store management area using Hostinger Website Builder
+- [Website builder how to achieve more advanced solutions](https://support.hostinger.com/en/articles/7987118-website-builder-how-to-achieve-more-advanced-solutions): Integrating third-party tools in your website created with Hostinger Website Builder
+- [Website builder how to add a comments section](https://support.hostinger.com/en/articles/6572145-website-builder-how-to-add-a-comments-section): Learn how to include a comments section into your website
+- [Website builder how to add a cookie banner](https://support.hostinger.com/en/articles/6491116-website-builder-how-to-add-a-cookie-banner): Learn how to add a cookie banner to your website created with Hostinger Website Builder
+- [Website builder how to add a discount to a product](https://support.hostinger.com/en/articles/6539044-website-builder-how-to-add-a-discount-to-a-product): Learn how to add a sale price to your product using Hostinger Website Builder
+- [Website builder how to add a dropdown menu](https://support.hostinger.com/en/articles/6456916-website-builder-how-to-add-a-dropdown-menu): Learn how to create an expandable menu using Hostinger Website Builder
+- [Website builder how to add a facebook share button](https://support.hostinger.com/en/articles/6491849-website-builder-how-to-add-a-facebook-share-button): Learn how to add Facebook share buttons to your website using Hostinger Website Builder
+- [Website builder how to add a favicon](https://support.hostinger.com/en/articles/6466373-website-builder-how-to-add-a-favicon): Learn how to add a favicon in Hostinger Website Builder
+- [Website builder how to add a footer section](https://support.hostinger.com/en/articles/6456855-website-builder-how-to-add-a-footer-section): Learn how to add and manage the footer of your website using Hostinger Website Builder
+- [Website builder how to add a language attribute to a website](https://support.hostinger.com/en/articles/6618609-website-builder-how-to-add-a-language-attribute-to-a-website): Learn how to add the HTML lang attribute using Hostinger Website Builder
+- [Website builder how to add a map](https://support.hostinger.com/en/articles/6474784-website-builder-how-to-add-a-map): Show your location by adding a map into your website
+- [Website builder how to add a pdf document](https://support.hostinger.com/en/articles/6475500-website-builder-how-to-add-a-pdf-document): Learn how to add PDF documents to your website using Hostinger Website Builder
+- [Website builder how to add a sticky bar](https://support.hostinger.com/en/articles/6511583-website-builder-how-to-add-a-sticky-bar): Adding a banner to a website created with Hostinger Website Builder
+- [Website builder how to add a subscribe form](https://support.hostinger.com/en/articles/6474695-website-builder-how-to-add-a-subscribe-form): Adding a subscribe form to your website using Hostinger Website Builder
+- [Website builder how to add a table](https://support.hostinger.com/en/articles/6475162-website-builder-how-to-add-a-table): Learn how to embed tables to your website using Hostinger Website Builder
+- [Website builder how to add a video background to a section](https://support.hostinger.com/en/articles/10420044-website-builder-how-to-add-a-video-background-to-a-section): Learn how to change the background of a website section using Hostinger Website Builder
+- [Website builder how to add alt text](https://support.hostinger.com/en/articles/6466460-website-builder-how-to-add-alt-text): Learn how to add alt text using Hostinger Website Builder
+- [Website builder how to add an FAQ section](https://support.hostinger.com/en/articles/6475420-website-builder-how-to-add-an-faq-section): Learn how to create an FAQ section using Hostinger Website Builder
+- [Website builder how to add an image gallery](https://support.hostinger.com/en/articles/6437094-website-builder-how-to-add-an-image-gallery): Learn how to add an image gallery to your website using the website builder
+- [Website builder how to add an image slideshow](https://support.hostinger.com/en/articles/6448830-website-builder-how-to-add-an-image-slideshow): Learn how to decorate your webpage with an image slideshow
+- [Website builder how to add and customize website elements](https://support.hostinger.com/en/articles/6435894-website-builder-how-to-add-and-customize-website-elements): Learn everything you need to know about website elements
+- [Website builder how to add and customize website sections](https://support.hostinger.com/en/articles/6475040-website-builder-how-to-add-and-customize-website-sections): Learn how to create and manage website sections using Hostinger Website Builder
+- [Website builder how to add and manage contact forms](https://support.hostinger.com/en/articles/6463265-website-builder-how-to-add-and-manage-contact-forms): Learn how to add a contact form using Hostinger Website Builder
+- [Website builder how to add animations](https://support.hostinger.com/en/articles/6463358-website-builder-how-to-add-animations): Adding animations to your site
+- [Website builder how to add buttons](https://support.hostinger.com/en/articles/6435964-website-builder-how-to-add-buttons): Using button elements on a website
+- [Website builder how to add clients reviews](https://support.hostinger.com/en/articles/6491071-website-builder-how-to-add-clients-reviews): Learn the ways to add testimonials to your website using Hostinger Website Builder
+- [Website builder how to add different images to individual product options](https://support.hostinger.com/en/articles/6563191-website-builder-how-to-add-different-images-to-individual-product-options): Learn how to assign a specific image to a specific product option
+- [Website builder how to add images](https://support.hostinger.com/en/articles/6437004-website-builder-how-to-add-images): Learn how to add images to your website using Hostinger Website Builder
+- [Website builder how to add instagram feed](https://support.hostinger.com/en/articles/6474992-website-builder-how-to-add-instagram-feed): Learn how to easily display Instagram posts on your website created with Hostinger Website Builder
+- [Website builder how to add integrations](https://support.hostinger.com/en/articles/6463270-website-builder-how-to-add-integrations): Adding integrations to a website created with the builder
+- [Website builder how to add keywords](https://support.hostinger.com/en/articles/6972483-website-builder-how-to-add-keywords): Learn how to add keywords to your pages using Hostinger Website Builder
+- [Website builder how to add legal pages](https://support.hostinger.com/en/articles/6454245-website-builder-how-to-add-legal-pages): Learn how to add Privacy Policy, Refund Policy, and Terms & Conditions to your website
+- [Website builder how to add link preview images](https://support.hostinger.com/en/articles/6466412-website-builder-how-to-add-link-preview-images): Learn how to add and troubleshoot link preview images using Hostinger Website Builder
+- [Website builder how to add links at the bottom of a website](https://support.hostinger.com/en/articles/6456812-website-builder-how-to-add-links-at-the-bottom-of-a-website): Learn how to display links in the footer section of your website
+- [Website builder how to add links](https://support.hostinger.com/en/articles/6454367-website-builder-how-to-add-links): Discover how to add various kinds of links to your site
+- [Website builder how to add meta titles and descriptions](https://support.hostinger.com/en/articles/6466356-website-builder-how-to-add-meta-titles-and-descriptions): Learn how to add and troubleshoot meta titles and descriptions of your webpages
+- [Website builder how to add more languages](https://support.hostinger.com/en/articles/6435770-website-builder-how-to-add-more-languages): Learn how to create a multilingual website with Hostinger Website Builder
+- [Website builder how to add more pages](https://support.hostinger.com/en/articles/6456705-website-builder-how-to-add-more-pages): Learn how to add more pages to your website
+- [Website builder how to add or change the logo](https://support.hostinger.com/en/articles/6435805-website-builder-how-to-add-or-change-the-logo): Learn how to add or change the logo using Hostinger Website Builder
+- [Website builder how to add paypal buttons](https://support.hostinger.com/en/articles/6436015-website-builder-how-to-add-paypal-buttons): Learn how to embed PayPal payment buttons to your website using Hostinger Website Builder
+- [Website builder how to add product options](https://support.hostinger.com/en/articles/6538376-website-builder-how-to-add-product-options): Learn how to create product options in your online store created with Hostinger Website Builder
+- [Website builder how to add products](https://support.hostinger.com/en/articles/6538344-website-builder-how-to-add-products): Learn how to create and manage products in your online store created with Hostinger Website Builder
+- [Website builder how to add shapes](https://support.hostinger.com/en/articles/6474593-website-builder-how-to-add-shapes): Use various shapes to perfect the design of your website
+- [Website builder how to add social media icon element](https://support.hostinger.com/en/articles/6474611-website-builder-how-to-add-social-media-icon-element): Adding social media icons to your website makes it easy for visitors to find your brand or business
+- [Website builder how to add social media icons in your header](https://support.hostinger.com/en/articles/10625194-website-builder-how-to-add-social-media-icons-in-your-header): Learn how to add social media icons inside your website's header
+- [Website builder how to add text background](https://support.hostinger.com/en/articles/6632359-website-builder-how-to-add-text-background): Learn how to make your texts more reader-friendly using Hostinger Website Builder
+- [Website builder how to add text](https://support.hostinger.com/en/articles/6436143-website-builder-how-to-add-text): Learn how to add and customize text using Hostinger Website Builder
+- [Website builder how to add videos](https://support.hostinger.com/en/articles/6448859-website-builder-how-to-add-videos): Learn how to add videos to your website using Hostinger Website Builder
+- [Website builder how to cancel an order in the online store](https://support.hostinger.com/en/articles/6895932-website-builder-how-to-cancel-an-order-in-the-online-store): Learn about canceling orders in your online store created with Hostinger Website Builder
+- [Website builder how to categorize blog posts](https://support.hostinger.com/en/articles/6491536-website-builder-how-to-categorize-blog-posts): Learn how to create blog post categories and how to categorize your articles using Hostinger Website Builder
+- [Website builder how to change product image proportions](https://support.hostinger.com/en/articles/6811698-website-builder-how-to-change-product-image-proportions): Learn how to change the product image proportions using Hostinger Website Builder
+- [Website builder how to change text color in the online store](https://support.hostinger.com/en/articles/6823389-website-builder-how-to-change-text-color-in-the-online-store): Learn how to change the text color in the online store using Hostinger Website Builder
+- [Website builder how to change text style](https://support.hostinger.com/en/articles/6463286-website-builder-how-to-change-text-style): With Hostinger Website Builder, you can set different font sizes for each font type for mobile and desktop modes
+- [Website builder how to change the blog post author](https://support.hostinger.com/en/articles/6491609-website-builder-how-to-change-the-blog-post-author): Learn how to change or hide the blog post author using Hostinger Website Builder
+- [Website builder how to change the blog post date format](https://support.hostinger.com/en/articles/8360107-website-builder-how-to-change-the-blog-post-date-format): Changing the date format in a blog post with Hostinger Website Builder
+- [Website builder how to change the button shape](https://support.hostinger.com/en/articles/6614604-website-builder-how-to-change-the-button-shape): Learn how to style buttons using Hostinger Website Builder
+- [Website builder how to change the currency in the online store](https://support.hostinger.com/en/articles/7063785-website-builder-how-to-change-the-currency-in-the-online-store): Learn how to change the currency in your online store created with Hostinger Website Builder
+- [Website builder how to change the featured blog post image](https://support.hostinger.com/en/articles/6491586-website-builder-how-to-change-the-featured-blog-post-image): Learn how to manage the cover images of your blog posts using Hostinger Website Builder
+- [Website builder how to change the header section color on specific pages](https://support.hostinger.com/en/articles/8347670-website-builder-how-to-change-the-header-section-color-on-specific-pages): Website Builder: How to Change the Header Section Color on Specific Pages | Hostinger Help Center
+- [Website builder how to change the page url](https://support.hostinger.com/en/articles/6466482-website-builder-how-to-change-the-page-url): Learn how to edit the URLs of your website pages
+- [Website builder how to change the price format in the online store](https://support.hostinger.com/en/articles/8343753-website-builder-how-to-change-the-price-format-in-the-online-store): Learn how to change the format of product prices in your online store created with Hostinger AI Builder
+- [Website builder how to change the product display order](https://support.hostinger.com/en/articles/6538390-website-builder-how-to-change-the-product-display-order): Rearranging products on a website created with Hostinger Website Builder
+- [Website builder how to change the section background](https://support.hostinger.com/en/articles/6462732-website-builder-how-to-change-the-section-background): Learn how to change the background of a website section using Hostinger Website Builder
+- [Website builder how to change website colors](https://support.hostinger.com/en/articles/6463582-website-builder-how-to-change-website-colors): Learn how to change colors using Hostinger Website Builder
+- [Website builder how to check if custom code is added to a website](https://support.hostinger.com/en/articles/7007975-website-builder-how-to-check-if-custom-code-is-added-to-a-website): Learn how to check if your custom code is visible in the website's source code
+- [Website builder how to check the website s traffic](https://support.hostinger.com/en/articles/6816041-website-builder-how-to-check-the-website-s-traffic): Learn where to check your website's traffic using Hostinger Website Builder
+- [Website builder how to choose a website template](https://support.hostinger.com/en/articles/6494671-website-builder-how-to-choose-a-website-template): Selecting a website template in the Hostinger Website Builder
+- [Website builder how to connect google admob](https://support.hostinger.com/en/articles/6463235-website-builder-how-to-connect-google-admob): Learn how to upload an app-ads.txt file to your website using Hostinger Website Builder
+- [Website builder how to connect google adsense](https://support.hostinger.com/en/articles/6463126-website-builder-how-to-connect-google-adsense): Learn how to connect Google AdSense using Hostinger Website Builder
+- [Website builder how to connect google analytics](https://support.hostinger.com/en/articles/6448915-website-builder-how-to-connect-google-analytics): Learn how to connect Google Analytics to your website created with Hostinger Website Builder
+- [Website builder how to connect google tag manager](https://support.hostinger.com/en/articles/6463092-website-builder-how-to-connect-google-tag-manager): Learn how to connect Google Tag Manager to your website created with Hostinger Website Builder
+- [Website builder how to connect hotjar](https://support.hostinger.com/en/articles/6462878-website-builder-how-to-connect-hotjar): Learn how to connect Hotjar to your website using Hostinger Website Builder
+- [Website builder how to connect meta pixel](https://support.hostinger.com/en/articles/6462952-website-builder-how-to-connect-meta-pixel): Learn how to connect Meta Pixel to your website created with Hostinger Website Builder
+- [Website builder how to connect pinterest](https://support.hostinger.com/en/articles/6474738-website-builder-how-to-connect-pinterest): Learn how to add Pinterest to your website using Hostinger Website Builder
+- [Website builder how to connect whatsapp](https://support.hostinger.com/en/articles/6454538-website-builder-how-to-connect-whatsapp): Learn how to connect WhatsApp to your website using Hostinger Website Builder
+- [Website builder how to copy and paste website elements](https://support.hostinger.com/en/articles/6475096-website-builder-how-to-copy-and-paste-website-elements): Learn how to move elements from one section to another
+- [Website builder how to copy and paste website sections](https://support.hostinger.com/en/articles/6475073-website-builder-how-to-copy-and-paste-website-sections): Copy-pasting sections to speed up the process of creating a website
+- [Website builder how to create a blog](https://support.hostinger.com/en/articles/6462842-website-builder-how-to-create-a-blog): Learn how to add a blog to your website using Hostinger Website Builder
+- [Website builder how to create a company website](https://support.hostinger.com/en/articles/6636119-website-builder-how-to-create-a-company-website): Learn about the basics of creating a company website with Hostinger Website Builder
+- [Website builder how to create a google ads campaign](https://support.hostinger.com/en/articles/6495588-website-builder-how-to-create-a-google-ads-campaign): Learn how to set up Google Ads for your website
+- [Website builder how to create a landing page](https://support.hostinger.com/en/articles/6462836-website-builder-how-to-create-a-landing-page): Learn how to publish a landing page and hide the rest of the pages you're still working on
+- [Website builder how to create a list of bullet points or numbers](https://support.hostinger.com/en/articles/6474761-website-builder-how-to-create-a-list-of-bullet-points-or-numbers): Learn how to add bullet points or create a numbered list using Hostinger Website Builder
+- [Website builder how to create a portfolio website](https://support.hostinger.com/en/articles/6632501-website-builder-how-to-create-a-portfolio-website): Learn how to create a portfolio using Hostinger Website Builder
+- [Website builder how to create an online store](https://support.hostinger.com/en/articles/6538310-website-builder-how-to-create-an-online-store): Building an online store with Hostinger Website Builder
+- [Website builder how to create and restore website backups](https://support.hostinger.com/en/articles/6436203-website-builder-how-to-create-and-restore-website-backups): Learn about backups in Hostinger Website Builder
+- [Website builder how to create discount codes in the online store](https://support.hostinger.com/en/articles/6539054-website-builder-how-to-create-discount-codes-in-the-online-store): Creating discount coupons that can be used in the online store created with Hostinger Website Builder
+- [Website builder how to create facebook pixel events](https://support.hostinger.com/en/articles/6463074-website-builder-how-to-create-facebook-pixel-events): Learn about Facebook pixel events
+- [Website builder how to create product categories](https://support.hostinger.com/en/articles/6538359-website-builder-how-to-create-product-categories): Learn how to categorize products in your online store created with Hostinger Website Builder
+- [Website builder how to create product subcategories](https://support.hostinger.com/en/articles/6987762-website-builder-how-to-create-product-subcategories): Learn how to create product subcategories using Hostinger Website Builder
+- [Website builder how to customize a website template](https://support.hostinger.com/en/articles/6475646-website-builder-how-to-customize-a-website-template): Learn how to customize any website template using Hostinger Website Builder
+- [Website builder how to customize text style in the online store](https://support.hostinger.com/en/articles/6539079-website-builder-how-to-customize-text-style-in-the-online-store): Learn about changing text font in your store pages using Hostinger Website Builder
+- [Website builder how to customize the website s style](https://support.hostinger.com/en/articles/6618106-website-builder-how-to-customize-the-website-s-style): Learn how to make global changes to your website's style using Hostinger Website Builder
+- [Website builder how to customize your website s design using code](https://support.hostinger.com/en/articles/7986905-website-builder-how-to-customize-your-website-s-design-using-code): Learn how to enhance your website's design with the help of CSS
+- [Website builder how to delete a blog post](https://support.hostinger.com/en/articles/6491530-website-builder-how-to-delete-a-blog-post): Learn how to delete an unnecessary blog post using Hostinger Website Builder
+- [Website builder how to delete a website page](https://support.hostinger.com/en/articles/6466176-website-builder-how-to-delete-a-website-page): Learn how to delete unnecessary pages using Hostinger Website Builder
+- [Website builder how to disable copying or selecting website content](https://support.hostinger.com/en/articles/8360295-website-builder-how-to-disable-copying-or-selecting-website-content): Disallowing to copy or select content in Hostinger Website Builder
+- [Website builder how to disable the mobile view](https://support.hostinger.com/en/articles/8343692-website-builder-how-to-disable-the-mobile-view): Learn how to show the desktop view instead of the mobile view on mobile devices
+- [Website builder how to display a section in full width](https://support.hostinger.com/en/articles/8360133-website-builder-how-to-display-a-section-in-full-width): Displaying website sections in full width with Hostinger Website Builder
+- [Website builder how to display product categories on separate pages](https://support.hostinger.com/en/articles/6721626-website-builder-how-to-display-product-categories-on-separate-pages): Learn how to create dedicated pages for product categories using Hostinger Website Builder
+- [Website builder how to duplicate a blog post](https://support.hostinger.com/en/articles/6491469-website-builder-how-to-duplicate-a-blog-post): Learn how to duplicate a blog post using Hostinger Website Builder
+- [Website builder how to duplicate a website page](https://support.hostinger.com/en/articles/6498490-website-builder-how-to-duplicate-a-website-page): Duplicating pages in Hostinger Website Builder
+- [Website builder how to duplicate a website](https://support.hostinger.com/en/articles/8439478-website-builder-how-to-duplicate-a-website): Learn how to make a copy of a website created with Hostinger Website Builder
+- [Website builder how to edit a blog post](https://support.hostinger.com/en/articles/6491349-website-builder-how-to-edit-a-blog-post): Learn how to edit your blog posts using Hostinger Website Builder
+- [Website builder how to edit company information in the online store](https://support.hostinger.com/en/articles/6883885-website-builder-how-to-edit-company-information-in-the-online-store): Learn how to update company information in your online store using Hostinger Website Builder.
+- [Website builder how to edit product pages url](https://support.hostinger.com/en/articles/10625725-website-builder-how-to-edit-product-pages-url): Learn how to edit the URL link of the individual product pages inside your website
+- [Website builder how to edit the footer section](https://support.hostinger.com/en/articles/10407558-website-builder-how-to-edit-the-footer-section): Learn more on editing the footer section inside Hostinger Website Builder.
+- [Website builder how to edit the header section](https://support.hostinger.com/en/articles/6463972-website-builder-how-to-edit-the-header-section): Learn about editing your website's header section
+- [Website builder how to edit the mobile version of a website](https://support.hostinger.com/en/articles/6475658-website-builder-how-to-edit-the-mobile-version-of-a-website): Hostinger Website Builder allows editing mobile and desktop versions separately to make sure your website looks its best
+- [Website builder how to edit the title and description of a blog post](https://support.hostinger.com/en/articles/6491577-website-builder-how-to-edit-the-title-and-description-of-a-blog-post): Learn how to change your blog post title and description using Hostinger Website Builder
+- [Website builder how to edit the url of a blog post](https://support.hostinger.com/en/articles/6454217-website-builder-how-to-edit-the-url-of-a-blog-post): Learn how to edit the link of your blog post using Hostinger Website Builder
+- [Website builder how to embed audio files](https://support.hostinger.com/en/articles/6475125-website-builder-how-to-embed-audio-files): Learn how to embed a soundtrack or a playlist to your website
+- [Website builder how to embed custom code](https://support.hostinger.com/en/articles/6463152-website-builder-how-to-embed-custom-code): Embedding custom code into a site
+- [Website builder how to enable ecommerce features on your website](https://support.hostinger.com/en/articles/6538318-website-builder-how-to-enable-ecommerce-features-on-your-website): Learn how to enable the eCommerce platform on your website
+- [Website builder how to enable manual offline payments](https://support.hostinger.com/en/articles/6538417-website-builder-how-to-enable-manual-offline-payments): Learn how to enable manual payments in your e-store created with Hostinger Website Builder
+- [Website builder how to enable or disable the www prefix](https://support.hostinger.com/en/articles/6502325-website-builder-how-to-enable-or-disable-the-www-prefix): Learn more about the www prefix
+- [Website builder how to export content to wordpress](https://support.hostinger.com/en/articles/6572573-website-builder-how-to-export-content-to-wordpress): Exporting website content from Hostinger Website Builder to WordPress
+- [Website builder how to generate a qr code of a page](https://support.hostinger.com/en/articles/8908627-website-builder-how-to-generate-a-qr-code-of-a-page): Creating a QR code of a page created with Hostinger Website Builder
+- [Website builder how to generate pages and sections](https://support.hostinger.com/en/articles/9028349-website-builder-how-to-generate-pages-and-sections): Effortlessly add new pages and sections to your site with the help of AI
+- [Website builder how to hide a page from search engines](https://support.hostinger.com/en/articles/6456836-website-builder-how-to-hide-a-page-from-search-engines): Learn how to hide pages from search engines using Hostinger Website Builder
+- [Website builder how to hide a page from the website s navigation menu](https://support.hostinger.com/en/articles/6456821-website-builder-how-to-hide-a-page-from-the-website-s-navigation-menu): Learn how to hide pages from your website's header section
+- [Website builder how to hide elements and sections](https://support.hostinger.com/en/articles/6721428-website-builder-how-to-hide-elements-and-sections): Hide elements and sections from the desktop or mobile version of your website using Hostinger Website Builder
+- [Website builder how to hide the footer from specific pages](https://support.hostinger.com/en/articles/10407520-website-builder-how-to-hide-the-footer-from-specific-pages): Learn more on hiding the footer section from specific pages inside your website.
+- [Website builder how to import products to your online store](https://support.hostinger.com/en/articles/10572396-website-builder-how-to-import-products-to-your-online-store): Learn how to import products inside your Online Store
+- [Website builder how to integrate custom code](https://support.hostinger.com/en/articles/6445594-website-builder-how-to-integrate-custom-code): Learn how to add custom code to your website created with Hostinger Website Builder
+- [Website builder how to issue a refund with razorpay](https://support.hostinger.com/en/articles/9984081-website-builder-how-to-issue-a-refund-with-razorpay): Issuing refunds in Razorpay
+- [Website builder how to issue refunds in the online store](https://support.hostinger.com/en/articles/6538447-website-builder-how-to-issue-refunds-in-the-online-store): Learn how to send money back to your clients
+- [Website builder how to link to a particular section](https://support.hostinger.com/en/articles/6460375-website-builder-how-to-link-to-a-particular-section): Learn how to link to a particular website section using Hostinger Website Builder
+- [Website builder how to make a website appear on google](https://support.hostinger.com/en/articles/6448761-website-builder-how-to-make-a-website-appear-on-google): Learn what steps to take to get your site on Google
+- [Website builder how to manage blog settings](https://support.hostinger.com/en/articles/6491379-website-builder-how-to-manage-blog-settings): Learn how to manage the settings of your blog
+- [Website builder how to manage checkout settings in the online store](https://support.hostinger.com/en/articles/6539035-website-builder-how-to-manage-checkout-settings-in-the-online-store): Learn about your online store's checkout settings using Hostinger Website Builder
+- [Website builder how to manage invoices in the online store](https://support.hostinger.com/en/articles/6803165-website-builder-how-to-manage-invoices-in-the-online-store): Learn how to create an invoice in your online store using Hostinger Website Builder
+- [Website builder how to manage line spacing](https://support.hostinger.com/en/articles/6436163-website-builder-how-to-manage-line-spacing): Learn how to manage line spacing in text elements using Hostinger Website Builder
+- [Website builder how to manage orders in the online store](https://support.hostinger.com/en/articles/6539027-website-builder-how-to-manage-orders-in-the-online-store): Learn how to manage orders in your online store with Hostinger Website Builder
+- [Website builder how to manage taxes in the online store](https://support.hostinger.com/en/articles/6895192-website-builder-how-to-manage-taxes-in-the-online-store): Learn about tax management in your online store created with Hostinger Website Builder
+- [Website builder how to manage the navigation menu of a website](https://support.hostinger.com/en/articles/6435707-website-builder-how-to-manage-the-navigation-menu-of-a-website): Creating and managing the website's navigation menu in Hostinger Website Builder
+- [Website builder how to manage traffic permissions for facebook pixel](https://support.hostinger.com/en/articles/6462997-website-builder-how-to-manage-traffic-permissions-for-facebook-pixel): Indicate which domains can send events to your Facebook pixel by creating an allow list or a block list
+- [Website builder how to organize and layer website elements](https://support.hostinger.com/en/articles/6463669-website-builder-how-to-organize-and-layer-website-elements): Learn how to send a website element to the back or to the front of your section layers
+- [Website builder how to password protect a page](https://support.hostinger.com/en/articles/6899183-website-builder-how-to-password-protect-a-page): Learn how to add a password to your website page using Hostinger Website Builder
+- [Website builder how to place a test order in the online store](https://support.hostinger.com/en/articles/6539029-website-builder-how-to-place-a-test-order-in-the-online-store): Learn how to create a test product and place a test order in your online store with Hostinger Website Builder
+- [Website builder how to position elements on mobile view](https://support.hostinger.com/en/articles/10407606-website-builder-how-to-position-elements-on-mobile-view): Learn more how to set the elements placement inside the sections of your mobile view version without affecting the desktop version.
+- [Website builder how to preview a website](https://support.hostinger.com/en/articles/6475345-website-builder-how-to-preview-a-website): Learn how to preview the website using Hostinger Website Builder
+- [Website builder how to publish a website](https://support.hostinger.com/en/articles/6475340-website-builder-how-to-publish-a-website): Learn how to publish a website with Hostinger Website Builder
+- [Website builder how to remove a page from google search results](https://support.hostinger.com/en/articles/6493027-website-builder-how-to-remove-a-page-from-google-search-results): Learn how to remove a page from Google search results
+- [Website builder how to remove payment methods in the online store](https://support.hostinger.com/en/articles/6538432-website-builder-how-to-remove-payment-methods-in-the-online-store): Disconnecting online payment gateways and removing manual payment methods in Hostinger Website Builder
+- [Website builder how to rename a website page](https://support.hostinger.com/en/articles/6466199-website-builder-how-to-rename-a-website-page): Learn how to rename your webpages using Hostinger Website Builder
+- [Website builder how to request google to index website pages](https://support.hostinger.com/en/articles/6466565-website-builder-how-to-request-google-to-index-website-pages): It normally takes up to four weeks for Google to crawl and index any changes in your site – learn how to speed up the process
+- [Website builder how to resize elements and sections](https://support.hostinger.com/en/articles/6491230-website-builder-how-to-resize-elements-and-sections): Learn how to resize elements and sections using Hostinger Website Builder
+- [Website builder how to save changes](https://support.hostinger.com/en/articles/6475375-website-builder-how-to-save-changes): Learn how Hostinger Website Builder saves your changes
+- [Website builder how to schedule a blog post](https://support.hostinger.com/en/articles/6491429-website-builder-how-to-schedule-a-blog-post): Learn how to schedule blog posts using Hostinger Website Builder
+- [Website builder how to send receipts from the online store](https://support.hostinger.com/en/articles/6538500-website-builder-how-to-send-receipts-from-the-online-store): Learn how to send order receipts to customers using Hostinger website builder
+- [Website builder how to set up pinterest tags](https://support.hostinger.com/en/articles/7329746-website-builder-how-to-set-up-pinterest-tags): Installing the Pinterest tag with Hostinger Website Builder
+- [Website builder how to set up shipping](https://support.hostinger.com/en/articles/6538842-website-builder-how-to-set-up-shipping): Learn how to set up shipping options in your online store
+- [Website builder how to show or hide the blog post publication date](https://support.hostinger.com/en/articles/6491627-website-builder-how-to-show-or-hide-the-blog-post-publication-date): Learn how to show or hide the publication date of your blog posts using Hostinger Website Builder
+- [Website builder how to sort menu items in the website s navigation menu](https://support.hostinger.com/en/articles/6614617-website-builder-how-to-sort-menu-items-in-the-website-s-navigation-menu): Learn how to sort the menu items in the website's navigation bar using Hostinger Website Builder
+- [Website builder how to style the header section](https://support.hostinger.com/en/articles/10456392-website-builder-how-to-style-the-header-section): Learn about customizing the style of your website's header section
+- [Website builder how to track inventory in the online store](https://support.hostinger.com/en/articles/6538384-website-builder-how-to-track-inventory-in-the-online-store): Learn about inventory tracking in your online store using Hostinger Website Builder
+- [Website builder how to unpublish a blog post](https://support.hostinger.com/en/articles/6491491-website-builder-how-to-unpublish-a-blog-post): Learn how to unpublish a blog post using Hostinger Website Builder
+- [Website builder how to unpublish a website](https://support.hostinger.com/en/articles/8570324-website-builder-how-to-unpublish-a-website): Unpublishing a website created with Hostinger Website Builder
+- [Website builder how to update a website](https://support.hostinger.com/en/articles/6435697-website-builder-how-to-update-a-website): Update your website to view the last changes live
+- [Website builder how to upload a custom font](https://support.hostinger.com/en/articles/6435859-website-builder-how-to-upload-a-custom-font): Learn how to upload a custom font using Hostinger Website Builder
+- [Website builder how to upload files](https://support.hostinger.com/en/articles/6435924-website-builder-how-to-upload-files): Learn how to upload files to your website created with Hostinger Website Builder
+- [Website builder how to use a store as a catalog](https://support.hostinger.com/en/articles/7941128-website-builder-how-to-use-a-store-as-a-catalog): Turning an online store into a catalog with Hostinger Website Builder
+- [Website builder how to use heading tags for seo](https://support.hostinger.com/en/articles/6466509-website-builder-how-to-use-heading-tags-for-seo): Learn how to use heading tags for SEO purposes with Hostinger Website Builder
+- [Website builder how to verify a url property at google search console](https://support.hostinger.com/en/articles/6511296-website-builder-how-to-verify-a-url-property-at-google-search-console): Verifying a URL at Google Search Console with Hostinger Website Builder
+- [Website builder inconsistent font characters](https://support.hostinger.com/en/articles/6491241-website-builder-inconsistent-font-characters): Learn about web-safe fonts and font subsets for different languages
+- [Website builder linking google merchant center and google ads accounts](https://support.hostinger.com/en/articles/6539075-website-builder-linking-google-merchant-center-and-google-ads-accounts): Link your Google accounts in order to set up Google Shopping
+- [Website builder media library](https://support.hostinger.com/en/articles/7171600-website-builder-media-library): Learn how to manage files and folders using Hostinger Website Builder
+- [Website builder online payment gateways](https://support.hostinger.com/en/articles/6538413-website-builder-online-payment-gateways): Enabling online payments in your online store created with Hostinger Website Builder
+- [Website builder outdated titles descriptions and preview images of website pages](https://support.hostinger.com/en/articles/6575874-website-builder-outdated-titles-descriptions-and-preview-images-of-website-pages): Learn what to do if you see incorrect meta titles and descriptions or preview images when sharing website links on social media
+- [Website builder product pages](https://support.hostinger.com/en/articles/6538349-website-builder-product-pages): Learn about product pages in Hostinger Website Builder
+- [Website builder product search](https://support.hostinger.com/en/articles/8332766-website-builder-product-search): Learn how to add a search bar to your online store created with Hostinger Website Builder
+- [Website builder product sections](https://support.hostinger.com/en/articles/6538352-website-builder-product-sections): With the help of product sections, you can easily display products or their categories on your website
+- [Website builder product seo settings](https://support.hostinger.com/en/articles/6538366-website-builder-product-seo-settings): Learn where to find the product SEO settings using Hostinger Website Builder
+- [Website builder responsive web design and image size](https://support.hostinger.com/en/articles/6466243-website-builder-responsive-web-design-and-image-size): Learn how visuals are handled using Hostinger Website Builder
+- [Website builder rotating paysera payment tokens](https://support.hostinger.com/en/articles/10398796-website-builder-rotating-paysera-payment-tokens): Learn how to rotate your payment token inside Paysera in order to be updated with our most recent online store changes
+- [Website builder seo settings](https://support.hostinger.com/en/articles/6466320-website-builder-seo-settings): Learn everything you need to know about the main SEO features in Hostinger Website Builder
+- [Website builder shipping based on the order price or weight](https://support.hostinger.com/en/articles/7055016-website-builder-shipping-based-on-the-order-price-or-weight): Learn how to set up shipping options based on the order price or weight using Hostinger Website Builder
+- [Website builder shopping bag settings](https://support.hostinger.com/en/articles/6539042-website-builder-shopping-bag-settings): Learn how to enable or disable the shopping bag in your online store created with Hostinger Website Builder
+- [Website builder store name and regional settings](https://support.hostinger.com/en/articles/6539038-website-builder-store-name-and-regional-settings): Learn how to update the name and regional settings of your online store using Hostinger Website Builder
+- [Website builder supported currencies in the online store](https://support.hostinger.com/en/articles/6815760-website-builder-supported-currencies-in-the-online-store): Learn about the supported store currencies in Hostinger Website Builder
+- [Website builder troubleshooting shipping options](https://support.hostinger.com/en/articles/8650482-website-builder-troubleshooting-shipping-options): Learn what to do if customers get stuck in the shipping & delivery step while making a purchase on your online store
+- [Website builder website is not working](https://support.hostinger.com/en/articles/8942668-website-builder-website-is-not-working): Learn what to check if your builder-based website is not working
+- [Website builder website s sitemap](https://support.hostinger.com/en/articles/6491673-website-builder-website-s-sitemap): Learn how to find your website's sitemap and submit it to Google Search Console
+- [Website builder website speed](https://support.hostinger.com/en/articles/6491807-website-builder-website-speed): Learn about website speed in Hostinger Website Builder
+- [Website builder what cookies are used on your website](https://support.hostinger.com/en/articles/6491112-website-builder-what-cookies-are-used-on-your-website): Learn what cookies are used on a website created with Hostinger Website Builder
+- [Website builder what to do if blog posts aren t visible on the website](https://support.hostinger.com/en/articles/6445835-website-builder-what-to-do-if-blog-posts-aren-t-visible-on-the-website): Learn how to display blog posts on your website using Hostinger Website Builder
+- [Website builder why don t the changes show on the website](https://support.hostinger.com/en/articles/6459831-website-builder-why-don-t-the-changes-show-on-the-website): There are several reasons why your changes might not be visible online
+- [Website builder](https://support.hostinger.com/en/collections/3587143-website-builder): Everything you need to know about the website builder
+- [Website sections](https://support.hostinger.com/en/collections/3592105-website-sections): Website Sections | Hostinger Help Center
+- [What s the difference between Hostinger website builder and other content management systems](https://support.hostinger.com/en/articles/6618476-what-s-the-difference-between-hostinger-website-builder-and-other-content-management-systems): Learn the difference between Hostinger Website Builder and other CMSs
+- [Where are Hostinger website builder data centers located](https://support.hostinger.com/en/articles/6962418-where-are-hostinger-website-builder-data-centers-located): Location of servers for websites using Hostinger Website Builder
+
+## WordPress
+- [Agency hosting plans how to update the wordpress version](https://support.hostinger.com/en/articles/10656934-agency-hosting-plans-how-to-update-the-wordpress-version): Updating WordPress version on hPanel with Agency Hosting Plans
+- [How does wordpress add on subscription work](https://support.hostinger.com/en/articles/9897072-how-does-wordpress-add-on-subscription-work): Automate websites management tasks with WordPress Add-ons
+- [How to add a wordpress website](https://support.hostinger.com/en/articles/6640339-how-to-add-a-wordpress-website): Adding a new WordPress website to your hosting plan at Hostinger
+- [How to backup a wordpress website](https://support.hostinger.com/en/articles/9653397-how-to-backup-a-wordpress-website): Generating a backup of your WordPress website using plugins
+- [How to change wordpress theme via phpmyadmin](https://support.hostinger.com/en/articles/4469298-how-to-change-wordpress-theme-via-phpmyadmin): Changing the WordPress theme without accessing the WordPress admin panel
+- [How to change wordpress upload limitation](https://support.hostinger.com/en/articles/1583347-how-to-change-wordpress-upload-limitation): Increasing WordPress maximum file upload size
+- [How to create a wordpress staging environment](https://support.hostinger.com/en/articles/5720286-how-to-create-a-wordpress-staging-environment): Using the WordPress staging functionality at Hostinger
+- [How to disable captcha on wordpress](https://support.hostinger.com/en/articles/9539459-how-to-disable-captcha-on-wordpress): Disabling CAPTCHA on your WordPress website and migrate it to Hostinger
+- [How to disable wordpress plugins without access to the admin page](https://support.hostinger.com/en/articles/4411258-how-to-disable-wordpress-plugins-without-access-to-the-admin-page): Disabling WordPress plugins without accessing your WordPress admin panel
+- [How to enable automatic wordpress updates](https://support.hostinger.com/en/articles/8409305-how-to-enable-automatic-wordpress-updates): Enabling automatic WordPress updates
+- [How to find your wordpress login url](https://support.hostinger.com/en/articles/5016706-how-to-find-your-wordpress-login-url): Finding your WordPress login URL
+- [How to fix a malware infected wordpress website](https://support.hostinger.com/en/articles/1583339-how-to-fix-a-malware-infected-wordpress-website): Removing malware from WordPress and preventing infections
+- [How to fix an overloaded wordpress website](https://support.hostinger.com/en/articles/7043596-how-to-fix-an-overloaded-wordpress-website): Fixing a slow or overloaded website built using WordPress
+- [How to fix the connection timed out error in wordpress](https://support.hostinger.com/en/articles/10327721-how-to-fix-the-connection-timed-out-error-in-wordpress): Troubleshooting connection timeout on WordPress websites
+- [How to fix the missing mysql extension wordpress error](https://support.hostinger.com/en/articles/1583327-how-to-fix-the-missing-mysql-extension-wordpress-error): Fixing the "Your PHP installation appears to be missing the MySQL extension which is required by WordPress" error
+- [How to fix the mixed content error on wordpress](https://support.hostinger.com/en/articles/3592520-how-to-fix-the-mixed-content-error-on-wordpress): All about mixed content issues and how to fix them on WordPress
+- [How to fix the unforeseen errors message on hpanel wordpress overview](https://support.hostinger.com/en/articles/7965905-how-to-fix-the-unforeseen-errors-message-on-hpanel-wordpress-overview): Fixing the "Oops! WordPress Dashboard does not work correctly due to unforeseen errors" message on Hostinger's hPanel
+- [How to fix wordpress plugins or theme errors](https://support.hostinger.com/en/articles/4153729-how-to-fix-wordpress-plugins-or-theme-errors): Fixing plugin or theme-related errors for WordPress websites
+- [How to force https on wordpress websites](https://support.hostinger.com/en/articles/1583253-how-to-force-https-on-wordpress-websites): Fixing a WordPress website that loads by HTTP only
+- [How to identify overload causes on wordpress websites](https://support.hostinger.com/en/articles/7043577-how-to-identify-overload-causes-on-wordpress-websites): Identifying the cause of website overload on WordPress websites
+- [How to install minecraft plugins on game panel](https://support.hostinger.com/en/articles/4883354-how-to-install-minecraft-plugins-on-game-panel): Installing and managing Minecraft plugins via Game Panel
+- [How to install plugins for counter strike 2](https://support.hostinger.com/en/articles/5947726-how-to-install-plugins-for-counter-strike-2): Installing plugins in your Counter-Strike server via Game Panel
+- [How to install plugins for team fortress 2](https://support.hostinger.com/en/articles/6081573-how-to-install-plugins-for-team-fortress-2): Installing plugins in your TF2 server via Game Panel
+- [How to install rust oxide plugins on game panel](https://support.hostinger.com/en/articles/5950693-how-to-install-rust-oxide-plugins-on-game-panel): Installing Rust Oxide plugins via Game Panel
+- [How to install wordpress on cyberpanel](https://support.hostinger.com/en/articles/5387532-how-to-install-wordpress-on-cyberpanel): Installing WordPress via Application Installer on CyberPanel VPS
+- [How to install wordpress using auto installer](https://support.hostinger.com/en/articles/3220304-how-to-install-wordpress-using-auto-installer): Setting up a WordPress website using Auto Installer at Hostinger
+- [How to manage object cache for wordpress websites at Hostinger](https://support.hostinger.com/en/articles/6099689-how-to-manage-object-cache-for-wordpress-websites-at-hostinger): Managing LiteSpeed Memcached (LSMCD) at Hostinger
+- [How to manage themes and plugins via wordpress overview](https://support.hostinger.com/en/articles/6348502-how-to-manage-themes-and-plugins-via-wordpress-overview): Managing core updates, plugins and themes without entering the WordPress Admin area at Hostinger
+- [How to protect the wordpress admin url](https://support.hostinger.com/en/articles/5016707-how-to-protect-the-wordpress-admin-url): Protecting your WordPress admin dashboard URL
+- [How to recreate permalinks on wordpress](https://support.hostinger.com/en/articles/3490582-how-to-recreate-permalinks-on-wordpress): How to rebuild the permalinks for your WordPress site
+- [How to restore a wordpress website from backups](https://support.hostinger.com/en/articles/3989447-how-to-restore-a-wordpress-website-from-backups): Using the Restore Website feature to automatically restore WordPress sites at Hostinger
+- [How to restore a wordpress website with only a database backup](https://support.hostinger.com/en/articles/6149777-how-to-restore-a-wordpress-website-with-only-a-database-backup): How to restore your WordPress websites if the files are missing
+- [How to restore the wordpress system files](https://support.hostinger.com/en/articles/4469097-how-to-restore-the-wordpress-system-files): What to do if WordPress system files are damaged
+- [How to set up maintenance mode for wordpress](https://support.hostinger.com/en/articles/3220374-how-to-set-up-maintenance-mode-for-wordpress): Setting up maintenance mode for your WordPress website
+- [How to speed up a wordpress site](https://support.hostinger.com/en/articles/1583340-how-to-speed-up-a-wordpress-site): Increasing the speed of a slow WordPress website
+- [How to troubleshoot slow wordpress admin area](https://support.hostinger.com/en/articles/11002241-how-to-troubleshoot-slow-wordpress-admin-area): Troubleshooting issues related to WP admin area speed
+- [How to use the wordpress ai assistant](https://support.hostinger.com/en/articles/8238149-how-to-use-the-wordpress-ai-assistant): Get more traffic for your business with the help of Hostinger WordPress AI Assistant
+- [How to use the wordpress overview in hpanel](https://support.hostinger.com/en/articles/5609910-how-to-use-the-wordpress-overview-in-hpanel): Using WordPress Overview on hPanel to manage your WordPress website
+- [How to use wordpress presets](https://support.hostinger.com/en/articles/9901390-how-to-use-wordpress-presets): Start building websites faster with WordPress presets
+- [Is wordpress multisite supported at Hostinger](https://support.hostinger.com/en/articles/1583373-is-wordpress-multisite-supported-at-hostinger): How to set up WordPress Multisite at Hostinger
+- [Migration request all in one wp migration plugin not installed](https://support.hostinger.com/en/articles/10660344-migration-request-all-in-one-wp-migration-plugin-not-installed): How to fix All-In-One WP Migration Plugin not installed error when creating a migration request
+- [Troubleshooting issues accessing wordpress admin login page via hpanel](https://support.hostinger.com/en/articles/10476636-troubleshooting-issues-accessing-wordpress-admin-login-page-via-hpanel): Troubleshooting issues accessing WordPress admin login page via hPanel
+- [Troubleshooting issues accessing wordpress admin login page](https://support.hostinger.com/en/articles/9662155-troubleshooting-issues-accessing-wordpress-admin-login-page): Disabling additional protection on the WordPress wp-admin page
+- [Troubleshooting wordpress intermediate errors on cyberpanel cloudpanel](https://support.hostinger.com/en/articles/9625894-troubleshooting-wordpress-intermediate-errors-on-cyberpanel-cloudpanel): Fixing intermediate errors in WordPress websites hosted at a Hostinger VPS
+- [Unable to export error in all in one wp migration plugin](https://support.hostinger.com/en/articles/10260341-unable-to-export-error-in-all-in-one-wp-migration-plugin): Causes and fix of "Unable to export" error using the plugin when migrating to Hostinger
+- [What is a wordpress add on](https://support.hostinger.com/en/articles/10288464-what-is-a-wordpress-add-on): Automating websites management tasks with WordPress Add-ons
+- [What is managed wordpress](https://support.hostinger.com/en/articles/8034228-what-is-managed-wordpress): Learn the definition of Managed WordPress
+- [What is the Hostinger wordpress plugin](https://support.hostinger.com/en/articles/6824127-what-is-the-hostinger-wordpress-plugin): Using the Hostinger WordPress plugin to start building your website
+- [Wordpress dashboard](https://support.hostinger.com/en/collections/3304442-wordpress-dashboard): WordPress Dashboard | Hostinger Help Center
+- [Wordpress management](https://support.hostinger.com/en/collections/2589714-wordpress-management): WordPress Management | Hostinger Help Center
+- [Wordpress site health troubleshooting](https://support.hostinger.com/en/articles/11035915-wordpress-site-health-troubleshooting): WordPress Site Health troubleshooting | Hostinger Help Center
+
+## cPanel
+- [Basic actions in cpanel file manager](https://support.hostinger.com/en/articles/4622321-basic-actions-in-cpanel-file-manager): Everything about basic actions in File Manager on cPanel
+- [Cpanel](https://support.hostinger.com/en/collections/944877-cpanel): Managing your services via cPanel
+- [How to a change a database password on cpanel](https://support.hostinger.com/en/articles/4719059-how-to-a-change-a-database-password-on-cpanel): Changing MySQL database password via cPanel
+- [How to access email accounts in cpanel](https://support.hostinger.com/en/articles/4768094-how-to-access-email-accounts-in-cpanel): Accessing your email accounts in cPanel
+- [How to access phpmyadmin in cpanel](https://support.hostinger.com/en/articles/4548523-how-to-access-phpmyadmin-in-cpanel): Accessing phpMyAdmin via cPanel on Hostinger
+- [How to access webmail of cpanel email](https://support.hostinger.com/en/articles/4718963-how-to-access-webmail-of-cpanel-email): Accessing your cPanel email via webmail
+- [How to add a website in cpanel](https://support.hostinger.com/en/articles/4548561-how-to-add-a-website-in-cpanel): How to add a domain as addon on Hostinger using cPanel
+- [How to add and remove a records in cpanel](https://support.hostinger.com/en/articles/4468883-how-to-add-and-remove-a-records-in-cpanel): Adding new A records and managing already created A records on cPanel
+- [How to add and remove txt records in cpanel](https://support.hostinger.com/en/articles/4469063-how-to-add-and-remove-txt-records-in-cpanel): Adding new TXT records and managing already created TXT records on cPanel
+- [How to block an ip address in cpanel](https://support.hostinger.com/en/articles/6478068-how-to-block-an-ip-address-in-cpanel): Preventing a specific IP address from accessing your website
+- [How to change the php version on cpanel](https://support.hostinger.com/en/articles/4667467-how-to-change-the-php-version-on-cpanel): Changing PHP version via cPanel
+- [How to change your panel and ftp password for cpanel](https://support.hostinger.com/en/articles/6478098-how-to-change-your-panel-and-ftp-password-for-cpanel): Changing your password to access FTP/WHM on cPanel
+- [How to check resources usage on cpanel](https://support.hostinger.com/en/articles/4725774-how-to-check-resources-usage-on-cpanel): Locating the metrics of your hosting plan inside cPanel
+- [How to check website overload causes on cpanel](https://support.hostinger.com/en/articles/7043543-how-to-check-website-overload-causes-on-cpanel): Identifying the cause of website overload using Resource Usage in cPanel
+- [How to check your cpanel username](https://support.hostinger.com/en/articles/4786567-how-to-check-your-cpanel-username): Finding your username on cPanel at Hostinger
+- [How to connect to your cpanel account via ssh](https://support.hostinger.com/en/articles/4622295-how-to-connect-to-your-cpanel-account-via-ssh): Logging in to your cPanel account using SSH
+- [How to create a new mysql database in cpanel](https://support.hostinger.com/en/articles/4548533-how-to-create-a-new-mysql-database-in-cpanel): Creating a new MySQL database at Hostinger using cPanel
+- [How to create additional ftp accounts on cpanel](https://support.hostinger.com/en/articles/4480537-how-to-create-additional-ftp-accounts-on-cpanel): Creating additional FTP accounts via cPanel
+- [How to create and delete subdomains in cpanel](https://support.hostinger.com/en/articles/4469008-how-to-create-and-delete-subdomains-in-cpanel): Creating and managing your subdomains on cPanel
+- [How to create and manage email accounts on cpanel](https://support.hostinger.com/en/articles/4437981-how-to-create-and-manage-email-accounts-on-cpanel): Creating a new email account and managing already created email accounts on cPanel at Hostinger
+- [How to disable directory listing in cpanel](https://support.hostinger.com/en/articles/4622434-how-to-disable-directory-listing-in-cpanel): If you see Index of / message it means there is no index file uploaded on your account.
+- [How to disable greylisting for cpanel email](https://support.hostinger.com/en/articles/6477961-how-to-disable-greylisting-for-cpanel-email): Ensuring that emails received from unknown sources reach your inbox
+- [How to download backups on cpanel](https://support.hostinger.com/en/articles/4723268-how-to-download-backups-on-cpanel): Downloading backups of your website using the cPanel JetBackup 5 feature at Hostinger
+- [How to export a database over ssh on cpanel](https://support.hostinger.com/en/articles/4664708-how-to-export-a-database-over-ssh-on-cpanel): Exporting a database over SSH using cPanel
+- [How to export a database with phpmyadmin on cpanel](https://support.hostinger.com/en/articles/4549740-how-to-export-a-database-with-phpmyadmin-on-cpanel): Exporting a database via phpMyAdmin using cPanel
+- [How to find ftp details on cpanel](https://support.hostinger.com/en/articles/4480555-how-to-find-ftp-details-on-cpanel): Checking your FTP details on cPanel
+- [How to find your mysql database details on cpanel](https://support.hostinger.com/en/articles/4719044-how-to-find-your-mysql-database-details-on-cpanel): Locating your MySQL database details via cPanel
+- [How to fix cpanel freeze on backup creation](https://support.hostinger.com/en/articles/10334941-how-to-fix-cpanel-freeze-on-backup-creation): For manual cPanel installations
+- [How to fix max defers on cpanel mail hosting for niagahoster](https://support.hostinger.com/en/articles/10085851-how-to-fix-max-defers-on-cpanel-mail-hosting-for-niagahoster): How to Fix Max Defers on cPanel Mail Hosting for Niagahoster | Hostinger Help Center
+- [How to get email account configuration details for cpanel email](https://support.hostinger.com/en/articles/4312781-how-to-get-email-account-configuration-details-for-cpanel-email): Gathering information to use your cPanel email on clients such as Outlook, Thunderbird, etc.
+- [How to import a database over ssh on cpanel](https://support.hostinger.com/en/articles/4664722-how-to-import-a-database-over-ssh-on-cpanel): Importing a database via SSH using cPanel
+- [How to import a database with phpmyadmin on cpanel](https://support.hostinger.com/en/articles/4548519-how-to-import-a-database-with-phpmyadmin-on-cpanel): Importing a database via phpMyAdmin on Hostinger using cPanel
+- [How to import emails from a full cpanel backup to thunderbird](https://support.hostinger.com/en/articles/8498711-how-to-import-emails-from-a-full-cpanel-backup-to-thunderbird): Importing emails from a full website backup to Thunderbird
+- [How to increase upload max filesize and php values on cpanel](https://support.hostinger.com/en/articles/4622447-how-to-increase-upload-max-filesize-and-php-values-on-cpanel): Changing PHP Values and upload_max_filesize through cPanel
+- [How to install SSL in cpanel](https://support.hostinger.com/en/articles/4466647-how-to-install-ssl-in-cpanel): How to install SSL in cPanel
+- [How to install applications automatically on cpanel](https://support.hostinger.com/en/articles/4469641-how-to-install-applications-automatically-on-cpanel): Using Softaculous Apps Installer on cPanel
+- [How to log in to cpanel at Hostinger](https://support.hostinger.com/en/articles/4469075-how-to-log-in-to-cpanel-at-hostinger): Logging in to your cPanel account at Hostinger
+- [How to manage dkim records on cpanel](https://support.hostinger.com/en/articles/4570283-how-to-manage-dkim-records-on-cpanel): Adding a DKIM record on cPanel
+- [How to manage email services on cpanel](https://support.hostinger.com/en/articles/7037401-how-to-manage-email-services-on-cpanel): Learn how to suspend or unsuspend email accounts via cPanel
+- [How to manage mx records in cpanel](https://support.hostinger.com/en/articles/4443671-how-to-manage-mx-records-in-cpanel): Adding, editing and deleting MX records at Hostinger via cPanel
+- [How to manage php extensions on cpanel](https://support.hostinger.com/en/articles/4667580-how-to-manage-php-extensions-on-cpanel): Managing PHP extensions on cPanel
+- [How to manage spf records on cpanel](https://support.hostinger.com/en/articles/4570278-how-to-manage-spf-records-on-cpanel): Adding an SPF record on cPanel
+- [How to migrate a website from cpanel to directadmin](https://support.hostinger.com/en/articles/5891034-how-to-migrate-a-website-from-cpanel-to-directadmin): Migrating your website from cPanel to Hostinger’s VPS
+- [How to migrate a website from hpanel to cpanel whm VPS](https://support.hostinger.com/en/articles/4042686-how-to-migrate-a-website-from-hpanel-to-cpanel-whm-vps): Moving your website from hPanel to a VPS with cPanel
+- [How to migrate from cpanel to web or cloud hosting at Hostinger](https://support.hostinger.com/en/articles/6477932-how-to-migrate-from-cpanel-to-web-or-cloud-hosting-at-hostinger): Migrating your websites from cPanel to a Web or Cloud hosting plan at Hostinger
+- [How to move a website from a subfolder to the base domain on cpanel](https://support.hostinger.com/en/articles/6022371-how-to-move-a-website-from-a-subfolder-to-the-base-domain-on-cpanel): Moving website from a subfolder to the main domain on Hostinger using cPanel
+- [How to move a website to another domain name on cpanel](https://support.hostinger.com/en/articles/4552481-how-to-move-a-website-to-another-domain-name-on-cpanel): Upload a website backup to a different domain at Hostinger using cPanel
+- [How to point a domain from registro br to Hostinger cpanel](https://support.hostinger.com/en/articles/6364854-how-to-point-a-domain-from-registro-br-to-hostinger-cpanel): Changing nameservers at Registro.BR
+- [How to reset an email account s password for cpanel email](https://support.hostinger.com/en/articles/4683870-how-to-reset-an-email-account-s-password-for-cpanel-email): Changing email password on cPanel
+- [How to restore a backup on a different cpanel hosting plan](https://support.hostinger.com/en/articles/4549417-how-to-restore-a-backup-on-a-different-cpanel-hosting-plan): Restoring a backup on a different cPanel hosting plan at Hostinger
+- [How to restore backups on cpanel whm](https://support.hostinger.com/en/articles/3542264-how-to-restore-backups-on-cpanel-whm): Restoring cPanel / WHM backups with one click
+- [How to set up a catch all for cpanel email](https://support.hostinger.com/en/articles/4469124-how-to-set-up-a-catch-all-for-cpanel-email): Enabling the catch-all feature for cPanel Email at Hostinger
+- [How to set up a domain for cpanel email](https://support.hostinger.com/en/articles/5670904-how-to-set-up-a-domain-for-cpanel-email): Setting up email DNS records (MX, SPF, and DKIM records)
+- [How to set up a forwarder for cpanel email](https://support.hostinger.com/en/articles/4468919-how-to-set-up-a-forwarder-for-cpanel-email): Creating email forwarders on cPanel to redirect emails
+- [How to set up a redirect on cpanel](https://support.hostinger.com/en/articles/4508514-how-to-set-up-a-redirect-on-cpanel): Creating a redirect on cPanel
+- [How to set up an automatic reply for cpanel email](https://support.hostinger.com/en/articles/4469235-how-to-set-up-an-automatic-reply-for-cpanel-email): Creating auto-responders on cPanel Email at Hostinger
+- [How to set up an email signature for cpanel email](https://support.hostinger.com/en/articles/4469144-how-to-set-up-an-email-signature-for-cpanel-email): Creating an email signature on cPanel
+- [How to set up cpanel email on your devices and email applications](https://support.hostinger.com/en/articles/4305995-how-to-set-up-cpanel-email-on-your-devices-and-email-applications): Setting up cPanel Email on iPhone or Android devices and mail clients such as Outlook or Thunderbird
+- [How to set up dmarc on cpanel](https://support.hostinger.com/en/articles/8010216-how-to-set-up-dmarc-on-cpanel): Setting up DMARC records for your cPanel email
+- [How to set up email filters with cpanel email](https://support.hostinger.com/en/articles/4469162-how-to-set-up-email-filters-with-cpanel-email): Creating email filters on cPanel
+- [How to set up remote mysql access on cpanel](https://support.hostinger.com/en/articles/4602010-how-to-set-up-remote-mysql-access-on-cpanel): Allowing a remote MySQL connection via cPanel
+- [How to show hidden files htaccess in cpanel file manager](https://support.hostinger.com/en/articles/4622407-how-to-show-hidden-files-htaccess-in-cpanel-file-manager): This article explains how you can make hidden files visible on cPanel
+- [How to turn on php error messages on cpanel](https://support.hostinger.com/en/articles/4718910-how-to-turn-on-php-error-messages-on-cpanel): Enabling error display on cPanel
+- [How to upload a backup with file manager in cpanel](https://support.hostinger.com/en/articles/4548506-how-to-upload-a-backup-with-file-manager-in-cpanel): Uploading backups using cPanel File Manager at Hostinger
+- [How to use imunify360 on cpanel](https://support.hostinger.com/en/articles/3621450-how-to-use-imunify360-on-cpanel): Protecting and cleaning your websites from malware using Imunify360 on cPanel
+- [How to use litespeed web cache manager on cpanel](https://support.hostinger.com/en/articles/2721119-how-to-use-litespeed-web-cache-manager-on-cpanel): Dramatically decrease website load time using LiteSpeed Web Cache Manager for WordPress on cPanel
+- [How to use the cpanel whm VPS template](https://support.hostinger.com/en/articles/4971271-how-to-use-the-cpanel-whm-vps-template): Accessing and setting up cPanel$WHM on Hostinger’s VPS
+- [How to use web disk on cpanel](https://support.hostinger.com/en/articles/6478044-how-to-use-web-disk-on-cpanel): Using Web Disk to manage your cPanel files
+- [Is cpanel whm supported at Hostinger](https://support.hostinger.com/en/articles/1583565-is-cpanel-whm-supported-at-hostinger): cPanel hosting at Hostinger
+- [Parameters and limits of cpanel email](https://support.hostinger.com/en/articles/6550582-parameters-and-limits-of-cpanel-email): Available resources and limits of email on cPanel plans at Hostinger
+- [Step by step guide migrating VPS data cpanel cyberpanel and direct admin](https://support.hostinger.com/en/articles/10469963-step-by-step-guide-migrating-vps-data-cpanel-cyberpanel-and-direct-admin): Migrating VPS Data: cPanel, Cyberpanel and Direct Admin
+- [Where to find the a record on cpanel](https://support.hostinger.com/en/articles/4469621-where-to-find-the-a-record-on-cpanel): Locating hosting account’s IP address in cPanel
+
+## Landing page — https://www.hostinger.com/
+
+**Page Title:** Hostinger - Bring Your Idea Online With a Website
+
+**Main Headline:** "Your online success starts here"
+
+**Key Tagline:** "From launching a website to growing your business, Hostinger's got you covered."
+
+### Primary Service Categories
+
+**Create a Website:**
+- Vibe code websites (AI-powered, free trial)
+- Drag-and-drop website builder
+- Managed WordPress hosting
+- Website migration services
+
+**Sell Online:**
+- Ecommerce website builder
+- WooCommerce hosting
+
+**Host and Deploy:**
+- Web hosting
+- Cloud hosting
+- VPS hosting
+- Node.js app hosting
+- Application catalog
+- Agency hosting
+
+**Domains:**
+- Domain name search
+- Domain transfer
+
+**Email & Marketing:**
+- Business email
+- Email marketing (Reach)
+- Google Workspace
+
+**AI & Automation:**
+- 1-click OpenClaw (AI agent)
+- Hermes Agent
+- Self-hosted n8n
+- AI agents for business tasks
+
+### Pricing Plans
+
+- **Premium:** $2.99/mo (75% off) - 3 websites, 20GB storage
+- **Business:** $3.99/mo (79% off) - 50 websites, 50GB storage
+- **Cloud Startup:** $7.99/mo (71% off) - 100 websites, 100GB storage
+
+All plans include free domain (1 year) and 30-day money-back guarantee.
+
+### Trust Indicators
+
+- 5M+ clients
+- 150+ countries served
+- 20+ years experience
+- 10M+ websites created
+
+Featured in: TechRadar, Wirecutter, Wired, CNET, Forbes, PCMag
+
+## Tutorials — https://www.hostinger.com/tutorials
+
+### Main Navigation Categories
+The site offers tutorials across: All Tutorials, Website, Make Money Online, Digital Marketing, Hosting, Domains, Email, WordPress, VPS, and Web App sections.
+
+### Featured Content Sections
+
+**Most Popular Tutorials:**
+- "19 best website design examples for inspiration in 2026"
+- "What is VPS (virtual private server) hosting?"
+- "How to fix the DNS_PROBE_FINISHED_NXDOMAIN error"
+
+**WordPress Section** includes optimization guides on speeding up websites, understanding plugins, and security methods.
+
+**Weekly Editor's Pick** features recent content on Hytale server hosting and vibe coding trends.
+
+**Websites Section** covers website maintenance costs and domain purchasing processes.
+
+### Tutorial Topics
+- Skincare and print-on-demand business naming
+- AI tools (Hermes Agent, OpenClaw, Codex)
+- Email marketing and automation
+- VPS monitoring and setup
+- Web frameworks and applications
+
+## Web Hosting — https://www.hostinger.com/web-hosting
+
+### Pricing Plans
+
+**Premium** ($2.99/mo, 75% off)
+- Create up to 3 websites
+- 20 GB SSD storage
+- 2 mailboxes per website
+- Free domain for 1 year
+- Weekly auto backups
+
+**Business** ($3.99/mo, 79% off) - Most Popular
+- Create up to 50 websites
+- 50 GB NVMe storage
+- 5 mailboxes per website
+- 5 Managed Node.js web apps
+- Daily and on-demand backups
+- AI Agent for WordPress (FREE)
+
+**Cloud Startup** ($7.99/mo, 71% off)
+- Create up to 100 websites
+- 100 GB NVMe storage
+- 10 mailboxes per website
+- 10 Managed Node.js web apps
+- Priority 24/7 expert support
+- 4 GB RAM, 100 PHP workers
+
+All plans include: free domain and website migration, 30-day money-back guarantee, and 24/7 customer support.
+
+### Key Features
+
+- **Security**: Free SSL certificates, malware scanner, privacy protection
+- **Performance**: NVMe storage, in-house CDN, LiteSpeed technology, unlimited bandwidth
+- **AI Tools**: Kodee (AI WordPress agent), Horizons (code website builder)
+- **Email Marketing**: Hostinger Reach included free (up to 200 emails/month to 100 subscribers)
+
+## VPS Hosting — https://www.hostinger.com/vps-hosting
+
+### Pricing (KVM-based)
+
+- **KVM 1**: $6.49/mo (was $19.49) – 1 vCPU, 4GB RAM, 50GB NVMe, 4TB bandwidth
+- **KVM 2**: $8.99/mo (was $24.49) – 2 vCPUs, 8GB RAM, 100GB NVMe, 8TB bandwidth (MOST POPULAR)
+- **KVM 4**: $12.99/mo (was $42.99) – 4 vCPUs, 16GB RAM, 200GB NVMe, 16TB bandwidth
+- **KVM 8**: $25.99/mo (was $73.99) – 8 vCPUs, 32GB RAM, 400GB NVMe, 32TB bandwidth
+
+### Core Features (All Plans)
+
+AMD EPYC processors, NVMe SSD storage, 1 Gbps network speed, free weekly backups, firewall management, public API, AI Web terminal, and a free domain for one year.
+
+### AI Management
+
+**Kodee** — AI assistant accessible via dashboard and web terminal. Can "execute commands, troubleshoot configurations, and manage your entire server using simple chat prompts" at no extra cost.
+
+### One-Click Deployment Options
+
+Docker, n8n, WordPress, Django, Laravel, GitLab, and numerous other applications available.
+
+## AI Website Builder — https://www.hostinger.com/ai-website-builder
+
+### Main Offering
+AI-powered website builder enabling users to "Launch your website in an afternoon" with AI generation, drag-and-drop editing, and vibe coding capabilities.
+
+### Key Features
+- **AI Generation**: Describe your site; AI builds it instantly
+- **Vibe Coding**: Conversational AI building through Hostinger Horizons
+- **All-Inclusive**: Hosting, domain, and email bundled
+- **Multi-Purpose**: Supports portfolios, online stores, booking sites, and web apps
+
+### Pricing Tiers (with 3 months free)
+
+| Plan | Monthly | Websites | Storage | Mailboxes |
+|------|---------|----------|---------|-----------|
+| Premium | $2.99 | 3 | 20 GB | 2 |
+| Business | $3.99 | 50 | 50 GB | 5 |
+| Cloud Startup | $7.99 | 100 | 100 GB | 10 |
+
+### Value Propositions
+- 8+ weeks saved vs. traditional development
+- $5,000+ cost reduction
+- 0% transaction fees for ecommerce
+- 30-day money-back guarantee
+- 99.9% uptime guarantee
+
+### Building Process
+1. Describe your idea or select template
+2. Customize visually or via AI chat
+3. Publish with one click
+
+## Horizons (AI App Builder) — https://www.hostinger.com/horizons
+
+### Overview
+Hostinger Horizons is a no-code platform that enables users to describe their ideas and have the AI build functional websites, apps, and online stores. Tagline: "Describe what you want and Horizons builds it for you. No code, no tech skills - launch in 1 click."
+
+### Key Features
+- **1-click launch** with integrated hosting, domain, and email
+- **Integrated backend** with databases, user accounts, and file storage
+- **Built-in AI** with latest LLM models for chatbots and smart search
+- **Code editing** capabilities for fine-tuning
+- **SEO optimization** for Google and ChatGPT discovery
+- **Third-party integrations** (Stripe, PayPal, Google AdSense)
+- **Template library** with customization options
+
+### Pricing Tiers (Annual billing)
+
+| Plan | Monthly | Annual | AI Credits | Websites |
+|------|---------|--------|-----------|----------|
+| Explorer | $6.99 | $83.88 | 30/mo | 1 |
+| Starter | $13.99 | $167.88 | 70/mo | 25 |
+| Hobbyist | $39.99 | $479.88 | 200/mo | 50 |
+| Hustler | $79.99 | $959.88 | 400/mo | Unlimited |
+
+All plans include a 30-day money-back guarantee. Resources include FAQs, tutorials, videos, blog posts, knowledge base, community, and referral program (up to $150 USD).

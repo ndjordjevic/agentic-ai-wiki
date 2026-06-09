@@ -185,6 +185,8 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/sources/hostinger.com.md",
+    "raw/web/hostinger.com.md",
     "inbox.md.tmp.6789.a6d848ca2c7b",
     "wiki/overview.md.tmp.6789.f4f7d9386d84",
     "wiki/sources/resend.com.md",
@@ -211,7 +213,6 @@
     "wiki/sources/strandsagents.com.md.tmp.4654.c7b8dcdb7a16",
     "wiki/sources/crewai.com.md.tmp.4654.0439653f7ceb",
     "wiki/sources/strandsagents.com.md.tmp.4654.0ad61c247528",
-    "wiki/sources/wisprflow.ai.md.tmp.4654.5fad4e6afd89",
     "wiki/sources/pi.dev.md",
     "raw/github/earendil-works-pi.md",
     "raw/web/pi.dev.md",
@@ -219,7 +220,6 @@
     "wiki/sources/wisprflow.ai.md",
     "raw/web/wisprflow.ai.md",
     "wiki/sources/anthropic.com.md",
-    "wiki/sources/nidhinjs-prompt-master.md",
-    "wiki/sources/reseek.net.md"
+    "wiki/sources/nidhinjs-prompt-master.md"
   ]
 }

@@ -8,6 +8,13 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-09 | ingest | hostinger.com | Global web hosting + AI platform — Kodee AI assistant, Horizons no-code AI builder, VPS one-click n8n/OpenClaw/Hermes Agent, 5M+ clients
+
+- Created: wiki/sources/hostinger.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
+---
+
 ## 2026-06-09 | ingest | resend.com | Email API for developers — REST + MCP server + agent-first CLI + 5 SKILL.md skills + webhooks, MIT, TypeScript, v2.3.0
 
 - Created: wiki/sources/resend.com.md
