@@ -28,6 +28,7 @@ related:
   - openvibe.sh
   - vercel-labs-agent-browser
   - garrytan-gstack
+  - open-design.ai
   - voltagent-awesome-agent-skills
 product: skills
 detail_level: standard

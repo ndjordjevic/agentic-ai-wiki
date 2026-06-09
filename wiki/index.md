@@ -84,5 +84,6 @@ created: 2026-04-28
 | [[voltagent-awesome-agent-skills]] | github | standard | 2026-06-08 | |
 | [[pi.dev]] | web | standard | 2026-06-08 | companion: earendil-works/pi |
 | [[graphify.net]] | web | standard | 2026-06-09 | companion: safishamsi/graphify |
+| [[open-design.ai]] | web | standard | 2026-06-09 | companion: nexu-io/open-design |
 
-_72 sources ingested._
+_73 sources ingested._

@@ -41,3 +41,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/wisprflow.ai.md | wisprflow.ai | 7 | 2026-06-08 | |
 | raw/web/pi.dev.md | pi.dev | 4 | 2026-06-08 | companion: earendil-works/pi |
 | raw/web/graphify.net.md | graphify.net | 7 | 2026-06-09 | companion: safishamsi/graphify |
+| raw/web/open-design.ai.md | open-design.ai | 7 | 2026-06-09 | companion: nexu-io/open-design |

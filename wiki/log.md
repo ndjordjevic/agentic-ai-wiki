@@ -8,6 +8,14 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-09 | ingest | open-design.ai | Open-source Claude Design alternative — 62K stars, agent-native design platform, 21+ CLI adapters, SKILL.md + DESIGN.md, BYOK, Apache-2.0
+
+- Created: wiki/sources/open-design.ai.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/nexu-io-open-design.md
+
+---
+
 ## 2026-06-09 | ingest | graphify.net | Open-source knowledge graph skill for AI coding assistants — 63K stars, YC S26, 71.5× token reduction, 24+ platforms, Tree-sitter + Leiden, MIT
 
 - Created: wiki/sources/graphify.net.md

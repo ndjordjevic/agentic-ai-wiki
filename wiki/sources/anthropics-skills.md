@@ -28,6 +28,7 @@ related:
   - othmanadi-planning-with-files
   - openai-codex-plugin-cc
   - garrytan-gstack
+  - open-design.ai
   - voltagent-awesome-agent-skills
 product: skills
 detail_level: standard
