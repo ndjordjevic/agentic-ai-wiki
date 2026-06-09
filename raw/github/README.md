@@ -47,3 +47,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/agent-field-pr-af.md | Agent-Field/pr-af | 28 | main | none | 2026-06-06 | |
 | raw/github/voltagent-awesome-agent-skills.md | VoltAgent/awesome-agent-skills | 24603 | main | none | 2026-06-08 | |
 | raw/github/earendil-works-pi.md | earendil-works/pi | 60792 | main | v0.78.1 | 2026-06-08 | companion for pi.dev |
+| raw/github/safishamsi-graphify.md | safishamsi/graphify | 63681 | v8 | v0.8.36 | 2026-06-09 | companion for graphify.net |

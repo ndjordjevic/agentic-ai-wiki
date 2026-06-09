@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/index.md",
+                "file": "wiki/sources/graphify.net.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "graphify.net"
             }
           }
         ]
@@ -185,6 +185,11 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/index.md",
+    "wiki/log.md.tmp.6789.e5d2208b1505",
+    "wiki/sources/graphify.net.md",
+    "raw/github/safishamsi-graphify.md",
+    "raw/web/graphify.net.md",
     "wiki/sources/voltagent-awesome-agent-skills.md",
     "wiki/sources/strandsagents.com.md.tmp.4654.c7b8dcdb7a16",
     "wiki/sources/crewai.com.md.tmp.4654.0439653f7ceb",
@@ -193,7 +198,6 @@
     "wiki/sources/pi.dev.md",
     "raw/github/earendil-works-pi.md",
     "raw/web/pi.dev.md",
-    "wiki/index.md",
     "raw/github/voltagent-awesome-agent-skills.md",
     "wiki/sources/wisprflow.ai.md",
     "inbox.md.tmp.4654.a149f3f661c9",
@@ -215,10 +219,6 @@
     "raw/web/x.com-ericzakariasson-building-clis-agents.md",
     "raw/github/agent-field-pr-af.md",
     "wiki/sources/njbrake-agent-of-empires.md",
-    "wiki/sources/canva.com.md",
-    "wiki/sources/langchain.com-deepagents.md",
-    "wiki/sources/langchain.com-langchain.md",
-    "excalidraw.log",
-    "skills-lock.json"
+    "excalidraw.log"
   ]
 }

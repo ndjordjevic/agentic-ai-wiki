@@ -8,6 +8,14 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-09 | ingest | graphify.net | Open-source knowledge graph skill for AI coding assistants — 63K stars, YC S26, 71.5× token reduction, 24+ platforms, Tree-sitter + Leiden, MIT
+
+- Created: wiki/sources/graphify.net.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/safishamsi-graphify.md
+
+---
+
 ## 2026-06-08 | ingest | pi.dev | Minimal terminal coding harness by Earendil Inc. — 60K stars, TypeScript, 15+ providers, 3,726 packages, four operating modes, SKILL.md compatible
 
 - Created: wiki/sources/pi.dev.md, raw/web/pi.dev.md, raw/github/earendil-works-pi.md
