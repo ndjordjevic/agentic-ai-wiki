@@ -89,5 +89,6 @@ created: 2026-04-28
 | [[resend.com]] | web | standard | 2026-06-09 | companion: resend/resend-cli |
 | [[hostinger.com]] | web | standard | 2026-06-09 | |
 | [[webhook.site]] | web | standard | 2026-06-10 | companion: webhooksite/webhook.site |
+| [[ngrok.com]] | web | standard | 2026-06-10 | |
 
-_77 sources ingested._
+_78 sources ingested._

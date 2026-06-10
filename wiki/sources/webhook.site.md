@@ -17,10 +17,12 @@ tags:
   - api-mocking
 related:
   - resend.com
+  - ngrok.com
 product: webhook.site
 detail_level: standard
 created: 2026-06-10
 updated: 2026-06-10
+
 ---
 
 Webhook.site is a webhook testing and workflow-automation service: every visitor instantly gets a free, unique URL, e-mail address, and DNS name (DNSHook), and everything sent to those addresses is displayed in real time — headers, query strings, form values, files, and request metadata. On top of the inspection tool, paid tiers add Custom Actions (a visual/scripted workflow builder with 50+ action types that run in the cloud on each incoming request), Schedules (cron jobs), a PostgreSQL-compatible Database, and a CLI (`whcli`) that tunnels requests to localhost in the style of ngrok. For agentic stacks it serves as zero-infrastructure plumbing: a place to receive, inspect, transform, mock, and forward HTTP, email, and DNS traffic without running a server. The platform positions itself explicitly as an alternative to Zapier, Ngrok, Localtunnel, and Pipedream, and the core request-inspection app is open source.

@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-10 | ingest | ngrok.com | Unified cloud networking platform — secure tunnels, AI gateway (multi-provider failover), Traffic Policy (CEL), Kubernetes Operator, Agent SDKs
+
+- Created: wiki/sources/ngrok.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-06-10 | ingest | webhook.site | Webhook testing + workflow automation — instant URLs/email/DNSHook capture, Custom Actions workflow builder, Schedules, Databases, whcli localhost tunnel
 
 - Created: wiki/sources/webhook.site.md
