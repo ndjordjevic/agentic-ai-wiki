@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-10 | ingest | webhook.site | Webhook testing + workflow automation — instant URLs/email/DNSHook capture, Custom Actions workflow builder, Schedules, Databases, whcli localhost tunnel
+
+- Created: wiki/sources/webhook.site.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/webhooksite-webhook.site.md
+
 ## 2026-06-09 | ingest | hostinger.com | Global web hosting + AI platform — Kodee AI assistant, Horizons no-code AI builder, VPS one-click n8n/OpenClaw/Hermes Agent, 5M+ clients
 
 - Created: wiki/sources/hostinger.com.md

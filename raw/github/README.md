@@ -51,3 +51,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/nexu-io-open-design.md | nexu-io/open-design | 62118 | main | open-design-v0.9.0 | 2026-06-09 | companion for open-design.ai |
 | raw/github/brave-brave-search-mcp-server.md | brave/brave-search-mcp-server | 1166 | main | v2.0.83 | 2026-06-09 | companion for brave-search |
 | raw/github/resend-resend-cli.md | resend/resend-cli | 372 | main | v2.3.0 | 2026-06-09 | companion for resend.com |
+| raw/github/webhooksite-webhook.site.md | webhooksite/webhook.site | 6602 | master | 1.3 | 2026-06-10 | companion for webhook.site |

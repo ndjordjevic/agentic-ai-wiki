@@ -45,3 +45,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/brave-search.md | brave-search | 5 | 2026-06-09 | companion: brave/brave-search-mcp-server |
 | raw/web/resend.com.md | resend.com | 6 | 2026-06-09 | companion: resend/resend-cli |
 | raw/web/hostinger.com.md | hostinger.com | 7 | 2026-06-09 | |
+| raw/web/webhook.site.md | webhook.site | 8 | 2026-06-10 | companion: webhooksite/webhook.site |

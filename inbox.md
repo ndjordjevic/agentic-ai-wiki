@@ -17,6 +17,7 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
+- [ ] https://ngrok.com/
 - [ ] https://microsoft.github.io/autogen/stable//index.html#
 - [ ] https://zapier.com/
 - [ ] https://script.it/
@@ -157,3 +158,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://brave.com/search/api/ <!-- ingested 2026-06-09 -->
 - [x] https://resend.com/ <!-- ingested 2026-06-09 -->
 - [x] https://www.hostinger.com/1 <!-- ingested 2026-06-09 -->
+- [x] https://webhook.site/ <!-- ingested 2026-06-10 -->

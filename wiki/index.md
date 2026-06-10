@@ -88,5 +88,6 @@ created: 2026-04-28
 | [[brave-search]] | web | standard | 2026-06-09 | companion: brave/brave-search-mcp-server |
 | [[resend.com]] | web | standard | 2026-06-09 | companion: resend/resend-cli |
 | [[hostinger.com]] | web | standard | 2026-06-09 | |
+| [[webhook.site]] | web | standard | 2026-06-10 | companion: webhooksite/webhook.site |
 
-_76 sources ingested._
+_77 sources ingested._

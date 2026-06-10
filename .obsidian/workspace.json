@@ -185,7 +185,15 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/overview.md",
+    "wiki/index.md",
     "wiki/sources/hostinger.com.md",
+    "wiki/overview.md.tmp.54028.1d0f60bed773",
+    "wiki/log.md.tmp.54028.b36a669a0907",
+    "wiki/index.md.tmp.54028.54e8b3cc523a",
+    "wiki/sources/webhook.site.md",
+    "raw/github/webhooksite-webhook.site.md",
+    "raw/web/webhook.site.md",
     "raw/web/hostinger.com.md",
     "inbox.md.tmp.6789.a6d848ca2c7b",
     "wiki/overview.md.tmp.6789.f4f7d9386d84",
@@ -196,7 +204,6 @@
     "wiki/sources/brave.com.md",
     "wiki/sources/brave-search.md",
     "raw/web/brave-search.md",
-    "wiki/index.md",
     "wiki/log.md.tmp.6789.60437088a982",
     "raw/web/brave.com.md",
     "raw/github/brave-brave-search-mcp-server.md",
@@ -210,16 +217,9 @@
     "raw/github/safishamsi-graphify.md",
     "raw/web/graphify.net.md",
     "wiki/sources/voltagent-awesome-agent-skills.md",
-    "wiki/sources/strandsagents.com.md.tmp.4654.c7b8dcdb7a16",
-    "wiki/sources/crewai.com.md.tmp.4654.0439653f7ceb",
-    "wiki/sources/strandsagents.com.md.tmp.4654.0ad61c247528",
     "wiki/sources/pi.dev.md",
     "raw/github/earendil-works-pi.md",
     "raw/web/pi.dev.md",
-    "raw/github/voltagent-awesome-agent-skills.md",
-    "wiki/sources/wisprflow.ai.md",
-    "raw/web/wisprflow.ai.md",
-    "wiki/sources/anthropic.com.md",
-    "wiki/sources/nidhinjs-prompt-master.md"
+    "raw/github/voltagent-awesome-agent-skills.md"
   ]
 }
