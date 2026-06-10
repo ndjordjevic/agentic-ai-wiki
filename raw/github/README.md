@@ -54,3 +54,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/webhooksite-webhook.site.md | webhooksite/webhook.site | 6602 | master | 1.3 | 2026-06-10 | companion for webhook.site |
 | raw/github/microsoft-autogen.md | microsoft/autogen | 58823 | main | python-v0.7.5 | 2026-06-10 | companion for microsoft-autogen |
 | raw/github/microsoft-agent-framework.md | microsoft/agent-framework | 11206 | main | python-1.8.1 | 2026-06-10 | |
+| raw/github/NousResearch-hermes-agent.md | NousResearch/hermes-agent | 189190 | main | v2026.6.5 | 2026-06-10 | companion for hermes-agent.nousresearch.com |

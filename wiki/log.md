@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-10 | ingest | hermes-agent.nousresearch.com | Self-improving autonomous agent by Nous Research — closed learning loop, 24+ messaging platforms, skills system, 189k stars
+
+- Created: wiki/sources/hermes-agent.nousresearch.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/NousResearch-hermes-agent.md
+
 ## 2026-06-10 | ingest | microsoft-agent-framework | Production-grade successor to AutoGen — graph-based workflows, 10+ LLM providers, Foundry hosting, Durable Task, A2A, Python + .NET
 
 - Created: wiki/sources/microsoft-agent-framework.md

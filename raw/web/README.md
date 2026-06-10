@@ -48,3 +48,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/webhook.site.md | webhook.site | 8 | 2026-06-10 | companion: webhooksite/webhook.site |
 | raw/web/ngrok.com.md | ngrok.com | 8 | 2026-06-10 | |
 | raw/web/microsoft-autogen.md | microsoft-autogen | 7 | 2026-06-10 | companion: microsoft/autogen |
+| raw/web/hermes-agent.nousresearch.com.md | hermes-agent.nousresearch.com | 8 | 2026-06-10 | companion: NousResearch/hermes-agent |

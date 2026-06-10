@@ -92,5 +92,6 @@ created: 2026-04-28
 | [[ngrok.com]] | web | standard | 2026-06-10 | |
 | [[microsoft-autogen]] | web | standard | 2026-06-10 | companion: microsoft/autogen |
 | [[microsoft-agent-framework]] | github | standard | 2026-06-10 | |
+| [[hermes-agent.nousresearch.com]] | web | standard | 2026-06-10 | companion: NousResearch/hermes-agent |
 
-_80 sources ingested._
+_81 sources ingested._

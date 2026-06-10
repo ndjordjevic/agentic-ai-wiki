@@ -20,7 +20,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://zapier.com/
 - [ ] https://script.it/
 - [ ] https://n8n.io/
-- [ ] https://hermes-agent.nousresearch.com/
 - [ ] https://www.teamoffsite.ai/
 - [ ] https://github.com/mksglu/context-mode
 - [ ] https://tolaria.md/
@@ -160,3 +159,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://ngrok.com/ <!-- ingested 2026-06-10 -->
 - [x] https://microsoft.github.io/autogen/stable//index.html# <!-- ingested 2026-06-10 -->
 - [x] https://github.com/microsoft/agent-framework <!-- ingested 2026-06-10 -->
+- [x] https://hermes-agent.nousresearch.com/ <!-- ingested 2026-06-10 -->
