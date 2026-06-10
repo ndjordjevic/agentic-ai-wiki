@@ -15,6 +15,7 @@ related:
   - strandsagents.com
   - qa.tech
   - vercel-labs-agent-browser
+  - browserbase.com
 product: playwright-mcp
 detail_level: standard
 created: 2026-05-25

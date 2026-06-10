@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-10 | ingest | browserbase.com | Browser agent platform — headless browser fleets, Stagehand SDK, Agent Identity, Functions, MCP integration, web scraping at scale
+
+- Created: wiki/sources/browserbase.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/browserbase-stagehand.md
+
 ## 2026-06-10 | ingest | cognition.ai | Devin — first autonomous software engineer; SWE-1 model family, computer use, AI productivity guarantee, enterprise coding agents
 
 - Created: wiki/sources/cognition.ai.md

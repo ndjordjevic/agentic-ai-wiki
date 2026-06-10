@@ -14,6 +14,7 @@ related:
   - anthropics-skills
   - vercel-labs-agent-browser
   - must-have-clis-2026
+  - browserbase.com
 product: browse
 detail_level: standard
 created: 2026-05-20

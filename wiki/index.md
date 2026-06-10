@@ -95,5 +95,6 @@ created: 2026-04-28
 | [[hermes-agent.nousresearch.com]] | web | standard | 2026-06-10 | companion: NousResearch/hermes-agent |
 | [[felix-forever-hermes-agent-desktop]] | github | standard | 2026-06-10 | |
 | [[cognition.ai]] | web | standard | 2026-06-10 | |
+| [[browserbase.com]] | web | standard | 2026-06-10 | companion: browserbase/stagehand |
 
-_83 sources ingested._
+_84 sources ingested._

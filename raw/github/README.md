@@ -56,3 +56,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/microsoft-agent-framework.md | microsoft/agent-framework | 11206 | main | python-1.8.1 | 2026-06-10 | |
 | raw/github/NousResearch-hermes-agent.md | NousResearch/hermes-agent | 189190 | main | v2026.6.5 | 2026-06-10 | companion for hermes-agent.nousresearch.com |
 | raw/github/felix-forever-hermes-agent-desktop.md | Felix-Forever/hermes-agent-desktop | 53 | main | v1.0.0 | 2026-06-10 | |
+| raw/github/browserbase-stagehand.md | browserbase/stagehand | 23055 | main | stagehand-server-v3/v3.7.2 | 2026-06-10 | companion for browserbase.com |

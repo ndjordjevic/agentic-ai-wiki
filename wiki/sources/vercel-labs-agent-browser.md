@@ -15,6 +15,7 @@ related:
   - browse.sh
   - qa.tech
   - skills.sh
+  - browserbase.com
 product: agent-browser
 detail_level: standard
 created: 2026-05-25

@@ -162,3 +162,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://hermes-agent.nousresearch.com/ <!-- ingested 2026-06-10 -->
 - [x] https://github.com/Felix-Forever/hermes-agent-desktop <!-- ingested 2026-06-10 -->
 - [x] https://cognition.ai/ <!-- ingested 2026-06-10 -->
+- [x] https://www.browserbase.com/ <!-- ingested 2026-06-10 -->
