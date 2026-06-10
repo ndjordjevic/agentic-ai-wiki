@@ -13,6 +13,7 @@ tags:
 related:
   - microsoft-autogen
   - crewai.com
+  - aaif-goose-goose
   - strandsagents.com
   - langchain.com-langgraph
 product: agent-framework

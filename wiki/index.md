@@ -96,5 +96,6 @@ created: 2026-04-28
 | [[felix-forever-hermes-agent-desktop]] | github | standard | 2026-06-10 | |
 | [[cognition.ai]] | web | standard | 2026-06-10 | |
 | [[browserbase.com]] | web | standard | 2026-06-10 | companion: browserbase/stagehand |
+| [[aaif-goose-goose]] | github | standard | 2026-06-10 | |
 
-_84 sources ingested._
+_85 sources ingested._

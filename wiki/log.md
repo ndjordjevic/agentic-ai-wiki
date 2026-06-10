@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-10 | ingest | aaif-goose-goose | Open-source general-purpose AI agent (Rust, 48k stars) — desktop + CLI + API, 15+ providers, MCP extensions, ACP, AAIF/Linux Foundation
+
+- Created: wiki/sources/aaif-goose-goose.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-06-10 | ingest | browserbase.com | Browser agent platform — headless browser fleets, Stagehand SDK, Agent Identity, Functions, MCP integration, web scraping at scale
 
 - Created: wiki/sources/browserbase.com.md

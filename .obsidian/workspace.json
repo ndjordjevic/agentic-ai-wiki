@@ -185,6 +185,8 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/sources/aaif-goose-goose.md",
+    "raw/github/aaif-goose-goose.md",
     "wiki/log.md.tmp.54028.299ba6c9be5b",
     "wiki/overview.md.tmp.54028.7936d30c42da",
     "wiki/index.md.tmp.54028.f3fc60b62ea4",
@@ -205,7 +207,6 @@
     "wiki/sources/hermes-agent.nousresearch.com.md",
     "wiki/index.md",
     "wiki/overview.md",
-    "wiki/overview.md.tmp.54028.bf348da2ee9f",
     "raw/web/hermes-agent.nousresearch.com.md",
     "raw/github/NousResearch-hermes-agent.md",
     "wiki/sources/microsoft-agent-framework.md",
@@ -219,7 +220,6 @@
     "raw/web/ngrok.com.md",
     "wiki/sources/hostinger.com.md",
     "wiki/sources/webhook.site.md",
-    "raw/github/webhooksite-webhook.site.md",
-    "raw/web/webhook.site.md"
+    "raw/github/webhooksite-webhook.site.md"
   ]
 }
