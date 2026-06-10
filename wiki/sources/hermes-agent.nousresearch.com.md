@@ -18,6 +18,7 @@ tags:
 related:
   - skills.sh
   - obra-superpowers
+  - felix-forever-hermes-agent-desktop
 product: hermes-agent
 detail_level: standard
 created: 2026-06-10

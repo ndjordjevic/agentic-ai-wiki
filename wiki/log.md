@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-10 | ingest | felix-forever-hermes-agent-desktop | Desktop client wrapping Hermes Agent as a 20-specialist AI team with PM orchestrator, visual Skill Store, and Agent CRUD dashboard
+
+- Created: wiki/sources/felix-forever-hermes-agent-desktop.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-06-10 | ingest | hermes-agent.nousresearch.com | Self-improving autonomous agent by Nous Research — closed learning loop, 24+ messaging platforms, skills system, 189k stars
 
 - Created: wiki/sources/hermes-agent.nousresearch.com.md
