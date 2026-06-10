@@ -52,4 +52,5 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/brave-brave-search-mcp-server.md | brave/brave-search-mcp-server | 1166 | main | v2.0.83 | 2026-06-09 | companion for brave-search |
 | raw/github/resend-resend-cli.md | resend/resend-cli | 372 | main | v2.3.0 | 2026-06-09 | companion for resend.com |
 | raw/github/webhooksite-webhook.site.md | webhooksite/webhook.site | 6602 | master | 1.3 | 2026-06-10 | companion for webhook.site |
-| raw/github/microsoft-autogen.md | microsoft/autogen | 58823 | main | python-v0.7.5 | 2026-06-10 | companion for microsoft.github.io |
+| raw/github/microsoft-autogen.md | microsoft/autogen | 58823 | main | python-v0.7.5 | 2026-06-10 | companion for microsoft-autogen |
+| raw/github/microsoft-agent-framework.md | microsoft/agent-framework | 11206 | main | python-1.8.1 | 2026-06-10 | |

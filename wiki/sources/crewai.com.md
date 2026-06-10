@@ -23,6 +23,7 @@ related:
   - factory.ai
   - pi.dev
   - microsoft-autogen
+  - microsoft-agent-framework
 product: crewai
 detail_level: standard
 created: 2026-05-22

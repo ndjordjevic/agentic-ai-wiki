@@ -91,5 +91,6 @@ created: 2026-04-28
 | [[webhook.site]] | web | standard | 2026-06-10 | companion: webhooksite/webhook.site |
 | [[ngrok.com]] | web | standard | 2026-06-10 | |
 | [[microsoft-autogen]] | web | standard | 2026-06-10 | companion: microsoft/autogen |
+| [[microsoft-agent-framework]] | github | standard | 2026-06-10 | |
 
-_79 sources ingested._
+_80 sources ingested._

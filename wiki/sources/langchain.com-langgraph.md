@@ -13,6 +13,7 @@ related:
   - 9d5bzxVsocw-anthropic-just-dropped-the-new-blueprint
   - gsd-build-get-shit-done
   - microsoft-autogen
+  - microsoft-agent-framework
 product: langgraph
 detail_level: deep
 created: 2026-04-29

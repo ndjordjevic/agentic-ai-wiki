@@ -185,6 +185,9 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "inbox.md.tmp.54028.c5ae56d208dd",
+    "wiki/sources/microsoft-agent-framework.md",
+    "raw/github/microsoft-agent-framework.md",
     "wiki/sources/microsoft-autogen.md.tmp.54028.7c209b33eaa0",
     "raw/web/microsoft-autogen.md",
     "wiki/sources/microsoft-autogen.md",
@@ -212,14 +215,11 @@
     "wiki/sources/resend.com.md",
     "raw/github/resend-resend-cli.md",
     "raw/web/resend.com.md",
-    "wiki/sources/brave-search.md.tmp.6789.32ef48ab21dc",
     "wiki/sources/brave.com.md",
     "wiki/sources/brave-search.md",
     "raw/web/brave-search.md",
     "raw/web/brave.com.md",
     "raw/github/brave-brave-search-mcp-server.md",
-    "wiki/sources/open-design.ai.md",
-    "wiki/sources/graphify.net.md",
-    "raw/github/nexu-io-open-design.md"
+    "wiki/sources/open-design.ai.md"
   ]
 }

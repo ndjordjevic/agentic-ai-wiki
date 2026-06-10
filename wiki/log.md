@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-10 | ingest | microsoft-agent-framework | Production-grade successor to AutoGen — graph-based workflows, 10+ LLM providers, Foundry hosting, Durable Task, A2A, Python + .NET
+
+- Created: wiki/sources/microsoft-agent-framework.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-06-10 | ingest | microsoft-autogen | AutoGen — multi-agent framework (AgentChat, Core, Extensions, Studio) by Microsoft Research; maintenance mode since 2026, successor is Microsoft Agent Framework
 
 - Created: wiki/sources/microsoft-autogen.md
