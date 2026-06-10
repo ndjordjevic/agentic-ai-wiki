@@ -94,5 +94,6 @@ created: 2026-04-28
 | [[microsoft-agent-framework]] | github | standard | 2026-06-10 | |
 | [[hermes-agent.nousresearch.com]] | web | standard | 2026-06-10 | companion: NousResearch/hermes-agent |
 | [[felix-forever-hermes-agent-desktop]] | github | standard | 2026-06-10 | |
+| [[cognition.ai]] | web | standard | 2026-06-10 | |
 
-_82 sources ingested._
+_83 sources ingested._

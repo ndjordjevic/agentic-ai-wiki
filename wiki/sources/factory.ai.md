@@ -18,10 +18,11 @@ related:
   - bmad-code-org-bmad-method
   - openai-codex-plugin-cc
   - vibekanban.com
+  - cognition.ai
 product: factory
 detail_level: standard
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-06-10
 ---
 
 Factory is the enterprise platform for agent-native software development, centered on an AI agent called **Droid** that automates coding, testing, review, and deployment end-to-end. Available as a CLI (`droid`), desktop app, and web app, Factory bundles five interoperating capability layers — Missions (multi-agent orchestration), Skills (reusable procedures), Hooks (lifecycle automation), Custom Droids (specialized subagents), and MCP (tool connectivity) — into a production-ready system for teams that need to move fast without bypassing compliance, security, or code ownership. Factory raised a $150M Series C at a $1.5B valuation and claims 7× faster feature delivery, 96.1% migration time reduction, and 95.8% on-call resolution time savings for enterprise customers.

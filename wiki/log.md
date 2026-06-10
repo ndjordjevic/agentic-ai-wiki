@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-10 | ingest | cognition.ai | Devin — first autonomous software engineer; SWE-1 model family, computer use, AI productivity guarantee, enterprise coding agents
+
+- Created: wiki/sources/cognition.ai.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-06-10 | ingest | felix-forever-hermes-agent-desktop | Desktop client wrapping Hermes Agent as a 20-specialist AI team with PM orchestrator, visual Skill Store, and Agent CRUD dashboard
 
 - Created: wiki/sources/felix-forever-hermes-agent-desktop.md
