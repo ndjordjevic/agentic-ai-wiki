@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-10 | ingest | microsoft-autogen | AutoGen — multi-agent framework (AgentChat, Core, Extensions, Studio) by Microsoft Research; maintenance mode since 2026, successor is Microsoft Agent Framework
+
+- Created: wiki/sources/microsoft-autogen.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/microsoft-autogen.md
+
 ## 2026-06-10 | ingest | ngrok.com | Unified cloud networking platform — secure tunnels, AI gateway (multi-provider failover), Traffic Policy (CEL), Kubernetes Operator, Agent SDKs
 
 - Created: wiki/sources/ngrok.com.md

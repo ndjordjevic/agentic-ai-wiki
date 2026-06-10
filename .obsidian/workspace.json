@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/sources/ngrok.com.md",
+                "file": "wiki/overview.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ngrok.com"
+              "title": "overview"
             }
           }
         ]
@@ -185,10 +185,19 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/sources/microsoft-autogen.md.tmp.54028.7c209b33eaa0",
+    "raw/web/microsoft-autogen.md",
+    "wiki/sources/microsoft-autogen.md",
+    "wiki/sources/ngrok.com.md",
+    "inbox.md.tmp.54028.e5db0d2d48c2",
+    "raw/web/README.md.tmp.54028.9fc32f0709e3",
+    "wiki/sources/strandsagents.com.md.tmp.54028.200eec1a88b9",
+    "wiki/sources/microsoft.github.io.md",
+    "raw/web/microsoft.github.io.md",
+    "raw/github/microsoft-autogen.md",
     "wiki/overview.md",
     "wiki/index.md",
     "inbox.md.tmp.54028.5b88f68e56a8",
-    "wiki/sources/ngrok.com.md",
     "raw/web/ngrok.com.md",
     "wiki/sources/hostinger.com.md",
     "wiki/overview.md.tmp.54028.1d0f60bed773",
@@ -207,18 +216,10 @@
     "wiki/sources/brave.com.md",
     "wiki/sources/brave-search.md",
     "raw/web/brave-search.md",
-    "wiki/log.md.tmp.6789.60437088a982",
     "raw/web/brave.com.md",
     "raw/github/brave-brave-search-mcp-server.md",
     "wiki/sources/open-design.ai.md",
     "wiki/sources/graphify.net.md",
-    "raw/web/README.md.tmp.6789.5ec2a3660534",
-    "wiki/sources/skills.sh.md.tmp.6789.c00f7fa01a37",
-    "raw/github/nexu-io-open-design.md",
-    "raw/web/open-design.ai.md",
-    "raw/github/safishamsi-graphify.md",
-    "raw/web/graphify.net.md",
-    "wiki/sources/voltagent-awesome-agent-skills.md",
-    "wiki/sources/pi.dev.md"
+    "raw/github/nexu-io-open-design.md"
   ]
 }

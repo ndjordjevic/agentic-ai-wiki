@@ -90,5 +90,6 @@ created: 2026-04-28
 | [[hostinger.com]] | web | standard | 2026-06-09 | |
 | [[webhook.site]] | web | standard | 2026-06-10 | companion: webhooksite/webhook.site |
 | [[ngrok.com]] | web | standard | 2026-06-10 | |
+| [[microsoft-autogen]] | web | standard | 2026-06-10 | companion: microsoft/autogen |
 
-_78 sources ingested._
+_79 sources ingested._

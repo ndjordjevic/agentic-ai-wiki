@@ -12,10 +12,11 @@ related:
   - langchain.com-deepagents
   - 9d5bzxVsocw-anthropic-just-dropped-the-new-blueprint
   - gsd-build-get-shit-done
+  - microsoft-autogen
 product: langgraph
 detail_level: deep
 created: 2026-04-29
-updated: 2026-05-14
+updated: 2026-06-10
 ---
 
 LangGraph is the lower-level orchestration framework and runtime in the LangChain stack. It is designed for long-running, stateful agents that need durable execution, human-in-the-loop pauses, memory, streaming, and explicit control over workflow shape rather than a single high-level agent abstraction.
