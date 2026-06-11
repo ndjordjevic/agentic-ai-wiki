@@ -168,3 +168,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://www.browserbase.com/ <!-- ingested 2026-06-10 -->
 - [x] https://github.com/aaif-goose/goose <!-- ingested 2026-06-10 -->
 - [x] https://mainframe.app/ <!-- ingested 2026-06-11 -->
+- [x] https://github.com/santifer/career-ops <!-- ingested 2026-06-11 -->

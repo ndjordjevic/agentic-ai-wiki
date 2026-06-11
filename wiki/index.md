@@ -98,5 +98,6 @@ created: 2026-04-28
 | [[browserbase.com]] | web | standard | 2026-06-10 | companion: browserbase/stagehand |
 | [[aaif-goose-goose]] | github | standard | 2026-06-10 | |
 | [[mainframe.app]] | web | standard | 2026-06-11 | |
+| [[santifer-career-ops]] | github | standard | 2026-06-11 | |
 
-_86 sources ingested._
+_87 sources ingested._

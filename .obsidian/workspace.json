@@ -185,6 +185,9 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "raw/github/README.md.tmp.54817.b387217c2f8f",
+    "wiki/sources/santifer-career-ops.md",
+    "raw/github/santifer-career-ops.md",
     "wiki/index.md",
     "wiki/index.md.tmp.54817.a3fb198db92f",
     "wiki/sources/mainframe.app.md",
@@ -217,8 +220,6 @@
     "wiki/sources/microsoft-autogen.md",
     "wiki/sources/ngrok.com.md",
     "wiki/sources/microsoft.github.io.md",
-    "raw/web/microsoft.github.io.md",
-    "raw/github/microsoft-autogen.md",
-    "raw/web/ngrok.com.md"
+    "raw/web/microsoft.github.io.md"
   ]
 }

@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-11 | ingest | santifer-career-ops | AI-powered job search system — 15 skill modes, A-F evaluation, ATS PDFs, portal scanner, batch processing, Go dashboard
+
+- Created: wiki/sources/santifer-career-ops.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-06-11 | ingest | mainframe.app | Agent-work-to-video SaaS — MCP + skill compatible with Claude Code/Cursor/Codex, avatar/voice/brand customization, team sharing
 
 - Created: wiki/sources/mainframe.app.md
