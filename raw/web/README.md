@@ -51,3 +51,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/hermes-agent.nousresearch.com.md | hermes-agent.nousresearch.com | 8 | 2026-06-10 | companion: NousResearch/hermes-agent |
 | raw/web/cognition.ai.md | cognition.ai | 5 | 2026-06-10 | |
 | raw/web/browserbase.com.md | browserbase.com | 9 | 2026-06-10 | companion: browserbase/stagehand |
+| raw/web/mainframe.app.md | mainframe.app | 1 | 2026-06-11 | |

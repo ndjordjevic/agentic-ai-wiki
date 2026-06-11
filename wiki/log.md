@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-11 | ingest | mainframe.app | Agent-work-to-video SaaS — MCP + skill compatible with Claude Code/Cursor/Codex, avatar/voice/brand customization, team sharing
+
+- Created: wiki/sources/mainframe.app.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-06-10 | ingest | aaif-goose-goose | Open-source general-purpose AI agent (Rust, 48k stars) — desktop + CLI + API, 15+ providers, MCP extensions, ACP, AAIF/Linux Foundation
 
 - Created: wiki/sources/aaif-goose-goose.md

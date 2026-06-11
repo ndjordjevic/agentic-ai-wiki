@@ -97,5 +97,6 @@ created: 2026-04-28
 | [[cognition.ai]] | web | standard | 2026-06-10 | |
 | [[browserbase.com]] | web | standard | 2026-06-10 | companion: browserbase/stagehand |
 | [[aaif-goose-goose]] | github | standard | 2026-06-10 | |
+| [[mainframe.app]] | web | standard | 2026-06-11 | |
 
-_85 sources ingested._
+_86 sources ingested._

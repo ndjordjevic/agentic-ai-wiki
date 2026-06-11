@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/index.md",
+                "file": "wiki/sources/mainframe.app.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "mainframe.app"
             }
           }
         ]
@@ -185,6 +185,11 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/index.md",
+    "wiki/index.md.tmp.54817.a3fb198db92f",
+    "wiki/sources/mainframe.app.md",
+    "raw/web/mainframe.app.md",
+    "excalidraw.log",
     "wiki/sources/aaif-goose-goose.md",
     "raw/github/aaif-goose-goose.md",
     "wiki/log.md.tmp.54028.299ba6c9be5b",
@@ -200,12 +205,9 @@
     "wiki/index.md.tmp.54028.f42319f81c64",
     "wiki/sources/cognition.ai.md",
     "raw/web/cognition.ai.md",
-    "wiki/log.md.tmp.54028.21ca6d7a6864",
-    "wiki/index.md.tmp.54028.cd7346fb4156",
     "wiki/sources/felix-forever-hermes-agent-desktop.md",
     "raw/github/felix-forever-hermes-agent-desktop.md",
     "wiki/sources/hermes-agent.nousresearch.com.md",
-    "wiki/index.md",
     "wiki/overview.md",
     "raw/web/hermes-agent.nousresearch.com.md",
     "raw/github/NousResearch-hermes-agent.md",
@@ -217,9 +219,6 @@
     "wiki/sources/microsoft.github.io.md",
     "raw/web/microsoft.github.io.md",
     "raw/github/microsoft-autogen.md",
-    "raw/web/ngrok.com.md",
-    "wiki/sources/hostinger.com.md",
-    "wiki/sources/webhook.site.md",
-    "raw/github/webhooksite-webhook.site.md"
+    "raw/web/ngrok.com.md"
   ]
 }

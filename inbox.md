@@ -77,6 +77,9 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [ ] https://docusaurus.io/
 - [ ] https://github.com/chopratejas/headroom
 - [ ] https://github.com/github/spec-kit
+- [ ] https://github.com/AgriciDaniel/claude-obsidian
+- [ ] https://github.com/pbakaus/impeccable
+- [ ] https://higgsfield.ai/
 
 ## Completed
 
@@ -164,3 +167,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://cognition.ai/ <!-- ingested 2026-06-10 -->
 - [x] https://www.browserbase.com/ <!-- ingested 2026-06-10 -->
 - [x] https://github.com/aaif-goose/goose <!-- ingested 2026-06-10 -->
+- [x] https://mainframe.app/ <!-- ingested 2026-06-11 -->
