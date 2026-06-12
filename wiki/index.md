@@ -102,5 +102,6 @@ created: 2026-04-28
 | [[supermemory.ai]] | web | standard | 2026-06-12 | |
 | [[mattpocock-skills]] | github | standard | 2026-06-12 | |
 | [[shadcn-improve]] | github | standard | 2026-06-12 | |
+| [[q00-ouroboros]] | github | standard | 2026-06-12 | |
 
-_90 sources ingested._
+_91 sources ingested._

@@ -18,6 +18,7 @@ related:
   - shareai-lab-learn-claude-code
   - forrestchang-andrej-karpathy-skills
   - coleam00-archon
+  - q00-ouroboros
   - shadcn-improve
   - mattpocock-skills
   - snarktank-ralph

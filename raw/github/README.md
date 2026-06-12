@@ -61,3 +61,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/santifer-career-ops.md | santifer/career-ops | 52587 | main | v1.10.0 | 2026-06-11 | |
 | raw/github/mattpocock-skills.md | mattpocock/skills | 126065 | main | none | 2026-06-12 | |
 | raw/github/shadcn-improve.md | shadcn/improve | 1977 | main | none | 2026-06-12 | |
+| raw/github/q00-ouroboros.md | Q00/ouroboros | 4555 | main | v0.41.0 | 2026-06-12 | |

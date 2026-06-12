@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/sources/mattpocock-skills.md",
+                "file": "wiki/sources/shadcn-improve.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mattpocock-skills"
+              "title": "shadcn-improve"
             }
           }
         ]
@@ -185,16 +185,19 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/sources/snarktank-ralph.md.tmp.97570.00d5130ed6da",
+    "wiki/sources/q00-ouroboros.md",
+    "raw/github/q00-ouroboros.md",
+    "wiki/index.md",
+    "wiki/overview.md",
+    "wiki/sources/mattpocock-skills.md",
     "wiki/sources/everyinc-compound-engineering-plugin.md.tmp.97570.71ec17aadf7d",
     "wiki/sources/shadcn-improve.md",
     "raw/github/shadcn-improve.md",
-    "wiki/overview.md",
     "wiki/sources/supermemory.ai.md",
     "inbox.md.tmp.97570.69fa3e373645",
     "wiki/sources/obra-superpowers.md.tmp.97570.eb5d220f91bd",
-    "wiki/sources/mattpocock-skills.md",
     "raw/github/mattpocock-skills.md",
-    "wiki/index.md",
     "wiki/sources/santifer-career-ops.md",
     "wiki/overview.md.tmp.97570.9d2f3aa7c41b",
     "raw/web/supermemory.ai.md",
@@ -209,7 +212,6 @@
     "raw/github/aaif-goose-goose.md",
     "wiki/log.md.tmp.54028.299ba6c9be5b",
     "wiki/overview.md.tmp.54028.7936d30c42da",
-    "wiki/index.md.tmp.54028.f3fc60b62ea4",
     "wiki/sources/browserbase.com.md",
     "raw/github/browserbase-stagehand.md",
     "raw/web/browserbase.com.md",
@@ -218,8 +220,6 @@
     "wiki/sources/felix-forever-hermes-agent-desktop.md",
     "raw/github/felix-forever-hermes-agent-desktop.md",
     "wiki/sources/hermes-agent.nousresearch.com.md",
-    "raw/web/hermes-agent.nousresearch.com.md",
-    "raw/github/NousResearch-hermes-agent.md",
-    "wiki/sources/microsoft-agent-framework.md"
+    "raw/web/hermes-agent.nousresearch.com.md"
   ]
 }

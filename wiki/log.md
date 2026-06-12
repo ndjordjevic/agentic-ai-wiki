@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-12 | ingest | q00-ouroboros | Agent OS + spec-first workflow engine (4,555 stars) — Socratic interview, ambiguity gate ≤0.2, immutable Seed, 3-stage evaluation, evolutionary loop, 8 runtime adapters
+
+- Created: wiki/sources/q00-ouroboros.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-06-12 | ingest | shadcn-improve | Codebase audit + executable plan writer (1,977 stars) — separates judgment from execution across model tiers; nine audit categories, vet step, worktree executor
 
 - Created: wiki/sources/shadcn-improve.md
