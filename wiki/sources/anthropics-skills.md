@@ -13,6 +13,7 @@ tags:
 related:
   - skills.sh
   - shareai-lab-learn-claude-code
+  - seangeng.com-plan-optimizer
   - graphify.net
   - x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes
   - github-spec-kit

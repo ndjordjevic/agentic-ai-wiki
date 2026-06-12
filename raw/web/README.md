@@ -53,3 +53,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/browserbase.com.md | browserbase.com | 9 | 2026-06-10 | companion: browserbase/stagehand |
 | raw/web/mainframe.app.md | mainframe.app | 1 | 2026-06-11 | |
 | raw/web/supermemory.ai.md | supermemory.ai | 5 | 2026-06-12 | |
+| raw/web/seangeng.com-plan-optimizer.md | seangeng.com-plan-optimizer | 4 | 2026-06-12 | |

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/sources/shadcn-improve.md",
+                "file": "wiki/index.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shadcn-improve"
+              "title": "index"
             }
           }
         ]
@@ -185,41 +185,41 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
-    "wiki/sources/snarktank-ralph.md.tmp.97570.00d5130ed6da",
-    "wiki/sources/q00-ouroboros.md",
-    "raw/github/q00-ouroboros.md",
+    "wiki/sources/seangeng.com.md",
+    "wiki/sources/seangeng.com-plan-optimizer.md",
+    "raw/web/seangeng.com-plan-optimizer.md",
     "wiki/index.md",
+    "wiki/sources/q00-ouroboros.md",
+    "inbox.md.tmp.97570.6c9169159a45",
+    "wiki/log.md.tmp.97570.8f53566b4088",
+    "wiki/overview.md.tmp.97570.a03e5b14fe89",
+    "wiki/index.md.tmp.97570.ad0f5eeefd7e",
+    "wiki/sources/skills.sh.md.tmp.97570.ca1c5fd6550b",
+    "wiki/sources/mattpocock-skills.md.tmp.97570.e192b035f7f8",
+    "wiki/sources/anthropics-skills.md.tmp.97570.af666d7f29b2",
+    "raw/web/seangeng.com.md",
     "wiki/overview.md",
+    "wiki/sources/shadcn-improve.md",
+    "wiki/sources/snarktank-ralph.md.tmp.97570.00d5130ed6da",
+    "raw/github/q00-ouroboros.md",
     "wiki/sources/mattpocock-skills.md",
     "wiki/sources/everyinc-compound-engineering-plugin.md.tmp.97570.71ec17aadf7d",
-    "wiki/sources/shadcn-improve.md",
     "raw/github/shadcn-improve.md",
     "wiki/sources/supermemory.ai.md",
     "inbox.md.tmp.97570.69fa3e373645",
-    "wiki/sources/obra-superpowers.md.tmp.97570.eb5d220f91bd",
     "raw/github/mattpocock-skills.md",
     "wiki/sources/santifer-career-ops.md",
-    "wiki/overview.md.tmp.97570.9d2f3aa7c41b",
     "raw/web/supermemory.ai.md",
-    "inbox.md.tmp.97570.420a0e76a233",
     "wiki/sources/mainframe.app.md",
-    "raw/github/README.md.tmp.54817.b387217c2f8f",
     "raw/github/santifer-career-ops.md",
-    "wiki/index.md.tmp.54817.a3fb198db92f",
     "raw/web/mainframe.app.md",
-    "excalidraw.log",
     "wiki/sources/aaif-goose-goose.md",
     "raw/github/aaif-goose-goose.md",
-    "wiki/log.md.tmp.54028.299ba6c9be5b",
-    "wiki/overview.md.tmp.54028.7936d30c42da",
     "wiki/sources/browserbase.com.md",
     "raw/github/browserbase-stagehand.md",
     "raw/web/browserbase.com.md",
     "wiki/sources/cognition.ai.md",
     "raw/web/cognition.ai.md",
-    "wiki/sources/felix-forever-hermes-agent-desktop.md",
-    "raw/github/felix-forever-hermes-agent-desktop.md",
-    "wiki/sources/hermes-agent.nousresearch.com.md",
-    "raw/web/hermes-agent.nousresearch.com.md"
+    "wiki/sources/felix-forever-hermes-agent-desktop.md"
   ]
 }

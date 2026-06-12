@@ -103,5 +103,6 @@ created: 2026-04-28
 | [[mattpocock-skills]] | github | standard | 2026-06-12 | |
 | [[shadcn-improve]] | github | standard | 2026-06-12 | |
 | [[q00-ouroboros]] | github | standard | 2026-06-12 | |
+| [[seangeng.com-plan-optimizer]] | web | standard | 2026-06-12 | |
 
-_91 sources ingested._
+_92 sources ingested._

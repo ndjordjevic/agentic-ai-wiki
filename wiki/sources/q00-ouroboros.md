@@ -2,7 +2,7 @@
 type: source
 source_url: https://github.com/Q00/ouroboros
 tags: [agent-os, specification-first, socratic-interview, evolutionary-loop, mcp, python, multi-runtime, ambiguity-scoring]
-related: [buildermethods-agent-os, obra-superpowers, snarktank-ralph, github-spec-kit]
+related: [buildermethods-agent-os, obra-superpowers, snarktank-ralph, github-spec-kit, seangeng.com]
 product: ouroboros
 detail_level: standard
 created: 2026-06-12

@@ -13,6 +13,7 @@ tags:
 related:
   - obra-superpowers
   - gsd-build-get-shit-done
+  - seangeng.com-plan-optimizer
   - everyinc-compound-engineering-plugin
   - mattpocock-skills
 product: improve

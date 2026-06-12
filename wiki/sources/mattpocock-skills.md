@@ -13,6 +13,7 @@ tags:
 related:
   - anthropics-skills
   - skills.sh
+  - seangeng.com-plan-optimizer
   - obra-superpowers
   - gsd-build-get-shit-done
   - forrestchang-andrej-karpathy-skills

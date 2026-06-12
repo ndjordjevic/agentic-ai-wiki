@@ -20,6 +20,7 @@ related:
   - shareai-lab-learn-claude-code
   - graphify.net
   - must-have-clis-2026
+  - seangeng.com-plan-optimizer
   - anthropics-skills
   - nidhinjs-prompt-master
   - hermes-agent.nousresearch.com

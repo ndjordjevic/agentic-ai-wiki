@@ -13,6 +13,7 @@ tags:
 related:
   - gsd-build-get-shit-done
   - anthropics-skills
+  - seangeng.com-plan-optimizer
   - skills.sh
   - github-spec-kit
   - shareai-lab-learn-claude-code

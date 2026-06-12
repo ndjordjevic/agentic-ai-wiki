@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-12 | ingest | seangeng.com-plan-optimizer | Plan-optimizer Claude Code skill — iterative rubric-scored plan refinement with plateau detection, hill-climbing, and best-of-N search
+
+- Created: wiki/sources/seangeng.com-plan-optimizer.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-06-12 | ingest | q00-ouroboros | Agent OS + spec-first workflow engine (4,555 stars) — Socratic interview, ambiguity gate ≤0.2, immutable Seed, 3-stage evaluation, evolutionary loop, 8 runtime adapters
 
 - Created: wiki/sources/q00-ouroboros.md
