@@ -59,3 +59,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/browserbase-stagehand.md | browserbase/stagehand | 23055 | main | stagehand-server-v3/v3.7.2 | 2026-06-10 | companion for browserbase.com |
 | raw/github/aaif-goose-goose.md | aaif-goose/goose | 48633 | main | v1.37.0 | 2026-06-10 | |
 | raw/github/santifer-career-ops.md | santifer/career-ops | 52587 | main | v1.10.0 | 2026-06-11 | |
+| raw/github/mattpocock-skills.md | mattpocock/skills | 126065 | main | none | 2026-06-12 | |

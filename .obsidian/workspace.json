@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/sources/santifer-career-ops.md",
+                "file": "wiki/sources/mattpocock-skills.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "santifer-career-ops"
+              "title": "mattpocock-skills"
             }
           }
         ]
@@ -183,16 +183,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "99e21e24a9e68b8d",
+  "active": "1915ef4dcd545752",
   "lastOpenFiles": [
-    "wiki/overview.md.tmp.97570.9d2f3aa7c41b",
+    "wiki/overview.md",
     "wiki/sources/supermemory.ai.md",
+    "inbox.md.tmp.97570.69fa3e373645",
+    "wiki/sources/obra-superpowers.md.tmp.97570.eb5d220f91bd",
+    "wiki/sources/mattpocock-skills.md",
+    "raw/github/mattpocock-skills.md",
+    "wiki/index.md",
+    "wiki/sources/santifer-career-ops.md",
+    "wiki/overview.md.tmp.97570.9d2f3aa7c41b",
     "raw/web/supermemory.ai.md",
     "inbox.md.tmp.97570.420a0e76a233",
-    "wiki/index.md",
     "wiki/sources/mainframe.app.md",
     "raw/github/README.md.tmp.54817.b387217c2f8f",
-    "wiki/sources/santifer-career-ops.md",
     "raw/github/santifer-career-ops.md",
     "wiki/index.md.tmp.54817.a3fb198db92f",
     "raw/web/mainframe.app.md",
@@ -202,24 +207,18 @@
     "wiki/log.md.tmp.54028.299ba6c9be5b",
     "wiki/overview.md.tmp.54028.7936d30c42da",
     "wiki/index.md.tmp.54028.f3fc60b62ea4",
-    "wiki/sources/browse.sh.md.tmp.54028.e2ddbd6655cd",
-    "wiki/sources/microsoft-playwright-mcp.md.tmp.54028.30a3563767d7",
     "wiki/sources/browserbase.com.md",
     "raw/github/browserbase-stagehand.md",
     "raw/web/browserbase.com.md",
-    "wiki/log.md.tmp.54028.bf6c6ffb225e",
     "wiki/sources/cognition.ai.md",
     "raw/web/cognition.ai.md",
     "wiki/sources/felix-forever-hermes-agent-desktop.md",
     "raw/github/felix-forever-hermes-agent-desktop.md",
     "wiki/sources/hermes-agent.nousresearch.com.md",
-    "wiki/overview.md",
     "raw/web/hermes-agent.nousresearch.com.md",
     "raw/github/NousResearch-hermes-agent.md",
     "wiki/sources/microsoft-agent-framework.md",
     "raw/github/microsoft-agent-framework.md",
-    "raw/web/microsoft-autogen.md",
-    "wiki/sources/microsoft-autogen.md",
-    "wiki/sources/ngrok.com.md"
+    "raw/web/microsoft-autogen.md"
   ]
 }

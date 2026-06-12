@@ -100,5 +100,6 @@ created: 2026-04-28
 | [[mainframe.app]] | web | standard | 2026-06-11 | |
 | [[santifer-career-ops]] | github | standard | 2026-06-11 | |
 | [[supermemory.ai]] | web | standard | 2026-06-12 | |
+| [[mattpocock-skills]] | github | standard | 2026-06-12 | |
 
-_88 sources ingested._
+_89 sources ingested._
