@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-12 | ingest | supermemory.ai | Memory + context infrastructure for AI agents — 5-layer API, Knowledge Graph, hybrid RAG, MCP server, benchmarks: LongMemEval 85.2% / LoCoMo #1
+
+- Created: wiki/sources/supermemory.ai.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-06-11 | ingest | santifer-career-ops | AI-powered job search system — 15 skill modes, A-F evaluation, ATS PDFs, portal scanner, batch processing, Go dashboard
 
 - Created: wiki/sources/santifer-career-ops.md

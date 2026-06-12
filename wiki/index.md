@@ -99,5 +99,6 @@ created: 2026-04-28
 | [[aaif-goose-goose]] | github | standard | 2026-06-10 | |
 | [[mainframe.app]] | web | standard | 2026-06-11 | |
 | [[santifer-career-ops]] | github | standard | 2026-06-11 | |
+| [[supermemory.ai]] | web | standard | 2026-06-12 | |
 
-_87 sources ingested._
+_88 sources ingested._
