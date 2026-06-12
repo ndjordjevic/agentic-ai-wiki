@@ -17,8 +17,8 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
+- [ ] https://github.com/Q00/ouroboros
 - [ ] https://seangeng.com/freebies/plan-optimizer
-- [ ] https://github.com/shadcn/improve
 - [ ] https://zapier.com/
 - [ ] https://script.it/
 - [ ] https://n8n.io/
@@ -172,3 +172,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/santifer/career-ops <!-- ingested 2026-06-11 -->
 - [x] https://supermemory.ai/ <!-- ingested 2026-06-12 -->
 - [x] https://github.com/mattpocock/skills <!-- ingested 2026-06-12 -->
+- [x] https://github.com/shadcn/improve <!-- ingested 2026-06-12 -->

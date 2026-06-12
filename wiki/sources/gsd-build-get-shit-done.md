@@ -18,6 +18,7 @@ related:
   - langchain.com-langgraph
   - forrestchang-andrej-karpathy-skills
   - coleam00-archon
+  - shadcn-improve
   - gastownhall-beads
   - x.com-ericzakariasson-building-clis-for-agents
   - snarktank-ralph

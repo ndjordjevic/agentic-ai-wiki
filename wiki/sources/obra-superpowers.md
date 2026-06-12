@@ -18,6 +18,7 @@ related:
   - shareai-lab-learn-claude-code
   - forrestchang-andrej-karpathy-skills
   - coleam00-archon
+  - shadcn-improve
   - mattpocock-skills
   - snarktank-ralph
   - bmad-code-org-bmad-method

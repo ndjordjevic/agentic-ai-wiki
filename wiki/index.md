@@ -101,5 +101,6 @@ created: 2026-04-28
 | [[santifer-career-ops]] | github | standard | 2026-06-11 | |
 | [[supermemory.ai]] | web | standard | 2026-06-12 | |
 | [[mattpocock-skills]] | github | standard | 2026-06-12 | |
+| [[shadcn-improve]] | github | standard | 2026-06-12 | |
 
-_89 sources ingested._
+_90 sources ingested._

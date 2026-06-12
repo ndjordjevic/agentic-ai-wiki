@@ -185,6 +185,9 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/sources/everyinc-compound-engineering-plugin.md.tmp.97570.71ec17aadf7d",
+    "wiki/sources/shadcn-improve.md",
+    "raw/github/shadcn-improve.md",
     "wiki/overview.md",
     "wiki/sources/supermemory.ai.md",
     "inbox.md.tmp.97570.69fa3e373645",
@@ -217,8 +220,6 @@
     "wiki/sources/hermes-agent.nousresearch.com.md",
     "raw/web/hermes-agent.nousresearch.com.md",
     "raw/github/NousResearch-hermes-agent.md",
-    "wiki/sources/microsoft-agent-framework.md",
-    "raw/github/microsoft-agent-framework.md",
-    "raw/web/microsoft-autogen.md"
+    "wiki/sources/microsoft-agent-framework.md"
   ]
 }

@@ -16,6 +16,7 @@ related:
   - obra-superpowers
   - gsd-build-get-shit-done
   - forrestchang-andrej-karpathy-skills
+  - shadcn-improve
 product: skills
 detail_level: standard
 created: 2026-06-12
