@@ -16,6 +16,7 @@ related:
   - qa.tech
   - vercel-labs-agent-browser
   - browserbase.com
+  - browser-use.com
 product: playwright-mcp
 detail_level: standard
 created: 2026-05-25

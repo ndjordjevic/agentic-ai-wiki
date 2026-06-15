@@ -62,3 +62,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/mattpocock-skills.md | mattpocock/skills | 126065 | main | none | 2026-06-12 | |
 | raw/github/shadcn-improve.md | shadcn/improve | 1977 | main | none | 2026-06-12 | |
 | raw/github/q00-ouroboros.md | Q00/ouroboros | 4555 | main | v0.41.0 | 2026-06-12 | |
+| raw/github/browser-use-browser-use.md | browser-use/browser-use | 98869 | main | 0.13.2 | 2026-06-15 | companion for browser-use.com |

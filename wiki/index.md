@@ -104,5 +104,6 @@ created: 2026-04-28
 | [[shadcn-improve]] | github | standard | 2026-06-12 | |
 | [[q00-ouroboros]] | github | standard | 2026-06-12 | |
 | [[seangeng.com-plan-optimizer]] | web | standard | 2026-06-12 | |
+| [[browser-use.com]] | web | standard | 2026-06-15 | companion: browser-use/browser-use |
 
-_92 sources ingested._
+_93 sources ingested._

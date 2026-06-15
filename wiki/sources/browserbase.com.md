@@ -19,10 +19,11 @@ related:
   - microsoft-playwright-mcp
   - vercel-labs-agent-browser
   - browse.sh
+  - browser-use.com
 product: browserbase
 detail_level: standard
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-06-15
 ---
 
 Browserbase is the complete cloud platform for building and deploying AI agents that browse and interact with the web like humans. Rather than stitching together multiple vendors for browsers, search, identity, and model access, Browserbase consolidates everything under one API key — with headless browser fleets at the core and Search, Fetch, Agent Identity, Functions, and a Model Gateway orbiting around them. Trusted by 10,000+ companies including Ramp, Vercel, Commure, and Lovable, the platform handles over 36.9M unique browser sessions with 100K+ developers and 800K weekly SDK downloads.

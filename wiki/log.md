@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-15 | ingest | browser-use.com | Browser Use — cloud platform and open-source Python SDK (~99k stars) for LLM-driven web automation with stealth Chromium, residential proxies, CAPTCHA solving, and MCP server
+
+- Created: wiki/sources/browser-use.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/browser-use-browser-use.md
+
 ## 2026-06-12 | ingest | seangeng.com-plan-optimizer | Plan-optimizer Claude Code skill — iterative rubric-scored plan refinement with plateau detection, hill-climbing, and best-of-N search
 
 - Created: wiki/sources/seangeng.com-plan-optimizer.md
