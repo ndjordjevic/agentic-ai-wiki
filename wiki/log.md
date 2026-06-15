@@ -8,6 +8,18 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-15 | ingest | n8n.io | n8n — fair-code visual workflow automation platform with 500+ integrations, native LangChain AI nodes, and self-hosted or cloud deployment
+
+- Created: wiki/sources/n8n.io.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/n8n-io-n8n.md
+
+## 2026-06-15 | ingest | zapier.com | Zapier — no-code AI orchestration platform connecting 9,000+ apps to Zaps, hosted Agents, MCP server, and TypeScript SDK with enterprise governance
+
+- Created: wiki/sources/zapier.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/zapier-sdk.md
+
 ## 2026-06-15 | ingest | hunter.io | Hunter — all-in-one email outreach platform with Domain Search, Email Finder, Email Verifier, B2B Discover, and REST API for contact-discovery automation
 
 - Created: wiki/sources/hunter.io.md

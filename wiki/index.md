@@ -106,5 +106,7 @@ created: 2026-04-28
 | [[seangeng.com-plan-optimizer]] | web | standard | 2026-06-12 | |
 | [[browser-use.com]] | web | standard | 2026-06-15 | companion: browser-use/browser-use |
 | [[hunter.io]] | web | standard | 2026-06-15 | |
+| [[zapier.com]] | web | standard | 2026-06-15 | companion: zapier/sdk |
+| [[n8n.io]] | web | standard | 2026-06-15 | companion: n8n-io/n8n |
 
-_94 sources ingested._
+_96 sources ingested._

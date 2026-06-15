@@ -18,14 +18,16 @@ tags:
 related:
   - huggingface.co
   - litellm.ai
+  - zapier.com
   - crewai.com
   - strandsagents.com
   - factory.ai
   - pydantic.dev
+  - n8n.io
 product: langchain.com
 detail_level: deep
 created: 2026-04-29
-updated: 2026-05-25
+updated: 2026-06-15
 
 ---
 
