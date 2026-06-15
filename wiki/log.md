@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-15 | ingest | script.it | Script.it — AI-powered conversational automation platform that turns plain-English descriptions into inspectable, rerunnable scripts with 600+ integrations and schedule/webhook/event triggers
+
+- Created: wiki/sources/script.it.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-06-15 | ingest | n8n.io | n8n — fair-code visual workflow automation platform with 500+ integrations, native LangChain AI nodes, and self-hosted or cloud deployment
 
 - Created: wiki/sources/n8n.io.md
