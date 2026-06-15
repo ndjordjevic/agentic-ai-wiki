@@ -19,10 +19,11 @@ related:
   - must-have-clis-2026
   - x.com-ericzakariasson-building-clis-for-agents
   - webhook.site
+  - hunter.io
 product: resend
 detail_level: standard
 created: 2026-06-09
-updated: 2026-06-10
+updated: 2026-06-15
 ---
 
 Resend is the email API for developers — a REST service for sending transactional and marketing emails at scale, designed from the ground up for both human developers and AI agents. Its agentic-first design is visible throughout: the official CLI (`resend`) is explicitly built for CI/CD pipelines and agent subprocesses (non-TTY auto-activates JSON output, structured error codes, `--dry-run` support), an official MCP server (`resend/resend-mcp`) wires into Cursor, Claude, and other MCP clients, and five SKILL.md agent skills (Resend API, React Email, Email Best Practices, CLI, Agent Email Inbox) are distributed from `resend/resend-skills` and installable via `npx skills add resend/resend-skills`. Together these make Resend an infrastructure primitive for agent stacks that need to send or receive email programmatically.

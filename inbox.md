@@ -174,3 +174,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/Q00/ouroboros <!-- ingested 2026-06-12 -->
 - [x] https://seangeng.com-plan-optimizer/freebies/plan-optimizer <!-- ingested 2026-06-12 -->
 - [x] https://browser-use.com/ <!-- ingested 2026-06-15 -->
+- [x] https://hunter.io/ <!-- ingested 2026-06-15 -->

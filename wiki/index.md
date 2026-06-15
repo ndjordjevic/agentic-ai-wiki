@@ -105,5 +105,6 @@ created: 2026-04-28
 | [[q00-ouroboros]] | github | standard | 2026-06-12 | |
 | [[seangeng.com-plan-optimizer]] | web | standard | 2026-06-12 | |
 | [[browser-use.com]] | web | standard | 2026-06-15 | companion: browser-use/browser-use |
+| [[hunter.io]] | web | standard | 2026-06-15 | |
 
-_93 sources ingested._
+_94 sources ingested._

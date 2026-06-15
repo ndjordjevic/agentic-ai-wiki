@@ -55,3 +55,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/supermemory.ai.md | supermemory.ai | 5 | 2026-06-12 | |
 | raw/web/seangeng.com-plan-optimizer.md | seangeng.com-plan-optimizer | 4 | 2026-06-12 | |
 | raw/web/browser-use.com.md | browser-use.com | 11 | 2026-06-15 | companion: browser-use/browser-use |
+| raw/web/hunter.io.md | hunter.io | 6 | 2026-06-15 | |
