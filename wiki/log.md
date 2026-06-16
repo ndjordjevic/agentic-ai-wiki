@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-16 | ingest | motionsites.ai | paid library of copy-paste AI design prompts for landing pages, sections, backgrounds, and gradients
+
+- Created: wiki/sources/motionsites.ai.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-06-16 | ingest | max-sixty-worktrunk | Worktrunk — Rust CLI for git worktree management designed for parallel AI agent workflows
 
 - Created: wiki/sources/max-sixty-worktrunk.md

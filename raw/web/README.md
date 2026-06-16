@@ -59,3 +59,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/zapier.com.md | zapier.com | 9 | 2026-06-15 | companion: zapier/sdk |
 | raw/web/n8n.io.md | n8n.io | 6 | 2026-06-15 | companion: n8n-io/n8n |
 | raw/web/script.it.md | script.it | 9 | 2026-06-15 | |
+| raw/web/motionsites.ai.md | motionsites.ai | 6 | 2026-06-16 | |

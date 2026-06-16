@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/github/mattpocock-skills.md",
-                "mode": "preview",
+                "file": "wiki/overview.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mattpocock-skills"
+              "title": "overview"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grill-me",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,6 +185,12 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "raw/github/mattpocock-skills.md",
+    "inbox.md.tmp.49251.2d8a43815ae5",
+    "raw/web/README.md.tmp.49251.8a904b99c96a",
+    "wiki/log.md.tmp.49251.000359acc171",
+    "wiki/sources/motionsites.ai.md",
+    "raw/web/motionsites.ai.md",
     "wiki/overview.md",
     "raw/github/README.md.tmp.49251.52da4fa67aa1",
     "wiki/sources/max-sixty-worktrunk.md",
@@ -204,13 +209,10 @@
     "wiki/sources/strandsagents.com.md.tmp.97134.7bffb109be48",
     "inbox.md.tmp.97134.f4545643a215",
     "wiki/sources/hunter.io.md",
-    "raw/github/README.md.tmp.97134.93e5639c9662",
     "raw/web/zapier.com.md",
     "raw/github/zapier-sdk.md",
     "wiki/sources/browser-use.com.md",
-    "wiki/sources/resend.com.md.tmp.84420.7dd01db48145",
     "raw/web/hunter.io.md",
-    "raw/web/README.md.tmp.84420.f1e68d8cc36e",
     "raw/github/browser-use-browser-use.md",
     "raw/web/browser-use.com.md",
     "wiki/sources/seangeng.com.md",
@@ -218,8 +220,6 @@
     "raw/web/seangeng.com-plan-optimizer.md",
     "wiki/sources/q00-ouroboros.md",
     "raw/web/seangeng.com.md",
-    "wiki/sources/shadcn-improve.md",
-    "raw/github/q00-ouroboros.md",
-    "wiki/sources/mattpocock-skills.md"
+    "wiki/sources/shadcn-improve.md"
   ]
 }
