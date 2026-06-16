@@ -11,6 +11,7 @@ tags:
   - plan-mode
   - scaffold-commands
 related:
+  - coleam00-harness-engineering-demo
   - bmad-code-org-bmad-method
   - github-spec-kit
   - gsd-build-get-shit-done
@@ -22,7 +23,7 @@ related:
 product: agent-os
 detail_level: standard
 created: 2026-05-25
-updated: 2026-06-12
+updated: 2026-06-16
 ---
 
 Agent OS is an open-source framework (4,635 stars, MIT) by Brian Casel / Builder Methods that solves the context-injection problem in AI-assisted development: agents lack knowledge of a project's own conventions, so they drift from team standards. Agent OS addresses this with two interlocking mechanisms — a standards library the team maintains in markdown, and a set of slash commands (`/discover-standards`, `/inject-standards`, `/index-standards`, `/shape-spec`, `/plan-product`) that extract conventions from the codebase, keep them indexed, and inject only the relevant subset into each agent conversation. Version 3.0 (January 2026) streamlined the architecture by removing its own orchestration phases and deferring to Plan Mode in Claude Code or Cursor, repositioning Agent OS as a pure standards-and-spec layer rather than a full dev-cycle harness.

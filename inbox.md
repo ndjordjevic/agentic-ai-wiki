@@ -178,3 +178,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/max-sixty/worktrunk <!-- ingested 2026-06-16 -->
 - [x] https://motionsites.ai/ <!-- ingested 2026-06-16 -->
 - [x] https://github.com/omnigent-ai/omnigent <!-- ingested 2026-06-16 -->
+- [x] https://github.com/coleam00/harness-engineering-demo <!-- ingested 2026-06-16 -->

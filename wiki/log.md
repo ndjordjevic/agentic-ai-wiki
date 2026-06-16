@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-16 | ingest | coleam00-harness-engineering-demo | Claude Code primitives-only harness demo (PIV loop, hooks, Ralph, AST codebase-search MCP)
+
+- Created: wiki/sources/coleam00-harness-engineering-demo.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-06-16 | ingest | omnigent-ai-omnigent | open-source meta-harness over Claude Code, Codex, Cursor, and Pi with policy/sandboxing and cross-device session sharing
 
 - Created: wiki/sources/omnigent-ai-omnigent.md

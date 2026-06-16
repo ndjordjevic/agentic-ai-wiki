@@ -11,6 +11,7 @@ tags:
   - multi-platform-adapter
   - ai-coding-agent
 related:
+  - coleam00-harness-engineering-demo
   - obra-superpowers
   - njbrake-agent-of-empires
   - gsd-build-get-shit-done
@@ -22,7 +23,7 @@ related:
 product: archon
 detail_level: standard
 created: 2026-05-14
-updated: 2026-05-25
+updated: 2026-06-16
 ---
 
 Archon (21,422 ★, MIT, TypeScript) is the first open-source harness builder for AI coding — a YAML workflow engine that makes AI-assisted development deterministic and repeatable. Where tools like Claude Code or Codex provide the intelligence, Archon provides the structure: a DAG-based execution model in which development phases (plan, implement, validate, review, approve, PR) are defined as YAML nodes, run in isolated git worktrees, and driven by a central orchestrator that routes messages from any of five platform adapters (CLI, Web UI, Slack, Telegram, GitHub/Discord). The result is "fire and forget" AI coding: you trigger a workflow, Archon handles sequencing, isolation, human-in-the-loop approval gates, and PR creation — you come back to a finished pull request.

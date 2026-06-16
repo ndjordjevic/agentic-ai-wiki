@@ -11,6 +11,7 @@ tags:
   - fresh-context-spawning
   - agent-skills
 related:
+  - coleam00-harness-engineering-demo
   - gsd-build-get-shit-done
   - obra-superpowers
   - coleam00-archon
@@ -22,7 +23,7 @@ related:
 product: ralph
 detail_level: standard
 created: 2026-05-20
-updated: 2026-06-12
+updated: 2026-06-16
 ---
 
 Ralph is an open-source autonomous AI agent loop (19,297 stars, MIT, TypeScript) that runs AI coding tools — Amp or Claude Code — repeatedly against a `prd.json` task list until all stories have `passes: true`. Each iteration spawns a fresh agent instance with a clean context window; cross-iteration memory lives only in git history, an append-only `progress.txt`, and the `prd.json` status flags. Based on Geoffrey Huntley's Ralph pattern, it was authored by Ryan Carson and is available both as a direct file copy and as a Claude Code marketplace plugin.
