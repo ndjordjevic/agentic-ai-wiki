@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-16 | ingest | max-sixty-worktrunk | Worktrunk — Rust CLI for git worktree management designed for parallel AI agent workflows
+
+- Created: wiki/sources/max-sixty-worktrunk.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-06-15 | ingest | script.it | Script.it — AI-powered conversational automation platform that turns plain-English descriptions into inspectable, rerunnable scripts with 600+ integrations and schedule/webhook/event triggers
 
 - Created: wiki/sources/script.it.md

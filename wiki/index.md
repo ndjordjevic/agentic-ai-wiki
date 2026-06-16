@@ -109,5 +109,6 @@ created: 2026-04-28
 | [[zapier.com]] | web | standard | 2026-06-15 | companion: zapier/sdk |
 | [[n8n.io]] | web | standard | 2026-06-15 | companion: n8n-io/n8n |
 | [[script.it]] | web | standard | 2026-06-15 | |
+| [[max-sixty-worktrunk]] | github | standard | 2026-06-16 | |
 
-_97 sources ingested._
+_98 sources ingested._

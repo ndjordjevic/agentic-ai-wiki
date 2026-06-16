@@ -65,3 +65,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/browser-use-browser-use.md | browser-use/browser-use | 98869 | main | 0.13.2 | 2026-06-15 | companion for browser-use.com |
 | raw/github/zapier-sdk.md | zapier/sdk | 234 | main | none | 2026-06-15 | companion for zapier.com |
 | raw/github/n8n-io-n8n.md | n8n-io/n8n | 192570 | master | beta (pre-release) | 2026-06-15 | companion for n8n.io |
+| raw/github/max-sixty-worktrunk.md | max-sixty/worktrunk | 5470 | main | v0.58.0 | 2026-06-16 | |

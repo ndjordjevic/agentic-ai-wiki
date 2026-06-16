@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/index.md",
+                "file": "raw/github/mattpocock-skills.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "mattpocock-skills"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "grill-me",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,10 +186,15 @@
   },
   "active": "1915ef4dcd545752",
   "lastOpenFiles": [
+    "wiki/overview.md",
+    "raw/github/README.md.tmp.49251.52da4fa67aa1",
+    "wiki/sources/max-sixty-worktrunk.md",
+    "raw/github/max-sixty-worktrunk.md",
+    "wiki/sources/script.it.md",
+    "wiki/index.md",
     "wiki/sources/n8n.io.md.tmp.97134.06ce66b3c901",
     "wiki/overview.md.tmp.97134.f2047530f9c5",
     "wiki/index.md.tmp.97134.1776769bddb5",
-    "wiki/sources/script.it.md",
     "raw/web/script.it.md",
     "wiki/sources/zapier.com.md",
     "wiki/sources/langchain.com.md.tmp.97134.c66fac6c4138",
@@ -197,7 +203,6 @@
     "raw/github/n8n-io-n8n.md",
     "wiki/sources/strandsagents.com.md.tmp.97134.7bffb109be48",
     "inbox.md.tmp.97134.f4545643a215",
-    "wiki/index.md",
     "wiki/sources/hunter.io.md",
     "raw/github/README.md.tmp.97134.93e5639c9662",
     "raw/web/zapier.com.md",
@@ -206,8 +211,6 @@
     "wiki/sources/resend.com.md.tmp.84420.7dd01db48145",
     "raw/web/hunter.io.md",
     "raw/web/README.md.tmp.84420.f1e68d8cc36e",
-    "wiki/index.md.tmp.84420.82ac6e3d174b",
-    "wiki/sources/microsoft-playwright-mcp.md.tmp.84420.93bcc217eabe",
     "raw/github/browser-use-browser-use.md",
     "raw/web/browser-use.com.md",
     "wiki/sources/seangeng.com.md",
@@ -215,11 +218,8 @@
     "raw/web/seangeng.com-plan-optimizer.md",
     "wiki/sources/q00-ouroboros.md",
     "raw/web/seangeng.com.md",
-    "wiki/overview.md",
     "wiki/sources/shadcn-improve.md",
     "raw/github/q00-ouroboros.md",
-    "wiki/sources/mattpocock-skills.md",
-    "raw/github/shadcn-improve.md",
-    "wiki/sources/supermemory.ai.md"
+    "wiki/sources/mattpocock-skills.md"
   ]
 }
