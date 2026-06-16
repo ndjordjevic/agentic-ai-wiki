@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-16 | ingest | omnigent-ai-omnigent | open-source meta-harness over Claude Code, Codex, Cursor, and Pi with policy/sandboxing and cross-device session sharing
+
+- Created: wiki/sources/omnigent-ai-omnigent.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-06-16 | ingest | motionsites.ai | paid library of copy-paste AI design prompts for landing pages, sections, backgrounds, and gradients
 
 - Created: wiki/sources/motionsites.ai.md

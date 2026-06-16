@@ -111,5 +111,6 @@ created: 2026-04-28
 | [[script.it]] | web | standard | 2026-06-15 | |
 | [[max-sixty-worktrunk]] | github | standard | 2026-06-16 | |
 | [[motionsites.ai]] | web | standard | 2026-06-16 | |
+| [[omnigent-ai-omnigent]] | github | standard | 2026-06-16 | |
 
-_99 sources ingested._
+_100 sources ingested._
