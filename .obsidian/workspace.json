@@ -185,6 +185,10 @@
   },
   "active": "99e21e24a9e68b8d",
   "lastOpenFiles": [
+    "raw/web/README.md.tmp.32445.28525b655446",
+    "wiki/index.md.tmp.32445.53696355d657",
+    "wiki/sources/joinoasis.com.md",
+    "raw/web/joinoasis.com.md",
     "inbox.md.tmp.32445.1331829d9652",
     "wiki/index.md.tmp.32445.5a9333d9221c",
     "wiki/sources/obra-superpowers.md.tmp.32445.a3c12fa47ed0",
@@ -205,12 +209,10 @@
     "wiki/log.md.tmp.49251.000359acc171",
     "wiki/sources/motionsites.ai.md",
     "raw/web/motionsites.ai.md",
-    "raw/github/README.md.tmp.49251.52da4fa67aa1",
     "wiki/sources/max-sixty-worktrunk.md",
     "raw/github/max-sixty-worktrunk.md",
     "wiki/sources/script.it.md",
     "wiki/index.md",
-    "wiki/sources/n8n.io.md.tmp.97134.06ce66b3c901",
     "raw/web/script.it.md",
     "wiki/sources/zapier.com.md",
     "wiki/sources/n8n.io.md",
@@ -218,8 +220,6 @@
     "raw/github/n8n-io-n8n.md",
     "wiki/sources/hunter.io.md",
     "raw/web/zapier.com.md",
-    "raw/github/zapier-sdk.md",
-    "wiki/sources/browser-use.com.md",
-    "raw/web/hunter.io.md"
+    "raw/github/zapier-sdk.md"
   ]
 }

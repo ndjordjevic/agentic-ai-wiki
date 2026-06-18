@@ -17,7 +17,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
-- [ ] https://www.teamoffsite.ai/
 - [ ] https://github.com/mksglu/context-mode
 - [ ] https://tolaria.md/
 - [ ] https://www.agentixlabs.com/
@@ -180,3 +179,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/omnigent-ai/omnigent <!-- ingested 2026-06-16 -->
 - [x] https://github.com/coleam00/harness-engineering-demo <!-- ingested 2026-06-16 -->
 - [x] https://github.com/frankbria/ralph-claude-code <!-- ingested 2026-06-18 -->
+- [x] https://www.teamoffsite.ai/ <!-- ingested 2026-06-18 -->

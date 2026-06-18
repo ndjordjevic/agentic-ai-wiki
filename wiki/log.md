@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-18 | ingest | joinoasis.com | No-code AI agent team workspace with approval gates, MCP integration, and Slack/iMessage hand-off (Mercury Intelligence Inc.)
+
+- Created: wiki/sources/joinoasis.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-06-18 | ingest | frankbria-ralph-claude-code | Autonomous development loop for Claude Code with dual-condition exit gate, circuit breaker, sandbox execution, and 784 BATS tests
 
 - Created: wiki/sources/frankbria-ralph-claude-code.md
