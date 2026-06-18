@@ -185,6 +185,9 @@
   },
   "active": "99e21e24a9e68b8d",
   "lastOpenFiles": [
+    "wiki/index.md.tmp.32445.61b69cad101c",
+    "wiki/sources/pipedrive.com.md",
+    "raw/web/pipedrive.com.md",
     "raw/web/README.md.tmp.32445.28525b655446",
     "wiki/index.md.tmp.32445.53696355d657",
     "wiki/sources/joinoasis.com.md",
@@ -206,7 +209,6 @@
     "raw/github/mattpocock-skills.md",
     "inbox.md.tmp.49251.2d8a43815ae5",
     "raw/web/README.md.tmp.49251.8a904b99c96a",
-    "wiki/log.md.tmp.49251.000359acc171",
     "wiki/sources/motionsites.ai.md",
     "raw/web/motionsites.ai.md",
     "wiki/sources/max-sixty-worktrunk.md",
@@ -218,8 +220,6 @@
     "wiki/sources/n8n.io.md",
     "raw/web/n8n.io.md",
     "raw/github/n8n-io-n8n.md",
-    "wiki/sources/hunter.io.md",
-    "raw/web/zapier.com.md",
-    "raw/github/zapier-sdk.md"
+    "wiki/sources/hunter.io.md"
   ]
 }

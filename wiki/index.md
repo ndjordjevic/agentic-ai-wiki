@@ -115,5 +115,6 @@ created: 2026-04-28
 | [[coleam00-harness-engineering-demo]] | github | standard | 2026-06-16 | |
 | [[frankbria-ralph-claude-code]] | github | standard | 2026-06-18 | |
 | [[joinoasis.com]] | web | standard | 2026-06-18 | |
+| [[pipedrive.com]] | web | standard | 2026-06-18 | |
 
-_103 sources ingested._
+_104 sources ingested._

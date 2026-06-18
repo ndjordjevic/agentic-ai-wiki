@@ -12,10 +12,11 @@ tags:
   - lead-generation
 related:
   - resend.com
+  - pipedrive.com
 product: hunter
 detail_level: standard
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-06-18
 ---
 
 Hunter is an all-in-one email outreach platform that lets individuals and teams find verified professional email addresses, validate them, and run personalized cold email sequences — serving over 7 million users across sales, marketing, and recruiting workflows.

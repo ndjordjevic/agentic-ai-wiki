@@ -21,10 +21,11 @@ related:
   - script.it
   - strandsagents.com
   - n8n.io
+  - pipedrive.com
 product: zapier
 detail_level: standard
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-06-18
 ---
 
 Zapier is a no-code AI orchestration platform and governance layer that connects 9,000+ applications to AI agents, workflows, and developer tools. It sits between AI models (Claude, ChatGPT, Gemini, Cursor) and enterprise app stacks, providing credential management, action-level controls, audit trails, and workflow logic that persist regardless of which AI surface a team uses. Alongside the no-code Zaps and hosted Agents products, Zapier exposes a TypeScript SDK (`@zapier/zapier-sdk`) for coding agents and a Model Context Protocol server for MCP-aware clients — making it both a citizen-automation tool and a programmable integration backbone for agentic AI systems.
