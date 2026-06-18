@@ -183,8 +183,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "1915ef4dcd545752",
+  "active": "99e21e24a9e68b8d",
   "lastOpenFiles": [
+    "inbox.md.tmp.32445.1331829d9652",
+    "wiki/index.md.tmp.32445.5a9333d9221c",
+    "wiki/sources/obra-superpowers.md.tmp.32445.a3c12fa47ed0",
+    "wiki/sources/frankbria-ralph-claude-code.md",
+    "raw/github/frankbria-ralph-claude-code.md",
+    "raw/web/hostinger.com.md",
+    "wiki/overview.md",
     "wiki/index.md.tmp.49251.4c618b4b861f",
     "wiki/sources/coleam00-harness-engineering-demo.md",
     "raw/github/coleam00-harness-engineering-demo.md",
@@ -198,18 +205,14 @@
     "wiki/log.md.tmp.49251.000359acc171",
     "wiki/sources/motionsites.ai.md",
     "raw/web/motionsites.ai.md",
-    "wiki/overview.md",
     "raw/github/README.md.tmp.49251.52da4fa67aa1",
     "wiki/sources/max-sixty-worktrunk.md",
     "raw/github/max-sixty-worktrunk.md",
     "wiki/sources/script.it.md",
     "wiki/index.md",
     "wiki/sources/n8n.io.md.tmp.97134.06ce66b3c901",
-    "wiki/overview.md.tmp.97134.f2047530f9c5",
-    "wiki/index.md.tmp.97134.1776769bddb5",
     "raw/web/script.it.md",
     "wiki/sources/zapier.com.md",
-    "wiki/sources/langchain.com.md.tmp.97134.c66fac6c4138",
     "wiki/sources/n8n.io.md",
     "raw/web/n8n.io.md",
     "raw/github/n8n-io-n8n.md",
@@ -217,9 +220,6 @@
     "raw/web/zapier.com.md",
     "raw/github/zapier-sdk.md",
     "wiki/sources/browser-use.com.md",
-    "raw/web/hunter.io.md",
-    "raw/github/browser-use-browser-use.md",
-    "raw/web/browser-use.com.md",
-    "wiki/sources/seangeng.com.md"
+    "raw/web/hunter.io.md"
   ]
 }

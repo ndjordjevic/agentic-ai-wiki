@@ -68,3 +68,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/max-sixty-worktrunk.md | max-sixty/worktrunk | 5470 | main | v0.58.0 | 2026-06-16 | |
 | raw/github/omnigent-ai-omnigent.md | omnigent-ai/omnigent | 2073 | main | none | 2026-06-16 | |
 | raw/github/coleam00-harness-engineering-demo.md | coleam00/harness-engineering-demo | 62 | main | none | 2026-06-16 | |
+| raw/github/frankbria-ralph-claude-code.md | frankbria/ralph-claude-code | 9380 | main | none | 2026-06-18 | |
