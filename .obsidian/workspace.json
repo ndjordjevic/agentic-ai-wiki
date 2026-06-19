@@ -185,6 +185,9 @@
   },
   "active": "99e21e24a9e68b8d",
   "lastOpenFiles": [
+    "LICENSE",
+    "wiki/sources/garrytan-gbrain.md",
+    "raw/github/garrytan-gbrain.md",
     "wiki/index.md.tmp.32445.61b69cad101c",
     "wiki/sources/pipedrive.com.md",
     "raw/web/pipedrive.com.md",
@@ -208,7 +211,6 @@
     "raw/github/omnigent-ai-omnigent.md",
     "raw/github/mattpocock-skills.md",
     "inbox.md.tmp.49251.2d8a43815ae5",
-    "raw/web/README.md.tmp.49251.8a904b99c96a",
     "wiki/sources/motionsites.ai.md",
     "raw/web/motionsites.ai.md",
     "wiki/sources/max-sixty-worktrunk.md",
@@ -218,8 +220,6 @@
     "raw/web/script.it.md",
     "wiki/sources/zapier.com.md",
     "wiki/sources/n8n.io.md",
-    "raw/web/n8n.io.md",
-    "raw/github/n8n-io-n8n.md",
-    "wiki/sources/hunter.io.md"
+    "raw/web/n8n.io.md"
   ]
 }

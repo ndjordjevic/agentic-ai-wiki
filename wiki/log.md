@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-18 | ingest | garrytan-gbrain | Production knowledge-graph and hybrid-retrieval brain layer for AI agents — GBrain by Garry Tan (YC), backing OpenClaw and Hermes deployments at 146K pages
+
+- Created: wiki/sources/garrytan-gbrain.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-06-18 | ingest | pipedrive.com | Sales CRM and pipeline management platform with AI Sales Assistant, email marketing, REST API, and 500+ Marketplace integrations
 
 - Created: wiki/sources/pipedrive.com.md

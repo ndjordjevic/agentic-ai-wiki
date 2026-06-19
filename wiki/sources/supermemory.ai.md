@@ -2,11 +2,11 @@
 type: source
 source_url: https://supermemory.ai/
 tags: [memory-layer, context-engineering, knowledge-graph, rag, mcp-server, ai-agents, typescript-sdk, python-sdk]
-related: [reseek.net, runcabinet.com]
+related: [reseek.net, runcabinet.com, garrytan-gbrain]
 product: supermemory
 detail_level: standard
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-06-18
 ---
 
 Supermemory is a research and product lab building the memory and context infrastructure layer for AI agents — a five-component API (User Profiles, Memory Graph, Retrieval, Extractors, Connectors) that gives agents persistent, queryable knowledge about users and their world. It holds state-of-the-art benchmark positions on LongMemEval (85.2%), LoCoMo (#1), and ConvoMem (#1), and ships in three surfaces: an enterprise developer API, a personal consumer app (10,000+ power users), and an MCP server compatible with Claude, Cursor, ChatGPT, and 15+ MCP clients. Integrations cover Vercel AI SDK, LangChain, LangGraph, CrewAI, OpenAI SDK, Mastra, Zapier, and n8n.

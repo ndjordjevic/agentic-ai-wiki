@@ -116,5 +116,6 @@ created: 2026-04-28
 | [[frankbria-ralph-claude-code]] | github | standard | 2026-06-18 | |
 | [[joinoasis.com]] | web | standard | 2026-06-18 | |
 | [[pipedrive.com]] | web | standard | 2026-06-18 | |
+| [[garrytan-gbrain]] | github | standard | 2026-06-18 | |
 
-_104 sources ingested._
+_105 sources ingested._

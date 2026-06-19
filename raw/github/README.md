@@ -69,3 +69,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/omnigent-ai-omnigent.md | omnigent-ai/omnigent | 2073 | main | none | 2026-06-16 | |
 | raw/github/coleam00-harness-engineering-demo.md | coleam00/harness-engineering-demo | 62 | main | none | 2026-06-16 | |
 | raw/github/frankbria-ralph-claude-code.md | frankbria/ralph-claude-code | 9380 | main | none | 2026-06-18 | |
+| raw/github/garrytan-gbrain.md | garrytan/gbrain | 23293 | master | none | 2026-06-18 | |
