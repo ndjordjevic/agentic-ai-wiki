@@ -27,6 +27,7 @@ related:
   - obra-superpowers
   - github-spec-kit
   - browse.sh
+  - tomevault.io
   - openvibe.sh
   - vercel-labs-agent-browser
   - garrytan-gstack
@@ -36,7 +37,7 @@ related:
 product: skills
 detail_level: standard
 created: 2026-04-30
-updated: 2026-06-12
+updated: 2026-06-19
 ---
 
 skills.sh is the open agent skills directory and ecosystem, built by Vercel, that lets developers discover, install, and publish reusable capability modules — called "skills" — for AI coding agents. It pairs a public leaderboard at skills.sh with an open-source CLI (`npx skills`) backed by the `vercel-labs/skills` repo, together forming the de-facto distribution layer for SKILL.md-based agent instructions across 50+ supported agents including Claude Code, GitHub Copilot, Cursor, Codex, OpenCode, and Windsurf.

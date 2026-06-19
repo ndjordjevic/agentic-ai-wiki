@@ -10,3 +10,4 @@ raw/github/*-clone/
 # Editors
 .vscode/
 .idea/
+.obsidian/
