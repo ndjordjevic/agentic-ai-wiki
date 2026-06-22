@@ -63,3 +63,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/joinoasis.com.md | joinoasis.com | 6 | 2026-06-18 | |
 | raw/web/pipedrive.com.md | pipedrive.com | 6 | 2026-06-18 | |
 | raw/web/tomevault.io.md | tomevault.io | 6 | 2026-06-19 | |
+| raw/web/pumadb.ai.md | pumadb.ai | 6 | 2026-06-22 | |
