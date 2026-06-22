@@ -184,3 +184,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/garrytan/gbrain <!-- ingested 2026-06-18 -->
 - [x] https://tomevault.io/ <!-- ingested 2026-06-19 -->
 - [x] https://pumadb.ai/ <!-- ingested 2026-06-22 -->
+- [x] https://github.com/bytedance/deer-flow <!-- ingested 2026-06-22 -->

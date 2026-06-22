@@ -119,5 +119,6 @@ created: 2026-04-28
 | [[garrytan-gbrain]] | github | standard | 2026-06-18 | |
 | [[tomevault.io]] | web | standard | 2026-06-19 | |
 | [[pumadb.ai]] | web | standard | 2026-06-22 | |
+| [[bytedance-deer-flow]] | github | standard | 2026-06-22 | |
 
-_107 sources ingested._
+_108 sources ingested._

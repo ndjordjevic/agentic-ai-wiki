@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-22 | ingest | bytedance-deer-flow | open-source long-horizon SuperAgent harness for research, coding, and creation
+
+- Created: wiki/sources/bytedance-deer-flow.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-06-22 | ingest | pumadb.ai | Hosted agent memory API with REST, MCP, and durable JSON tables
 
 - Created: wiki/sources/pumadb.ai.md
