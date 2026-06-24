@@ -16,6 +16,7 @@ related:
   - qa.tech
   - garrytan-gstack
   - openrouter.ai
+  - greptile.com
 product: pr-af
 detail_level: standard
 created: 2026-06-06

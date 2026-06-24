@@ -19,6 +19,7 @@ related:
   - openai-codex-plugin-cc
   - vibekanban.com
   - cognition.ai
+  - greptile.com
 product: factory
 detail_level: standard
 created: 2026-05-25

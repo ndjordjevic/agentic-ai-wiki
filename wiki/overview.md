@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-06-22
+updated: 2026-06-24
 ---
 
 
@@ -221,3 +221,5 @@ updated: 2026-06-22
 [[pumadb.ai]] documents pumaDB, a hosted agent memory API that gives agents durable JSON tables, a Streamable HTTP MCP server, and REST endpoints for trusted server-side apps. The source covers lightweight state for notes, preferences, task data, and research clippings, plus the recovery trail, key provisioning, and MCP setup path for Codex, Claude, and other agent clients.
 
 [[bytedance-deer-flow]] adds a full-stack, production-oriented agent harness to the wiki. It combines a LangGraph-based backend, sandboxed execution, persistent memory, sub-agent delegation, skills, MCP tooling, and a Next.js frontend behind a single Nginx entrypoint, making it a strong reference point for long-running multi-step agent systems that ship as an integrated product rather than as a library alone.
+
+[[greptile.com]] represents the "central validation layer" role in AI-assisted development workflows: an automated AI code review agent that integrates with GitHub and GitLab as an app/webhook, builds a graph of the entire repository (functions, classes, imports, dependencies), and posts high-signal PR findings — logic errors, security issues, architectural inconsistencies — within ~3 minutes of a PR opening. Unlike linters or static analysis tools, Greptile reasons across the whole codebase to surface cross-file ripple effects and inconsistencies invisible to diff-only tools. Its learning system adapts per-team over weeks via thumbs-up/thumbs-down reactions and developer replies, suppressing noise while preserving critical findings. A "Fix with your Agent" button dispatches every comment with full context to Claude Code, Codex, Cursor, or Devin for one-click remediation. Self-hosting is available via Docker Compose or Kubernetes with customer-managed LLMs (OpenAI, Anthropic, Bedrock, Azure, Vertex), though it requires a commercial license. An MCP server exposes PR feedback and coding standards directly to IDE agents. It pairs naturally with [[qa.tech]] (AI E2E testing from the same PR), [[agent-field-pr-af]] (multi-agent adversarial PR review), and [[traycer.ai]] (spec-driven planning before the PR is even opened).

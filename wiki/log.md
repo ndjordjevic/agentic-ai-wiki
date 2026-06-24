@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-24 | ingest | greptile.com | AI code review agent for GitHub/GitLab with whole-repo graph context and self-hosting
+
+- Created: wiki/sources/greptile.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-06-22 | ingest | bytedance-deer-flow | open-source long-horizon SuperAgent harness for research, coding, and creation
 
 - Created: wiki/sources/bytedance-deer-flow.md

@@ -15,10 +15,11 @@ related:
   - github-spec-kit
   - factory.ai
   - vibekanban.com
+  - greptile.com
 product: traycer
 detail_level: standard
 created: 2026-05-19
-updated: 2026-05-25
+updated: 2026-06-24
 ---
 
 Traycer is a Spec-Driven Development (SDD) planning and orchestration layer that sits above AI coding agents (Cursor, Claude Code, Windsurf, Codex, Gemini CLI, and others). It converts high-level developer intent into structured specs and actionable tickets, hands those off to the coding agent of your choice, and then verifies that the generated code actually matches the original plan — closing the drift loop that causes AI-produced code to diverge from intent. Trusted by 100K+ users, Traycer is available as a VS Code, Cursor, and Windsurf extension.

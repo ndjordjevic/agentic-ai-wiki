@@ -14,10 +14,11 @@ related:
   - agent-field-pr-af
   - microsoft-playwright-mcp
   - vercel-labs-agent-browser
+  - greptile.com
 product: qa
 detail_level: standard
 created: 2026-05-25
-updated: 2026-06-06
+updated: 2026-06-24
 ---
 
 QA.tech is an AI-powered end-to-end testing platform that runs autonomous agents throughout the software delivery lifecycle — from automated PR reviews against preview deployments to scheduled production monitoring. Rather than scripting selectors or maintaining brittle automation suites, teams describe test goals in plain English and agents execute, adapt, and generate tests continuously. The platform bills itself as a "validation layer" that replaces manual QA bottlenecks; one customer (Upsales, ~150 employees) reported replacing 320 hours of monthly manual testing.
