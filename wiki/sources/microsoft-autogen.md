@@ -19,10 +19,11 @@ related:
   - crewai.com
   - strandsagents.com
   - langchain.com-langgraph
+  - agentixlabs.com
 product: autogen
 detail_level: standard
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-06-29
 ---
 
 AutoGen is Microsoft Research's open-source framework for building multi-agent AI applications that can act autonomously or work alongside humans. It provides a layered architecture spanning event-driven distributed runtimes (Core), a high-level conversational agent API (AgentChat), a no-code visual builder (Studio), and a growing library of extensions for MCP, OpenAI, Azure, Docker, and gRPC. As of 2026, AutoGen is in maintenance mode — Microsoft recommends new projects start with [Microsoft Agent Framework](https://github.com/microsoft/agent-framework), the enterprise-grade successor — but AutoGen 0.4.x remains widely used and fully functional for existing deployments and research.

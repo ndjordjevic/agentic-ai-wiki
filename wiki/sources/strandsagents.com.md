@@ -7,11 +7,11 @@ raw_files:
   - ../../raw/web/strandsagents.com.md
   - ../../raw/github/strands-agents-sdk-python.md
 tags: [agent-sdk, agent-loop, tool-calling, multi-agent, model-agnostic, hooks, mcp, amazon-bedrock]
-related: [langchain.com, litellm.ai, crewai.com, pydantic.dev, factory.ai, microsoft-playwright-mcp, pi.dev, microsoft-autogen, microsoft-agent-framework, aaif-goose-goose, zapier.com, joinoasis.com]
+related: [langchain.com, litellm.ai, crewai.com, pydantic.dev, factory.ai, microsoft-playwright-mcp, pi.dev, microsoft-autogen, microsoft-agent-framework, aaif-goose-goose, zapier.com, joinoasis.com, agentixlabs.com]
 product: strandsagents
 detail_level: standard
 created: 2026-05-21
-updated: 2026-06-18
+updated: 2026-06-29
 ---
 
 Strands Agents is an open-source, model-driven agent harness SDK built by AWS that lets developers build and run AI agents in a few lines of code. It provides a complete agentic loop — reasoning, tool execution, conversation management, streaming, hooks, and multi-agent orchestration — for both Python and TypeScript. It defaults to Amazon Bedrock but is fully model-agnostic, supporting Anthropic, OpenAI, Google Gemini, Ollama, LiteLLM, and 10+ other providers through a common interface.

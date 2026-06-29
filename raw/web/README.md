@@ -66,3 +66,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/pumadb.ai.md | pumadb.ai | 6 | 2026-06-22 | |
 | raw/web/greptile.com.md | greptile.com | 9 | 2026-06-24 | |
 | raw/web/tolaria.md.md | tolaria.md | 7 | 2026-06-29 | |
+| raw/web/agentixlabs.com.md | agentixlabs.com | 5 | 2026-06-29 | |

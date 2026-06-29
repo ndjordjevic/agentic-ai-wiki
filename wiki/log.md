@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-29 | ingest | agentixlabs.com | Claude Preferred Partner AI implementation studio for enterprise agent deployment
+
+- Created: wiki/sources/agentixlabs.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-06-29 | ingest | tolaria.md | local-first Markdown knowledge base with Git, AI agents, and MCP server integration
 
 - Created: wiki/sources/tolaria.md.md
