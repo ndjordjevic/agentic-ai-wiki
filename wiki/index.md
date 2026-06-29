@@ -122,5 +122,6 @@ created: 2026-04-28
 | [[bytedance-deer-flow]] | github | standard | 2026-06-22 | |
 | [[greptile.com]] | web | standard | 2026-06-24 | |
 | [[mksglu-context-mode]] | github | standard | 2026-06-29 | |
+| [[tolaria.md]] | web | standard | 2026-06-29 | companion: refactoringhq/tolaria |
 
-_110 sources ingested._
+_111 sources ingested._

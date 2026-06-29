@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-29 | ingest | tolaria.md | local-first Markdown knowledge base with Git, AI agents, and MCP server integration
+
+- Created: wiki/sources/tolaria.md.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/refactoringhq-tolaria.md
+
 ## 2026-06-29 | ingest | mksglu-context-mode | MCP server + hooks for context window optimization across 17 AI coding agent platforms
 
 - Created: wiki/sources/mksglu-context-mode.md
