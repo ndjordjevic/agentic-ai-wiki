@@ -13,10 +13,11 @@ tags:
 related:
   - coleam00-harness-engineering-demo
   - sequentialthinking-mcp
+  - mksglu-context-mode
 product: claude-context
 detail_level: standard
 created: 2026-05-19
-updated: 2026-06-16
+updated: 2026-06-29
 ---
 
 Claude Context is an MCP plugin for AI coding agents (11,432 stars, MIT, TypeScript) that adds semantic code search over an entire codebase by indexing it into a Milvus/Zilliz Cloud vector database and exposing four MCP tools — `index_codebase`, `search_code`, `get_indexing_status`, and `clear_index` — that Claude Code and other AI assistants call to retrieve semantically relevant code without loading entire directories into the context window. It is published on npm as `@zilliz/claude-context-mcp` and can be added to Claude Code in a single `claude mcp add` command, making it a drop-in context-precision upgrade for large codebases.

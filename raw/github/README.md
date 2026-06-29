@@ -71,3 +71,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/frankbria-ralph-claude-code.md | frankbria/ralph-claude-code | 9380 | main | none | 2026-06-18 | |
 | raw/github/garrytan-gbrain.md | garrytan/gbrain | 23293 | master | none | 2026-06-18 | |
 | raw/github/bytedance-deer-flow.md | bytedance/deer-flow | 73041 | main | none | 2026-06-22 | |
+| raw/github/mksglu-context-mode.md | mksglu/context-mode | 18301 | main | v1.0.168 | 2026-06-29 | |

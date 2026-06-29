@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-29 | ingest | mksglu-context-mode | MCP server + hooks for context window optimization across 17 AI coding agent platforms
+
+- Created: wiki/sources/mksglu-context-mode.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-06-24 | ingest | greptile.com | AI code review agent for GitHub/GitLab with whole-repo graph context and self-hosting
 
 - Created: wiki/sources/greptile.com.md
