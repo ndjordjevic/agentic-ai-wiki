@@ -15,6 +15,8 @@ related:
   - skills.sh
   - resend.com
   - x.com-ericzakariasson-building-clis-for-agents
+  - google.github.io
+  - antigravity.google
 product: must-have-clis-2026
 detail_level: standard
 created: 2026-05-30

@@ -75,3 +75,6 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/refactoringhq-tolaria.md | refactoringhq/tolaria | 17215 | main | alpha-v2026.6.29-alpha.0003 | 2026-06-29 | |
 | raw/github/usestrix-strix.md | usestrix/strix | 27387 | main | v1.0.4 | 2026-06-30 | |
 | raw/github/coleam00-agent-control-plane.md | coleam00/agent-control-plane | 25 | main | none | 2026-06-30 | |
+| raw/github/google-agents-cli.md | google/agents-cli | 3697 | main | v0.6.1 | 2026-06-30 | |
+| raw/github/google-antigravity-antigravity-sdk-python.md | google-antigravity/antigravity-sdk-python | 2118 | main | v0.1.4 (PyPI) | 2026-06-30 | |
+| raw/github/google-adk-python.md | google/adk-python | 20339 | main | v2.3.0 | 2026-06-30 | |

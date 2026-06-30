@@ -69,3 +69,6 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/agentixlabs.com.md | agentixlabs.com | 5 | 2026-06-29 | |
 | raw/web/retool.com.md | retool.com | 8 | 2026-06-30 | |
 | raw/web/the-new-sdlc-with-vibe-coding.md | the-new-sdlc-with-vibe-coding | 1 (PDF) | 2026-06-30 | PDF via Google Drive; 51 pages |
+| raw/web/google.github.io.md | google.github.io | 10 | 2026-06-30 | |
+| raw/web/antigravity.google.md | antigravity.google | 10 | 2026-06-30 | Antigravity SDK product page |
+| raw/web/adk.dev.md | adk.dev | 9 | 2026-06-30 | |

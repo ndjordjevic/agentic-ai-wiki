@@ -19,6 +19,7 @@ related:
   - crewai.com
   - omnigent-ai-omnigent
   - coleam00-agent-control-plane
+  - antigravity.google
 product: pi-coding-agent
 detail_level: standard
 created: 2026-06-08

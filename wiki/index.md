@@ -128,5 +128,8 @@ created: 2026-04-28
 | [[coleam00-agent-control-plane]] | github | standard | 2026-06-30 | |
 | [[retool.com]] | web | standard | 2026-06-30 | |
 | [[the-new-sdlc-with-vibe-coding]] | web | standard | 2026-06-30 | PDF whitepaper; Addy Osmani, Shubham Saboo, Sokratis Kartakis |
+| [[google.github.io]] | web | standard | 2026-06-30 | companion: google/agents-cli |
+| [[antigravity.google]] | web | standard | 2026-06-30 | companion: google-antigravity/antigravity-sdk-python |
+| [[adk.dev]] | web | standard | 2026-06-30 | companion: google/adk-python |
 
-_116 sources ingested._
+_119 sources ingested._

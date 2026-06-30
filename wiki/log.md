@@ -8,6 +8,24 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-30 | ingest | adk.dev | Google Agent Development Kit (ADK) 2.0 multi-language agent framework
+
+- Created: wiki/sources/adk.dev.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/google-adk-python.md
+
+## 2026-06-30 | ingest | antigravity.google | Google Antigravity SDK: Python agent runtime from Antigravity platform
+
+- Created: wiki/sources/antigravity.google.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/google-antigravity-antigravity-sdk-python.md
+
+## 2026-06-30 | ingest | google.github.io | Google agents-cli: CLI + skills for ADK agent lifecycle on GCP
+
+- Created: wiki/sources/google.github.io.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/google-agents-cli.md
+
 ## 2026-06-30 | ingest | the-new-sdlc-with-vibe-coding | Google whitepaper: The New SDLC With Vibe Coding (Addy Osmani, Shubham Saboo, Sokratis Kartakis)
 
 - Created: wiki/sources/the-new-sdlc-with-vibe-coding.md

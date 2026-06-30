@@ -13,6 +13,9 @@ tags:
 related:
   - langchain.com-langchain
   - langchain.com-langgraph
+  - google.github.io
+  - antigravity.google
+  - adk.dev
 product: deepagents
 detail_level: deep
 created: 2026-04-29

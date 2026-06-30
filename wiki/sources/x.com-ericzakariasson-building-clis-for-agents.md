@@ -17,6 +17,8 @@ related:
   - github-spec-kit
   - gsd-build-get-shit-done
   - x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes
+  - google.github.io
+  - antigravity.google
 product: x
 detail_level: standard
 created: 2026-06-06

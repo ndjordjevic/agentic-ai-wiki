@@ -26,6 +26,7 @@ related:
   - microsoft-autogen
   - zapier.com
   - microsoft-agent-framework
+  - adk.dev
   - agentixlabs.com
 product: crewai
 detail_level: standard

@@ -24,6 +24,8 @@ related:
   - anthropics-skills
   - nidhinjs-prompt-master
   - hermes-agent.nousresearch.com
+  - google.github.io
+  - antigravity.google
   - obra-superpowers
   - github-spec-kit
   - browse.sh

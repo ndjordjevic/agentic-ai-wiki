@@ -17,6 +17,9 @@ related:
   - strandsagents.com
   - langchain.com-langgraph
   - omnigent-ai-omnigent
+  - google.github.io
+  - antigravity.google
+  - adk.dev
 product: agent-framework
 detail_level: standard
 created: 2026-06-10

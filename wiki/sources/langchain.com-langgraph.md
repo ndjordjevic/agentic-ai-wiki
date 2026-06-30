@@ -14,6 +14,7 @@ related:
   - gsd-build-get-shit-done
   - microsoft-autogen
   - microsoft-agent-framework
+  - adk.dev
 product: langgraph
 detail_level: deep
 created: 2026-04-29
