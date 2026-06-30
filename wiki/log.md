@@ -8,6 +8,26 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-30 | ingest | the-new-sdlc-with-vibe-coding | Google whitepaper: The New SDLC With Vibe Coding (Addy Osmani, Shubham Saboo, Sokratis Kartakis)
+
+- Created: wiki/sources/the-new-sdlc-with-vibe-coding.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
+## 2026-06-30 | ingest | retool.com | Enterprise platform for internal apps, AI agents, workflows, and mobile
+
+- Created: wiki/sources/retool.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
+## 2026-06-30 | ingest | coleam00-agent-control-plane | Control plane for long-running agent loops with Pi, Neon, and React dashboard
+
+- Created: wiki/sources/coleam00-agent-control-plane.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-06-30 | ingest | usestrix-strix | Open-source AI penetration testing framework with autonomous agents
+
+- Created: wiki/sources/usestrix-strix.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-06-29 | ingest | agentixlabs.com | Claude Preferred Partner AI implementation studio for enterprise agent deployment
 
 - Created: wiki/sources/agentixlabs.com.md

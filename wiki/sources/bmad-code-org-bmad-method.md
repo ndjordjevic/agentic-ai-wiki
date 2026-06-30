@@ -20,10 +20,11 @@ related:
   - othmanadi-planning-with-files
   - goOZSXmrYQ4-my-complete-agentic-coding-workflow-to-b
   - buildermethods-agent-os
+  - the-new-sdlc-with-vibe-coding
 product: bmad-method
 detail_level: standard
 created: 2026-05-22
-updated: 2026-05-25
+updated: 2026-06-30
 ---
 
 BMad Method (BMAD-METHOD) is a comprehensive, free, open-source Agile AI Driven Development framework with 47,851 stars that structures the entire software lifecycle — from brainstorming through deployment — as a progression of four phases, each powered by named AI agent personas and composable skill-based workflows. Where most AI coding tools respond to ad hoc prompts, BMad enforces structured methodology: analysis produces briefs and PRFAQs, planning produces a PRD, solutioning produces architecture and stories, and implementation executes stories one at a time with full traceability. The framework ships as an npm package (`npx bmad-method install`) that installs into any AI IDE (Claude Code, Cursor, Windsurf, and others) and is extended via official modules for testing, game dev, and creative workflows.

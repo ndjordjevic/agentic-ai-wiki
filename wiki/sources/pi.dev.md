@@ -18,10 +18,11 @@ related:
   - strandsagents.com
   - crewai.com
   - omnigent-ai-omnigent
+  - coleam00-agent-control-plane
 product: pi-coding-agent
 detail_level: standard
 created: 2026-06-08
-updated: 2026-06-16
+updated: 2026-06-30
 ---
 
 Pi is a minimal terminal coding harness (CLI) by Earendil Inc. that prioritizes "primitives, not features" — a lightweight, MIT-licensed agent that stays small by design while supporting deep customization via TypeScript extensions and the SKILL.md ecosystem. The monorepo (60,792 GitHub stars) also provides a unified multi-provider LLM API, a terminal UI library, and an embeddable Node.js SDK.

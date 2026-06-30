@@ -20,10 +20,11 @@ related:
   - webhook.site
   - script.it
   - langchain.com
+  - retool.com
 product: n8n
 detail_level: standard
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-06-30
 ---
 
 n8n is a fair-code workflow automation platform for technical teams that combines a visual node-based builder with full JavaScript/Python code access and native LangChain-based AI capabilities. With 192,000+ GitHub stars, 500+ integrations, and self-hosting on Docker or NPX alongside an n8n Cloud offering, it occupies the technical-team segment of the automation space that competitors like Zapier address with pure no-code approaches. The platform gives developers the control and flexibility of code without sacrificing the speed of visual configuration.

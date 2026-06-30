@@ -124,5 +124,9 @@ created: 2026-04-28
 | [[mksglu-context-mode]] | github | standard | 2026-06-29 | |
 | [[tolaria.md]] | web | standard | 2026-06-29 | companion: refactoringhq/tolaria |
 | [[agentixlabs.com]] | web | standard | 2026-06-29 | |
+| [[usestrix-strix]] | github | standard | 2026-06-30 | |
+| [[coleam00-agent-control-plane]] | github | standard | 2026-06-30 | |
+| [[retool.com]] | web | standard | 2026-06-30 | |
+| [[the-new-sdlc-with-vibe-coding]] | web | standard | 2026-06-30 | PDF whitepaper; Addy Osmani, Shubham Saboo, Sokratis Kartakis |
 
-_112 sources ingested._
+_116 sources ingested._

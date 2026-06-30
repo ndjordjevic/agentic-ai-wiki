@@ -67,3 +67,5 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/greptile.com.md | greptile.com | 9 | 2026-06-24 | |
 | raw/web/tolaria.md.md | tolaria.md | 7 | 2026-06-29 | |
 | raw/web/agentixlabs.com.md | agentixlabs.com | 5 | 2026-06-29 | |
+| raw/web/retool.com.md | retool.com | 8 | 2026-06-30 | |
+| raw/web/the-new-sdlc-with-vibe-coding.md | the-new-sdlc-with-vibe-coding | 1 (PDF) | 2026-06-30 | PDF via Google Drive; 51 pages |

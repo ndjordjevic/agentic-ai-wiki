@@ -16,10 +16,11 @@ related:
   - 9d5bzxVsocw-anthropic-just-dropped-the-new-blueprint
   - anthropics-skills
   - langchain.com
+  - the-new-sdlc-with-vibe-coding
 product: anthropic.com
 detail_level: deep
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-06-30
 ---
 
 Anthropic is an AI safety company that offers the Claude model family and a two-surface developer platform: the **Messages API** for custom agent loops with direct model access, and **Claude Managed Agents** for fully managed, long-running agentic infrastructure. The engineering blog documents first-party harness research, most notably a GAN-inspired multi-agent architecture (planner + generator + evaluator) for building complex applications autonomously over multi-hour sessions.

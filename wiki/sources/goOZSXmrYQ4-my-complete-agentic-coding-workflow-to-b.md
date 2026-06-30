@@ -8,10 +8,11 @@ related:
   - bmad-code-org-bmad-method
   - backnotprop-plannotator
   - 9d5bzxVsocw-anthropic-just-dropped-the-new-blueprint
+  - the-new-sdlc-with-vibe-coding
 product: agentic-coding-workflow
 detail_level: standard
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-06-30
 ---
 
 A 42-minute walkthrough by Cole Medin of his complete greenfield agentic coding workflow built around a dead-simple AI layer (PRD + global rules + commands + subagents) and a three-phase PIV loop (Plan, Implement, Validate) that lets a solo developer build production-grade software with Claude Code in hours instead of weeks — demonstrated live by building a self-hosted Linktree-style link-in-bio app.
