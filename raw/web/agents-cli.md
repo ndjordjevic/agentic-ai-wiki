@@ -1,4 +1,4 @@
-# google.github.io
+# agents-cli
 
 ## Fetch log
 - Inbox URL: https://google.github.io/agents-cli/

@@ -16,7 +16,7 @@ tags:
   - agent-evaluation
   - model-agnostic
 related:
-  - google.github.io
+  - agents-cli
   - antigravity.google
   - microsoft-agent-framework
   - langchain.com-langgraph
@@ -70,7 +70,7 @@ The framework treats context management as a first-class concern: sessions, memo
 - **CLI:** `adk run`, `adk web` (multi-agent dev UI)
 - **Visual Builder** — web interface for agent design
 - **Code with AI** — ADK developer Skills for vibe-coding agents
-- **agents-cli** — scaffold/eval/deploy ADK agents via coding agents ([[google.github.io]])
+- **[[agents-cli]]** — scaffold/eval/deploy ADK agents via coding agents
 
 ### Evaluation & safety
 - Trajectory + final-response evaluation (`.test.json` unit tests, Eval Set/Eval Case schemas)
@@ -142,7 +142,7 @@ Deploy: Agent Runtime (Agent Platform), Cloud Run, GKE, or any container runtime
 - You want **graph-based workflows** (ADK 2.0) combining deterministic code paths with LLM reasoning
 - You need **model flexibility** (Gemini-first but not locked) and **deploy-anywhere** (self-hosted or GCP)
 - You're building on Google Cloud Agent Platform / Gemini Enterprise and want native Agent Runtime integration
-- Pair with **[[google.github.io]] agents-cli** when you want a coding agent to scaffold/eval/deploy ADK projects
+- Pair with **[[agents-cli]]** when you want a coding agent to scaffold/eval/deploy ADK projects
 - **vs [[antigravity.google]]:** ADK is the agent *framework*; Antigravity SDK is a separate harness for Antigravity's coding-agent runtime — complementary layers in Google's stack
 - **vs [[langchain.com-langgraph]] / [[crewai.com]]:** ADK is Google's native alternative with A2A, Agent Platform deployment, and Gemini Live streaming
 
@@ -152,7 +152,7 @@ Actively maintained by Google: `google/adk-python` 20,339 stars, 3,622 forks, la
 
 ## Ecosystem
 
-- **[[google.github.io]] agents-cli** — lifecycle tooling around ADK (scaffold, eval, deploy, observability skills)
+- **[[agents-cli]]** — lifecycle tooling around ADK (scaffold, eval, deploy, observability skills)
 - **Antigravity platform** — separate coding-agent product; references ADK in Google's agent stack
 - **A2A Protocol** — open standard for cross-framework agent communication
 - **Agent Platform / Gemini Enterprise** — Agent Runtime, Memory Bank, managed sessions, eval SDK

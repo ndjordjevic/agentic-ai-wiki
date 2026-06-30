@@ -17,7 +17,7 @@ related:
   - strandsagents.com
   - langchain.com-langgraph
   - omnigent-ai-omnigent
-  - google.github.io
+  - agents-cli
   - antigravity.google
   - adk.dev
 product: agent-framework

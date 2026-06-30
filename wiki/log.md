@@ -20,9 +20,9 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 - Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
 - Companion: raw/github/google-antigravity-antigravity-sdk-python.md
 
-## 2026-06-30 | ingest | google.github.io | Google agents-cli: CLI + skills for ADK agent lifecycle on GCP
+## 2026-06-30 | ingest | agents-cli | Google agents-cli: CLI + skills for ADK agent lifecycle on GCP
 
-- Created: wiki/sources/google.github.io.md
+- Created: wiki/sources/agents-cli.md
 - Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
 - Companion: raw/github/google-agents-cli.md
 

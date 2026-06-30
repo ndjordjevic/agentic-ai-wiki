@@ -13,7 +13,7 @@ tags:
 related:
   - langchain.com-langchain
   - langchain.com-langgraph
-  - google.github.io
+  - agents-cli
   - antigravity.google
   - adk.dev
 product: deepagents

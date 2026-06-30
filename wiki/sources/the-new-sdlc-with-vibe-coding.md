@@ -22,7 +22,7 @@ related:
   - qa.tech
   - goOZSXmrYQ4-my-complete-agentic-coding-workflow-to-b
   - buildermethods-agent-os
-  - google.github.io
+  - agents-cli
   - antigravity.google
   - othmanadi-planning-with-files
 product: the-new-sdlc-with-vibe-coding
