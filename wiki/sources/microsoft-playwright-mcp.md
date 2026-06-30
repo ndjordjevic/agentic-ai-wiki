@@ -18,6 +18,8 @@ related:
   - browserbase.com
   - browser-use.com
   - usestrix-strix
+  - sentry.io
+  - mcp.sentry.dev
 product: playwright-mcp
 detail_level: standard
 created: 2026-05-25

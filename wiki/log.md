@@ -8,6 +8,18 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-06-30 | ingest | mcp.sentry.dev | Sentry remote MCP server for coding agents (getsentry/sentry-mcp)
+
+- Created: wiki/sources/mcp.sentry.dev.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/getsentry-sentry-mcp.md
+
+## 2026-06-30 | ingest | sentry.io | Sentry APM + Seer AI debugger + LLM observability + MCP
+
+- Created: wiki/sources/sentry.io.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/getsentry-sentry.md
+
 ## 2026-06-30 | ingest | adk.dev | Google Agent Development Kit (ADK) 2.0 multi-language agent framework
 
 - Created: wiki/sources/adk.dev.md

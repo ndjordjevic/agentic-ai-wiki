@@ -72,3 +72,5 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/agents-cli.md | agents-cli | 10 | 2026-06-30 | |
 | raw/web/antigravity.google.md | antigravity.google | 10 | 2026-06-30 | Antigravity SDK product page |
 | raw/web/adk.dev.md | adk.dev | 9 | 2026-06-30 | |
+| raw/web/sentry.io.md | sentry.io | 7 | 2026-06-30 | |
+| raw/web/mcp.sentry.dev.md | mcp.sentry.dev | 4 | 2026-06-30 | |

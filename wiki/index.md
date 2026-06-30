@@ -131,5 +131,7 @@ created: 2026-04-28
 | [[agents-cli]] | web | standard | 2026-06-30 | companion: google/agents-cli |
 | [[antigravity.google]] | web | standard | 2026-06-30 | companion: google-antigravity/antigravity-sdk-python |
 | [[adk.dev]] | web | standard | 2026-06-30 | companion: google/adk-python |
+| [[sentry.io]] | web | standard | 2026-06-30 | companion: getsentry/sentry |
+| [[mcp.sentry.dev]] | web | standard | 2026-06-30 | companion: getsentry/sentry-mcp |
 
-_119 sources ingested._
+_121 sources ingested._

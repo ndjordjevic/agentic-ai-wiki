@@ -28,6 +28,7 @@ related:
   - antigravity.google
   - obra-superpowers
   - github-spec-kit
+  - mcp.sentry.dev
   - browse.sh
   - tomevault.io
   - openvibe.sh

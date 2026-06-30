@@ -78,3 +78,5 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/google-agents-cli.md | google/agents-cli | 3697 | main | v0.6.1 | 2026-06-30 | |
 | raw/github/google-antigravity-antigravity-sdk-python.md | google-antigravity/antigravity-sdk-python | 2118 | main | v0.1.4 (PyPI) | 2026-06-30 | |
 | raw/github/google-adk-python.md | google/adk-python | 20339 | main | v2.3.0 | 2026-06-30 | |
+| raw/github/getsentry-sentry.md | getsentry/sentry | 44196 | master | 26.6.0 | 2026-06-30 | |
+| raw/github/getsentry-sentry-mcp.md | getsentry/sentry-mcp | 748 | main | 0.36.0 | 2026-06-30 | |

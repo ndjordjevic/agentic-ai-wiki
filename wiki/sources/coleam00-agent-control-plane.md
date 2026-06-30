@@ -17,6 +17,7 @@ related:
   - snarktank-ralph
   - frankbria-ralph-claude-code
   - retool.com
+  - sentry.io
 product: agent-control-plane
 detail_level: standard
 created: 2026-06-30

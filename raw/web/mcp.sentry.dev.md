@@ -1,0 +1,403 @@
+# mcp.sentry.dev
+
+## Fetch log
+- Inbox URL: https://mcp.sentry.dev/
+- Final URL: https://mcp.sentry.dev/
+- Fetched: 2026-06-30
+- Pages: 4
+- Mode: standard
+
+## llms.txt — https://mcp.sentry.dev/llms.txt
+# Sentry MCP Server
+
+Connects AI assistants to Sentry for searching errors, analyzing performance, triaging issues, reading documentation, and managing projects — all via the Model Context Protocol.
+
+All connections use OAuth. The first connection will trigger an authentication flow to connect to your Sentry account.
+
+## Connecting
+
+The base MCP server address is: `https://mcp.sentry.dev/mcp`
+
+You can optionally scope the connection to an organization or project:
+
+- `https://mcp.sentry.dev/mcp/{organizationSlug}` — scoped to one organization
+- `https://mcp.sentry.dev/mcp/{organizationSlug}/{projectSlug}` — scoped to one project
+
+When scoped, tools automatically default to the constrained org/project and unnecessary discovery tools are hidden. Scoping to a project is recommended when possible.
+
+### Query Parameters
+
+- `?experimental=1` — Enable forward-looking tool variants and experimental features
+- `?agent=1` — Agent mode: exposes a single `use_sentry` tool that handles natural language requests via an embedded AI agent (roughly doubles response time)
+
+Parameters can be combined: `https://mcp.sentry.dev/mcp/my-org/my-project?experimental=1`
+
+## Setup Instructions
+
+### Claude Code
+
+```bash
+claude mcp add --transport http sentry https://mcp.sentry.dev/mcp/{organizationSlug}/{projectSlug}
+```
+
+### Cursor
+
+Use the "Install MCP Server" button, or manually add to MCP settings:
+
+```json
+{
+  "mcpServers": {
+    "sentry": {
+      "url": "https://mcp.sentry.dev/mcp/{organizationSlug}/{projectSlug}"
+    }
+  }
+}
+```
+
+### VSCode
+
+Command Palette → "MCP: Add Server" → HTTP → enter the endpoint:
+
+```
+https://mcp.sentry.dev/mcp/{organizationSlug}/{projectSlug}
+```
+
+### Other Clients
+
+Any MCP-compatible client can connect using the HTTP transport at the endpoint URL above.
+
+## Landing page — https://mcp.sentry.dev/
+# Sentry MCP
+
+Sentry MCP plugs Sentry's API directly into your LLM, letting you ask questions about your data in natural language. Take a coding agent you already use - like Cursor or Claude Code - and pull in information from Sentry to help with debugging, fixing production errors, and understanding your application's behavior.
+
+Endpoint: `https://mcp.sentry.dev/mcp`
+
+## Capabilities (demo workflow)
+1. Copypaste Sentry Issue URL
+2. `get_sentry_resource()` — fetch issue details
+3. `analyze_issue_with_seer()` — Seer analyzes stack trace and pinpoints root cause
+4. LLM finds solution and applies edits
+5. Validation — automatically running tests
+
+## Use cases highlighted on site
+- **Fix Bugs** — debugging with production context
+- **Instrument Your App** — traces, metrics, errors in one place
+- **Search Things** — find anything across observability data
+
+## Installation (Cloud HTTP transport)
+Supported clients: Claude Code, Cursor, VSCode, Codex, Amp, Gemini CLI, OpenCode, Warp, Windsurf, Zed
+
+### Claude Code
+```bash
+claude mcp add --transport http sentry https://mcp.sentry.dev/mcp
+```
+
+### Cursor / VSCode / others
+```json
+{
+  "mcpServers": {
+    "sentry": {
+      "url": "https://mcp.sentry.dev/mcp"
+    }
+  }
+}
+```
+
+## Path Constraints
+- `/:organization` — limit to one organization (`find_organizations` hidden)
+- `/:organization/:project` — limit to one project (`find_projects` hidden too)
+
+## Agent Mode
+- `?agent=1` — single `use_sentry` tool; embedded AI chains tool calls; ~2x response time
+
+## Live MCP Demo
+Connect Sentry account via OAuth to test MCP with real project data on the site.
+
+## Architecture — https://github.com/getsentry/sentry-mcp/blob/main/docs/architecture/overview.md
+# Architecture (from getsentry/sentry-mcp docs)
+
+Sentry MCP is a Model Context Protocol server exposing Sentry error tracking, performance monitoring, and related features to AI assistants.
+
+## Package structure (pnpm monorepo)
+- mcp-core — private core MCP implementation (tools, API client, server)
+- mcp-server — published as @sentry/mcp-server (stdio transport)
+- mcp-cloudflare — Cloudflare Workers deployment (remote MCP + web demo)
+- mcp-server-evals — evaluation test suite
+- mcp-server-mocks — mock data / MSW handlers
+- mcp-test-client — interactive CLI client
+
+Remote server acts as middleware to upstream Sentry API, optimized for Cursor, Claude Code, etc. Based on Cloudflare remote MCP work.
+
+## Claude Code plugin
+```shell
+claude plugin marketplace add getsentry/sentry-mcp
+claude plugin install sentry-mcp@sentry-mcp
+```
+Provides `sentry-mcp` subagent auto-delegated for errors, issues, traces, performance.
+
+Experimental variant: `sentry-mcp@sentry-mcp-experimental` → `?experimental=1`
+
+## Key MCP tools (from agent config)
+- analyze_issue_with_seer
+- search_issues
+- get_sentry_resource
+- search_sentry_tools / execute_sentry_tool (skill gateway)
+- find_organizations, find_projects (hidden when path-scoped)
+
+## README — https://github.com/getsentry/sentry-mcp
+# sentry-mcp
+
+Sentry's MCP service is primarily designed for human-in-the-loop coding agents. Our tool selection and priorities are focused on developer workflows and debugging use cases, rather than providing a general-purpose MCP server for all Sentry functionality.
+
+This remote MCP server acts as middleware to the upstream Sentry API, optimized for coding assistants like Cursor, Claude Code, and similar development tools. It's based on [Cloudflare's work towards remote MCPs](https://blog.cloudflare.com/remote-model-context-protocol-servers-mcp/).
+
+## Getting Started
+
+You'll find everything you need to know by visiting the deployed service in production:
+
+<https://mcp.sentry.dev>
+
+If you're looking to contribute, learn how it works, or to run this for self-hosted Sentry, continue below.
+
+### Claude Code Plugin
+
+Install as a Claude Code plugin for automatic subagent delegation:
+
+```shell
+claude plugin marketplace add getsentry/sentry-mcp
+claude plugin install sentry-mcp@sentry-mcp
+```
+
+This provides a `sentry-mcp` subagent that Claude automatically delegates to when you ask about Sentry errors, issues, traces, or performance.
+
+For forward-looking tool variants and features:
+
+```shell
+claude plugin install sentry-mcp@sentry-mcp-experimental
+```
+
+### Stdio vs Remote
+
+While this repository is focused on acting as an MCP service, we also support a `stdio` transport. This is still a work in progress, but is the easiest way to adapt run the MCP against a self-hosted Sentry install.
+
+**Note:** The AI-powered search tools (`search_events`, `search_issues`, etc.) require an LLM provider (OpenAI, Azure OpenAI, Anthropic, or OpenRouter). These tools use natural language processing to translate queries into Sentry's query syntax. Without a configured provider, these specific tools will be unavailable, but all other tools will function normally.
+
+To utilize the `stdio` transport, you'll need to create an User Auth Token in Sentry with the necessary scopes. As of writing this is:
+
+```
+org:read
+project:read
+project:write
+team:read
+team:write
+event:write
+```
+
+Launch the transport:
+
+```shell
+npx @sentry/mcp-server@latest --access-token=sentry-user-token
+```
+
+Need to connect to a self-hosted deployment? Add <code>--host</code> (hostname
+only, e.g. <code>--host=sentry.example.com</code>) when you run the command.
+For isolated internal deployments that only expose plain HTTP, also add
+<code>--insecure-http</code>.
+
+Some features (like Seer) may not be available on self-hosted instances. You can
+disable specific skills to prevent unsupported tools from being exposed:
+
+```shell
+npx @sentry/mcp-server@latest --access-token=TOKEN --host=sentry.example.com --disable-skills=seer
+```
+
+For self-hosted instances without TLS:
+
+```shell
+npx @sentry/mcp-server@latest --access-token=TOKEN --host=sentry.internal:9000 --insecure-http
+```
+
+#### Environment Variables
+
+```shell
+SENTRY_ACCESS_TOKEN=         # Required: Your Sentry auth token
+
+# LLM Provider Configuration (required for AI-powered search tools)
+EMBEDDED_AGENT_PROVIDER=     # Required when multiple provider keys are set: 'openai', 'azure-openai', 'anthropic', or 'openrouter'
+OPENAI_API_KEY=              # Required if using OpenAI
+ANTHROPIC_API_KEY=           # Required if using Anthropic
+OPENROUTER_API_KEY=          # Required if using OpenRouter
+OPENROUTER_MODEL=            # Optional OpenRouter model, defaults to 'openai/gpt-5'
+
+# Optional overrides
+SENTRY_HOST=                 # For self-hosted deployments
+MCP_DISABLE_SKILLS=          # Disable specific skills (comma-separated, e.g. 'seer')
+```
+
+**Important:** Always set `EMBEDDED_AGENT_PROVIDER` to explicitly specify your LLM provider. Auto-detection based on API keys alone is deprecated and will be removed in a future release. See [docs/operations/embedded-agents.md](docs/operations/embedded-agents.md) for detailed configuration options.
+
+#### Example MCP Configuration
+
+```json
+{
+  "mcpServers": {
+    "sentry": {
+      "command": "npx",
+      "args": ["@sentry/mcp-server"],
+      "env": {
+        "SENTRY_ACCESS_TOKEN": "your-token",
+        "EMBEDDED_AGENT_PROVIDER": "openai",
+        "OPENAI_API_KEY": "sk-..."
+      }
+    }
+  }
+}
+```
+
+If you leave the host variable unset, the CLI automatically targets the Sentry
+SaaS service. Only set the override when you operate self-hosted Sentry.
+
+For self-hosted instances that don't support Seer:
+
+```json
+{
+  "mcpServers": {
+    "sentry": {
+      "command": "npx",
+      "args": ["@sentry/mcp-server"],
+      "env": {
+        "SENTRY_ACCESS_TOKEN": "your-token",
+        "SENTRY_HOST": "sentry.example.com",
+        "MCP_DISABLE_SKILLS": "seer"
+      }
+    }
+  }
+}
+```
+
+### MCP Inspector
+
+MCP includes an [Inspector](https://modelcontextprotocol.io/docs/tools/inspector), to easily test the service:
+
+```shell
+pnpm inspector
+```
+
+Enter the MCP server URL (<http://localhost:5173>) and hit connect. This should trigger the authentication flow for you.
+
+Note: If you have issues with your OAuth flow when accessing the inspector on `127.0.0.1`, try using `localhost` instead by visiting `http://localhost:6274`.
+
+## Local Development
+
+To contribute changes, you'll need to set up your local environment:
+
+1. **Set up environment and agent skills:**
+
+   ```shell
+   make setup-env  # Creates .env files and installs shared agent skills
+   ```
+
+   This also runs `npx @sentry/dotagents install` to install shared skills from [getsentry/skills](https://github.com/getsentry/skills) into `.agents/skills/` (symlinked into `.claude/skills` and `.cursor/skills`). If you need to update skills later, run it directly:
+
+   ```shell
+   npx @sentry/dotagents install
+   ```
+
+2. **Create an OAuth App in Sentry** (Settings => API => [Applications](https://sentry.io/settings/account/api/applications/)):
+
+   - Homepage URL: `http://localhost:5173`
+   - Authorized Redirect URIs: `http://localhost:5173/oauth/callback`
+   - Note your Client ID and generate a Client secret
+
+3. **Configure your credentials:**
+
+   - Edit `.env` in the root directory and add either `OPENAI_API_KEY` or `OPENROUTER_API_KEY`
+   - Edit `packages/mcp-cloudflare/.env` and add:
+     - `SENTRY_CLIENT_ID=your_development_sentry_client_id`
+     - `SENTRY_CLIENT_SECRET=your_development_sentry_client_secret`
+     - `COOKIE_SECRET=my-super-secret-cookie`
+
+4. **Start the development server:**
+
+   ```shell
+   pnpm dev
+   ```
+
+### Verify
+
+Run the server locally to make it available at `http://localhost:5173`
+
+```shell
+pnpm dev
+```
+
+To test the local server, enter `http://localhost:5173/mcp` into Inspector and hit connect. Once you follow the prompts, you'll be able to "List Tools".
+
+### Tests
+
+There are three test suites included: unit tests, evaluations, and manual testing.
+
+**Unit tests** can be run using:
+
+```shell
+pnpm test
+```
+
+**Evaluations** require a `.env` file in the project root with some config:
+
+```shell
+# .env (in project root)
+OPENAI_API_KEY=      # Use OpenAI-backed AI-powered tools
+OPENROUTER_API_KEY=  # Or use OpenRouter-backed AI-powered tools
+```
+
+Note: The root `.env` file provides defaults for all packages. Individual packages can have their own `.env` files to override these defaults during development.
+
+Once that's done you can run them using:
+
+```shell
+pnpm eval
+```
+
+**Manual testing** (preferred for testing MCP changes):
+
+```shell
+# Test with local dev server (default: http://localhost:5173)
+pnpm -w run cli "who am I?"
+
+# Test agent mode (use_sentry tool only)
+pnpm -w run cli --agent "who am I?"
+
+# Test against production
+pnpm -w run cli --mcp-host=https://mcp.sentry.dev "query"
+
+# Test with local stdio mode (requires SENTRY_ACCESS_TOKEN)
+pnpm -w run cli --access-token=TOKEN "query"
+```
+
+Note: The CLI defaults to `http://localhost:5173`. Override with `--mcp-host` or set `MCP_URL` environment variable.
+
+**Comprehensive testing playbooks:**
+- **Stdio testing:** See `docs/testing/stdio.md` for complete guide on building, running, and testing the stdio implementation (IDEs, MCP Inspector)
+- **Remote testing:** See `docs/testing/remote.md` for complete guide on testing the remote server (OAuth, web UI, CLI client)
+
+## Development Notes
+
+### Automated Code Review
+
+This repository uses automated code review tools (like Cursor BugBot) to help identify potential issues in pull requests. These tools provide helpful feedback and suggestions, but **we do not recommend making these checks required** as the accuracy is still evolving and can produce false positives.
+
+The automated reviews should be treated as:
+
+- ✅ **Helpful suggestions** to consider during code review
+- ✅ **Starting points** for discussion and improvement
+- ❌ **Not blocking requirements** for merging PRs
+- ❌ **Not replacements** for human code review
+
+When addressing automated feedback, focus on the underlying concerns rather than strictly following every suggestion.
+
+### Contributor Documentation
+
+Looking to contribute or explore the full documentation map? See `CLAUDE.md` (also available as `AGENTS.md`) for contributor workflows and the complete docs index. The `docs/` folder contains the per-topic guides and tool-integrated `.md` files.
+

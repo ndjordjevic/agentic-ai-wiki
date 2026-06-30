@@ -16,6 +16,7 @@ related:
   - vercel-labs-agent-browser
   - greptile.com
   - the-new-sdlc-with-vibe-coding
+  - sentry.io
 product: qa
 detail_level: standard
 created: 2026-05-25

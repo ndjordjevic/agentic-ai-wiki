@@ -193,3 +193,5 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://google.github.io/agents-cli/ <!-- ingested 2026-06-30 -->
 - [x] https://antigravity.google/product/antigravity-sdk <!-- ingested 2026-06-30 -->
 - [x] https://adk.dev/ <!-- ingested 2026-06-30 -->
+- [x] https://sentry.io/welcome/ <!-- ingested 2026-06-30 -->
+- [x] https://mcp.sentry.dev/ <!-- ingested 2026-06-30 -->
