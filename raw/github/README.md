@@ -85,3 +85,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/gitroomhq-postiz-app.md | gitroomhq/postiz-app | 32528 | main | v2.21.10 | 2026-07-01 | companion for postiz.com |
 | raw/github/producthunt-producthunt-api.md | producthunt/producthunt-api | 367 | master | none | 2026-07-01 | companion for producthunt.com |
 | raw/github/HKUDS-RAG-Anything.md | HKUDS/RAG-Anything | 21717 | main | v1.3.1 | 2026-07-01 | |
+| raw/github/juliusbrussee-caveman.md | JuliusBrussee/caveman | 78406 | main | v1.9.0 | 2026-07-01 | companion for getcaveman.dev |

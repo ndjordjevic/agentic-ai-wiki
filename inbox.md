@@ -195,3 +195,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://postiz.com/ <!-- ingested 2026-07-01 -->
 - [x] https://www.producthunt.com/ <!-- ingested 2026-07-01 -->
 - [x] https://github.com/HKUDS/RAG-Anything <!-- ingested 2026-07-01 -->
+- [x] https://getcaveman.dev/ <!-- ingested 2026-07-01 -->

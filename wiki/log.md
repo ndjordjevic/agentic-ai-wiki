@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-01 | ingest | getcaveman.dev | Token-efficiency stack — 78k★ skill, compression engine, byte-safe proxy, Cavemem/Caveman Code
+
+- Created: wiki/sources/getcaveman.dev.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/juliusbrussee-caveman.md
+
 ## 2026-07-01 | ingest | HKUDS-RAG-Anything | Multimodal RAG framework on LightRAG — MinerU parsing, modal processors, knowledge graph, VLM queries
 
 - Created: wiki/sources/HKUDS-RAG-Anything.md

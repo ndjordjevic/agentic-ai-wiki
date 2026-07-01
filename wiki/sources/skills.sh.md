@@ -28,6 +28,7 @@ related:
   - antigravity.google
   - obra-superpowers
   - github-spec-kit
+  - getcaveman.dev
   - mcp.sentry.dev
   - browse.sh
   - tomevault.io
