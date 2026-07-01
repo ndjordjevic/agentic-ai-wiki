@@ -25,10 +25,11 @@ related:
   - agents-cli
   - antigravity.google
   - othmanadi-planning-with-files
+  - lovable.dev
 product: the-new-sdlc-with-vibe-coding
 detail_level: standard
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-07-01
 ---
 
 [[the-new-sdlc-with-vibe-coding]] is a 51-page whitepaper by Addy Osmani, Shubham Saboo, and Sokratis Kartakis (May 2026), published as Day 2 in Google's Agents Whitepaper Series. It provides the most comprehensive published framework for understanding how AI is reshaping the software development life cycle — specifically, how to move from casual "vibe coding" to disciplined "agentic engineering." It is foundational reading for any engineering team adopting AI coding agents at scale, supplying the mental models, spectrum taxonomy, economic analysis, and actionable guidance that connect abstract AI capabilities to daily engineering practice.

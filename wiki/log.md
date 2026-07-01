@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-01 | ingest | lovable.dev | Hosted full-stack AI app builder with Build/Plan modes, skills, subagents, GitHub sync, and Lovable Cloud
+
+- Created: wiki/sources/lovable.dev.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-06-30 | ingest | mcp.sentry.dev | Sentry remote MCP server for coding agents (getsentry/sentry-mcp)
 
 - Created: wiki/sources/mcp.sentry.dev.md

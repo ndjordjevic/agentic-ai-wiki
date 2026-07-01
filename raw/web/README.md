@@ -74,3 +74,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/adk.dev.md | adk.dev | 9 | 2026-06-30 | |
 | raw/web/sentry.io.md | sentry.io | 7 | 2026-06-30 | |
 | raw/web/mcp.sentry.dev.md | mcp.sentry.dev | 4 | 2026-06-30 | |
+| raw/web/lovable.dev.md | lovable.dev | 12 | 2026-07-01 | |

@@ -133,5 +133,6 @@ created: 2026-04-28
 | [[adk.dev]] | web | standard | 2026-06-30 | companion: google/adk-python |
 | [[sentry.io]] | web | standard | 2026-06-30 | companion: getsentry/sentry |
 | [[mcp.sentry.dev]] | web | standard | 2026-06-30 | companion: getsentry/sentry-mcp |
+| [[lovable.dev]] | web | standard | 2026-07-01 | |
 
-_121 sources ingested._
+_122 sources ingested._

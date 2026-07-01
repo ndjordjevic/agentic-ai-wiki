@@ -19,10 +19,11 @@ related:
   - skills.sh
   - anthropics-skills
   - obra-superpowers
+  - lovable.dev
 product: open-design
 detail_level: standard
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-07-01
 ---
 
 Open Design (open-design.ai, 62,118 GitHub stars, Apache-2.0, v0.9.0) is the open-source, local-first alternative to Claude Design — a complete agent-native design platform that turns any coding agent CLI (Claude Code, Codex, Cursor, Gemini CLI, 21+ others) into a design engine via composable SKILL.md skills and portable DESIGN.md brand systems. It is both a native desktop app (macOS, Windows, Linux AppImage) and a filesystem-first toolkit that generates HTML, PDF, PPTX, MP4, and HyperFrame artifacts — without locking output into a vendor cloud. The project was created in direct response to Anthropic's Claude Design launch in April 2026 and positions itself as the open-source, self-hostable, multi-agent equivalent. (../../raw/github/nexu-io-open-design.md)
@@ -90,7 +91,7 @@ Adding a new coding agent adapter is one entry in `apps/daemon/src/agents.ts`; t
 
 ## When to use
 
-Open Design fits when the team needs agent-generated design artifacts — prototypes, dashboards, decks, images, or HyperFrame video — with a specific brand identity (DESIGN.md) applied consistently across runs, without sending work to a hosted vendor cloud. It is the right choice over Claude Design when self-hosting, multi-agent support, or open-source extensibility is required; over Figma when pixel-less, agent-driven artifact output is preferred; over v0/Lovable/Bolt when local execution and BYOK economics matter. It requires a local daemon plus at least one supported coding agent CLI.
+Open Design fits when the team needs agent-generated design artifacts — prototypes, dashboards, decks, images, or HyperFrame video — with a specific brand identity (DESIGN.md) applied consistently across runs, without sending work to a hosted vendor cloud. It is the right choice over Claude Design when self-hosting, multi-agent support, or open-source extensibility is required; over Figma when pixel-less, agent-driven artifact output is preferred; over v0/[[lovable.dev]]/Bolt when local execution and BYOK economics matter. It requires a local daemon plus at least one supported coding agent CLI.
 
 ## Maintenance status
 
