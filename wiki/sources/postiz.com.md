@@ -17,6 +17,7 @@ tags:
 related:
   - n8n.io
   - zapier.com
+  - producthunt.com
 product: postiz
 detail_level: standard
 created: 2026-07-01

@@ -79,3 +79,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/warp.dev.md | warp.dev | 8 | 2026-07-01 | companion: warpdotdev/warp |
 | raw/web/notebooklm.google.md | notebooklm.google | 5 | 2026-07-01 | |
 | raw/web/postiz.com.md | postiz.com | 8 | 2026-07-01 | companion: gitroomhq/postiz-app |
+| raw/web/producthunt.com.md | producthunt.com | 7 | 2026-07-01 | companion: producthunt/producthunt-api; Jina Reader fallback (Cloudflare) |

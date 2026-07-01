@@ -83,3 +83,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/stackblitz-bolt.new.md | stackblitz/bolt.new | 16430 | main | none | 2026-07-01 | companion for bolt.new |
 | raw/github/warpdotdev-warp.md | warpdotdev/warp | 62646 | master | v0.2026.06.09.19.54.dev_00 | 2026-07-01 | companion for warp.dev |
 | raw/github/gitroomhq-postiz-app.md | gitroomhq/postiz-app | 32528 | main | v2.21.10 | 2026-07-01 | companion for postiz.com |
+| raw/github/producthunt-producthunt-api.md | producthunt/producthunt-api | 367 | master | none | 2026-07-01 | companion for producthunt.com |

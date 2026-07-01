@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-01 | ingest | producthunt.com | Product Hunt — community product discovery platform with daily leaderboards and GraphQL API v2
+
+- Created: wiki/sources/producthunt.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/producthunt-producthunt-api.md
+
 ## 2026-07-01 | ingest | postiz.com | Postiz — open-source agentic social media scheduling tool with CLI/MCP agent control, cross-posting, and AI content generation
 
 - Created: wiki/sources/postiz.com.md

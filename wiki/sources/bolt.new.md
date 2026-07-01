@@ -19,6 +19,7 @@ related:
   - lovable.dev
   - retool.com
   - the-new-sdlc-with-vibe-coding
+  - producthunt.com
 product: bolt
 detail_level: standard
 created: 2026-07-01

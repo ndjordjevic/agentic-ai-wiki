@@ -138,5 +138,6 @@ created: 2026-04-28
 | [[warp.dev]] | web | standard | 2026-07-01 | companion: warpdotdev/warp |
 | [[notebooklm.google]] | web | standard | 2026-07-01 | |
 | [[postiz.com]] | web | standard | 2026-07-01 | companion: gitroomhq/postiz-app |
+| [[producthunt.com]] | web | standard | 2026-07-01 | companion: producthunt/producthunt-api |
 
-_126 sources ingested._
+_127 sources ingested._

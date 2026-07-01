@@ -15,10 +15,11 @@ related:
   - vercel-labs-agent-browser
   - must-have-clis-2026
   - browserbase.com
+  - producthunt.com
 product: browse
 detail_level: standard
 created: 2026-05-20
-updated: 2026-05-30
+updated: 2026-07-01
 ---
 
 browse.sh is the open web skill catalog and browser CLI for AI agents, built by Browserbase. It pairs a public skill registry at browse.sh with the `browse` CLI (`npm install -g browse`), enabling agents to install pre-built web automation skills for hundreds of specific websites and then drive those sites using browser primitives — all with a claimed 50× token-cost reduction via suggested DOM selectors and XHR patterns.

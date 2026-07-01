@@ -20,6 +20,7 @@ related:
   - anthropics-skills
   - obra-superpowers
   - lovable.dev
+  - producthunt.com
 product: open-design
 detail_level: standard
 created: 2026-06-09
