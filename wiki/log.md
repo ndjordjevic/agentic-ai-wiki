@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-01 | ingest | warp.dev | Open-source Agentic Development Environment — Warp Terminal + Oz cloud agent orchestration platform
+
+- Created: wiki/sources/warp.dev.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/warpdotdev-warp.md
+
 ## 2026-07-01 | ingest | bolt.new | AI-powered full-stack app builder with WebContainers, Bolt Cloud, GitHub, MCP, and design-system support
 
 - Created: wiki/sources/bolt.new.md

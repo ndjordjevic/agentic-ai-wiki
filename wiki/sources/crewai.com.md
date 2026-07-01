@@ -20,6 +20,7 @@ related:
   - strandsagents.com
   - litellm.ai
   - pydantic.dev
+  - warp.dev
   - joinoasis.com
   - factory.ai
   - pi.dev
@@ -31,7 +32,7 @@ related:
 product: crewai
 detail_level: standard
 created: 2026-05-22
-updated: 2026-06-29
+updated: 2026-07-01
 ---
 
 CrewAI is the leading open-source multi-agent orchestration framework, offering both a Python library (CrewAI OSS) and an enterprise platform (CrewAI AMP) for building, deploying, and managing production AI agent systems. It introduces a two-layer architecture — **Crews** (teams of role-playing autonomous agents) nested inside **Flows** (event-driven orchestration backbone) — that balances autonomy with deterministic control. With 51,000+ GitHub stars, 100,000+ certified developers, and adoption across 60% of the Fortune 500, it has become a de-facto standard for enterprise agentic automation.

@@ -81,3 +81,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/getsentry-sentry.md | getsentry/sentry | 44196 | master | 26.6.0 | 2026-06-30 | |
 | raw/github/getsentry-sentry-mcp.md | getsentry/sentry-mcp | 748 | main | 0.36.0 | 2026-06-30 | |
 | raw/github/stackblitz-bolt.new.md | stackblitz/bolt.new | 16430 | main | none | 2026-07-01 | companion for bolt.new |
+| raw/github/warpdotdev-warp.md | warpdotdev/warp | 62646 | master | v0.2026.06.09.19.54.dev_00 | 2026-07-01 | companion for warp.dev |

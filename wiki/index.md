@@ -135,5 +135,6 @@ created: 2026-04-28
 | [[mcp.sentry.dev]] | web | standard | 2026-06-30 | companion: getsentry/sentry-mcp |
 | [[lovable.dev]] | web | standard | 2026-07-01 | |
 | [[bolt.new]] | web | standard | 2026-07-01 | companion: stackblitz/bolt.new |
+| [[warp.dev]] | web | standard | 2026-07-01 | companion: warpdotdev/warp |
 
-_123 sources ingested._
+_124 sources ingested._

@@ -17,7 +17,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
-- [ ] https://www.warp.dev/
 - [ ] https://notebooklm.google/
 - [ ] https://postiz.com/?ref=producthunt
 - [ ] https://www.producthunt.com/
@@ -195,3 +194,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://mcp.sentry.dev/ <!-- ingested 2026-06-30 -->
 - [x] https://lovable.dev/ <!-- ingested 2026-07-01 -->
 - [x] https://bolt.new/ <!-- ingested 2026-07-01 -->
+- [x] https://www.warp.dev/ <!-- ingested 2026-07-01 -->
