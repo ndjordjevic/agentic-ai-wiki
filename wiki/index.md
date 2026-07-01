@@ -136,5 +136,6 @@ created: 2026-04-28
 | [[lovable.dev]] | web | standard | 2026-07-01 | |
 | [[bolt.new]] | web | standard | 2026-07-01 | companion: stackblitz/bolt.new |
 | [[warp.dev]] | web | standard | 2026-07-01 | companion: warpdotdev/warp |
+| [[notebooklm.google]] | web | standard | 2026-07-01 | |
 
-_124 sources ingested._
+_125 sources ingested._

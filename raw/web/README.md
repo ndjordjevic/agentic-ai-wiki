@@ -77,3 +77,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/lovable.dev.md | lovable.dev | 12 | 2026-07-01 | |
 | raw/web/bolt.new.md | bolt.new | 12 | 2026-07-01 | companion: stackblitz/bolt.new |
 | raw/web/warp.dev.md | warp.dev | 8 | 2026-07-01 | companion: warpdotdev/warp |
+| raw/web/notebooklm.google.md | notebooklm.google | 5 | 2026-07-01 | |

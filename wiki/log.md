@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-01 | ingest | notebooklm.google | Google NotebookLM — source-grounded AI research assistant with Audio Overviews, Gemini models, and knowledge artifact generation
+
+- Created: wiki/sources/notebooklm.google.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-07-01 | ingest | warp.dev | Open-source Agentic Development Environment — Warp Terminal + Oz cloud agent orchestration platform
 
 - Created: wiki/sources/warp.dev.md

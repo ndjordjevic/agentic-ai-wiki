@@ -20,10 +20,11 @@ related:
   - reseek.net
   - supermemory.ai
   - tolaria.md
+  - notebooklm.google
 product: cabinet
 detail_level: deep
 created: 2026-04-29
-updated: 2026-06-29
+updated: 2026-07-01
 ---
 
 Cabinet is a free, open-source, self-hosted AI-first startup OS where an entire knowledge base lives as markdown files on disk. It combines WYSIWYG editing, AI agents with scheduled jobs, embedded HTML apps, a web terminal, git-backed history, and built-in team chat — all without a database or vendor lock-in. The project is positioned as the product Andrej Karpathy described when he noted there was "room here for an incredible new product instead of a hacky collection of scripts" for LLM-backed knowledge bases.
