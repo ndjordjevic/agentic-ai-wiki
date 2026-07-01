@@ -19,6 +19,7 @@ related:
   - skills.sh
   - coleam00-harness-engineering-demo
   - njbrake-agent-of-empires
+  - nadimtuhin-claude-token-optimizer
 product: claude-code
 detail_level: standard
 created: 2026-07-01

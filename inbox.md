@@ -197,3 +197,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/HKUDS/RAG-Anything <!-- ingested 2026-07-01 -->
 - [x] https://getcaveman.dev/ <!-- ingested 2026-07-01 -->
 - [x] https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start <!-- no-companion --> <!-- ingested 2026-07-01 -->
+- [x] https://github.com/nadimtuhin/claude-token-optimizer <!-- ingested 2026-07-01 -->

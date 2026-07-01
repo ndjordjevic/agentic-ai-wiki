@@ -142,5 +142,6 @@ created: 2026-04-28
 | [[HKUDS-RAG-Anything]] | github | standard | 2026-07-01 | |
 | [[getcaveman.dev]] | web | standard | 2026-07-01 | |
 | [[how-claude-code-works-in-large-codebases]] | web | standard | 2026-07-01 | Anthropic blog; Claude Code at scale series |
+| [[nadimtuhin-claude-token-optimizer]] | github | standard | 2026-07-01 | |
 
-_130 sources ingested._
+_131 sources ingested._

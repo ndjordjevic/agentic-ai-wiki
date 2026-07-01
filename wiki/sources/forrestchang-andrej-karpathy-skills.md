@@ -21,6 +21,7 @@ related:
   - othmanadi-planning-with-files
   - mattpocock-skills
   - garrytan-gstack
+  - nadimtuhin-claude-token-optimizer
 product: andrej-karpathy-skills
 detail_level: standard
 created: 2026-05-11
