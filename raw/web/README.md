@@ -75,3 +75,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/sentry.io.md | sentry.io | 7 | 2026-06-30 | |
 | raw/web/mcp.sentry.dev.md | mcp.sentry.dev | 4 | 2026-06-30 | |
 | raw/web/lovable.dev.md | lovable.dev | 12 | 2026-07-01 | |
+| raw/web/bolt.new.md | bolt.new | 12 | 2026-07-01 | companion: stackblitz/bolt.new |

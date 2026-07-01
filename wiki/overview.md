@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-06-30
+updated: 2026-07-01
 ---
 
 
@@ -250,3 +250,5 @@ updated: 2026-06-30
 [[mcp.sentry.dev]] documents **Sentry MCP** — Sentry's official remote Model Context Protocol server (`https://mcp.sentry.dev/mcp`) that wires coding agents (Cursor, Claude Code, VS Code, Codex, Windsurf, Zed) to live Sentry data via OAuth. Instead of copying stack traces into chat, agents call tools like `get_sentry_resource`, `search_issues`, and `analyze_issue_with_seer` to fetch issues, traces, and Seer root-cause analysis from production. Path scoping (`/mcp/{org}/{project}`) and agent mode (`?agent=1` → single `use_sentry` tool) tighten autonomous debugging. The open-source repo is `getsentry/sentry-mcp` (748 stars, TypeScript, Cloudflare Workers + optional `@sentry/mcp-server` stdio for self-hosted Sentry). Claude Code users can `claude plugin install sentry-mcp@sentry-mcp` for automatic subagent delegation. This is the **agent-facing bridge** on top of [[sentry.io]]'s observability platform — complementary to [[microsoft-playwright-mcp]] (browser tools) and [[skills.sh]] (skill distribution), and a natural pairing with [[greptile.com]] / [[qa.tech]] when agents need post-deploy evidence rather than pre-merge review.
 
 [[lovable.dev]] captures Lovable as a hosted full-stack AI app builder that packages many agentic-engineering patterns into one product surface: Plan mode for pre-implementation reasoning, Build mode for autonomous execution, reusable workspace skills, read-only subagents, GitHub round-trip sync, verification tools, and a Supabase-based managed cloud runtime. It sits at the crossover between vibe-coding app generators and governed software platforms — closer to end-user web app creation than [[retool.com]], more hosted/full-stack than [[open-design.ai]], and a concrete product embodiment of the workflow shift described in [[the-new-sdlc-with-vibe-coding]].
+
+[[bolt.new]] adds one of the clearest mainstream product examples of browser-native vibe coding turning into a full-stack delivery workflow. It combines prompt-to-app generation, Plan Mode, selectable Standard/Max agents, design-system-guided UI generation, Bolt Cloud for databases/hosting/domains, GitHub-backed branch workflows, and MCP connectors inside a single hosted surface, while the companion repo shows the underlying WebContainers-based harness that gives the agent filesystem, terminal, server, and browser-console control. It sits close to [[lovable.dev]] on the AI app-builder spectrum, overlaps with [[retool.com]] on governed deployment and operational surfaces, and serves as an applied product counterpart to the workflow shift described in [[the-new-sdlc-with-vibe-coding]].

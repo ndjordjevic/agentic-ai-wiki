@@ -26,6 +26,7 @@ related:
   - antigravity.google
   - othmanadi-planning-with-files
   - lovable.dev
+  - bolt.new
 product: the-new-sdlc-with-vibe-coding
 detail_level: standard
 created: 2026-06-30

@@ -80,3 +80,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/google-adk-python.md | google/adk-python | 20339 | main | v2.3.0 | 2026-06-30 | |
 | raw/github/getsentry-sentry.md | getsentry/sentry | 44196 | master | 26.6.0 | 2026-06-30 | |
 | raw/github/getsentry-sentry-mcp.md | getsentry/sentry-mcp | 748 | main | 0.36.0 | 2026-06-30 | |
+| raw/github/stackblitz-bolt.new.md | stackblitz/bolt.new | 16430 | main | none | 2026-07-01 | companion for bolt.new |

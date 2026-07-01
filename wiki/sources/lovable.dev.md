@@ -14,6 +14,7 @@ related:
   - retool.com
   - open-design.ai
   - the-new-sdlc-with-vibe-coding
+  - bolt.new
 product: lovable
 detail_level: standard
 created: 2026-07-01

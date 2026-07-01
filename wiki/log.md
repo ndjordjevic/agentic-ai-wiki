@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-01 | ingest | bolt.new | AI-powered full-stack app builder with WebContainers, Bolt Cloud, GitHub, MCP, and design-system support
+
+- Created: wiki/sources/bolt.new.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/stackblitz-bolt.new.md
+
 ## 2026-07-01 | ingest | lovable.dev | Hosted full-stack AI app builder with Build/Plan modes, skills, subagents, GitHub sync, and Lovable Cloud
 
 - Created: wiki/sources/lovable.dev.md
