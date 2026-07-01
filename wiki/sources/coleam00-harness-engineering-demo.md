@@ -21,11 +21,12 @@ related:
   - zilliztech-claude-context
   - frankbria-ralph-claude-code
   - coleam00-agent-control-plane
+  - how-claude-code-works-in-large-codebases
   - the-new-sdlc-with-vibe-coding
 product: harness-engineering-demo
 detail_level: standard
 created: 2026-06-16
-updated: 2026-06-30
+updated: 2026-07-01
 ---
 
 A companion repo to the YouTube video "What is Harness Engineering?" demonstrating how to build a real **harness** — the context and workflows wrapping a coding agent — using only Claude Code's built-in primitives (CLAUDE.md, skills, hooks, sub-agents, MCP), with no external framework. It wraps a brownfield SaaS app (Schedulr: FastAPI + Next.js) in a self-validating **PIV loop** (Plan → Implement → Validate) and pairs it with the Ralph loop ([[snarktank-ralph]]) for unattended multi-session runs.

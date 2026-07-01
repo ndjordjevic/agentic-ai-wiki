@@ -28,6 +28,7 @@ related:
   - antigravity.google
   - obra-superpowers
   - github-spec-kit
+  - how-claude-code-works-in-large-codebases
   - getcaveman.dev
   - mcp.sentry.dev
   - browse.sh

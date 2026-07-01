@@ -141,5 +141,6 @@ created: 2026-04-28
 | [[producthunt.com]] | web | standard | 2026-07-01 | companion: producthunt/producthunt-api |
 | [[HKUDS-RAG-Anything]] | github | standard | 2026-07-01 | |
 | [[getcaveman.dev]] | web | standard | 2026-07-01 | |
+| [[how-claude-code-works-in-large-codebases]] | web | standard | 2026-07-01 | Anthropic blog; Claude Code at scale series |
 
-_129 sources ingested._
+_130 sources ingested._

@@ -81,3 +81,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/postiz.com.md | postiz.com | 8 | 2026-07-01 | companion: gitroomhq/postiz-app |
 | raw/web/producthunt.com.md | producthunt.com | 7 | 2026-07-01 | companion: producthunt/producthunt-api; Jina Reader fallback (Cloudflare) |
 | raw/web/getcaveman.dev.md | getcaveman.dev | 6 | 2026-07-01 | companion: JuliusBrussee/caveman |
+| raw/web/how-claude-code-works-in-large-codebases.md | how-claude-code-works-in-large-codebases | 1 | 2026-07-01 | Anthropic blog; single-page |
