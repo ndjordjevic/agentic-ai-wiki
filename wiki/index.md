@@ -139,5 +139,6 @@ created: 2026-04-28
 | [[notebooklm.google]] | web | standard | 2026-07-01 | |
 | [[postiz.com]] | web | standard | 2026-07-01 | companion: gitroomhq/postiz-app |
 | [[producthunt.com]] | web | standard | 2026-07-01 | companion: producthunt/producthunt-api |
+| [[HKUDS-RAG-Anything]] | github | standard | 2026-07-01 | |
 
-_127 sources ingested._
+_128 sources ingested._

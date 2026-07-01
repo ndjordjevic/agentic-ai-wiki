@@ -18,10 +18,11 @@ tags:
 related:
   - skills.sh
   - anthropics-skills
+  - HKUDS-RAG-Anything
 product: graphify
 detail_level: standard
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-07-01
 ---
 
 Graphify is an open-source knowledge graph skill for AI coding assistants that turns an entire codebase — source code, documentation, research papers, and diagrams — into a queryable graph, replacing naive file-search with structured traversal and delivering a reported 71.5× token reduction on a 52-file corpus (~1.7k tokens vs ~123k raw). Built on Tree-sitter AST extraction, NetworkX, and Leiden community detection, it requires no embeddings, no vector store, and no server, and integrates natively with over 24 AI coding platforms including Claude Code, Codex, Cursor, Gemini CLI, and GitHub Copilot CLI. With 63,000+ GitHub stars and YC S26 backing, Graphify is one of the most widely adopted graph-based context layers in the AI coding assistant ecosystem.

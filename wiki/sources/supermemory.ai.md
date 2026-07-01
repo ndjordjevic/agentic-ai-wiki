@@ -2,7 +2,7 @@
 type: source
 source_url: https://supermemory.ai/
 tags: [memory-layer, context-engineering, knowledge-graph, rag, mcp-server, ai-agents, typescript-sdk, python-sdk]
-related: [reseek.net, runcabinet.com, garrytan-gbrain, tolaria.md, notebooklm.google]
+related: [reseek.net, runcabinet.com, garrytan-gbrain, tolaria.md, notebooklm.google, HKUDS-RAG-Anything]
 product: supermemory
 detail_level: standard
 created: 2026-06-12

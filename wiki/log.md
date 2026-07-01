@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-01 | ingest | HKUDS-RAG-Anything | Multimodal RAG framework on LightRAG — MinerU parsing, modal processors, knowledge graph, VLM queries
+
+- Created: wiki/sources/HKUDS-RAG-Anything.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-07-01 | ingest | producthunt.com | Product Hunt — community product discovery platform with daily leaderboards and GraphQL API v2
 
 - Created: wiki/sources/producthunt.com.md
