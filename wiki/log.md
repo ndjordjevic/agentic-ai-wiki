@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-01 | ingest | zaro.ai | Workspace platform — MCP agents, no-code apps, owned context memory, model routing
+
+- Created: wiki/sources/zaro.ai.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-07-01 | ingest | nadimtuhin-claude-token-optimizer | Claude Code doc-structure CLI — tiered loading, 13 framework scaffolds, 12 hook templates, CI audit
 
 - Created: wiki/sources/nadimtuhin-claude-token-optimizer.md

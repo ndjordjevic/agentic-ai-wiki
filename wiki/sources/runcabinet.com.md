@@ -21,6 +21,7 @@ related:
   - supermemory.ai
   - tolaria.md
   - notebooklm.google
+  - zaro.ai
 product: cabinet
 detail_level: deep
 created: 2026-04-29

@@ -17,6 +17,7 @@ related:
   - factory.ai
   - lovable.dev
   - bolt.new
+  - zaro.ai
 product: retool
 detail_level: standard
 created: 2026-06-30
