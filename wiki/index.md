@@ -137,5 +137,6 @@ created: 2026-04-28
 | [[bolt.new]] | web | standard | 2026-07-01 | companion: stackblitz/bolt.new |
 | [[warp.dev]] | web | standard | 2026-07-01 | companion: warpdotdev/warp |
 | [[notebooklm.google]] | web | standard | 2026-07-01 | |
+| [[postiz.com]] | web | standard | 2026-07-01 | companion: gitroomhq/postiz-app |
 
-_125 sources ingested._
+_126 sources ingested._
