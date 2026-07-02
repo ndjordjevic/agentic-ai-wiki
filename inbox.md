@@ -17,7 +17,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
-- [ ] https://github.com/fastai/fastbook
 - [ ] https://github.com/kepano/obsidian-skills
 - [ ] https://clickup.com/
 - [ ] https://kie.ai/
@@ -199,3 +198,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://zaro.ai/ <!-- ingested 2026-07-01 -->
 - [x] https://github.com/teng-lin/notebooklm-py <!-- ingested 2026-07-02 -->
 - [x] https://github.com/VoltAgent/awesome-design-md <!-- ingested 2026-07-02 -->
+- [x] https://github.com/fastai/fastbook <!-- ingested 2026-07-02 -->

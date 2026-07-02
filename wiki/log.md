@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-02 | ingest | fastai-fastbook | Open-source fastai/PyTorch deep-learning course as 20 Jupyter notebooks
+
+- Created: wiki/sources/fastai-fastbook.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-07-02 | ingest | voltagent-awesome-design-md | Curated catalog of 73+ DESIGN.md brand design systems for agent UI generation
 
 - Created: wiki/sources/voltagent-awesome-design-md.md

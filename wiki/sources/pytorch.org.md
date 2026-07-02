@@ -17,10 +17,11 @@ tags:
   - python-first
 related:
   - huggingface.co
+  - fastai-fastbook
 product: pytorch
 detail_level: standard
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-07-02
 ---
 
 PyTorch is the dominant open-source deep learning framework, providing GPU-accelerated tensor computation and a dynamic neural network library built around a tape-based autograd system. Originally developed at Facebook AI Research, it is now stewarded by the PyTorch Foundation under the Linux Foundation and has become the framework of choice for research (99k+ GitHub stars, v2.12.0 current) and increasingly for production via TorchScript and TorchServe. For agentic AI practitioners, PyTorch is foundational infrastructure: virtually every leading model (LLMs, vision models, multimodal systems) is trained or fine-tuned with PyTorch, and inference runtimes, quantization tools, and serving infrastructure (TorchServe, ExecuTorch for edge) are all part of the same ecosystem.

@@ -146,5 +146,6 @@ created: 2026-04-28
 | [[zaro.ai]] | web | standard | 2026-07-01 | |
 | [[teng-lin-notebooklm-py]] | github | standard | 2026-07-02 | |
 | [[voltagent-awesome-design-md]] | github | standard | 2026-07-02 | |
+| [[fastai-fastbook]] | github | standard | 2026-07-02 | |
 
-_134 sources ingested._
+_135 sources ingested._
