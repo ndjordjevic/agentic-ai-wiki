@@ -16,6 +16,7 @@ related:
   - obra-superpowers
   - getcaveman.dev
   - teng-lin-notebooklm-py
+  - voltagent-awesome-design-md
 product: awesome-agent-skills
 detail_level: standard
 created: 2026-06-08

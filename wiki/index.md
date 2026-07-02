@@ -145,5 +145,6 @@ created: 2026-04-28
 | [[nadimtuhin-claude-token-optimizer]] | github | standard | 2026-07-01 | |
 | [[zaro.ai]] | web | standard | 2026-07-01 | |
 | [[teng-lin-notebooklm-py]] | github | standard | 2026-07-02 | |
+| [[voltagent-awesome-design-md]] | github | standard | 2026-07-02 | |
 
-_133 sources ingested._
+_134 sources ingested._

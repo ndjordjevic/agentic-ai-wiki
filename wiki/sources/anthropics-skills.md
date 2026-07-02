@@ -33,6 +33,7 @@ related:
   - garrytan-gstack
   - open-design.ai
   - voltagent-awesome-agent-skills
+  - voltagent-awesome-design-md
   - teng-lin-notebooklm-py
   - santifer-career-ops
   - mksglu-context-mode

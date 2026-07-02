@@ -88,3 +88,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/juliusbrussee-caveman.md | JuliusBrussee/caveman | 78406 | main | v1.9.0 | 2026-07-01 | companion for getcaveman.dev |
 | raw/github/nadimtuhin-claude-token-optimizer.md | nadimtuhin/claude-token-optimizer | 499 | main | none | 2026-07-01 | |
 | raw/github/teng-lin-notebooklm-py.md | teng-lin/notebooklm-py | 17077 | main | v0.7.3 | 2026-07-02 | |
+| raw/github/voltagent-awesome-design-md.md | VoltAgent/awesome-design-md | 95082 | main | none | 2026-07-02 | |
