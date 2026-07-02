@@ -90,3 +90,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/teng-lin-notebooklm-py.md | teng-lin/notebooklm-py | 17077 | main | v0.7.3 | 2026-07-02 | |
 | raw/github/voltagent-awesome-design-md.md | VoltAgent/awesome-design-md | 95082 | main | none | 2026-07-02 | |
 | raw/github/fastai-fastbook.md | fastai/fastbook | 25078 | master | v0.0.19 | 2026-07-02 | |
+| raw/github/kepano-obsidian-skills.md | kepano/obsidian-skills | 39337 | main | none | 2026-07-02 | |

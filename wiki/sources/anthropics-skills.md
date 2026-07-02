@@ -37,6 +37,7 @@ related:
   - teng-lin-notebooklm-py
   - santifer-career-ops
   - mksglu-context-mode
+  - kepano-obsidian-skills
 product: skills
 detail_level: standard
 created: 2026-05-11

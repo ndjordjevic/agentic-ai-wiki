@@ -17,6 +17,7 @@ related:
   - getcaveman.dev
   - teng-lin-notebooklm-py
   - voltagent-awesome-design-md
+  - kepano-obsidian-skills
 product: awesome-agent-skills
 detail_level: standard
 created: 2026-06-08

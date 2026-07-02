@@ -147,5 +147,6 @@ created: 2026-04-28
 | [[teng-lin-notebooklm-py]] | github | standard | 2026-07-02 | |
 | [[voltagent-awesome-design-md]] | github | standard | 2026-07-02 | |
 | [[fastai-fastbook]] | github | standard | 2026-07-02 | |
+| [[kepano-obsidian-skills]] | github | standard | 2026-07-02 | |
 
-_135 sources ingested._
+_136 sources ingested._

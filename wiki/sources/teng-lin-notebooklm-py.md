@@ -19,6 +19,7 @@ related:
   - 6eanut-llm-wiki
   - obra-superpowers
   - supermemory.ai
+  - kepano-obsidian-skills
 product: notebooklm
 detail_level: standard
 created: 2026-07-02

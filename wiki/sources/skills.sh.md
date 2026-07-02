@@ -39,6 +39,7 @@ related:
   - garrytan-gstack
   - open-design.ai
   - voltagent-awesome-agent-skills
+  - kepano-obsidian-skills
   - mattpocock-skills
   - the-new-sdlc-with-vibe-coding
   - producthunt.com
