@@ -144,5 +144,6 @@ created: 2026-04-28
 | [[how-claude-code-works-in-large-codebases]] | web | standard | 2026-07-01 | Anthropic blog; Claude Code at scale series |
 | [[nadimtuhin-claude-token-optimizer]] | github | standard | 2026-07-01 | |
 | [[zaro.ai]] | web | standard | 2026-07-01 | |
+| [[teng-lin-notebooklm-py]] | github | standard | 2026-07-02 | |
 
-_132 sources ingested._
+_133 sources ingested._

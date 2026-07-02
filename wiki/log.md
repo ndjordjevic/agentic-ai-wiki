@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-02 | ingest | teng-lin-notebooklm-py | Unofficial NotebookLM Python API, CLI, MCP server, and agent skill
+
+- Created: wiki/sources/teng-lin-notebooklm-py.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-07-01 | ingest | zaro.ai | Workspace platform — MCP agents, no-code apps, owned context memory, model routing
 
 - Created: wiki/sources/zaro.ai.md

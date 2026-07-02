@@ -2,11 +2,11 @@
 type: source
 source_url: https://github.com/6eanut/llm-wiki
 tags: [llm-wiki, karpathy-pattern, claude-code, skills, knowledge-base, agent-memory]
-related: [anthropics-skills, shareai-lab-learn-claude-code, forrestchang-andrej-karpathy-skills, skills.sh, runcabinet.com, nadimtuhin-claude-token-optimizer]
+related: [anthropics-skills, shareai-lab-learn-claude-code, forrestchang-andrej-karpathy-skills, skills.sh, runcabinet.com, nadimtuhin-claude-token-optimizer, teng-lin-notebooklm-py]
 product: llm-wiki
 detail_level: standard
 created: 2026-05-13
-updated: 2026-07-01
+updated: 2026-07-02
 ---
 
 # 6eanut/llm-wiki

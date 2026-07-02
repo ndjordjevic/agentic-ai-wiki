@@ -2,11 +2,11 @@
 type: source
 source_url: https://notebooklm.google/
 tags: [ai-research-assistant, source-grounded, audio-overview, gemini, knowledge-synthesis, document-analysis, multimodal, note-taking]
-related: [runcabinet.com, supermemory.ai, zaro.ai]
+related: [runcabinet.com, supermemory.ai, zaro.ai, teng-lin-notebooklm-py]
 product: notebooklm
 detail_level: standard
 created: 2026-07-01
-updated: 2026-07-01
+updated: 2026-07-02
 ---
 
 Google NotebookLM is an AI-powered research assistant and thinking partner built with Google's latest Gemini models. Its defining characteristic is **source grounding**: every answer is drawn exclusively from the documents, websites, videos, and files the user uploads, with inline citations pointing to exact source quotes — sharply reducing hallucination risk compared to general-purpose AI chat. NotebookLM occupies the knowledge-synthesis and personal research tier: it excels at helping individuals and teams understand large bodies of material quickly, generate study aids, and produce shareable artifacts (Audio Overviews, Video Overviews, Flashcards, Infographics, Slide Decks) without leaving the notebook interface.
