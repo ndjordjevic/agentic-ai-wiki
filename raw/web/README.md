@@ -84,3 +84,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/how-claude-code-works-in-large-codebases.md | how-claude-code-works-in-large-codebases | 1 | 2026-07-01 | Anthropic blog; single-page |
 | raw/web/zaro.ai.md | zaro.ai | 6 | 2026-07-01 | |
 | raw/web/clickup.com.md | clickup.com | 8 | 2026-07-02 | |
+| raw/web/kie.ai.md | kie.ai | 8 | 2026-07-02 | |
