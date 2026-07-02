@@ -18,10 +18,11 @@ related:
   - lovable.dev
   - bolt.new
   - zaro.ai
+  - clickup.com
 product: retool
 detail_level: standard
 created: 2026-06-30
-updated: 2026-07-01
+updated: 2026-07-02
 ---
 
 Retool is an enterprise development platform for building, deploying, and governing internal software — admin panels, dashboards, AI agents, workflows, and mobile apps — on top of existing data sources and APIs. Used by 10,000+ companies (Amazon, DoorDash, Ramp, Stripe, OpenAI, Boeing, Pfizer), it sits between fully custom-coded applications and spreadsheet/no-code tools, offering the power and security of the former at the speed of the latter. In the agentic AI space, Retool is directly relevant as both a deployment target for agent dashboards (see [[coleam00-agent-control-plane]]) and as an agent platform in its own right, with first-class AI agent creation, MCP server support, and LLM-integrated workflow automation.

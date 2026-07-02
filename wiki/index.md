@@ -148,5 +148,6 @@ created: 2026-04-28
 | [[voltagent-awesome-design-md]] | github | standard | 2026-07-02 | |
 | [[fastai-fastbook]] | github | standard | 2026-07-02 | |
 | [[kepano-obsidian-skills]] | github | standard | 2026-07-02 | |
+| [[clickup.com]] | web | standard | 2026-07-02 | |
 
-_136 sources ingested._
+_137 sources ingested._

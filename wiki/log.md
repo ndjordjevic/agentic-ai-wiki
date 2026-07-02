@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-02 | ingest | clickup.com | Enterprise work OS with Super Agents, Brain², and MCP server for AI assistants
+
+- Created: wiki/sources/clickup.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-07-02 | ingest | kepano-obsidian-skills | Official Obsidian Agent Skills pack (markdown, bases, canvas, CLI, defuddle)
 
 - Created: wiki/sources/kepano-obsidian-skills.md
