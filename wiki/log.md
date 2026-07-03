@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-03 | ingest | langchain-ai-openwiki | Agent-facing documentation CLI built on Deep Agents, dogfooded on itself
+
+- Created: wiki/sources/langchain-ai-openwiki.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-07-02 | ingest | kie.ai | Unified multimodal API gateway for video, image, audio, and LLM models
 
 - Created: wiki/sources/kie.ai.md

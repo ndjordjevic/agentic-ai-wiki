@@ -91,3 +91,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/voltagent-awesome-design-md.md | VoltAgent/awesome-design-md | 95082 | main | none | 2026-07-02 | |
 | raw/github/fastai-fastbook.md | fastai/fastbook | 25078 | master | v0.0.19 | 2026-07-02 | |
 | raw/github/kepano-obsidian-skills.md | kepano/obsidian-skills | 39337 | main | none | 2026-07-02 | |
+| raw/github/langchain-ai-openwiki.md | langchain-ai/openwiki | 1314 | main | none | 2026-07-03 | |

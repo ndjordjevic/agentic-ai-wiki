@@ -150,5 +150,6 @@ created: 2026-04-28
 | [[kepano-obsidian-skills]] | github | standard | 2026-07-02 | |
 | [[clickup.com]] | web | standard | 2026-07-02 | |
 | [[kie.ai]] | web | standard | 2026-07-02 | |
+| [[langchain-ai-openwiki]] | github | standard | 2026-07-03 | |
 
-_138 sources ingested._
+_139 sources ingested._

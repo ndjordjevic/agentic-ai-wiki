@@ -12,10 +12,11 @@ related:
   - langchain.com-langchain
   - langchain.com-langgraph
   - langchain.com-fleet
+  - langchain-ai-openwiki
 product: langsmith
 detail_level: deep
 created: 2026-04-29
-updated: 2026-06-06
+updated: 2026-07-03
 ---
 
 LangSmith is LangChain's framework-agnostic platform for understanding, testing, and operating AI agents. Within the broader LangChain platform it supplies the operational layer: tracing and monitoring during development and production, offline and online evaluation loops, and a deployment/runtime story built around Agent Server and managed infrastructure.

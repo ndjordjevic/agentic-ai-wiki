@@ -24,10 +24,11 @@ related:
   - factory.ai
   - pydantic.dev
   - n8n.io
+  - langchain-ai-openwiki
 product: langchain.com
 detail_level: deep
 created: 2026-04-29
-updated: 2026-06-15
+updated: 2026-07-03
 
 ---
 
