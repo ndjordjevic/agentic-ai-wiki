@@ -12,6 +12,7 @@ tags:
   - rust
 related:
   - paperclip.ing
+  - paperclipai-paperclip
   - tmux-tmux
   - aaif-goose-goose
   - 9d5bzxVsocw-anthropic-just-dropped-the-new-blueprint
@@ -24,7 +25,7 @@ related:
 product: agent-of-empires
 detail_level: standard
 created: 2026-05-02
-updated: 2026-07-01
+updated: 2026-07-03
 ---
 
 Agent of Empires (AoE) is an open-source terminal session manager for AI coding agents, written in Rust and available under the MIT license. With 1,868 stars and 153 forks, it sits at the intersection of multi-agent tooling and developer workflow — it lets you run Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Cursor CLI, Copilot CLI, Pi.dev, Factory Droid, and Hermes in parallel, each in its own isolated tmux session, managed from a single TUI, web dashboard, or CLI. It matters for this wiki as a concrete example of an agent orchestration layer that is not an LLM framework: it handles session persistence, parallel branch isolation via git worktrees, Docker sandboxing, status detection, and remote mobile access without touching model APIs directly.

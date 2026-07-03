@@ -17,7 +17,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
-- [ ] https://github.com/paperclipai/paperclip
 - [ ] https://github.com/ruvnet/ruflo
 - [ ] https://github.com/phuryn/pm-skills
 - [ ] https://github.com/Yeachan-Heo/oh-my-claudecode
@@ -207,3 +206,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://happy.engineering/ <!-- ingested 2026-07-03 -->
 - [x] https://github.com/coleam00/claude-memory-compiler <!-- ingested 2026-07-03 -->
 - [x] https://github.com/hilash/cabinet <!-- ingested 2026-07-03 -->
+- [x] https://github.com/paperclipai/paperclip <!-- ingested 2026-07-03 -->

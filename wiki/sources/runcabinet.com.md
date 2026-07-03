@@ -18,6 +18,7 @@ tags:
 related:
   - hilash-cabinet
   - paperclip.ing
+  - paperclipai-paperclip
   - reseek.net
   - supermemory.ai
   - tolaria.md

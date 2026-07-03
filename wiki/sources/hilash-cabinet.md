@@ -13,6 +13,7 @@ tags:
 related:
   - runcabinet.com
   - paperclip.ing
+  - paperclipai-paperclip
   - 6eanut-llm-wiki
   - supermemory.ai
   - kepano-obsidian-skills

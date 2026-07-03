@@ -6,7 +6,7 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 
 | File | Repo | Stars | Default branch | Latest release | Fetched | Notes |
 |---|---|---|---|---|---|---|
-| raw/github/paperclipai-paperclip.md | paperclipai/paperclip | 59894 | master | v2026.427.0 | 2026-04-28 | |
+| raw/github/paperclipai-paperclip.md | paperclipai/paperclip | 72610 | master | v2026.626.0 | 2026-07-03 | |
 | raw/github/hilash-cabinet.md | hilash/cabinet | 2381 | main | v0.4.4 | 2026-07-03 | |
 | raw/github/vercel-labs-skills.md | vercel-labs/skills | 16547 | main | v1.5.1 | 2026-04-30 | |
 | raw/github/njbrake-agent-of-empires.md | njbrake/agent-of-empires | 1868 | main | v1.5.0 | 2026-05-02 | |

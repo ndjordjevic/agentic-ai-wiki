@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-03 | ingest | paperclipai-paperclip | Paperclip OSS repo — 72k-star control plane for AI-agent companies
+
+- Created: wiki/sources/paperclipai-paperclip.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-07-03 | ingest | hilash-cabinet | Cabinet OSS repo — markdown KB, provider adapters, cabinetai CLI, skills, scheduled agents
 
 - Created: wiki/sources/hilash-cabinet.md

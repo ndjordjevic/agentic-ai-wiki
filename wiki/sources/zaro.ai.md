@@ -15,13 +15,14 @@ related:
   - supermemory.ai
   - reseek.net
   - paperclip.ing
+  - paperclipai-paperclip
   - notebooklm.google
   - retool.com
   - clickup.com
 product: zaro
 detail_level: standard
 created: 2026-07-01
-updated: 2026-07-02
+updated: 2026-07-03
 ---
 
 Zaro is a hosted workspace platform for building company-owned intelligence: a versioned context layer (files, calls, CRM, Slack, specs), MCP-native agents that read from and write back to that workspace, and no-code apps generated from natural-language descriptions — all compounding in one siloed environment rather than resetting per session. The product is built by alumni of Salesforce's Convergence AI acquisition and positions itself against vendors that rent memory, sell integrations separately, or lock context inside a single model provider.

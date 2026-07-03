@@ -17,6 +17,7 @@ tags:
   - vercel
 related:
   - paperclip.ing
+  - paperclipai-paperclip
   - shareai-lab-learn-claude-code
   - graphify.net
   - must-have-clis-2026

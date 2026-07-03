@@ -164,5 +164,6 @@ created: 2026-04-28
 | [[happy.engineering]] | web | standard | 2026-07-03 | companion: slopus/happy |
 | [[coleam00-claude-memory-compiler]] | github | standard | 2026-07-03 | |
 | [[hilash-cabinet]] | github | standard | 2026-07-03 | |
+| [[paperclipai-paperclip]] | github | standard | 2026-07-03 | |
 
-_152 sources ingested._
+_153 sources ingested._
