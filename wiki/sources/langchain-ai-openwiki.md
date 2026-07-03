@@ -2,7 +2,7 @@
 type: source
 source_url: https://github.com/langchain-ai/openwiki
 tags: [openwiki-cli, agent-documentation, deepagents, self-updating-docs, github-actions, agents-md, provider-agnostic]
-related: [6eanut-llm-wiki, langchain.com-deepagents, langchain.com-langsmith, langchain.com, deepwiki.com]
+related: [6eanut-llm-wiki, langchain.com-deepagents, langchain.com-langsmith, langchain.com, deepwiki.com, AsyncFuncAI-deepwiki-open, he-yufeng-RepoWiki, AIDotNet-OpenDeepWiki, PorunC-CodeWiki, bb-boy680-open-zread]
 product: openwiki
 detail_level: standard
 created: 2026-07-03

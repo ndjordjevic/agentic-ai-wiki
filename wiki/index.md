@@ -155,5 +155,10 @@ created: 2026-04-28
 | [[trigger.dev]] | web | standard | 2026-07-03 | companion: triggerdotdev/trigger.dev |
 | [[stitch.withgoogle.com]] | web | standard | 2026-07-03 | |
 | [[deepwiki.com]] | web | standard | 2026-07-03 | |
+| [[AsyncFuncAI-deepwiki-open]] | github | standard | 2026-07-03 | OSS DeepWiki clone; Docker |
+| [[he-yufeng-RepoWiki]] | github | standard | 2026-07-03 | local-repo DeepWiki alternative; pip CLI |
+| [[AIDotNet-OpenDeepWiki]] | github | standard | 2026-07-03 | self-hosted DeepWiki + MCP platform |
+| [[PorunC-CodeWiki]] | github | standard | 2026-07-03 | AST + GraphRAG + MCP |
+| [[bb-boy680-open-zread]] | github | standard | 2026-07-03 | zread.ai OSS successor; incremental Wiki/ |
 
-_143 sources ingested._
+_148 sources ingested._

@@ -201,3 +201,8 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://trigger.dev/ <!-- ingested 2026-07-03 -->
 - [x] https://stitch.withgoogle.com/ <!-- ingested 2026-07-03 -->
 - [x] https://deepwiki.com/ <!-- ingested 2026-07-03 -->
+- [x] https://github.com/AsyncFuncAI/deepwiki-open <!-- ingested 2026-07-03 -->
+- [x] https://github.com/he-yufeng/RepoWiki <!-- ingested 2026-07-03 -->
+- [x] https://github.com/AIDotNet/OpenDeepWiki <!-- ingested 2026-07-03 -->
+- [x] https://github.com/PorunC/CodeWiki <!-- ingested 2026-07-03 -->
+- [x] https://github.com/bb-boy680/open-zread <!-- ingested 2026-07-03 -->

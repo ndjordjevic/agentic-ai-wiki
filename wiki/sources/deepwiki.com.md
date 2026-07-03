@@ -15,6 +15,11 @@ related:
   - 6eanut-llm-wiki
   - microsoft-playwright-mcp
   - mcp.sentry.dev
+  - AsyncFuncAI-deepwiki-open
+  - he-yufeng-RepoWiki
+  - AIDotNet-OpenDeepWiki
+  - PorunC-CodeWiki
+  - bb-boy680-open-zread
 product: deepwiki
 detail_level: standard
 created: 2026-07-03

@@ -93,3 +93,8 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/kepano-obsidian-skills.md | kepano/obsidian-skills | 39337 | main | none | 2026-07-02 | |
 | raw/github/langchain-ai-openwiki.md | langchain-ai/openwiki | 1314 | main | none | 2026-07-03 | |
 | raw/github/triggerdotdev-trigger.dev.md | triggerdotdev/trigger.dev | 15545 | main | v4.5.0 | 2026-07-03 | companion for trigger.dev |
+| raw/github/AsyncFuncAI-deepwiki-open.md | AsyncFuncAI/deepwiki-open | 17138 | main | none | 2026-07-03 | OSS DeepWiki clone |
+| raw/github/he-yufeng-RepoWiki.md | he-yufeng/RepoWiki | 207 | main | v0.1.0 | 2026-07-03 | local-repo wiki CLI |
+| raw/github/AIDotNet-OpenDeepWiki.md | AIDotNet/OpenDeepWiki | 3382 | main | v2.0.3 | 2026-07-03 | self-hosted DeepWiki + MCP |
+| raw/github/PorunC-CodeWiki.md | PorunC/CodeWiki | 163 | main | v0.6.3 | 2026-07-03 | AST + GraphRAG + MCP |
+| raw/github/bb-boy680-open-zread.md | bb-boy680/open-zread | 23 | main | @open-zread/cli@1.2.0 | 2026-07-03 | zread OSS successor |
