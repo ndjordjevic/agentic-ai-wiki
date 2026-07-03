@@ -152,5 +152,6 @@ created: 2026-04-28
 | [[kie.ai]] | web | standard | 2026-07-02 | |
 | [[langchain-ai-openwiki]] | github | standard | 2026-07-03 | |
 | [[zcode.z.ai]] | web | standard | 2026-07-03 | |
+| [[trigger.dev]] | web | standard | 2026-07-03 | companion: triggerdotdev/trigger.dev |
 
-_140 sources ingested._
+_141 sources ingested._

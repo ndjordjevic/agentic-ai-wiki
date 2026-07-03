@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-03 | ingest | trigger.dev | Open-source TypeScript platform for durable AI agents and long-running workflows (checkpoint-resume, MCP)
+
+- Created: wiki/sources/trigger.dev.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/triggerdotdev-trigger.dev.md
+
 ## 2026-07-03 | ingest | zcode.z.ai | Z.ai's GLM-5.2-first Agentic Development Environment (Goal Mode, bot control, MCP manager)
 
 - Created: wiki/sources/zcode.z.ai.md
