@@ -18,12 +18,13 @@ related:
   - forrestchang-andrej-karpathy-skills
   - skills.sh
   - coleam00-harness-engineering-demo
+  - coleam00-helpline
   - njbrake-agent-of-empires
   - nadimtuhin-claude-token-optimizer
 product: claude-code
 detail_level: standard
 created: 2026-07-01
-updated: 2026-07-01
+updated: 2026-07-03
 ---
 
 Anthropic's official "Claude Code at scale" article documents how Claude Code operates in production across multi-million-line monorepos, legacy systems, and distributed multi-repo architectures — and the configuration, harness, and organizational patterns that separate successful enterprise rollouts from stalled adoption. It argues that agentic filesystem search (not RAG indexing) is Claude Code's navigation model, that the harness extension layer matters as much as the model, and that large-codebase success depends on layered CLAUDE.md files, path-scoped skills, plugins for distribution, LSP for symbol-level navigation, MCP for internal tools, and dedicated ownership for configuration governance.

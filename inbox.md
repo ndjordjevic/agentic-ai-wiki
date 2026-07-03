@@ -206,3 +206,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/AIDotNet/OpenDeepWiki <!-- ingested 2026-07-03 -->
 - [x] https://github.com/PorunC/CodeWiki <!-- ingested 2026-07-03 -->
 - [x] https://github.com/bb-boy680/open-zread <!-- ingested 2026-07-03 -->
+- [x] https://github.com/coleam00/helpline <!-- ingested 2026-07-03 -->

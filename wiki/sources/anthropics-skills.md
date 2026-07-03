@@ -24,6 +24,7 @@ related:
   - anthropic.com
   - anthropic.com-messages
   - how-claude-code-works-in-large-codebases
+  - coleam00-helpline
   - obra-superpowers
   - browse.sh
   - bmad-code-org-bmad-method

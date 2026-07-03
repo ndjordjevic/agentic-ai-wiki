@@ -12,6 +12,7 @@ tags:
   - embedding-search
 related:
   - coleam00-harness-engineering-demo
+  - coleam00-helpline
   - sequentialthinking-mcp
   - mksglu-context-mode
   - HKUDS-RAG-Anything

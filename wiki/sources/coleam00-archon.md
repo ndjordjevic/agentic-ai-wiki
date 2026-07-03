@@ -12,6 +12,7 @@ tags:
   - ai-coding-agent
 related:
   - coleam00-harness-engineering-demo
+  - coleam00-helpline
   - obra-superpowers
   - njbrake-agent-of-empires
   - gsd-build-get-shit-done

@@ -160,5 +160,6 @@ created: 2026-04-28
 | [[AIDotNet-OpenDeepWiki]] | github | standard | 2026-07-03 | self-hosted DeepWiki + MCP platform |
 | [[PorunC-CodeWiki]] | github | standard | 2026-07-03 | AST + GraphRAG + MCP |
 | [[bb-boy680-open-zread]] | github | standard | 2026-07-03 | zread.ai OSS successor; incremental Wiki/ |
+| [[coleam00-helpline]] | github | standard | 2026-07-03 | AI Layer reference impl for Anthropic large-codebases article |
 
-_148 sources ingested._
+_149 sources ingested._

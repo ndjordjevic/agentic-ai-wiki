@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-03 | ingest | coleam00-helpline | AI Layer reference implementation for Anthropic's large-codebases article (CLAUDE.md, hooks, skills, LSP, MCP, plugin)
+
+- Created: wiki/sources/coleam00-helpline.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-07-03 | ingest | OSS DeepWiki alternatives | 5 self-hosted repo-wiki tools (deepwiki-open, RepoWiki, OpenDeepWiki, CodeWiki, open-zread)
 
 - Created: wiki/sources/AsyncFuncAI-deepwiki-open.md, wiki/sources/he-yufeng-RepoWiki.md, wiki/sources/AIDotNet-OpenDeepWiki.md, wiki/sources/PorunC-CodeWiki.md, wiki/sources/bb-boy680-open-zread.md

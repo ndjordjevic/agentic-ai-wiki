@@ -12,6 +12,7 @@ tags:
   - multi-harness
 related:
   - coleam00-harness-engineering-demo
+  - coleam00-helpline
   - gsd-build-get-shit-done
   - anthropics-skills
   - seangeng.com-plan-optimizer
