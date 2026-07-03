@@ -23,6 +23,7 @@ related:
   - x.com-ericzakariasson-building-clis-for-agents
   - nadimtuhin-claude-token-optimizer
   - kepano-obsidian-skills
+  - coleam00-claude-memory-compiler
   - happy.engineering
   - coleam00-helpline
 product: learn-claude-code

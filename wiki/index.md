@@ -162,5 +162,6 @@ created: 2026-04-28
 | [[bb-boy680-open-zread]] | github | standard | 2026-07-03 | zread.ai OSS successor; incremental Wiki/ |
 | [[coleam00-helpline]] | github | standard | 2026-07-03 | AI Layer reference impl for Anthropic large-codebases article |
 | [[happy.engineering]] | web | standard | 2026-07-03 | companion: slopus/happy |
+| [[coleam00-claude-memory-compiler]] | github | standard | 2026-07-03 | |
 
-_150 sources ingested._
+_151 sources ingested._

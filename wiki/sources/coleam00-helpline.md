@@ -20,6 +20,7 @@ related:
   - coleam00-archon
   - langchain-ai-openwiki
   - 6eanut-llm-wiki
+  - coleam00-claude-memory-compiler
 product: helpline
 detail_level: standard
 created: 2026-07-03

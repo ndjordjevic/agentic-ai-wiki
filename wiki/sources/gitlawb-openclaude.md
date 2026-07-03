@@ -16,6 +16,7 @@ related:
   - snarktank-ralph
   - openai-codex-plugin-cc
   - happy.engineering
+  - coleam00-claude-memory-compiler
 product: openclaude
 detail_level: standard
 created: 2026-05-27

@@ -100,3 +100,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/bb-boy680-open-zread.md | bb-boy680/open-zread | 23 | main | @open-zread/cli@1.2.0 | 2026-07-03 | zread OSS successor |
 | raw/github/coleam00-helpline.md | coleam00/helpline | 100 | main | none | 2026-07-03 | AI Layer demo for large-codebases article |
 | raw/github/slopus-happy.md | slopus/happy | 22374 | main | cli-1.1.10 | 2026-07-03 | companion for happy.engineering |
+| raw/github/coleam00-claude-memory-compiler.md | coleam00/claude-memory-compiler | 1225 | main | none | 2026-07-03 | |

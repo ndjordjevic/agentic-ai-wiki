@@ -19,10 +19,11 @@ related:
   - teng-lin-notebooklm-py
   - forrestchang-andrej-karpathy-skills
   - shareai-lab-learn-claude-code
+  - coleam00-claude-memory-compiler
 product: obsidian-skills
 detail_level: standard
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-07-03
 ---
 
 `kepano/obsidian-skills` is Steph Ango's official Agent Skills collection for Obsidian — five SKILL.md modules that teach coding agents to create and edit Obsidian Flavored Markdown, Bases (`.base`), JSON Canvas (`.canvas`), and vault operations via the Obsidian CLI, plus a Defuddle skill for clean web-page extraction. With 39,000+ stars and MIT licensing, it is the canonical skills pack for agents working inside Obsidian vaults and connects directly to the broader SKILL.md ecosystem distributed through [[skills.sh]].
