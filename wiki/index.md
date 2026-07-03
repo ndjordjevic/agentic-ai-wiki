@@ -154,5 +154,6 @@ created: 2026-04-28
 | [[zcode.z.ai]] | web | standard | 2026-07-03 | |
 | [[trigger.dev]] | web | standard | 2026-07-03 | companion: triggerdotdev/trigger.dev |
 | [[stitch.withgoogle.com]] | web | standard | 2026-07-03 | |
+| [[deepwiki.com]] | web | standard | 2026-07-03 | |
 
-_142 sources ingested._
+_143 sources ingested._

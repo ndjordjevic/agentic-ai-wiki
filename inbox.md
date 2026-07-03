@@ -17,7 +17,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
-- [ ] https://deepwiki.com/
 - [ ] https://happy.engineering/
 - [ ] https://github.com/coleam00/claude-memory-compiler
 - [ ] https://github.com/hilash/cabinet
@@ -201,3 +200,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://zcode.z.ai/en <!-- ingested 2026-07-03 -->
 - [x] https://trigger.dev/ <!-- ingested 2026-07-03 -->
 - [x] https://stitch.withgoogle.com/ <!-- ingested 2026-07-03 -->
+- [x] https://deepwiki.com/ <!-- ingested 2026-07-03 -->

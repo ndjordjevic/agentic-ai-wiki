@@ -21,10 +21,11 @@ related:
   - greptile.com
   - qa.tech
   - skills.sh
+  - deepwiki.com
 product: sentry
 detail_level: standard
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-07-03
 ---
 
 Sentry MCP is Sentry's official **remote Model Context Protocol server** that connects coding agents (Cursor, Claude Code, VS Code, Codex, Windsurf, Zed, etc.) to live Sentry production data via OAuth — no local clone or API token juggling for the hosted path. The endpoint `https://mcp.sentry.dev/mcp` exposes tools for fetching issues, searching errors and events, analyzing traces, invoking Seer root-cause analysis, and reading Sentry docs — so agents debug with real stack traces and user impact instead of pasted screenshots. The open-source implementation lives in `getsentry/sentry-mcp` (748 stars, TypeScript, Cloudflare Workers deployment + optional `@sentry/mcp-server` stdio package for self-hosted Sentry).

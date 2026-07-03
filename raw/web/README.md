@@ -88,3 +88,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/zcode.z.ai.md | zcode.z.ai | 6 | 2026-07-03 | |
 | raw/web/trigger.dev.md | trigger.dev | 8 | 2026-07-03 | companion: triggerdotdev/trigger.dev |
 | raw/web/stitch.withgoogle.com.md | stitch.withgoogle.com | 8 | 2026-07-03 | SPA; llms.txt + linked docs |
+| raw/web/deepwiki.com.md | deepwiki.com | 6 | 2026-07-03 | Devin docs + sample repo wiki |
