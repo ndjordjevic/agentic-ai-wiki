@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-03 | ingest | stitch.withgoogle.com | Google Labs vibe-design tool — text/sketch-to-UI, Figma export, DESIGN.md spec origin
+
+- Created: wiki/sources/stitch.withgoogle.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-07-03 | ingest | trigger.dev | Open-source TypeScript platform for durable AI agents and long-running workflows (checkpoint-resume, MCP)
 
 - Created: wiki/sources/trigger.dev.md
