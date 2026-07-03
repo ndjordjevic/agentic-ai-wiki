@@ -16,10 +16,11 @@ related:
   - qa.tech
   - skills.sh
   - browserbase.com
+  - ruvnet-ruflo
 product: agent-browser
 detail_level: standard
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-07-03
 ---
 
 agent-browser is Vercel Labs' open-source, native Rust CLI for browser automation built specifically for AI agents (34,229 stars, Apache-2.0, v0.27.0). Rather than wrapping Playwright or Puppeteer, it implements its own CDP client in pure Rust, launching a background daemon that persists across commands so agents pay zero startup overhead per interaction. Its central abstraction is the **snapshot/ref workflow**: a single `agent-browser snapshot -i` call returns an accessibility-tree summary with compact `@eN` ref handles (~200–400 tokens vs raw HTML), which the agent then uses in deterministic `click @e2` or `fill @e3 "text"` calls. Refs are stable within a page state and deliberately stale across navigations, forcing a re-snapshot pattern that prevents stale-element errors.

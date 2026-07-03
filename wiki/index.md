@@ -165,5 +165,6 @@ created: 2026-04-28
 | [[coleam00-claude-memory-compiler]] | github | standard | 2026-07-03 | |
 | [[hilash-cabinet]] | github | standard | 2026-07-03 | |
 | [[paperclipai-paperclip]] | github | standard | 2026-07-03 | |
+| [[ruvnet-ruflo]] | github | standard | 2026-07-03 | formerly Claude Flow; agent meta-harness |
 
-_153 sources ingested._
+_154 sources ingested._
