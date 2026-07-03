@@ -102,3 +102,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/slopus-happy.md | slopus/happy | 22374 | main | cli-1.1.10 | 2026-07-03 | companion for happy.engineering |
 | raw/github/coleam00-claude-memory-compiler.md | coleam00/claude-memory-compiler | 1225 | main | none | 2026-07-03 | |
 | raw/github/ruvnet-ruflo.md | ruvnet/ruflo | 62733 | main | v3.16.3 | 2026-07-03 | formerly Claude Flow |
+| raw/github/openai-openai-agents-js.md | openai/openai-agents-js | 3324 | main | v0.12.0 | 2026-07-03 | companion for developers.openai.com |

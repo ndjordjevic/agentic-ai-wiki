@@ -18,6 +18,7 @@ related:
   - factory.ai
   - backnotprop-plannotator
   - gitlawb-openclaude
+  - developers.openai.com
 product: codex-plugin-cc
 detail_level: standard
 created: 2026-05-22

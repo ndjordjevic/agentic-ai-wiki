@@ -166,5 +166,6 @@ created: 2026-04-28
 | [[hilash-cabinet]] | github | standard | 2026-07-03 | |
 | [[paperclipai-paperclip]] | github | standard | 2026-07-03 | |
 | [[ruvnet-ruflo]] | github | standard | 2026-07-03 | formerly Claude Flow; agent meta-harness |
+| [[developers.openai.com]] | web | standard | 2026-07-03 | OpenAI Agents SDK docs; companion: openai/openai-agents-js |
 
-_154 sources ingested._
+_155 sources ingested._

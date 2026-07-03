@@ -24,6 +24,7 @@ related:
   - strandsagents.com
   - pydantic.dev
   - clickup.com
+  - developers.openai.com
   - trigger.dev
 product: adk
 detail_level: standard
