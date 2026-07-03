@@ -23,11 +23,12 @@ related:
   - crewai.com
   - factory.ai
   - producthunt.com
+  - zcode.z.ai
   - getcaveman.dev
 product: warp
 detail_level: standard
 created: 2026-07-01
-updated: 2026-07-01
+updated: 2026-07-03
 ---
 
 Warp is an open-source Agentic Development Environment (ADE) built in Rust that unites a high-performance, modern terminal with a cloud agent orchestration platform called Oz. Unlike AI coding assistants that sit alongside a conventional terminal, Warp re-imagines the terminal itself as the control plane for local and cloud agents: developers can run Warp's own agent, Claude Code, Codex, Gemini CLI, or OpenCode inside a single UI that provides rich input, interactive code review, planning, task tracking, and MCP tool connectivity. The companion `warpdotdev/warp` repo (62k+ stars, AGPL-3.0, with MIT for the UI crates) hosts the open-source client and is actively maintained by a mix of engineers and Oz-powered automated agents. (../../raw/github/warpdotdev-warp.md)

@@ -200,3 +200,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://clickup.com/ <!-- ingested 2026-07-02 -->
 - [x] https://kie.ai/ <!-- ingested 2026-07-02 -->
 - [x] https://github.com/langchain-ai/openwiki <!-- ingested 2026-07-03 -->
+- [x] https://zcode.z.ai/en <!-- ingested 2026-07-03 -->

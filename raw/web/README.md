@@ -85,3 +85,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/zaro.ai.md | zaro.ai | 6 | 2026-07-01 | |
 | raw/web/clickup.com.md | clickup.com | 8 | 2026-07-02 | |
 | raw/web/kie.ai.md | kie.ai | 8 | 2026-07-02 | |
+| raw/web/zcode.z.ai.md | zcode.z.ai | 6 | 2026-07-03 | |
