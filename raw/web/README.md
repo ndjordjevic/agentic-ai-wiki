@@ -89,3 +89,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/trigger.dev.md | trigger.dev | 8 | 2026-07-03 | companion: triggerdotdev/trigger.dev |
 | raw/web/stitch.withgoogle.com.md | stitch.withgoogle.com | 8 | 2026-07-03 | SPA; llms.txt + linked docs |
 | raw/web/deepwiki.com.md | deepwiki.com | 6 | 2026-07-03 | Devin docs + sample repo wiki |
+| raw/web/happy.engineering.md | happy.engineering | 10 | 2026-07-03 | companion: slopus/happy |

@@ -21,6 +21,7 @@ related:
   - coleam00-helpline
   - njbrake-agent-of-empires
   - nadimtuhin-claude-token-optimizer
+  - happy.engineering
 product: claude-code
 detail_level: standard
 created: 2026-07-01

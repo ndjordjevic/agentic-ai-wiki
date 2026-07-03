@@ -25,6 +25,7 @@ related:
   - producthunt.com
   - zcode.z.ai
   - getcaveman.dev
+  - happy.engineering
 product: warp
 detail_level: standard
 created: 2026-07-01

@@ -15,10 +15,11 @@ related:
   - litellm.ai
   - snarktank-ralph
   - openai-codex-plugin-cc
+  - happy.engineering
 product: openclaude
 detail_level: standard
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-07-03
 ---
 
 OpenClaude is an open-source coding-agent CLI (27,800+ stars) that ports the Claude Code terminal workflow to any model provider. It replaces Anthropic's backend with a descriptor-first integration layer, letting teams use OpenAI-compatible APIs, Gemini, GitHub Models, Codex OAuth, Ollama, Atomic Chat, and other backends while keeping a single set of tools: bash, file read/write/edit, grep, glob, agents, tasks, MCP, and streaming slash commands. Sponsored by GitLawb, Bankr.bot, Atomic Chat, and Xiaomi MiMo and released under an open license, it is the primary community answer to "Claude Code, but with the model of my choice."

@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-03 | ingest | happy.engineering | MIT mobile/web client for Claude Code — E2E encrypted relay sync, voice agent, multi-session
+
+- Created: wiki/sources/happy.engineering.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/slopus-happy.md
+
 ## 2026-07-03 | ingest | coleam00-helpline | AI Layer reference implementation for Anthropic's large-codebases article (CLAUDE.md, hooks, skills, LSP, MCP, plugin)
 
 - Created: wiki/sources/coleam00-helpline.md

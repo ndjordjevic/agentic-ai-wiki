@@ -161,5 +161,6 @@ created: 2026-04-28
 | [[PorunC-CodeWiki]] | github | standard | 2026-07-03 | AST + GraphRAG + MCP |
 | [[bb-boy680-open-zread]] | github | standard | 2026-07-03 | zread.ai OSS successor; incremental Wiki/ |
 | [[coleam00-helpline]] | github | standard | 2026-07-03 | AI Layer reference impl for Anthropic large-codebases article |
+| [[happy.engineering]] | web | standard | 2026-07-03 | companion: slopus/happy |
 
-_149 sources ingested._
+_150 sources ingested._
