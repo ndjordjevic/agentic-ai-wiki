@@ -15,6 +15,7 @@ related:
   - anthropics-skills
   - voltagent-awesome-agent-skills
   - runcabinet.com
+  - hilash-cabinet
   - 6eanut-llm-wiki
   - teng-lin-notebooklm-py
   - forrestchang-andrej-karpathy-skills

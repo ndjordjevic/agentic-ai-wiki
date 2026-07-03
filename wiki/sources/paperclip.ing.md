@@ -16,6 +16,7 @@ tags:
   - cost-control
   - self-hosted
 related:
+  - hilash-cabinet
   - runcabinet.com
   - skills.sh
   - njbrake-agent-of-empires

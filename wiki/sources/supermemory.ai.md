@@ -2,7 +2,7 @@
 type: source
 source_url: https://supermemory.ai/
 tags: [memory-layer, context-engineering, knowledge-graph, rag, mcp-server, ai-agents, typescript-sdk, python-sdk]
-related: [reseek.net, runcabinet.com, garrytan-gbrain, tolaria.md, notebooklm.google, HKUDS-RAG-Anything, getcaveman.dev, zaro.ai, teng-lin-notebooklm-py, coleam00-claude-memory-compiler]
+related: [reseek.net, runcabinet.com, hilash-cabinet, garrytan-gbrain, tolaria.md, notebooklm.google, HKUDS-RAG-Anything, getcaveman.dev, zaro.ai, teng-lin-notebooklm-py, coleam00-claude-memory-compiler]
 product: supermemory
 detail_level: standard
 created: 2026-06-12
