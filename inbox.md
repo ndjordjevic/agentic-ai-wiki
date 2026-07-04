@@ -208,3 +208,5 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/paperclipai/paperclip <!-- ingested 2026-07-03 -->
 - [x] https://github.com/ruvnet/ruflo <!-- ingested 2026-07-03 -->
 - [x] https://developers.openai.com/api/docs/guides/agents <!-- ingested 2026-07-03 -->
+- [x] https://go.aiapply.co/ <!-- ingested 2026-07-04 -->
+- [x] https://www.codeyai.space/ <!-- ingested 2026-07-04 -->

@@ -8,6 +8,16 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-04 | ingest | codeyai.space | Local-first AI dev OS — Co-Pilot/Autopilot/Workpilot, 70+ BYOK providers, MCP, skills
+
+- Created: wiki/sources/codeyai.space.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
+## 2026-07-04 | ingest | go.aiapply.co | AIApply job-search co-pilot — Auto-Apply, ATS resumes, Interview Buddy
+
+- Created: wiki/sources/go.aiapply.co.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-07-03 | ingest | developers.openai.com | OpenAI Agents SDK — orchestration, handoffs, guardrails, sandbox agents
 
 - Created: wiki/sources/developers.openai.com.md

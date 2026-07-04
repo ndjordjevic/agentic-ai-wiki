@@ -167,5 +167,7 @@ created: 2026-04-28
 | [[paperclipai-paperclip]] | github | standard | 2026-07-03 | |
 | [[ruvnet-ruflo]] | github | standard | 2026-07-03 | formerly Claude Flow; agent meta-harness |
 | [[developers.openai.com]] | web | standard | 2026-07-03 | OpenAI Agents SDK docs; companion: openai/openai-agents-js |
+| [[go.aiapply.co]] | web | standard | 2026-07-04 | |
+| [[codeyai.space]] | web | standard | 2026-07-04 | |
 
-_155 sources ingested._
+_157 sources ingested._

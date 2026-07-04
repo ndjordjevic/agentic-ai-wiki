@@ -91,3 +91,5 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/deepwiki.com.md | deepwiki.com | 6 | 2026-07-03 | Devin docs + sample repo wiki |
 | raw/web/happy.engineering.md | happy.engineering | 10 | 2026-07-03 | companion: slopus/happy |
 | raw/web/developers.openai.com.md | developers.openai.com | 9 | 2026-07-03 | companion: openai/openai-agents-js |
+| raw/web/go.aiapply.co.md | go.aiapply.co | 1 | 2026-07-04 | |
+| raw/web/codeyai.space.md | codeyai.space | 12 | 2026-07-04 | |

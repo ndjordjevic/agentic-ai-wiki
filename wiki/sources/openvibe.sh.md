@@ -19,10 +19,11 @@ related:
   - shareai-lab-learn-claude-code
   - skills.sh
   - happy.engineering
+  - codeyai.space
 product: openvibe
 detail_level: standard
 created: 2026-05-22
-updated: 2026-07-03
+updated: 2026-07-04
 ---
 
 Open Vibe is a free, MIT-licensed, agent-driven web development course that turns Claude Code (or any capable AI coding agent) into a pair-programming tutor. Instead of static tutorials or black-box vibe-coding platforms, Open Vibe embeds the curriculum directly in `llms.txt` — the agent fetches structured module files, alternates between TUTOR MODE and PAIR PROGRAMMER MODE, and guides the learner through building a real SaaS while explaining every concept along the way. The course is built by the Wasp team and uses the Open SaaS template as the production substrate for Phase 2.
