@@ -32,7 +32,7 @@ _All claims below are sourced from ../../raw/github/mattpocock-skills.md unless 
 
 ## What it does
 
-A curated set of agent skills organized into three active buckets — `engineering/` (10 skills for daily code work), `productivity/` (5 general workflow tools), and `misc/` (4 utility skills) — plus `personal/`, `in-progress/`, and `deprecated/` buckets not promoted to end users. Skills are installed per-repo via the skills.sh CLI, and most engineering skills depend on a one-time `/setup-matt-pocock-skills` run that scaffolds the issue tracker config, triage label vocabulary, and domain doc layout.
+A curated set of agent skills organized into three active buckets — `engineering/` (10 skills for daily code work), `productivity/` (5 general workflow tools), and `misc/` (4 utility skills) — plus `personal/`, `in-progress/`, and `deprecated/` buckets not promoted to end users. Skills are installed per-repo via the [[skills.sh]] CLI, and most engineering skills depend on a one-time `/setup-matt-pocock-skills` run that scaffolds the issue tracker config, triage label vocabulary, and domain doc layout.
 
 ## Installation
 

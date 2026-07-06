@@ -98,7 +98,7 @@ resend emails send --from deploy@example.com --to team@example.com \
 
 ## When to use
 
-Resend is a strong choice when an agent stack needs to send transactional or marketing email programmatically: deployment notifications, user onboarding flows, error alerts, or bidirectional email threads where the agent listens for replies via `email.received` webhooks. Its agent-first design — JSON CLI output, structured error codes, `--dry-run`, SKILL.md skills, MCP server, and OpenAPI spec — means agents can invoke it as a subprocess or MCP tool with minimal friction. The `must-have-clis-2026` source profiles Agentmail (a related ephemeral-inbox CLI) in the same category; Resend covers the full production sending path while Agentmail focuses on ephemeral inboxes.
+Resend is a strong choice when an agent stack needs to send transactional or marketing email programmatically: deployment notifications, user onboarding flows, error alerts, or bidirectional email threads where the agent listens for replies via `email.received` webhooks. Its agent-first design — JSON CLI output, structured error codes, `--dry-run`, SKILL.md skills, MCP server, and OpenAPI spec — means agents can invoke it as a subprocess or MCP tool with minimal friction. The [[must-have-clis-2026]] source profiles Agentmail (a related ephemeral-inbox CLI) in the same category; Resend covers the full production sending path while Agentmail focuses on ephemeral inboxes.
 
 ## Maintenance status
 

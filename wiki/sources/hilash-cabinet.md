@@ -48,7 +48,7 @@ Open `http://localhost:4000`. Requirements: Node.js 22+ (`.nvmrc` in repo); at l
 
 - **File-based everything** — pages are directories with `index.md` + assets or standalone `.md`; YAML frontmatter stores title, tags, icon, order; every save auto-commits to git with diff viewer and version restore.
 - **Provider adapter runtime** — tasks, jobs, and heartbeats run through structured local adapters (`claude_local`, `codex_local`, etc.) with persisted multi-turn conversations, transcript-driven live views, per-run provider/model/reasoning overrides, and a first-class Web Terminal (PTY) for interactive CLI sessions.
-- **Skills** — Anthropic-format `SKILL.md` bundles resolved across cabinet-scoped, linked-repo, and system origins (`~/.claude/skills/`, `~/.agents/skills/`); trust gating, `skills.sh`/GitHub import, `@skill` compose mentions, and persona `skills:` attachments.
+- **Skills** — Anthropic-format `SKILL.md` bundles resolved across cabinet-scoped, linked-repo, and system origins (`~/.claude/skills/`, `~/.agents/skills/`); trust gating, [[skills.sh]]/GitHub import, `@skill` compose mentions, and persona `skills:` attachments.
 - **Scheduled jobs** — `node-cron` scheduler in `cabinet-daemon.ts` for recurring agent automation (Reddit scout, weekly reports, etc.).
 - **Missions & tasks** — Kanban task boards backed by the conversation system (`/api/agents/conversations`); multi-turn tasks with SSE live updates and KB artifact cards.
 - **Connect Knowledge** — per-room inline mounts from desktop-sync folders (Google Drive, iCloud, OneDrive, Dropbox) with server-side read-only enforcement; MCP connectors for Notion/Confluence via Integrations Hub.

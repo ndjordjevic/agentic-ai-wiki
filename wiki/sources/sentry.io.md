@@ -46,7 +46,7 @@ For AI-powered applications, Sentry adds **LLM observability**: track agent runs
 - **Logs, profiling, cron/uptime monitoring** — additional signal types connected on the same trace (per product nav and docs index).
 - **Seer (AI debugger)** — Autofix (root-cause analysis + merge-ready patches), Seer Agent (natural-language Q&A over production data), AI code review on PRs against real production history; integrates with Claude, Copilot, Cursor via MCP; $40/active contributor/month on paid plans.
 - **AI / LLM observability** — `OpenAIAgentsIntegration()` (Python), `vercelAIIntegration()` (JavaScript) with token/cost tracking, tool-call monitoring, and deep trace analysis of prompts and responses.
-- **Sentry MCP server** (`mcp.sentry.dev`) — exposes issues, traces, and logs to coding agents in Claude Code, Cursor, and other MCP clients; documented workflows for weekly performance triage and production debugging from the IDE.
+- **Sentry MCP server** ([[mcp.sentry.dev]]) — exposes issues, traces, and logs to coding agents in Claude Code, Cursor, and other MCP clients; documented workflows for weekly performance triage and production debugging from the IDE.
 - **Agent skills** — Sentry publishes agent skills for AI coding assistants (documented under docs.sentry.io/ai/).
 - **Integrations** — GitHub (source linking, PR comments, Seer), Slack, Jira, Linear, and broad platform SDK coverage. (../../raw/github/getsentry-sentry.md)
 

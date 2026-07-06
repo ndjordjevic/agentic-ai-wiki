@@ -78,4 +78,4 @@ Not a substitute for [[open-design.ai]] when you need a full local design platfo
 - [[open-design.ai]] — open-source agent-native design platform with 150+ DESIGN.md brand systems, daemon, and MCP server; overlaps in DESIGN.md distribution but adds a full local design engine and artifact pipeline.
 - [[lovable.dev]] and [[bolt.new]] — AI app builders where dropping a DESIGN.md into the project context directly improves generated UI consistency.
 - [[skills.sh]] — Vercel's skill distribution layer; DESIGN.md files serve a parallel role for visual instructions rather than behavioral skills.
-- Google Stitch (`stitch.withgoogle.com`) — originated the DESIGN.md concept and specification this repo implements and extends.
+- Google Stitch ([[stitch.withgoogle.com]]) — originated the DESIGN.md concept and specification this repo implements and extends.

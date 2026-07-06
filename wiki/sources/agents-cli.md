@@ -120,7 +120,7 @@ Actively maintained by Google: 3,697 stars, 429 forks, latest release `v0.6.1` (
 
 ## Ecosystem
 
-- **ADK** — underlying agent framework (`adk.dev`); agents-cli is the lifecycle tooling around it, not a replacement.
+- **ADK** — underlying agent framework ([[adk.dev]]); agents-cli is the lifecycle tooling around it, not a replacement.
 - **Gemini Enterprise Agent Platform** — deployment runtime, eval SDK, Agent Garden templates, enterprise catalog.
 - **Compatible coding agents** — Antigravity CLI, Claude Code, Codex, and any agent supporting the skills format.
 - **Adjacent skill suites** — docs suggest pairing with [agent-skills](https://github.com/addyosmani/agent-skills) (general SE workflows) or [google/skills](https://github.com/google/skills) (GCP foundations).

@@ -90,7 +90,7 @@ Hermes fits best when you want a persistent, self-improving agent that is indepe
 
 ## Ecosystem
 
-Hermes integrates with: agentskills.io (skills open standard), skills.sh (third-party skills directory), Nous Portal (hosted LLM + tool gateway subscription), Honcho (dialectic user modeling), Browser Use (cloud browser tool), Firecrawl (web search), FAL (image generation). Related projects in the NousResearch GitHub org include `hermes-agent-self-evolution` (DSPy + GEPA optimization), `hermes-paperclip-adapter` (Paperclip company integration), and `autonovel` (autonomous novel-writing pipeline). (../../raw/github/NousResearch-hermes-agent.md)
+Hermes integrates with: agentskills.io (skills open standard), [[skills.sh]] (third-party skills directory), Nous Portal (hosted LLM + tool gateway subscription), Honcho (dialectic user modeling), Browser Use (cloud browser tool), Firecrawl (web search), FAL (image generation). Related projects in the NousResearch GitHub org include `hermes-agent-self-evolution` (DSPy + GEPA optimization), `hermes-paperclip-adapter` (Paperclip company integration), and `autonovel` (autonomous novel-writing pipeline). (../../raw/github/NousResearch-hermes-agent.md)
 
 ## Documentation
 
