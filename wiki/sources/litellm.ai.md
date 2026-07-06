@@ -16,6 +16,7 @@ tags:
   - load-balancing
   - guardrails
 related:
+  - abacus.ai
   - langchain.com
   - huggingface.co
   - usestrix-strix
@@ -30,7 +31,7 @@ related:
 product: litellm
 detail_level: standard
 created: 2026-05-18
-updated: 2026-07-03
+updated: 2026-07-06
 ---
 
 LiteLLM is an open-source AI Gateway (Y Combinator W23) that gives teams a single, OpenAI-compatible interface to 100+ LLM providers — OpenAI, Anthropic, Bedrock, Gemini, Azure, Vertex AI, HuggingFace, VLLM, NVIDIA NIM, and more. It is used both as a **Python SDK** for direct in-process integration and as a self-hosted **Proxy Server (AI Gateway)** for centralized access control, spend tracking, load balancing, and guardrails across an entire organization. Adopters include Stripe, Netflix, Google ADK, OpenHands, and OpenAI Agents SDK, and the project has 47,000+ GitHub stars.

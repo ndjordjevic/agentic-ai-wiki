@@ -16,6 +16,7 @@ tags:
   - realtime-streaming
   - mcp-server
 related:
+  - abacus.ai
   - n8n.io
   - zapier.com
   - langchain.com-langgraph
@@ -27,7 +28,7 @@ related:
 product: trigger
 detail_level: standard
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-07-06
 ---
 
 Trigger.dev is an Apache 2.0 open-source platform (15.5k+ GitHub stars, v4.5.0 GA July 2026) for building AI agents and durable TypeScript workflows without workflow DSLs or determinism constraints. Developers write plain `async/await` tasks in their existing codebase, deploy with `npx trigger.dev deploy`, and get checkpoint-resume durability (CRIU snapshots), no timeouts, elastic scaling, queues, automatic retries, human-in-the-loop waitpoints, realtime run/LLM streaming to React hooks, OpenTelemetry observability, and an MCP server for coding agents — on Trigger.dev Cloud or self-hosted via Docker/Kubernetes.

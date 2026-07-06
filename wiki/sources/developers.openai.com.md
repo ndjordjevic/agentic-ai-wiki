@@ -7,7 +7,7 @@ raw_files:
   - ../../raw/web/developers.openai.com.md
   - ../../raw/github/openai-openai-agents-js.md
 tags: [openai-agents-sdk, multi-agent, handoffs, guardrails, mcp, tracing, sandbox-agents, voice-agents, responses-api]
-related: [strandsagents.com, crewai.com, langchain.com-langgraph, adk.dev, pydantic.dev, microsoft-autogen, litellm.ai, openai-codex-plugin-cc, elevenlabs.io]
+related: [abacus.ai, strandsagents.com, crewai.com, langchain.com-langgraph, adk.dev, pydantic.dev, microsoft-autogen, litellm.ai, openai-codex-plugin-cc, elevenlabs.io]
 product: openai-agents-sdk
 detail_level: standard
 created: 2026-07-03

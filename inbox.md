@@ -17,7 +17,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
-- [ ] https://abacus.ai/
 - [ ] https://github.com/0xNyk/awesome-hermes-agent
 - [ ] https://x.com/trq212/status/2052809885763747935?s=43&t=5l2OHSF10JbahgpENs1smw
 - [ ] https://app.sauna.ai/
@@ -210,3 +209,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://pushover.net/ <!-- ingested 2026-07-06 -->
 - [x] https://marketstack.com/ <!-- ingested 2026-07-06 -->
 - [x] https://www.firecrawl.dev/ <!-- ingested 2026-07-06 -->
+- [x] https://abacus.ai/ <!-- ingested 2026-07-06 -->

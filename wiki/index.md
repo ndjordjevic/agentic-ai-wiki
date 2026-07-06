@@ -176,5 +176,6 @@ created: 2026-04-28
 | [[pushover.net]] | web | standard | 2026-07-06 | |
 | [[marketstack.com]] | web | standard | 2026-07-06 | |
 | [[firecrawl.dev]] | web | standard | 2026-07-06 | companion: firecrawl/firecrawl |
+| [[abacus.ai]] | web | standard | 2026-07-06 | |
 
-_164 sources ingested._
+_165 sources ingested._

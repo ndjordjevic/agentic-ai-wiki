@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-06 | ingest | abacus.ai | all-in-one Super Assistant — multi-model ChatLLM, Deep Agent, desktop CoWork/CLI, enterprise RAG/workflows
+
+- Created: wiki/sources/abacus.ai.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-07-06 | ingest | firecrawl.dev | web data API (Search/Scrape/Crawl/Map/Parse/Interact) for LLM-ready content
 
 - Created: wiki/sources/firecrawl.dev.md

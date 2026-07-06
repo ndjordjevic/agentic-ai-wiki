@@ -97,3 +97,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/pushover.net.md | pushover.net | 4 | 2026-07-06 | |
 | raw/web/marketstack.com.md | marketstack.com | 5 | 2026-07-06 | |
 | raw/web/firecrawl.dev.md | firecrawl.dev | 10 | 2026-07-06 | |
+| raw/web/abacus.ai.md | abacus.ai | 8 | 2026-07-06 | |
