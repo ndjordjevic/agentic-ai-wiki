@@ -171,5 +171,6 @@ created: 2026-04-28
 | [[codeyai.space]] | web | standard | 2026-07-04 | |
 | [[phuryn-pm-skills]] | github | standard | 2026-07-06 | |
 | [[Yeachan-Heo-oh-my-claudecode]] | github | standard | 2026-07-06 | |
+| [[cocoindex-io-cocoindex]] | github | standard | 2026-07-06 | |
 
-_159 sources ingested._
+_160 sources ingested._

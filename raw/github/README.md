@@ -105,3 +105,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/openai-openai-agents-js.md | openai/openai-agents-js | 3324 | main | v0.12.0 | 2026-07-03 | companion for developers.openai.com |
 | raw/github/phuryn-pm-skills.md | phuryn/pm-skills | 22658 | main | v2.1.0 | 2026-07-06 | |
 | raw/github/Yeachan-Heo-oh-my-claudecode.md | Yeachan-Heo/oh-my-claudecode | 37438 | main | v4.15.2 | 2026-07-06 | |
+| raw/github/cocoindex-io-cocoindex.md | cocoindex-io/cocoindex | 10613 | main | v1.0.15 | 2026-07-06 | |

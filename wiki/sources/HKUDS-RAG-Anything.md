@@ -15,10 +15,11 @@ related:
   - zilliztech-claude-context
   - reseek.net
   - graphify.net
+  - cocoindex-io-cocoindex
 product: rag-anything
 detail_level: standard
 created: 2026-07-01
-updated: 2026-07-01
+updated: 2026-07-06
 ---
 
 RAG-Anything is an open-source Python framework (21,717 stars, MIT, v1.3.1) from HKUDS that extends [LightRAG](https://github.com/HKUDS/LightRAG) into an all-in-one multimodal RAG pipeline: ingest PDFs, Office files, and images; parse them with MinerU/Docling/PaddleOCR; analyze images, tables, and equations with dedicated modal processors; build a multimodal knowledge graph; and query across text and non-text content through hybrid/local/global retrieval modes plus VLM-enhanced answers. It targets academic papers, technical docs, and enterprise knowledge bases where traditional text-only RAG loses tables, figures, and formulas.

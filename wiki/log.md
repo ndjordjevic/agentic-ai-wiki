@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-06 | ingest | cocoindex-io-cocoindex | Incremental data pipeline engine for AI agents — Rust core, Python API, delta-only indexing
+
+- Created: wiki/sources/cocoindex-io-cocoindex.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-07-06 | ingest | Yeachan-Heo-oh-my-claudecode | Claude Code plugin — hook-driven skill routing, 19 agents, team orchestration, magic keywords
 
 - Created: wiki/sources/Yeachan-Heo-oh-my-claudecode.md
