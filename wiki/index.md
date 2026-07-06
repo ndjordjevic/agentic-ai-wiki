@@ -170,5 +170,6 @@ created: 2026-04-28
 | [[go.aiapply.co]] | web | standard | 2026-07-04 | |
 | [[codeyai.space]] | web | standard | 2026-07-04 | |
 | [[phuryn-pm-skills]] | github | standard | 2026-07-06 | |
+| [[Yeachan-Heo-oh-my-claudecode]] | github | standard | 2026-07-06 | |
 
-_158 sources ingested._
+_159 sources ingested._

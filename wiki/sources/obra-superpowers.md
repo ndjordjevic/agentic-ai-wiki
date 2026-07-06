@@ -28,6 +28,7 @@ related:
   - mattpocock-skills
   - phuryn-pm-skills
   - snarktank-ralph
+  - Yeachan-Heo-oh-my-claudecode
   - bmad-code-org-bmad-method
   - hermes-agent.nousresearch.com
   - openai-codex-plugin-cc

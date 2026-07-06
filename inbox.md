@@ -17,7 +17,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
-- [ ] https://github.com/Yeachan-Heo/oh-my-claudecode
 - [ ] https://github.com/cocoindex-io/cocoindex
 - [ ] https://elevenlabs.io/
 - [ ] https://pushover.net/
@@ -210,3 +209,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://go.aiapply.co/ <!-- ingested 2026-07-04 -->
 - [x] https://www.codeyai.space/ <!-- ingested 2026-07-04 -->
 - [x] https://github.com/phuryn/pm-skills <!-- ingested 2026-07-06 -->
+- [x] https://github.com/Yeachan-Heo/oh-my-claudecode <!-- ingested 2026-07-06 -->

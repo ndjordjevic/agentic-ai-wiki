@@ -22,10 +22,11 @@ related:
   - langchain.com-langgraph
   - litellm.ai
   - microsoft-autogen
+  - Yeachan-Heo-oh-my-claudecode
 product: ruflo
 detail_level: standard
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-07-06
 ---
 
 Ruflo (`ruvnet/ruflo`, formerly Claude Flow) is an open-source agent meta-harness for Claude Code and Codex — 62k+ GitHub stars, MIT license, TypeScript monorepo with a Rust engine backbone (Cognitum.One). It wraps coding agents with an orchestration layer: 100+ specialized agents, swarm topologies with Byzantine/Raft/Gossip consensus, HNSW vector memory (AgentDB), SONA self-learning, 35 Claude Code plugins, ~210 MCP tools, 27 lifecycle hooks, multi-provider LLM routing, zero-trust agent federation, and optional MetaHarness auditing. One `npx ruflo init` installs hooks, MCP server, daemon, and project scaffolding; a lighter plugin-only path adds slash commands without the full loop.

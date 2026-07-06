@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-06 | ingest | Yeachan-Heo-oh-my-claudecode | Claude Code plugin — hook-driven skill routing, 19 agents, team orchestration, magic keywords
+
+- Created: wiki/sources/Yeachan-Heo-oh-my-claudecode.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-07-06 | ingest | phuryn-pm-skills | PM Skills Marketplace — 68 skills, 42 commands, 9 plugins for Claude Code/Cowork
 
 - Created: wiki/sources/phuryn-pm-skills.md
