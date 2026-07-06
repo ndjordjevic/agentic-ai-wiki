@@ -172,5 +172,6 @@ created: 2026-04-28
 | [[phuryn-pm-skills]] | github | standard | 2026-07-06 | |
 | [[Yeachan-Heo-oh-my-claudecode]] | github | standard | 2026-07-06 | |
 | [[cocoindex-io-cocoindex]] | github | standard | 2026-07-06 | |
+| [[elevenlabs.io]] | web | standard | 2026-07-06 | |
 
-_160 sources ingested._
+_161 sources ingested._
