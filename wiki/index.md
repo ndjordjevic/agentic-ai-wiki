@@ -173,5 +173,6 @@ created: 2026-04-28
 | [[Yeachan-Heo-oh-my-claudecode]] | github | standard | 2026-07-06 | |
 | [[cocoindex-io-cocoindex]] | github | standard | 2026-07-06 | |
 | [[elevenlabs.io]] | web | standard | 2026-07-06 | |
+| [[pushover.net]] | web | standard | 2026-07-06 | |
 
-_161 sources ingested._
+_162 sources ingested._
