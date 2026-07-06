@@ -103,3 +103,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/coleam00-claude-memory-compiler.md | coleam00/claude-memory-compiler | 1225 | main | none | 2026-07-03 | |
 | raw/github/ruvnet-ruflo.md | ruvnet/ruflo | 62733 | main | v3.16.3 | 2026-07-03 | formerly Claude Flow |
 | raw/github/openai-openai-agents-js.md | openai/openai-agents-js | 3324 | main | v0.12.0 | 2026-07-03 | companion for developers.openai.com |
+| raw/github/phuryn-pm-skills.md | phuryn/pm-skills | 22658 | main | v2.1.0 | 2026-07-06 | |

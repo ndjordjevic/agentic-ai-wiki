@@ -169,5 +169,6 @@ created: 2026-04-28
 | [[developers.openai.com]] | web | standard | 2026-07-03 | OpenAI Agents SDK docs; companion: openai/openai-agents-js |
 | [[go.aiapply.co]] | web | standard | 2026-07-04 | |
 | [[codeyai.space]] | web | standard | 2026-07-04 | |
+| [[phuryn-pm-skills]] | github | standard | 2026-07-06 | |
 
-_157 sources ingested._
+_158 sources ingested._
