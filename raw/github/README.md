@@ -106,3 +106,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/phuryn-pm-skills.md | phuryn/pm-skills | 22658 | main | v2.1.0 | 2026-07-06 | |
 | raw/github/Yeachan-Heo-oh-my-claudecode.md | Yeachan-Heo/oh-my-claudecode | 37438 | main | v4.15.2 | 2026-07-06 | |
 | raw/github/cocoindex-io-cocoindex.md | cocoindex-io/cocoindex | 10613 | main | v1.0.15 | 2026-07-06 | |
+| raw/github/firecrawl-firecrawl.md | firecrawl/firecrawl | 145284 | main | v2.11.0 | 2026-07-06 | companion for firecrawl.dev |

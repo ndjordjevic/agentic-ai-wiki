@@ -175,5 +175,6 @@ created: 2026-04-28
 | [[elevenlabs.io]] | web | standard | 2026-07-06 | |
 | [[pushover.net]] | web | standard | 2026-07-06 | |
 | [[marketstack.com]] | web | standard | 2026-07-06 | |
+| [[firecrawl.dev]] | web | standard | 2026-07-06 | companion: firecrawl/firecrawl |
 
-_163 sources ingested._
+_164 sources ingested._

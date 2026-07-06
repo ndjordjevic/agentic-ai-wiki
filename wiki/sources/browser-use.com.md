@@ -20,6 +20,7 @@ related:
   - microsoft-playwright-mcp
   - elevenlabs.io
   - marketstack.com
+  - firecrawl.dev
 product: browser-use
 detail_level: standard
 created: 2026-06-15

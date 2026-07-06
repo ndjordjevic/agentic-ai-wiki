@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-06 | ingest | firecrawl.dev | web data API (Search/Scrape/Crawl/Map/Parse/Interact) for LLM-ready content
+
+- Created: wiki/sources/firecrawl.dev.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/firecrawl-firecrawl.md
+
 ## 2026-07-06 | ingest | marketstack.com | REST stock market & EDGAR filings API (APILayer)
 
 - Created: wiki/sources/marketstack.com.md
