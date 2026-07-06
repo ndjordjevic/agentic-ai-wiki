@@ -174,5 +174,6 @@ created: 2026-04-28
 | [[cocoindex-io-cocoindex]] | github | standard | 2026-07-06 | |
 | [[elevenlabs.io]] | web | standard | 2026-07-06 | |
 | [[pushover.net]] | web | standard | 2026-07-06 | |
+| [[marketstack.com]] | web | standard | 2026-07-06 | |
 
-_162 sources ingested._
+_163 sources ingested._

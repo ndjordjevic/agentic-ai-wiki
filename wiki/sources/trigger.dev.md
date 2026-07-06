@@ -21,6 +21,7 @@ related:
   - langchain.com-langgraph
   - crewai.com
   - postiz.com
+  - marketstack.com
   - adk.dev
   - microsoft-agent-framework
 product: trigger

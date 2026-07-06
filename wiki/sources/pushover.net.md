@@ -2,7 +2,7 @@
 type: source
 source_url: https://pushover.net/
 tags: [push-notifications, rest-api, mobile-alerts, ios-notifications, android-notifications, priority-alerts, webhook-integration]
-related: [happy.engineering]
+related: [happy.engineering, marketstack.com]
 product: pushover
 detail_level: standard
 created: 2026-07-06

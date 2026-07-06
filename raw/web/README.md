@@ -95,3 +95,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/codeyai.space.md | codeyai.space | 12 | 2026-07-04 | |
 | raw/web/elevenlabs.io.md | elevenlabs.io | 9 | 2026-07-06 | |
 | raw/web/pushover.net.md | pushover.net | 4 | 2026-07-06 | |
+| raw/web/marketstack.com.md | marketstack.com | 5 | 2026-07-06 | |

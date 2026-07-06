@@ -19,6 +19,7 @@ related:
   - browserbase.com
   - microsoft-playwright-mcp
   - elevenlabs.io
+  - marketstack.com
 product: browser-use
 detail_level: standard
 created: 2026-06-15
