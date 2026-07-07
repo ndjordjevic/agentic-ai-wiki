@@ -210,3 +210,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://marketstack.com/ <!-- ingested 2026-07-06 -->
 - [x] https://www.firecrawl.dev/ <!-- ingested 2026-07-06 -->
 - [x] https://abacus.ai/ <!-- ingested 2026-07-06 -->
+- [x] https://github.com/davidondrej/skills <!-- ingested 2026-07-07 -->

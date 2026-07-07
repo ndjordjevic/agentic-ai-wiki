@@ -177,5 +177,6 @@ created: 2026-04-28
 | [[marketstack.com]] | web | standard | 2026-07-06 | |
 | [[firecrawl.dev]] | web | standard | 2026-07-06 | companion: firecrawl/firecrawl |
 | [[abacus.ai]] | web | standard | 2026-07-06 | |
+| [[davidondrej-skills]] | github | standard | 2026-07-07 | |
 
-_165 sources ingested._
+_166 sources ingested._
