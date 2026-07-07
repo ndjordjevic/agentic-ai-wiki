@@ -20,6 +20,7 @@ related:
   - agents-cli
   - antigravity.google
   - adk.dev
+  - google-adk-go
   - trigger.dev
 product: agent-framework
 detail_level: standard

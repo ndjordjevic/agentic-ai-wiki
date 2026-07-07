@@ -24,6 +24,7 @@ related:
   - postiz.com
   - marketstack.com
   - adk.dev
+  - google-adk-go
   - microsoft-agent-framework
   - app.sauna.ai
   - supabase.com

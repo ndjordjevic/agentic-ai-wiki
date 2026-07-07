@@ -26,10 +26,11 @@ related:
   - clickup.com
   - developers.openai.com
   - trigger.dev
+  - google-adk-go
 product: adk
 detail_level: standard
 created: 2026-06-30
-updated: 2026-07-03
+updated: 2026-07-07
 ---
 
 **Agent Development Kit (ADK)** is Google's open-source, code-first framework for building, evaluating, and deploying production-grade AI agents. Available in Python, TypeScript, Go, Java, and Kotlin, it is model-agnostic and deployment-agnostic — optimized for Gemini and Google Cloud but supporting Claude, Ollama, vLLM, LiteLLM, and hosted enterprise models. ADK 2.0 (Python GA May 2026) adds graph-based `Workflow` runtime and collaborative multi-agent patterns. The docs site and companion Python repo (`google/adk-python`, 20k+ stars, v2.3.0, Apache 2.0) are the canonical references. (../../raw/github/google-adk-python.md)

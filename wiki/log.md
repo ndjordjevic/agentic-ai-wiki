@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-07 | ingest | google-adk-go | Go ADK v2 — streaming runner, graph workflows, MCP/A2A, cloud-native agents
+
+- Created: wiki/sources/google-adk-go.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-07-07 | ingest | supabase.com | open-source Postgres platform — Auth, Storage, Realtime, Edge Functions, pgvector AI toolkit
 
 - Created: wiki/sources/supabase.com.md

@@ -110,3 +110,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/davidondrej-skills.md | davidondrej/skills | 1546 | main | none | 2026-07-07 | |
 | raw/github/0xnyk-awesome-hermes-agent.md | 0xNyk/awesome-hermes-agent | 4524 | main | none | 2026-07-07 | |
 | raw/github/supabase-supabase.md | supabase/supabase | 105839 | master | v1.26.05 | 2026-07-07 | companion for supabase.com |
+| raw/github/google-adk-go.md | google/adk-go | 8403 | main | v2.0.0 | 2026-07-07 | |

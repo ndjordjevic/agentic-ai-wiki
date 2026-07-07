@@ -15,6 +15,7 @@ related:
   - microsoft-autogen
   - microsoft-agent-framework
   - adk.dev
+  - google-adk-go
   - trigger.dev
   - ruvnet-ruflo
   - developers.openai.com

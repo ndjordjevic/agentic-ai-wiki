@@ -182,5 +182,6 @@ created: 2026-04-28
 | [[using-claude-code-unreasonable-effectiveness-html]] | web | standard | 2026-07-07 | |
 | [[app.sauna.ai]] | web | standard | 2026-07-07 | |
 | [[supabase.com]] | web | standard | 2026-07-07 | companion: supabase/supabase |
+| [[google-adk-go]] | github | standard | 2026-07-07 | |
 
-_170 sources ingested._
+_171 sources ingested._

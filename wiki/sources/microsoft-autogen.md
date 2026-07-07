@@ -19,6 +19,7 @@ related:
   - crewai.com
   - strandsagents.com
   - langchain.com-langgraph
+  - google-adk-go
   - agentixlabs.com
   - ruvnet-ruflo
   - developers.openai.com

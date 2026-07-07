@@ -24,6 +24,7 @@ related:
   - langchain.com-deepagents
   - antigravity.google
   - adk.dev
+  - google-adk-go
   - teng-lin-notebooklm-py
 product: agents-cli
 detail_level: standard

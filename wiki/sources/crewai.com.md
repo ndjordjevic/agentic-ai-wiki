@@ -32,6 +32,7 @@ related:
   - microsoft-agent-framework
   - ruvnet-ruflo
   - adk.dev
+  - google-adk-go
   - agentixlabs.com
   - clickup.com
 product: crewai
