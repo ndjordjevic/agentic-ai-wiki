@@ -18,10 +18,11 @@ related:
   - skills.sh
   - anthropics-skills
   - stitch.withgoogle.com
+  - using-claude-code-unreasonable-effectiveness-html
 product: awesome-design-md
 detail_level: standard
 created: 2026-07-02
-updated: 2026-07-03
+updated: 2026-07-07
 ---
 
 Awesome DESIGN.md is VoltAgent's curated catalog of 73+ agent-readable brand design systems (95,082 stars, MIT) — plain-text `DESIGN.md` files reverse-engineered from real websites so coding agents can generate UI that matches a target brand's visual language without Figma exports or JSON schemas. The repo popularizes the Google Stitch `DESIGN.md` convention as the design counterpart to `AGENTS.md`: drop a file in the project root, tell the agent "build me a page that looks like this," and get consistent tokens, typography, component rules, and prompt guides. Brands span AI platforms (Claude, Cursor, VoltAgent), SaaS (Linear, Stripe, Notion), fintech, automotive, and a retro-web nostalgia series.

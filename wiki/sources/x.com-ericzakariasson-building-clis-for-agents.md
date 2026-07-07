@@ -19,10 +19,11 @@ related:
   - x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes
   - agents-cli
   - antigravity.google
+  - using-claude-code-unreasonable-effectiveness-html
 product: x
 detail_level: standard
 created: 2026-06-06
-updated: 2026-06-09
+updated: 2026-07-07
 ---
 
 An X article by Eric Zakariasson (@ericzakariasson) cataloging ten CLI design patterns that make command-line tools usable by AI coding agents — non-interactive flags, progressive `--help` discovery, stdin pipelines, actionable errors, idempotency, dry-run previews, confirmation bypass flags, predictable resource+verb structure, and structured success output. The post addresses the gap between human-oriented CLIs (interactive prompts, prose-heavy help) and agent execution constraints (no keyboard input, pattern-matching from examples, constant retries).

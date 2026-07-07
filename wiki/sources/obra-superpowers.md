@@ -23,6 +23,7 @@ related:
   - coleam00-archon
   - q00-ouroboros
   - nadimtuhin-claude-token-optimizer
+  - using-claude-code-unreasonable-effectiveness-html
   - ruvnet-ruflo
   - shadcn-improve
   - mattpocock-skills

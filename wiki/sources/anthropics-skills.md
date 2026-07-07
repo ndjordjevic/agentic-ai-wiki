@@ -41,6 +41,7 @@ related:
   - mksglu-context-mode
   - kepano-obsidian-skills
   - phuryn-pm-skills
+  - using-claude-code-unreasonable-effectiveness-html
 product: skills
 detail_level: standard
 created: 2026-05-11

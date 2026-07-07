@@ -179,5 +179,6 @@ created: 2026-04-28
 | [[abacus.ai]] | web | standard | 2026-07-06 | |
 | [[davidondrej-skills]] | github | standard | 2026-07-07 | |
 | [[0xnyk-awesome-hermes-agent]] | github | standard | 2026-07-07 | |
+| [[using-claude-code-unreasonable-effectiveness-html]] | web | standard | 2026-07-07 | |
 
-_167 sources ingested._
+_168 sources ingested._

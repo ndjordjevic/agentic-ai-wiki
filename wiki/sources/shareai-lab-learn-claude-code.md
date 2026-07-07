@@ -26,12 +26,13 @@ related:
   - ruvnet-ruflo
   - coleam00-claude-memory-compiler
   - happy.engineering
+  - using-claude-code-unreasonable-effectiveness-html
   - phuryn-pm-skills
   - coleam00-helpline
 product: learn-claude-code
 detail_level: standard
 created: 2026-05-05
-updated: 2026-07-06
+updated: 2026-07-07
 ---
 
 `learn-claude-code` (58,143 stars, MIT) is a hands-on curriculum that reverse-engineers Claude Code by building its architecture from scratch in 12 progressive Python sessions. Authored by shareAI-lab, it frames agent development not as model training but as *harness engineering* — constructing the tools, knowledge injection, context management, and permission infrastructure that let a model operate effectively in a specific domain. Each session adds exactly one harness mechanism, from a 30-line `while True` loop (s01) to full multi-agent teams with JSONL mailboxes and worktree-isolated parallel execution (s12). The repo is an authoritative ground-up explanation of the architecture underlying Claude Code and a transferable pattern library for any agent harness in any domain.
