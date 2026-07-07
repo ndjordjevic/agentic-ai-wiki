@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-07 | ingest | supabase.com | open-source Postgres platform — Auth, Storage, Realtime, Edge Functions, pgvector AI toolkit
+
+- Created: wiki/sources/supabase.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/supabase-supabase.md
+
 ## 2026-07-07 | ingest | app.sauna.ai | hosted multiplayer AI coworker — omnichannel agent, scheduled work, just-in-time Apps
 
 - Created: wiki/sources/app.sauna.ai.md

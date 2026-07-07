@@ -21,10 +21,11 @@ related:
   - the-new-sdlc-with-vibe-coding
   - producthunt.com
   - voltagent-awesome-design-md
+  - supabase.com
 product: bolt
 detail_level: standard
 created: 2026-07-01
-updated: 2026-07-02
+updated: 2026-07-07
 ---
 
 Bolt is StackBlitz's hosted AI-powered full-stack app builder and browser-native development environment. It turns natural-language prompts into websites, web apps, and mobile-oriented projects, then keeps planning, coding, infrastructure setup, GitHub backup, collaboration, and publishing inside one surface. For this wiki it matters as a concrete commercial implementation of agentic app building that also exposes its underlying WebContainers-based open-source harness through a companion GitHub repo.

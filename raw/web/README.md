@@ -100,3 +100,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/abacus.ai.md | abacus.ai | 8 | 2026-07-06 | |
 | raw/web/using-claude-code-unreasonable-effectiveness-html.md | using-claude-code-unreasonable-effectiveness-html | 1 | 2026-07-07 | X article; content from claude.com blog |
 | raw/web/app.sauna.ai.md | app.sauna.ai | 10 | 2026-07-07 | |
+| raw/web/supabase.com.md | supabase.com | 8 | 2026-07-07 | |

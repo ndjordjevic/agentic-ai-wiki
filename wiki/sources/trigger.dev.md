@@ -26,6 +26,7 @@ related:
   - adk.dev
   - microsoft-agent-framework
   - app.sauna.ai
+  - supabase.com
 product: trigger
 detail_level: standard
 created: 2026-07-03

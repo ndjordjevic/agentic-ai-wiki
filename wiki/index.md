@@ -181,5 +181,6 @@ created: 2026-04-28
 | [[0xnyk-awesome-hermes-agent]] | github | standard | 2026-07-07 | |
 | [[using-claude-code-unreasonable-effectiveness-html]] | web | standard | 2026-07-07 | |
 | [[app.sauna.ai]] | web | standard | 2026-07-07 | |
+| [[supabase.com]] | web | standard | 2026-07-07 | companion: supabase/supabase |
 
-_169 sources ingested._
+_170 sources ingested._

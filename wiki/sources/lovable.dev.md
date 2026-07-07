@@ -17,10 +17,11 @@ related:
   - bolt.new
   - producthunt.com
   - voltagent-awesome-design-md
+  - supabase.com
 product: lovable
 detail_level: standard
 created: 2026-07-01
-updated: 2026-07-02
+updated: 2026-07-07
 ---
 
 Lovable is a hosted full-stack AI app builder that turns natural-language prompts into editable web applications, then keeps the whole delivery loop inside one product: planning, autonomous implementation, manual code inspection, GitHub sync, testing, publishing, and a managed backend runtime. It matters for this wiki because it productizes several agentic-engineering patterns in a mainstream SaaS surface — Build mode as an execution agent, Plan mode as a pre-implementation reasoning mode, reusable skills, read-only subagents, and a Supabase-backed cloud layer that lets the agent provision database/auth/storage infrastructure without leaving the workspace.
