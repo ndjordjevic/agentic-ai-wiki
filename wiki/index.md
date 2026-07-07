@@ -180,5 +180,6 @@ created: 2026-04-28
 | [[davidondrej-skills]] | github | standard | 2026-07-07 | |
 | [[0xnyk-awesome-hermes-agent]] | github | standard | 2026-07-07 | |
 | [[using-claude-code-unreasonable-effectiveness-html]] | web | standard | 2026-07-07 | |
+| [[app.sauna.ai]] | web | standard | 2026-07-07 | |
 
-_168 sources ingested._
+_169 sources ingested._

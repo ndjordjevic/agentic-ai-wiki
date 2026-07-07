@@ -17,7 +17,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
-- [ ] https://app.sauna.ai/
 - [ ] https://supabase.com/
 - [ ] https://github.com/google/adk-go
 - [ ] https://www.vellum.ai/
@@ -211,3 +210,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/davidondrej/skills <!-- ingested 2026-07-07 -->
 - [x] https://github.com/0xNyk/awesome-hermes-agent <!-- ingested 2026-07-07 -->
 - [x] https://x.com/trq212/status/2052809885763747935?s=43&t=5l2OHSF10JbahgpENs1smw <!-- ingested 2026-07-07 -->
+- [x] https://app.sauna.ai/ <!-- ingested 2026-07-07 -->

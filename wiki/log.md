@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-07 | ingest | app.sauna.ai | hosted multiplayer AI coworker — omnichannel agent, scheduled work, just-in-time Apps
+
+- Created: wiki/sources/app.sauna.ai.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-07-07 | ingest | using-claude-code-unreasonable-effectiveness-html | Claude Code team essay — HTML over Markdown for agent artifacts
 
 - Created: wiki/sources/using-claude-code-unreasonable-effectiveness-html.md

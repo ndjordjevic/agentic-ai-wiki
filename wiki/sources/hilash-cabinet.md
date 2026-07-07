@@ -20,10 +20,11 @@ related:
   - skills.sh
   - coleam00-claude-memory-compiler
   - langchain-ai-openwiki
+  - app.sauna.ai
 product: cabinet
 detail_level: standard
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-07-07
 ---
 
 `hilash/cabinet` (2.4k+ stars, MIT, TypeScript) is the open-source implementation of Cabinet — a self-hosted AI-first startup OS where the entire knowledge base lives as markdown on disk, agents run through a provider-adapter runtime with persisted conversations, and scheduled cron jobs compound context over time. The `cabinetai` npm CLI (`npx create-cabinet@latest`) downloads the app to `~/.cabinet/app/v{version}/` and treats each cabinet as a lightweight data directory (`.cabinet` manifest + `.agents/` + content files) anywhere on disk. See also [[runcabinet.com]] for the marketing-site and product-positioning companion page.
