@@ -28,6 +28,7 @@ related:
   - agents-cli
   - antigravity.google
   - obra-superpowers
+  - vellum.ai
   - 0xnyk-awesome-hermes-agent
   - ruvnet-ruflo
   - github-spec-kit

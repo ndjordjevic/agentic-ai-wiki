@@ -19,6 +19,7 @@ related:
   - supermemory.ai
   - trigger.dev
   - abacus.ai
+  - vellum.ai
 product: sauna
 detail_level: standard
 created: 2026-07-07

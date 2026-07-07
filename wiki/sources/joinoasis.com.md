@@ -15,6 +15,7 @@ related:
   - paperclip.ing
   - paperclipai-paperclip
   - app.sauna.ai
+  - vellum.ai
 product: joinoasis
 detail_level: standard
 created: 2026-06-18

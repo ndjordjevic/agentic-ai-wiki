@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-07 | ingest | vellum.ai | Personal intelligence platform — managed memory, omnichannel assistant, MIT runtime
+
+- Created: wiki/sources/vellum.ai.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/vellum-ai-vellum-assistant.md
+
 ## 2026-07-07 | ingest | google-adk-go | Go ADK v2 — streaming runner, graph workflows, MCP/A2A, cloud-native agents
 
 - Created: wiki/sources/google-adk-go.md

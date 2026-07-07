@@ -25,6 +25,7 @@ related:
   - gitlawb-openclaude
   - pushover.net
   - app.sauna.ai
+  - vellum.ai
 product: happy
 detail_level: standard
 created: 2026-07-03

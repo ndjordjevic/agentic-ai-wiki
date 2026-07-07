@@ -183,5 +183,6 @@ created: 2026-04-28
 | [[app.sauna.ai]] | web | standard | 2026-07-07 | |
 | [[supabase.com]] | web | standard | 2026-07-07 | companion: supabase/supabase |
 | [[google-adk-go]] | github | standard | 2026-07-07 | |
+| [[vellum.ai]] | web | standard | 2026-07-07 | companion: vellum-ai/vellum-assistant |
 
-_171 sources ingested._
+_172 sources ingested._

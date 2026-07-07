@@ -24,6 +24,7 @@ related:
   - ruvnet-ruflo
   - elevenlabs.io
   - 0xnyk-awesome-hermes-agent
+  - vellum.ai
 product: hermes-agent
 detail_level: standard
 created: 2026-06-10
