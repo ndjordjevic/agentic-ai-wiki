@@ -184,5 +184,6 @@ created: 2026-04-28
 | [[supabase.com]] | web | standard | 2026-07-07 | companion: supabase/supabase |
 | [[google-adk-go]] | github | standard | 2026-07-07 | |
 | [[vellum.ai]] | web | standard | 2026-07-07 | companion: vellum-ai/vellum-assistant |
+| [[ollama-ollama]] | github | standard | 2026-07-07 | |
 
-_172 sources ingested._
+_173 sources ingested._

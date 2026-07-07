@@ -112,3 +112,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/supabase-supabase.md | supabase/supabase | 105839 | master | v1.26.05 | 2026-07-07 | companion for supabase.com |
 | raw/github/google-adk-go.md | google/adk-go | 8403 | main | v2.0.0 | 2026-07-07 | |
 | raw/github/vellum-ai-vellum-assistant.md | vellum-ai/vellum-assistant | 841 | main | v0.10.6 | 2026-07-07 | companion for vellum.ai |
+| raw/github/ollama-ollama.md | ollama/ollama | 175624 | main | v0.31.2 | 2026-07-07 | |

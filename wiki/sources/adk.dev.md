@@ -27,6 +27,7 @@ related:
   - developers.openai.com
   - trigger.dev
   - google-adk-go
+  - ollama-ollama
 product: adk
 detail_level: standard
 created: 2026-06-30

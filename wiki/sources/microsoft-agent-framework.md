@@ -22,10 +22,11 @@ related:
   - adk.dev
   - google-adk-go
   - trigger.dev
+  - ollama-ollama
 product: agent-framework
 detail_level: standard
 created: 2026-06-10
-updated: 2026-07-03
+updated: 2026-07-07
 ---
 
 Microsoft Agent Framework (MAF) is Microsoft's production-grade successor to AutoGen — an open-source, multi-language framework for building, orchestrating, and deploying AI agents and multi-agent workflows in Python and .NET. Where [[microsoft-autogen]] pioneered experimental multi-agent research patterns, MAF is designed for teams taking agents from prototype to production, offering stable APIs, long-term support, graph-based workflow orchestration, durability, observability, and a wide provider ecosystem including Microsoft Foundry, Azure OpenAI, OpenAI, GitHub Copilot SDK, Anthropic, Gemini, Mistral, Bedrock, and Ollama.
