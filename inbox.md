@@ -17,7 +17,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
-- [ ] https://render.com/
 - [ ] https://streamlit.io/
 - [ ] https://claudemarketplaces.com/
 - [ ] https://designmd.cc/
@@ -210,4 +209,5 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/google/adk-go <!-- ingested 2026-07-07 -->
 - [x] https://www.vellum.ai/ <!-- ingested 2026-07-07 -->
 - [x] https://github.com/ollama/ollama <!-- ingested 2026-07-07 -->
-- [x] https://vercel.com <!-- ingested 2026-07-07 -->
+- [x] https://vercel.com/ <!-- ingested 2026-07-07 -->
+- [x] https://render.com/ <!-- ingested 2026-07-07 -->

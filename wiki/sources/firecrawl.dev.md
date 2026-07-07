@@ -20,6 +20,7 @@ related:
   - microsoft-playwright-mcp
   - vercel-labs-agent-browser
   - supabase.com
+  - render.com
 product: firecrawl.dev
 detail_level: standard
 created: 2026-07-06

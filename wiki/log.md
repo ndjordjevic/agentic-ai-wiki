@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-07 | ingest | render.com | PaaS for apps and agents — Workflows, MCP, Agent Skills, preview environments
+
+- Created: wiki/sources/render.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-07-07 | ingest | vercel.com | Agentic Infrastructure — AI SDK, Gateway, Sandbox, Workflows, MCP, eve
 
 - Created: wiki/sources/vercel.com.md

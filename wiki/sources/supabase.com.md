@@ -23,6 +23,7 @@ related:
   - trigger.dev
   - langchain.com
   - vercel.com
+  - render.com
 product: supabase
 detail_level: standard
 created: 2026-07-07
