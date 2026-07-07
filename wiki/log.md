@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-07 | ingest | 0xnyk-awesome-hermes-agent | curated Hermes ecosystem list — skills, plugins, memory, GUIs, integrations
+
+- Created: wiki/sources/0xnyk-awesome-hermes-agent.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-07-07 | ingest | davidondrej-skills | personal agent-skills repo (31 skills) — heavy on multi-agent orchestration (cmux, delegating-to-agents, self-scheduling)
 
 - Created: wiki/sources/davidondrej-skills.md

@@ -20,6 +20,7 @@ related:
   - kepano-obsidian-skills
   - phuryn-pm-skills
   - davidondrej-skills
+  - 0xnyk-awesome-hermes-agent
 product: awesome-agent-skills
 detail_level: standard
 created: 2026-06-08

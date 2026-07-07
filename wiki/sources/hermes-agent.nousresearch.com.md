@@ -23,10 +23,11 @@ related:
   - sentry.io
   - ruvnet-ruflo
   - elevenlabs.io
+  - 0xnyk-awesome-hermes-agent
 product: hermes-agent
 detail_level: standard
 created: 2026-06-10
-updated: 2026-07-06
+updated: 2026-07-07
 ---
 
 Hermes Agent is an open-source autonomous agent developed by Nous Research (MIT License, v0.16.0, 189k GitHub stars) that distinguishes itself through a built-in closed learning loop: it autonomously creates skills from complex tasks, self-improves them during use, and maintains bounded persistent memory across sessions. Unlike session-scoped agents, Hermes is designed to run persistently on a remote server and be accessed from 24+ messaging platforms (Telegram, Discord, Slack, WhatsApp, Signal, and more) or directly via CLI — making the agent location-independent from the user's device.

@@ -178,5 +178,6 @@ created: 2026-04-28
 | [[firecrawl.dev]] | web | standard | 2026-07-06 | companion: firecrawl/firecrawl |
 | [[abacus.ai]] | web | standard | 2026-07-06 | |
 | [[davidondrej-skills]] | github | standard | 2026-07-07 | |
+| [[0xnyk-awesome-hermes-agent]] | github | standard | 2026-07-07 | |
 
-_166 sources ingested._
+_167 sources ingested._

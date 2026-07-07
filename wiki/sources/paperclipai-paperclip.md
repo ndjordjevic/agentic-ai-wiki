@@ -19,10 +19,11 @@ related:
   - skills.sh
   - zaro.ai
   - ruvnet-ruflo
+  - 0xnyk-awesome-hermes-agent
 product: paperclip
 detail_level: standard
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-07-07
 ---
 
 Paperclip (`paperclipai/paperclip`) is an open-source Node.js + React control plane for running autonomous AI-agent companies — 72k+ GitHub stars, MIT license, TypeScript monorepo. It is not an agent framework; it is the organizational layer above any agent runtime (Claude Code, Codex, Cursor, OpenClaw, bash, HTTP bots). The repo implements twelve server subsystems — identity, org chart, work/tasks, heartbeat execution, workspaces, governance, budgets, routines, plugins, secrets, activity, and company portability — plus a built-in `skills/paperclip/SKILL.md` that defines how agents operate inside heartbeats (checkout-before-work, run-ID audit headers, scoped wake fast paths). See [[paperclip.ing]] for the unified product-site + repo view; this page is the GitHub-primary source.

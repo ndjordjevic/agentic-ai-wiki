@@ -28,6 +28,7 @@ related:
   - agents-cli
   - antigravity.google
   - obra-superpowers
+  - 0xnyk-awesome-hermes-agent
   - ruvnet-ruflo
   - github-spec-kit
   - how-claude-code-works-in-large-codebases
