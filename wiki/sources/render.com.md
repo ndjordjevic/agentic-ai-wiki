@@ -19,6 +19,7 @@ related:
   - litellm.ai
   - pydantic.dev
   - streamlit.io
+  - claudemarketplaces.com
 product: render
 detail_level: standard
 created: 2026-07-07

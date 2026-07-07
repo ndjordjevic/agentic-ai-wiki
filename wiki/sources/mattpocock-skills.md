@@ -21,6 +21,7 @@ related:
   - getcaveman.dev
   - phuryn-pm-skills
   - davidondrej-skills
+  - claudemarketplaces.com
 product: skills
 detail_level: standard
 created: 2026-06-12

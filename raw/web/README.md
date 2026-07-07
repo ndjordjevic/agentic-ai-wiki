@@ -105,3 +105,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/vercel.com.md | vercel.com | 11 | 2026-07-07 | |
 | raw/web/render.com.md | render.com | 9 | 2026-07-07 | |
 | raw/web/streamlit.io.md | streamlit.io | 9 | 2026-07-07 | companion: streamlit/streamlit |
+| raw/web/claudemarketplaces.com.md | claudemarketplaces.com | 9 | 2026-07-07 | redirects to crossaitools.com |

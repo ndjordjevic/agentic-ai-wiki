@@ -25,6 +25,7 @@ related:
   - kepano-obsidian-skills
   - coleam00-claude-memory-compiler
   - davidondrej-skills
+  - claudemarketplaces.com
 product: andrej-karpathy-skills
 detail_level: standard
 created: 2026-05-11

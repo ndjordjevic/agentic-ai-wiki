@@ -188,5 +188,6 @@ created: 2026-04-28
 | [[vercel.com]] | web | standard | 2026-07-07 | |
 | [[render.com]] | web | standard | 2026-07-07 | |
 | [[streamlit.io]] | web | standard | 2026-07-07 | companion: streamlit/streamlit |
+| [[claudemarketplaces.com]] | web | standard | 2026-07-07 | Cross AI Tools; redirects to crossaitools.com |
 
-_176 sources ingested._
+_177 sources ingested._

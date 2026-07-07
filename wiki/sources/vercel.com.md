@@ -22,6 +22,7 @@ related:
   - pydantic.dev
   - developers.openai.com
   - render.com
+  - claudemarketplaces.com
 product: vercel
 detail_level: standard
 created: 2026-07-07

@@ -23,10 +23,11 @@ related:
   - voltagent-awesome-agent-skills
   - supermemory.ai
   - nadimtuhin-claude-token-optimizer
+  - claudemarketplaces.com
 product: caveman
 detail_level: standard
 created: 2026-07-01
-updated: 2026-07-01
+updated: 2026-07-07
 ---
 
 Caveman is an open token-efficiency stack for agent-native development — built around the viral 78k-star `JuliusBrussee/caveman` Claude Code skill that cuts ~65% of output tokens by compressing agent *speech* without sacrificing technical accuracy. The marketing site at getcaveman.dev positions a five-layer product family: a byte-safe LLM gateway (Cloud, waitlist), Cavemem persistent memory over MCP, Caveman Code terminal agent (`@juliusbrussee/caveman-code`), Cave Architect telemetry-to-plan tooling, and eval-gated rollout for verified savings. The open stack (compression engine, proxy, CLI, SDKs, browser extension) runs locally with BYOK keys and labels all local measurements `inferred` — never `verified` — until hosted Cloud metering is available.

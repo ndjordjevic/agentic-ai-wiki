@@ -50,6 +50,7 @@ related:
   - mattpocock-skills
   - the-new-sdlc-with-vibe-coding
   - producthunt.com
+  - claudemarketplaces.com
 product: skills
 detail_level: standard
 created: 2026-04-30

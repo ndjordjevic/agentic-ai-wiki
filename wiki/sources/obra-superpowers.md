@@ -44,6 +44,7 @@ related:
   - frankbria-ralph-claude-code
   - mksglu-context-mode
   - davidondrej-skills
+  - claudemarketplaces.com
 product: superpowers
 detail_level: standard
 created: 2026-05-14

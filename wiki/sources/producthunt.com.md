@@ -24,10 +24,11 @@ related:
   - postiz.com
   - warp.dev
   - planana.xyz
+  - claudemarketplaces.com
 product: producthunt
 detail_level: standard
 created: 2026-07-01
-updated: 2026-07-01
+updated: 2026-07-07
 ---
 
 Product Hunt is a community-driven discovery platform where makers submit new tech products daily and the audience upvotes, comments, and ranks them on a public leaderboard — including Product of the Day. For the agentic-AI ecosystem it matters twice: as the primary launch channel where AI coding agents, MCP servers, skills repos, and agent harnesses surface to early adopters, and as a programmatic data source via its GraphQL API v2 (companion starter kit at `producthunt/producthunt-api`). The platform pairs editorial discovery (categories spanning AI Agents, Vibe Coding Tools, and AI Coding Agents) with maker tooling (Launch Guide, forums, newsletters) and a read-mostly API for posts, topics, users, and collections.

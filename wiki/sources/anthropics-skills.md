@@ -42,6 +42,7 @@ related:
   - kepano-obsidian-skills
   - phuryn-pm-skills
   - using-claude-code-unreasonable-effectiveness-html
+  - claudemarketplaces.com
 product: skills
 detail_level: standard
 created: 2026-05-11
