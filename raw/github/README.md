@@ -113,3 +113,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/google-adk-go.md | google/adk-go | 8403 | main | v2.0.0 | 2026-07-07 | |
 | raw/github/vellum-ai-vellum-assistant.md | vellum-ai/vellum-assistant | 841 | main | v0.10.6 | 2026-07-07 | companion for vellum.ai |
 | raw/github/ollama-ollama.md | ollama/ollama | 175624 | main | v0.31.2 | 2026-07-07 | |
+| raw/github/streamlit-streamlit.md | streamlit/streamlit | 45160 | develop | 1.59.0 | 2026-07-07 | companion for streamlit.io |
