@@ -18,6 +18,7 @@ related:
   - agents-cli
   - antigravity.google
   - supabase.com
+  - vercel.com
 product: must-have-clis-2026
 detail_level: standard
 created: 2026-05-30

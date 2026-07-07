@@ -7,7 +7,7 @@ raw_files:
   - ../../raw/web/pydantic.dev.md
   - ../../raw/github/pydantic-pydantic.md
 tags: [data-validation, agent-framework, observability, opentelemetry, type-safety, llm-proxy, python, pydantic-ai]
-related: [langchain.com, litellm.ai, crewai.com, strandsagents.com, adk.dev, google-adk-go, developers.openai.com, ollama-ollama]
+related: [langchain.com, litellm.ai, crewai.com, strandsagents.com, adk.dev, google-adk-go, developers.openai.com, ollama-ollama, vercel.com]
 product: pydantic
 detail_level: standard
 created: 2026-05-22

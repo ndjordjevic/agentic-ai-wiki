@@ -7,11 +7,11 @@ raw_files:
   - ../../raw/web/developers.openai.com.md
   - ../../raw/github/openai-openai-agents-js.md
 tags: [openai-agents-sdk, multi-agent, handoffs, guardrails, mcp, tracing, sandbox-agents, voice-agents, responses-api]
-related: [abacus.ai, strandsagents.com, crewai.com, langchain.com-langgraph, adk.dev, pydantic.dev, microsoft-autogen, litellm.ai, openai-codex-plugin-cc, elevenlabs.io]
+related: [abacus.ai, strandsagents.com, crewai.com, langchain.com-langgraph, adk.dev, pydantic.dev, microsoft-autogen, litellm.ai, openai-codex-plugin-cc, elevenlabs.io, vercel.com]
 product: openai-agents-sdk
 detail_level: standard
 created: 2026-07-03
-updated: 2026-07-06
+updated: 2026-07-07
 ---
 
 OpenAI's Agents SDK is the vendor's code-first framework for building multi-agent applications in TypeScript or Python. It sits alongside the Responses API: use Responses when one model call plus tools and app-owned logic suffices; use the SDK when your server owns orchestration, tool execution, approvals, and conversation state. The SDK provides agents (model + instructions + tools), a runtime loop with streaming, handoffs and agents-as-tools orchestration patterns, guardrails and human-in-the-loop approvals, sessions and server-managed continuation, sandbox agents for containerized filesystem work, MCP integration, built-in tracing, and voice/realtime agent pipelines.

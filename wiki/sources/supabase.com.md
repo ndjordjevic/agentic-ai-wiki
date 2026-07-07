@@ -22,6 +22,7 @@ related:
   - must-have-clis-2026
   - trigger.dev
   - langchain.com
+  - vercel.com
 product: supabase
 detail_level: standard
 created: 2026-07-07

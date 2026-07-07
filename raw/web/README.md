@@ -102,3 +102,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/app.sauna.ai.md | app.sauna.ai | 10 | 2026-07-07 | |
 | raw/web/supabase.com.md | supabase.com | 8 | 2026-07-07 | |
 | raw/web/vellum.ai.md | vellum.ai | 8 | 2026-07-07 | |
+| raw/web/vercel.com.md | vercel.com | 11 | 2026-07-07 | |

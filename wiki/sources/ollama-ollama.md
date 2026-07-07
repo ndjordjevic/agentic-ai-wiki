@@ -21,6 +21,7 @@ related:
   - langchain.com
   - huggingface.co
   - zilliztech-claude-context
+  - vercel.com
 product: ollama
 detail_level: standard
 created: 2026-07-07

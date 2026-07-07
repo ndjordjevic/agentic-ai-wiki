@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-07 | ingest | vercel.com | Agentic Infrastructure — AI SDK, Gateway, Sandbox, Workflows, MCP, eve
+
+- Created: wiki/sources/vercel.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-07-07 | ingest | ollama-ollama | Local LLM runtime — llama.cpp/MLX, REST API, agent launch integrations
 
 - Created: wiki/sources/ollama-ollama.md
