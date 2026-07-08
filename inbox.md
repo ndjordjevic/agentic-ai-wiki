@@ -211,3 +211,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://render.com/ <!-- ingested 2026-07-07 -->
 - [x] https://streamlit.io/ <!-- ingested 2026-07-07 -->
 - [x] https://claudemarketplaces.com/ <!-- ingested 2026-07-07 -->
+- [x] https://anysearch.com/home <!-- ingested 2026-07-07 -->

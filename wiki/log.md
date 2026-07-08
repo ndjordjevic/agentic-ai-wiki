@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-07 | ingest | anysearch.com | AnySearch — search infrastructure for AI agents (API/MCP/Skill)
+
+- Created: wiki/sources/anysearch.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-07-07 | ingest | claudemarketplaces.com | Cross AI Tools — curated Claude Code skills, marketplaces, MCP directory
 
 - Created: wiki/sources/claudemarketplaces.com.md

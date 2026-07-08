@@ -15,11 +15,12 @@ tags:
   - brave-search
   - ai-agents
   - real-time-search
-related: []
+related:
+  - anysearch.com
 product: brave
 detail_level: standard
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-07-07
 ---
 
 Brave Search API is a privacy-first, commercially licensed web search API that gives AI agents and chatbots access to the world's largest independent Web index — 30+ billion pages refreshed 100 million times daily — through specialized endpoints for web, images, videos, news, LLM context, and AI-powered summarization. It is the only major search API built on a fully independent crawler (not a reseller of Bing or Google data), with a SOC 2 Type II attestation, Zero Data Retention option for enterprise, and a native MCP server (`brave/brave-search-mcp-server`, 1,166 stars, TypeScript, STDIO + HTTP) that integrates directly into Claude Desktop, VS Code, and any MCP-compatible agent runtime.
