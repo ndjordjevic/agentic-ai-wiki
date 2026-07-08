@@ -16,10 +16,11 @@ related:
   - wisprflow.ai
   - hermes-agent.nousresearch.com
   - strandsagents.com
+  - crafterq.ai
 product: elevenlabs
 detail_level: standard
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-08
 ---
 
 ElevenLabs is an AI research and product company (launched January 2023) building foundational audio models and three integrated platforms: **ElevenCreative** for no-code speech, music, image, and video production; **ElevenAgents** for deploying omnichannel voice and chat agents with testing, guardrails, and analytics; and **ElevenAPI** exposing TTS, STT, voice cloning, music, dubbing, and sound effects via HTTP/WebSocket with official Python and Node.js SDKs. It matters for agentic AI because ElevenAgents wires natively to OpenAI, Anthropic, Google, and custom LLMs with backup cascading, tool calling, knowledge-base RAG, and telephony integrations — a full voice layer for autonomous customer-facing agents.

@@ -191,5 +191,6 @@ created: 2026-04-28
 | [[claudemarketplaces.com]] | web | standard | 2026-07-07 | Cross AI Tools; redirects to crossaitools.com |
 | [[anysearch.com]] | web | standard | 2026-07-07 | |
 | [[designmd.cc]] | web | standard | 2026-07-08 | companion: adityarajdigital/designmd |
+| [[crafterq.ai]] | web | standard | 2026-07-08 | |
 
-_179 sources ingested._
+_180 sources ingested._
