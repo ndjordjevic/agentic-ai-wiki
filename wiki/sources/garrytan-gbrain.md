@@ -16,6 +16,7 @@ related:
   - hermes-agent.nousresearch.com
   - felix-forever-hermes-agent-desktop
   - 0xnyk-awesome-hermes-agent
+  - phasr.sh
 product: gbrain
 detail_level: standard
 created: 2026-06-18

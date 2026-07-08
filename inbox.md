@@ -17,7 +17,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
-- [ ] https://phasr.sh/
 - [ ] https://github.com/SnailSploit/Claude-Red
 - [ ] https://www.integuru.com/
 - [ ] https://x.com/0xCodez/status/2062127385923776831?s=20
@@ -212,3 +211,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://neon.com/ <!-- ingested 2026-07-08 -->
 - [x] https://summio.org/ <!-- ingested 2026-07-08 -->
 - [x] https://github.com/Chachamaru127/claude-code-harness <!-- ingested 2026-07-08 -->
+- [x] https://phasr.sh/ <!-- ingested 2026-07-08 -->

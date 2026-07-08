@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-08 | ingest | phasr.sh | macOS desktop workspace for parallel CLI agents with git worktree isolation
+
+- Created: wiki/sources/phasr.sh.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/irishabh96-phasr.md
+
 ## 2026-07-08 | ingest | Chachamaru127-claude-code-harness | Claude Code Plan→Work→Review harness with Go-native guardrails
 
 - Created: wiki/sources/Chachamaru127-claude-code-harness.md

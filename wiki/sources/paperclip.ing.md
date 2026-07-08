@@ -24,10 +24,11 @@ related:
   - joinoasis.com
   - zaro.ai
   - app.sauna.ai
+  - phasr.sh
 product: paperclip
 detail_level: standard
 created: 2026-04-28
-updated: 2026-07-07
+updated: 2026-07-08
 ---
 
 Paperclip is an open-source Node.js + React control plane for running autonomous AI-agent companies. Rather than being an agent framework, it is the organizational layer around a team of agents — providing org charts, goal alignment, heartbeat scheduling, per-agent budgets, governance workflows, a full ticket system, and multi-company isolation. The product site and companion GitHub repo present the same core idea from two angles: operator-facing positioning on the web side and concrete server, UI, adapter, and skill implementation details on the GitHub side. (../../raw/github/paperclipai-paperclip.md)

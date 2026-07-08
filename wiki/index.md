@@ -195,5 +195,6 @@ created: 2026-04-28
 | [[neon.com]] | web | standard | 2026-07-08 | companion: neondatabase/neon |
 | [[summio.org]] | web | standard | 2026-07-08 | |
 | [[Chachamaru127-claude-code-harness]] | github | standard | 2026-07-08 | |
+| [[phasr.sh]] | web | standard | 2026-07-08 | companion: irishabh96/phasr |
 
-_183 sources ingested._
+_184 sources ingested._
