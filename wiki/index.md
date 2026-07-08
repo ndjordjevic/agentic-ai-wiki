@@ -194,5 +194,6 @@ created: 2026-04-28
 | [[crafterq.ai]] | web | standard | 2026-07-08 | |
 | [[neon.com]] | web | standard | 2026-07-08 | companion: neondatabase/neon |
 | [[summio.org]] | web | standard | 2026-07-08 | |
+| [[Chachamaru127-claude-code-harness]] | github | standard | 2026-07-08 | |
 
-_182 sources ingested._
+_183 sources ingested._

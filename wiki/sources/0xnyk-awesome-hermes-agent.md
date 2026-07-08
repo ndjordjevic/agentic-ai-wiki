@@ -19,10 +19,11 @@ related:
   - garrytan-gbrain
   - supermemory.ai
   - paperclipai-paperclip
+  - Chachamaru127-claude-code-harness
 product: hermes-agent
 detail_level: standard
 created: 2026-07-07
-updated: 2026-07-07
+updated: 2026-07-08
 ---
 
 Awesome Hermes Agent is the community-maintained discovery layer for the Hermes Agent ecosystem (4,524 stars, CC BY 4.0), cataloging skills, plugins, memory providers, GUIs, deployment templates, integrations, and domain applications built around [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent). Unlike generic agent-skill lists, every entry is Hermes-specific or agentskills.io-compatible, tagged with maturity levels (production / beta / experimental), and organized into operational playbooks and level-up blueprints for teams assembling a production stack.

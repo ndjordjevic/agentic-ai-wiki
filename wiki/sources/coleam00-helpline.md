@@ -22,10 +22,11 @@ related:
   - 6eanut-llm-wiki
   - coleam00-claude-memory-compiler
   - using-claude-code-unreasonable-effectiveness-html
+  - Chachamaru127-claude-code-harness
 product: helpline
 detail_level: standard
 created: 2026-07-03
-updated: 2026-07-07
+updated: 2026-07-08
 ---
 
 Helpline (100 ★, Python) is Cole Medin's **worked reference implementation** of Anthropic's "How Claude Code works in large codebases" article — a deliberately realistic five-service Python monorepo (helpdesk SaaS) whose real purpose is demonstrating the **AI Layer**: the harness of CLAUDE.md files, hooks, skills, LSP, MCP, subagents, and a distributable plugin that makes coding agents productive at scale. Git history is intentionally split: commit 1 is the app with no layer; commit 2 adds the entire validated harness (13/13 checks). The portable pieces ship as the `helpline-ai-layer` Claude Code plugin for one-command install into any repo.

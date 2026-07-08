@@ -116,3 +116,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/streamlit-streamlit.md | streamlit/streamlit | 45160 | develop | 1.59.0 | 2026-07-07 | companion for streamlit.io |
 | raw/github/adityarajdigital-designmd.md | adityarajdigital/designmd | 49 | main | v0.1.2 | 2026-07-08 | companion for designmd.cc |
 | raw/github/neondatabase-neon.md | neondatabase/neon | 22501 | main | release-proxy-8853 | 2026-07-08 | companion for neon.com |
+| raw/github/Chachamaru127-claude-code-harness.md | Chachamaru127/claude-code-harness | 2951 | main | v4.16.4 | 2026-07-08 | |

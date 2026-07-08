@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-08 | ingest | Chachamaru127-claude-code-harness | Claude Code Plan→Work→Review harness with Go-native guardrails
+
+- Created: wiki/sources/Chachamaru127-claude-code-harness.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-07-08 | ingest | summio.org | AI iPhone reading companion — grounded summaries, chat, spaced repetition
 
 - Created: wiki/sources/summio.org.md

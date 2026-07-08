@@ -18,10 +18,11 @@ related:
   - garrytan-gstack
   - shadcn-improve
   - phuryn-pm-skills
+  - Chachamaru127-claude-code-harness
 product: compound-engineering-plugin
 detail_level: standard
 created: 2026-05-25
-updated: 2026-07-06
+updated: 2026-07-08
 ---
 
 Every's Compound Engineering plugin is a comprehensive AI-agent workflow suite for Claude Code, Codex, Cursor, Copilot, and other coding agents that operationalizes the philosophy that each unit of engineering work should make subsequent units easier. With 17k+ stars and 1,300+ forks it is one of the most widely adopted coding-agent plugin packages, shipping 38+ skills and 50+ specialized review, research, and workflow agents in a single installable plugin.

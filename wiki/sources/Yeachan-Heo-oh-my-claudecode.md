@@ -2,11 +2,11 @@
 type: source
 source_url: https://github.com/Yeachan-Heo/oh-my-claudecode
 tags: [claude-code-plugin, multi-agent-orchestration, hook-based-routing, skill-based-routing, team-orchestration, magic-keywords, model-routing]
-related: [obra-superpowers, gsd-build-get-shit-done, ruvnet-ruflo, frankbria-ralph-claude-code, snarktank-ralph, tmuxai.dev]
+related: [obra-superpowers, gsd-build-get-shit-done, ruvnet-ruflo, frankbria-ralph-claude-code, snarktank-ralph, tmuxai.dev, Chachamaru127-claude-code-harness]
 product: oh-my-claudecode
 detail_level: standard
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-08
 ---
 
 oh-my-claudecode (OMC, npm package `oh-my-claude-sisyphus`, 37k+ stars, MIT, TypeScript, v4.15.2) is a Claude Code plugin that turns natural-language prompts and magic keywords into structured multi-agent orchestration with zero configuration. It layers hooks, skills, agents, and compaction-resistant state on top of a stock Claude Code session so that phrases like `autopilot build me a todo app` or `ralph: refactor auth` trigger full pipelines automatically, without the user learning any command syntax.
