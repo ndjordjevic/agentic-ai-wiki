@@ -196,5 +196,6 @@ created: 2026-04-28
 | [[summio.org]] | web | standard | 2026-07-08 | |
 | [[Chachamaru127-claude-code-harness]] | github | standard | 2026-07-08 | |
 | [[phasr.sh]] | web | standard | 2026-07-08 | companion: irishabh96/phasr |
+| [[SnailSploit-Claude-Red]] | github | standard | 2026-07-08 | |
 
-_184 sources ingested._
+_185 sources ingested._

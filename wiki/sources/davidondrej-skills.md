@@ -16,10 +16,11 @@ related:
   - voltagent-awesome-agent-skills
   - obra-superpowers
   - pi.dev
+  - SnailSploit-Claude-Red
 product: skills
 detail_level: standard
 created: 2026-07-07
-updated: 2026-07-07
+updated: 2026-07-08
 ---
 
 David Ondrej's personal Agent Skills repository (1.5k+ stars, MIT, 211 forks) — 31 skills across five category folders, distinguishing itself from other public skill collections by leaning heavily into multi-agent orchestration (cmux terminal control, delegating to Pi/Codex/Claude Code/Hermes, self-scheduling loops) alongside the more common skill-authoring and research-workflow content.

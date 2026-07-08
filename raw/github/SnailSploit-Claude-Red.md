@@ -1,0 +1,606 @@
+# SnailSploit/Claude-Red
+
+## Metadata
+- Stars: 2659
+- Primary language: Python
+- Default branch: main
+- Latest release: Claude-Red-Skills V.2 (2026-03-08)
+- License: MIT
+- Homepage: 
+- Fetched: 2026-07-08
+- Final URL: https://github.com/SnailSploit/Claude-Red
+
+## Description
+claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
+
+## README
+![claude-red banner](/assets/banner.png)
+
+<div align="center">
+
+# claude-red
+
+**Offensive security skills for Claude — drop-in `SKILL.md` files that turn Claude into a context-aware red team operator.**
+
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Skills](https://img.shields.io/badge/skills-58-red.svg)](#skill-index)
+[![Categories](https://img.shields.io/badge/categories-13-orange.svg)](#categories)
+[![Stars](https://img.shields.io/github/stars/SnailSploit/claude-red?style=social)](https://github.com/SnailSploit/claude-red)
+[![Forks](https://img.shields.io/github/forks/SnailSploit/claude-red?style=social)](https://github.com/SnailSploit/claude-red/network/members)
+
+Built by **[SnailSploit](https://snailsploit.com)** — GenAI Security Research.
+
+</div>
+
+---
+
+## Table of Contents
+
+- [What is this](#what-is-this)
+- [Quickstart](#quickstart)
+- [Categories](#categories)
+- [Skill Index](#skill-index)
+  - [Web Application](#web-application)
+  - [Auth & Identity](#auth--identity)
+  - [Active Directory](#active-directory)
+  - [Wireless](#wireless)
+  - [Cloud](#cloud)
+  - [Mobile](#mobile)
+  - [IoT & Embedded](#iot--embedded)
+  - [Infrastructure & Red Team](#infrastructure--red-team)
+  - [Exploit Development](#exploit-development)
+  - [Fuzzing & Vulnerability Research](#fuzzing--vulnerability-research)
+  - [Reconnaissance](#reconnaissance)
+  - [AI Security](#ai-security)
+  - [Utility](#utility)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+
+---
+
+## What is this
+
+`claude-red` is a curated library of offensive security skills for the [Claude Skills system](https://docs.claude.com). Each skill is a structured `SKILL.md` file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to ADCS abuse.
+
+Drop a skill into your Claude environment and it behaves like a specialist: it knows the techniques, the tooling, the edge cases, and the escalation paths. Skills load on demand based on conversational triggers — you don't pay context for skills you aren't using.
+
+**Use it for:** authorized red team engagements, bug bounty triage, security research, CTF preparation, training operators, and exploring attack surfaces methodically.
+
+---
+
+## Quickstart
+
+### Claude Skills System (recommended)
+
+```bash
+# Clone into a directory Claude will scan
+git clone https://github.com/SnailSploit/claude-red ~/.claude/skills/claude-red
+
+# Or install only one category
+git clone --filter=blob:none --sparse https://github.com/SnailSploit/claude-red
+cd claude-red && git sparse-checkout set Skills/web Skills/active-directory
+```
+
+Claude will auto-load matching skills based on conversational triggers (e.g. mentioning SQLi loads `offensive-sqli`).
+
+### Claude Code
+
+```bash
+# Point Claude at a single skill before a session
+cat Skills/web/offensive-sqli/SKILL.md | claude --system-file -
+
+# Or load a whole category
+cat Skills/active-directory/**/SKILL.md | claude --system-file -
+```
+
+### Claude.ai (Manual)
+
+Paste the contents of a `SKILL.md` into a Project's system prompt or prepend to your conversation.
+
+### Install Script
+
+```bash
+./install.sh                           # interactive
+./install.sh --target ~/.claude/skills # explicit target
+./install.sh --category web            # one category
+```
+
+---
+
+## Categories
+
+| Category | Skills | Focus |
+|---|---:|---|
+| [Web Application](#web-application) | 16 | OWASP Top 10 + business logic + advanced web bug classes |
+| [Auth & Identity](#auth--identity) | 2 | JWT, OAuth |
+| [Active Directory](#active-directory) | 1 | On-prem AD attack methodology *(expanding)* |
+| [Wireless](#wireless) | 13 | 802.11, WPA2/3, EAP, WPS, evil-twin, BLE, Zigbee, Z-Wave, LoRa, sub-GHz |
+| [Cloud](#cloud) | 1 | AWS / Azure / GCP attack paths *(expanding)* |
+| [Mobile](#mobile) | 1 | Android + iOS pentest *(expanding)* |
+| [IoT & Embedded](#iot--embedded) | 1 | Hardware, firmware, RTOS, ICS *(expanding)* |
+| [Infrastructure & Red Team](#infrastructure--red-team) | 7 | Initial access, EDR evasion, Windows ops |
+| [Exploit Development](#exploit-development) | 6 | Stack/heap, mitigations, crash analysis, TOCTOU |
+| [Fuzzing & VR](#fuzzing--vulnerability-research) | 4 | libFuzzer, AFL++, bug ID, vuln classes |
+| [Reconnaissance](#reconnaissance) | 2 | OSINT tooling and methodology |
+| [AI Security](#ai-security) | 1 | Prompt injection, jailbreaks, RAG poisoning |
+| [Utility](#utility) | 2 | Fast-checking, professional reporting |
+
+---
+
+## Skill Index
+
+### Web Application
+
+`Skills/web/`
+
+| Skill | Description |
+|---|---|
+| [`offensive-sqli`](Skills/web/offensive-sqli/SKILL.md) | SQL injection — error/blind/OOB, DB-specific, ORM CVEs, cloud paths |
+| [`offensive-xss`](Skills/web/offensive-xss/SKILL.md) | Cross-site scripting — stored, reflected, DOM, mutation |
+| [`offensive-ssrf`](Skills/web/offensive-ssrf/SKILL.md) | Server-side request forgery — cloud metadata, filter bypass |
+| [`offensive-ssti`](Skills/web/offensive-ssti/SKILL.md) | Server-side template injection — engine ID, RCE paths |
+| [`offensive-xxe`](Skills/web/offensive-xxe/SKILL.md) | XML external entity — OOB exfil, blind exploitation |
+| [`offensive-idor`](Skills/web/offensive-idor/SKILL.md) | Insecure direct object references — enumeration, business logic |
+| [`offensive-file-upload`](Skills/web/offensive-file-upload/SKILL.md) | File upload — extension bypass, polyglots, webshells |
+| [`offensive-rce`](Skills/web/offensive-rce/SKILL.md) | Remote code execution — chaining, command injection |
+| [`offensive-deserialization`](Skills/web/offensive-deserialization/SKILL.md) | Insecure deserialization — Java/PHP/.NET gadget chains |
+| [`offensive-race-condition`](Skills/web/offensive-race-condition/SKILL.md) | Race conditions — TOCTOU, single-packet, limit bypass |
+| [`offensive-request-smuggling`](Skills/web/offensive-request-smuggling/SKILL.md) | HTTP request smuggling — CL.TE, TE.CL, h2 desync |
+| [`offensive-open-redirect`](Skills/web/offensive-open-redirect/SKILL.md) | Open redirect — OAuth abuse, phishing, SSRF pivots |
+| [`offensive-parameter-pollution`](Skills/web/offensive-parameter-pollution/SKILL.md) | HTTP parameter pollution — WAF bypass, logic confusion |
+| [`offensive-graphql`](Skills/web/offensive-graphql/SKILL.md) | GraphQL — introspection, batching, IDOR via aliases |
+| [`offensive-waf-bypass`](Skills/web/offensive-waf-bypass/SKILL.md) | WAF bypass — encoding, chunking, case mutation |
+| [`offensive-business-logic`](Skills/web/offensive-business-logic/SKILL.md) | Business logic — workflow bypass, pricing, refunds, chains |
+
+### Auth & Identity
+
+`Skills/auth/`
+
+| Skill | Description |
+|---|---|
+| [`offensive-jwt`](Skills/auth/offensive-jwt/SKILL.md) | JWT — alg:none, key confusion, secret cracking |
+| [`offensive-oauth`](Skills/auth/offensive-oauth/SKILL.md) | OAuth — open redirect abuse, token leakage, PKCE bypass |
+
+### Active Directory
+
+`Skills/active-directory/`
+
+| Skill | Description |
+|---|---|
+| [`offensive-active-directory`](Skills/active-directory/offensive-active-directory/SKILL.md) | AD — Kerberoast, ASREProast, ACL abuse, ADCS ESC1-15, delegation, persistence, hybrid AAD |
+
+> **Note:** This category is being expanded. The AD overview is being split into 16 focused skills (Kerberoasting, ASREProasting, ADCS, coercion, NTLM relay, BloodHound, ticket forgery, GPO abuse, etc.). See [Roadmap](#roadmap).
+
+### Wireless
+
+`Skills/wireless/`
+
+| Skill | Description |
+|---|---|
+| [`offensive-wifi`](Skills/wireless/offensive-wifi/SKILL.md) | 802.11 overview — entrypoint into the wireless category |
+| [`offensive-wifi-recon`](Skills/wireless/offensive-wifi-recon/SKILL.md) | Adapter selection, monitor mode, multi-band airspace mapping |
+| [`offensive-wpa2-psk`](Skills/wireless/offensive-wpa2-psk/SKILL.md) | Handshake capture, PMKID, hashcat 22000 cracking |
+| [`offensive-wpa3-sae`](Skills/wireless/offensive-wpa3-sae/SKILL.md) | Transition-mode downgrade, Dragonblood, SAE side-channels |
+| [`offensive-wpa-enterprise`](Skills/wireless/offensive-wpa-enterprise/SKILL.md) | 802.1X / EAP attacks, eaphammer evil-twin RADIUS |
+| [`offensive-wps`](Skills/wireless/offensive-wps/SKILL.md) | Pixie Dust, online PIN brute, vendor PIN generators |
+| [`offensive-evil-twin`](Skills/wireless/offensive-evil-twin/SKILL.md) | KARMA, Mana, captive portal, post-association MITM |
+| [`offensive-krack-fragattacks`](Skills/wireless/offensive-krack-fragattacks/SKILL.md) | KRACK + FragAttacks supplicant testing |
+| [`offensive-deauth-disassoc`](Skills/wireless/offensive-deauth-disassoc/SKILL.md) | Targeted/broadcast deauth, PMF awareness, action frames |
+| [`offensive-bluetooth-ble`](Skills/wireless/offensive-bluetooth-ble/SKILL.md) | BLE GATT enum, pairing downgrade, sniffing, MITM |
+| [`offensive-bluetooth-classic`](Skills/wireless/offensive-bluetooth-classic/SKILL.md) | BR/EDR — SDP, SPP, KNOB, BlueBorne, HID spoofing |
+| [`offensive-zigbee-thread-matter`](Skills/wireless/offensive-zigbee-thread-matter/SKILL.md) | 802.15.4 mesh — KillerBee, Touchlink abuse, ZCL command injection |
+| [`offensive-z-wave`](Skills/wireless/offensive-z-wave/SKILL.md) | S0 key derivation flaw, S2 commissioning, hub pivots |
+| [`offensive-lorawan-sub-ghz`](Skills/wireless/offensive-lorawan-sub-ghz/SKILL.md) | LoRaWAN ABP/OTAA, KeeLoq garage doors, fixed-code, TPMS |
+
+### Cloud
+
+`Skills/cloud/`
+
+| Skill | Description |
+|---|---|
+| [`offensive-cloud`](Skills/cloud/offensive-cloud/SKILL.md) | AWS / Azure / GCP — privesc, IMDS, cross-account, persistence, CSPM evasion |
+
+> **Note:** Cloud-identity (Entra/AAD/Okta hybrid) skills coming separately. See [Roadmap](#roadmap).
+
+### Mobile
+
+`Skills/mobile/`
+
+| Skill | Description |
+|---|---|
+| [`offensive-mobile`](Skills/mobile/offensive-mobile/SKILL.md) | Android + iOS — Frida, pinning, storage, biometric, deep links |
+
+### IoT & Embedded
+
+`Skills/iot/`
+
+| Skill | Description |
+|---|---|
+| [`offensive-iot`](Skills/iot/offensive-iot/SKILL.md) | Hardware recon, firmware, RTOS, ICS/OT, MQTT/CoAP |
+
+> **Note:** Being split into 10 focused skills (UART/JTAG, flash dump, fault injection, U-Boot, secure boot, RTOS, ICS protocols). See [Roadmap](#roadmap).
+
+### Infrastructure & Red Team
+
+`Skills/infrastructure/`
+
+| Skill | Description |
+|---|---|
+| [`offensive-initial-access`](Skills/infrastructure/offensive-initial-access/SKILL.md) | Phishing, drive-by, supply chain — TA0001 |
+| [`offensive-advanced-redteam`](Skills/infrastructure/offensive-advanced-redteam/SKILL.md) | Full kill chain, C2, OPSEC, lateral, persistence |
+| [`offensive-edr-evasion`](Skills/infrastructure/offensive-edr-evasion/SKILL.md) | Unhooking, indirect syscalls, PPID spoofing |
+| [`offensive-shellcode`](Skills/infrastructure/offensive-shellcode/SKILL.md) | Writing, encoding, injection techniques |
+| [`offensive-keylogger-arch`](Skills/infrastructure/offensive-keylogger-arch/SKILL.md) | Keylogger architecture and input-capture techniques |
+| [`offensive-windows-mitigations`](Skills/infrastructure/offensive-windows-mitigations/SKILL.md) | Windows mitigations — ACG, Arbitrary Code Guard |
+| [`offensive-windows-boundaries`](Skills/infrastructure/offensive-windows-boundaries/SKILL.md) | Defeating Windows boundaries — sandbox escape, privilege |
+
+### Exploit Development
+
+`Skills/exploit-dev/`
+
+| Skill | Description |
+|---|---|
+| [`offensive-exploit-development`](Skills/exploit-dev/offensive-exploit-development/SKILL.md) | Stack/heap, ROP chains, mitigations |
+| [`offensive-exploit-dev-course`](Skills/exploit-dev/offensive-exploit-dev-course/SKILL.md) | Structured curriculum format |
+| [`offensive-basic-exploitation`](Skills/exploit-dev/offensive-basic-exploitation/SKILL.md) | Linux exploitation, mitigations disabled — beginner-to-mid |
+| [`offensive-crash-analysis`](Skills/exploit-dev/offensive-crash-analysis/SKILL.md) | Crash triage, exploitability assessment, root cause |
+| [`offensive-mitigations`](Skills/exploit-dev/offensive-mitigations/SKILL.md) | Modern kernel mitigations — ASLR, CFG, CET, PAC |
+| [`offensive-toctou`](Skills/exploit-dev/offensive-toctou/SKILL.md) | Time-of-check/use across binary, kernel, web, container |
+
+### Fuzzing & Vulnerability Research
+
+`Skills/fuzzing/`
+
+| Skill | Description |
+|---|---|
+| [`offensive-fuzzing`](Skills/fuzzing/offensive-fuzzing/SKILL.md) | libFuzzer, AFL++, coverage-guided, mutation strategies |
+| [`offensive-fuzzing-course`](Skills/fuzzing/offensive-fuzzing-course/SKILL.md) | Curriculum — finding vulns via fuzzing |
+| [`offensive-bug-identification`](Skills/fuzzing/offensive-bug-identification/SKILL.md) | Code review patterns, static analysis triggers |
+| [`offensive-vuln-classes`](Skills/fuzzing/offensive-vuln-classes/SKILL.md) | Vulnerability classes — real-world examples, taxonomy |
+
+### Reconnaissance
+
+`Skills/recon/`
+
+| Skill | Description |
+|---|---|
+| [`offensive-osint`](Skills/recon/offensive-osint/SKILL.md) | OSINT tools — recon-ng, theHarvester, Maltego pipelines |
+| [`offensive-osint-methodology`](Skills/recon/offensive-osint-methodology/SKILL.md) | OSINT methodology — structured intelligence collection |
+
+### AI Security
+
+`Skills/ai/`
+
+| Skill | Description |
+|---|---|
+| [`offensive-ai-security`](Skills/ai/offensive-ai-security/SKILL.md) | AI pentest — prompt injection, jailbreaking, RAG poisoning |
+
+### Utility
+
+`Skills/utility/`
+
+| Skill | Description |
+|---|---|
+| [`offensive-fast-checking`](Skills/utility/offensive-fast-checking/SKILL.md) | Fast triage checklist — quick-win identification |
+| [`offensive-reporting`](Skills/utility/offensive-reporting/SKILL.md) | Pro pentest reporting — CVSS, evidence, exec summary, retest |
+
+---
+
+## Roadmap
+
+The library is being expanded in seven phases. Track progress in [CHANGELOG.md](CHANGELOG.md).
+
+| Phase | Category | New Skills | Status |
+|---|---|---:|---|
+| 1 | Internal AD/Windows (rename `active-directory/` → `internal/`) | +16 | Planned |
+| 2 | Cloud Identity (Entra/AAD, ADFS, Okta, M365) | +10 | Planned |
+| 3 | Wireless split (WPA2/3, EAP, BLE, Zigbee, Z-Wave, LoRa, sub-GHz) | +12 | **Mandatory** |
+| 4 | IoT split (UART/JTAG, flash, fault injection, RTOS, ICS) | +10 | Planned |
+| 5 | Web Basics (recon, auth bypass, access control, CSRF, headers, CORS, cache, clickjack) | +8 | Planned |
+| 6 | Web Advanced (proto pollution, SAML, OIDC, WebSocket, gRPC, postMessage, SSI/ESI, CSTI) | +10 | Planned |
+| 7 | Polish (README, LICENSE, manifest, install) | — | **In progress** |
+
+End state: ~107 skills across the same 13+ categories.
+
+---
+
+## Contributing
+
+Contributions welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for the skill template, frontmatter standard, and review process. Focused, single-surface skills are preferred over monolithic overviews.
+
+## License
+
+[MIT](LICENSE) — use freely, attribution appreciated.
+
+## Acknowledgements
+
+- **Author:** Kai Aizen (SnailSploit) — [snailsploit.com](https://snailsploit.com)
+- **Original Checklists:** [Sahar Shlichov](https://github.com/sahar042/offensive-checklist) — the offensive checklist collection many of these skills are based on.
+- **Community:** PRs and feedback that keep the library current with the threat landscape.
+
+---
+
+<div align="center">
+
+> *"Give Claude the right skill and it stops being a chatbot. It becomes an operator."*
+
+</div>
+
+<!-- snailsploit-backlink:start -->
+
+---
+
+## 📚 Documentation & Author
+
+This project's full writeup, methodology, and related research lives at:
+
+**[https://snailsploit.com/claude-red](https://snailsploit.com/claude-red)**
+
+Created by **Kai Aizen** — independent offensive security researcher.
+
+[snailsploit.com](https://snailsploit.com) · [Research](https://snailsploit.com/research) · [Frameworks](https://snailsploit.com/frameworks) · [GitHub](https://github.com/SnailSploit) · [LinkedIn](https://linkedin.com/in/kaiaizen) · [ResearchGate](https://www.researchgate.net/profile/Kai-Aizen-2) · [X/Twitter](https://x.com/SnailSploit)
+
+> *Same attack. Different substrate.*
+
+<!-- snailsploit-backlink:end -->
+
+
+## Docs
+
+### MINDMAP.md
+# claude-red — Library Mindmap
+
+A visual map of every skill in the library, by category. Use it to navigate, to discover skills you didn't know existed, and to spot coverage gaps before an engagement.
+
+References for completeness checking: [MITRE ATT&CK](https://attack.mitre.org/), [HackTricks](https://book.hacktricks.xyz/), [OWASP WSTG](https://owasp.org/www-project-web-security-testing-guide/), [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings).
+
+---
+
+## Library Map
+
+```mermaid
+mindmap
+  root((claude-red))
+    Web
+      sqli
+      xss
+      ssrf
+      ssti
+      xxe
+      idor
+      file-upload
+      rce
+      deserialization
+      race-condition
+      request-smuggling
+      open-redirect
+      parameter-pollution
+      graphql
+      waf-bypass
+      business-logic
+    Auth
+      jwt
+      oauth
+    Active-Directory
+      active-directory
+    Wireless
+      wifi
+      wifi-recon
+      wpa2-psk
+      wpa3-sae
+      wpa-enterprise
+      wps
+      evil-twin
+      krack-fragattacks
+      deauth-disassoc
+      bluetooth-ble
+      bluetooth-classic
+      zigbee-thread-matter
+      z-wave
+      lorawan-sub-ghz
+    Cloud
+      cloud
+    Mobile
+      mobile
+    IoT
+      iot
+    Infrastructure
+      initial-access
+      advanced-redteam
+      edr-evasion
+      shellcode
+      keylogger-arch
+      windows-mitigations
+      windows-boundaries
+    Exploit-Dev
+      exploit-development
+      exploit-dev-course
+      basic-exploitation
+      crash-analysis
+      mitigations
+      toctou
+    Fuzzing
+      fuzzing
+      fuzzing-course
+      bug-identification
+      vuln-classes
+    Recon
+      osint
+      osint-methodology
+    AI
+      ai-security
+    Utility
+      fast-checking
+      reporting
+```
+
+---
+
+## Coverage Cross-Reference
+
+Use this table to confirm coverage of common offensive surfaces. If a row has no skill, it's a gap.
+
+### Web Application (OWASP WSTG)
+
+| Surface | Skill |
+|---|---|
+| Information gathering | `recon/offensive-osint`, `recon/offensive-osint-methodology` |
+| Configuration / deployment | `web/offensive-waf-bypass` |
+| Identity management | `auth/offensive-jwt`, `auth/offensive-oauth` |
+| Authentication | _(planned: `web/auth-bypass`)_ |
+| Authorization | `web/offensive-idor` |
+| Session management | `auth/offensive-jwt`, `auth/offensive-oauth` |
+| Input validation | `web/offensive-sqli`, `web/offensive-xss`, `web/offensive-xxe`, `web/offensive-ssti`, `web/offensive-ssrf` |
+| Error handling | _(implicit across web skills)_ |
+| Cryptography | _(planned)_ |
+| Business logic | `web/offensive-business-logic` |
+| Client-side | `web/offensive-xss`, `web/offensive-open-redirect` |
+| API testing | `web/offensive-graphql` |
+
+### Internal Network / Active Directory (MITRE ATT&CK Enterprise)
+
+| Tactic | Skill |
+|---|---|
+| Reconnaissance | `recon/offensive-osint`, `active-directory/offensive-active-directory` |
+| Initial Access | `infrastructure/offensive-initial-access` |
+| Execution | `infrastructure/offensive-advanced-redteam` |
+| Persistence | `active-directory/offensive-active-directory` |
+| Privilege Escalation | `active-directory/offensive-active-directory` |
+| Defense Evasion | `infrastructure/offensive-edr-evasion`, `infrastructure/offensive-windows-mitigations`, `infrastructure/offensive-windows-boundaries` |
+| Credential Access | `active-directory/offensive-active-directory` |
+| Discovery | `recon/offensive-osint`, `active-directory/offensive-active-directory` |
+| Lateral Movement | `active-directory/offensive-active-directory`, `infrastructure/offensive-advanced-redteam` |
+| Collection | `infrastructure/offensive-advanced-redteam` |
+| Command and Control | `infrastructure/offensive-advanced-redteam` |
+| Exfiltration | `infrastructure/offensive-advanced-redteam` |
+| Impact | `infrastructure/offensive-advanced-redteam` |
+
+### Wireless
+
+| Surface | Skill |
+|---|---|
+| Recon / war-driving | `wireless/offensive-wifi-recon` |
+| WPA2-PSK | `wireless/offensive-wifi` |
+| WPA3-SAE | `wireless/offensive-wifi` |
+| WPA-Enterprise | `wireless/offensive-wifi` |
+| WPS | `wireless/offensive-wifi` |
+| Evil twin / KARMA / Mana | `wireless/offensive-wifi` |
+| KRACK / FragAttacks | `wireless/offensive-wifi` |
+| Bluetooth (BLE + Classic) | `wireless/offensive-wifi` |
+| Zigbee / Thread / Matter | `wireless/offensive-wifi` |
+| Z-Wave | `wireless/offensive-wifi` |
+| LoRa / sub-GHz | `wireless/offensive-wifi` |
+
+### Cloud
+
+| Provider / Surface | Skill |
+|---|---|
+| AWS — privesc, IMDS, persistence | `cloud/offensive-cloud` |
+| Azure — privesc, IMDS, persistence | `cloud/offensive-cloud` |
+| GCP — privesc, IMDS, persistence | `cloud/offensive-cloud` |
+| Cross-cloud / OIDC trust | `cloud/offensive-cloud` |
+| Hybrid identity (AAD Connect, ADFS) | _(planned: `cloud-identity/`)_ |
+
+### Mobile
+
+| Platform / Surface | Skill |
+|---|---|
+| Android static + dynamic | `mobile/offensive-mobile` |
+| iOS static + dynamic | `mobile/offensive-mobile` |
+| Firebase / cloud misconfig | `mobile/offensive-mobile` |
+| Mobile API testing | `mobile/offensive-mobile` |
+| Biometric / pinning bypass | `mobile/offensive-mobile` |
+
+### IoT / Embedded
+
+| Layer | Skill |
+|---|---|
+| Hardware recon | `iot/offensive-iot` |
+| UART / JTAG / SWD | `iot/offensive-iot` |
+| Flash extraction | `iot/offensive-iot` |
+| Firmware analysis | `iot/offensive-iot` |
+| Bootloader / secure boot | `iot/offensive-iot` |
+| RTOS exploitation | `iot/offensive-iot` |
+| ICS / OT protocols | `iot/offensive-iot` |
+| MQTT / CoAP | `iot/offensive-iot` |
+
+### Exploit Development
+
+| Topic | Skill |
+|---|---|
+| Beginner / mitigations off | `exploit-dev/offensive-basic-exploitation` |
+| Course curriculum | `exploit-dev/offensive-exploit-dev-course` |
+| Stack / heap / ROP | `exploit-dev/offensive-exploit-development` |
+| Modern mitigations | `exploit-dev/offensive-mitigations` |
+| Crash triage | `exploit-dev/offensive-crash-analysis` |
+| TOCTOU / race | `exploit-dev/offensive-toctou`, `web/offensive-race-condition` |
+
+### Fuzzing & Vulnerability Research
+
+| Topic | Skill |
+|---|---|
+| Coverage-guided fuzzing | `fuzzing/offensive-fuzzing` |
+| Fuzzing curriculum | `fuzzing/offensive-fuzzing-course` |
+| Static review patterns | `fuzzing/offensive-bug-identification` |
+| Vuln class taxonomy | `fuzzing/offensive-vuln-classes` |
+
+### AI Security
+
+| Topic | Skill |
+|---|---|
+| Prompt injection / jailbreak / RAG | `ai/offensive-ai-security` |
+
+### Utility
+
+| Topic | Skill |
+|---|---|
+| Fast triage checklist | `utility/offensive-fast-checking` |
+| Pro pentest reporting | `utility/offensive-reporting` |
+
+---
+
+## How to Use the Mindmap
+
+- **Pre-engagement:** Walk the relevant category branch and confirm a skill exists per surface in scope. Gaps you spot here are gaps in the engagement plan.
+- **During engagement:** Click into the category for the surface you're testing; load only those skills into Claude.
+- **Post-engagement:** Cross-check findings against the relevant Mindmap branches to ensure no surface was skipped.
+
+
+### CONTRIBUTING.md (skill format excerpt)
+- One skill, one surface — focused skills preferred over monolithic overviews
+- Required YAML frontmatter: `name:` (must match folder name) and `description:` (50–500 words, dense trigger phrases)
+- Path convention: `Skills/<category>/<skill-folder>/SKILL.md`
+- Recommended body: Quick Workflow, technique sections with code blocks, optional Detection/Defender View, Engagement Cheatsheet, Key References
+- Style: technical second-person, 200–800 lines typical, language-tagged code blocks
+
+## Top-level structure
+| Path | Type | Notes |
+|---|---|---|
+| `.github/` | dir | GitHub workflows/config |
+| `Skills/` | dir | **Main content** — 13 categories, 58 offensive-security SKILL.md files |
+| `Skills/web/` | dir | 16 skills — OWASP Top 10 + advanced web bug classes |
+| `Skills/wireless/` | dir | 14 skills — 802.11, WPA2/3, EAP, BLE, Zigbee, Z-Wave, LoRa, sub-GHz |
+| `Skills/infrastructure/` | dir | 7 skills — initial access, EDR evasion, shellcode, Windows ops |
+| `Skills/exploit-dev/` | dir | 6 skills — stack/heap, mitigations, crash analysis, TOCTOU |
+| `Skills/fuzzing/` | dir | 4 skills — libFuzzer, AFL++, bug ID, vuln classes |
+| `Skills/auth/` | dir | 2 skills — JWT, OAuth |
+| `Skills/recon/` | dir | 2 skills — OSINT tools and methodology |
+| `Skills/utility/` | dir | 2 skills — fast triage, professional reporting |
+| `Skills/active-directory/` | dir | 1 skill (expanding to 16) — AD attack methodology |
+| `Skills/cloud/` | dir | 1 skill (expanding) — AWS/Azure/GCP |
+| `Skills/mobile/` | dir | 1 skill (expanding) — Android + iOS |
+| `Skills/iot/` | dir | 1 skill (expanding) — hardware, firmware, ICS |
+| `Skills/ai/` | dir | 1 skill — prompt injection, jailbreaks, RAG poisoning |
+| `tools/` | dir | `build_manifest.py` — manifest tooling |
+| `assets/` | dir | Banner and media |
+| `install.sh` | file | Interactive category installer |
+| `convert_skills.py` | file | Skill conversion utility |
+| `claude-skills.json` | file | Skills manifest |
+| `MINDMAP.md` | file | Coverage map cross-referenced to MITRE ATT&CK, OWASP WSTG |
+| `CHANGELOG.md` | file | Expansion roadmap tracking |
+| `CONTRIBUTING.md` | file | Skill template and review process |
+| `SECURITY.md` | file | Security policy |
+| `LICENSE` | file | MIT |
+| `README.md` | file | Full skill index and quickstart |

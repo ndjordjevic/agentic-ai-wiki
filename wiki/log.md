@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-08 | ingest | SnailSploit-Claude-Red | 58 offensive-security skills for Claude (web, wireless, AD, red team, exploit dev)
+
+- Created: wiki/sources/SnailSploit-Claude-Red.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-07-08 | ingest | phasr.sh | macOS desktop workspace for parallel CLI agents with git worktree isolation
 
 - Created: wiki/sources/phasr.sh.md

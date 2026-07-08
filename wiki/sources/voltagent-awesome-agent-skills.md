@@ -22,10 +22,11 @@ related:
   - davidondrej-skills
   - 0xnyk-awesome-hermes-agent
   - claudemarketplaces.com
+  - SnailSploit-Claude-Red
 product: awesome-agent-skills
 detail_level: standard
 created: 2026-06-08
-updated: 2026-07-07
+updated: 2026-07-08
 ---
 
 Awesome Agent Skills is the most-contributed curated list of agent skills in the ecosystem (24,603 stars, MIT), aggregating 1,424+ hand-picked SKILL.md-based capability modules from official development teams and the community. Unlike bulk-generated repositories, every entry is a real-world skill created and used by actual engineering teams. It covers official skills from Anthropic, Google Labs, Vercel, Stripe, Cloudflare, Netlify, Expo, Hugging Face, Trail of Bits, Sentry, Microsoft, OpenAI, Figma, and 50+ other vendors, plus hundreds of community-authored skills organized by domain. All skills are compatible with Claude Code, Codex, Gemini CLI, Cursor, GitHub Copilot, OpenCode, Windsurf, and Antigravity; the companion site officialskills.sh provides a browsable registry.

@@ -22,10 +22,11 @@ related:
   - must-have-clis-2026
   - forrestchang-andrej-karpathy-skills
   - mattpocock-skills
+  - SnailSploit-Claude-Red
 product: claudemarketplaces
 detail_level: standard
 created: 2026-07-07
-updated: 2026-07-07
+updated: 2026-07-08
 ---
 
 Cross AI Tools (also reachable at claudemarketplaces.com, which redirects to crossaitools.com) is an independent, editor-curated directory of Claude Code extensions — skills, plugin marketplaces, and MCP servers — indexing 21,600+ skills, 2,500+ marketplaces, and 12,500+ MCP servers with ~300,000 monthly visitors. Unlike raw aggregators, it applies quality thresholds (500+ installs for skills, active GitHub repos, community trust signals), manual editorial review, and periodic delisting sweeps. Listings include install commands, editor-written summaries, category browse, a weekly "This week in Claude" digest, and machine-readable `llms.txt` for AI discovery.

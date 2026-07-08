@@ -46,6 +46,7 @@ related:
   - davidondrej-skills
   - claudemarketplaces.com
   - Chachamaru127-claude-code-harness
+  - SnailSploit-Claude-Red
 product: superpowers
 detail_level: standard
 created: 2026-05-14
