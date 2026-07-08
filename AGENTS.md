@@ -25,6 +25,24 @@ This wiki is the authoritative local source for this domain. Start with the wiki
 
 When work is done, list what changed and stop; the human reviews diffs and runs `git commit` / `git push` when ready.
 
+## Git — push with `ndjordjevic`
+
+When the human asks you to **push**, always use the **`ndjordjevic`** GitHub account — not `basiq-ndjordjevic` or any other logged-in identity.
+
+Before `git push`, verify the active account:
+
+```bash
+gh auth status
+```
+
+If the active account is not `ndjordjevic`, switch first:
+
+```bash
+gh auth switch -u ndjordjevic
+```
+
+Then push to `origin` (remote: `https://github.com/ndjordjevic/agentic-ai-wiki.git`). If push fails with a 403 naming a different user, switch accounts and retry — do not leave the push failed without attempting the switch.
+
 ---
 
 ## Wiki structure
