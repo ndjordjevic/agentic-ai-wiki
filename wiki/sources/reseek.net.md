@@ -16,10 +16,11 @@ related:
   - supermemory.ai
   - HKUDS-RAG-Anything
   - zaro.ai
+  - summio.org
 product: reseek
 detail_level: standard
 created: 2026-05-13
-updated: 2026-07-01
+updated: 2026-07-08
 ---
 
 Reseek is a SaaS personal knowledge management platform — a cloud-hosted "second brain" — that lets users save any digital content (links, notes, images, PDFs, YouTube videos, Twitter/X posts) into a single searchable library. It applies OCR, automatic tagging, semantic AI search, and AI chat on top of everything saved, and exposes the library to external tools and AI agents through a REST API and an MCP Server.

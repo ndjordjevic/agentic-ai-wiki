@@ -20,10 +20,11 @@ related:
   - AIDotNet-OpenDeepWiki
   - PorunC-CodeWiki
   - bb-boy680-open-zread
+  - summio.org
 product: deepwiki
 detail_level: standard
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-07-08
 ---
 
 DeepWiki is Cognition's free public service that auto-generates interactive, source-linked documentation wikis for GitHub repositories — architecture diagrams, navigable topic pages, and grounded Q&A — powered by the same indexing stack behind [[cognition.ai|Devin]]. At `deepwiki.com` anyone can browse wikis for popular open-source repos or submit a public repo URL for indexing; agents can reach the same corpus programmatically via the no-auth **DeepWiki MCP** server at `https://mcp.deepwiki.com/mcp`. It matters for this wiki as a hosted, always-fresh alternative to local agent-wiki generators like [[6eanut-llm-wiki]] and [[langchain-ai-openwiki]].
