@@ -26,6 +26,7 @@ related:
   - ruvnet-ruflo
   - coleam00-claude-memory-compiler
   - happy.engineering
+  - how-to-master-dynamic-workflows-claude-code-6-patterns-14-steps
   - using-claude-code-unreasonable-effectiveness-html
   - phuryn-pm-skills
   - coleam00-helpline

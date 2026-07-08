@@ -6,13 +6,14 @@ related:
   - njbrake-agent-of-empires
   - langchain.com-langgraph
   - x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes
+  - how-to-master-dynamic-workflows-claude-code-6-patterns-14-steps
   - anthropic.com
   - anthropic.com-managed-agents
   - goOZSXmrYQ4-my-complete-agentic-coding-workflow-to-b
 product: harness-design
 detail_level: standard
 created: 2026-05-14
-updated: 2026-05-25
+updated: 2026-07-08
 ---
 
 A 17-minute breakdown by The AI Automators of Anthropic's March 2026 engineering blog post on harness design for long-running autonomous agents, covering two core failure modes (context anxiety and poor self-evaluation), the three-agent architecture Anthropic built to address them, and two real-world case studies — a 2D retro game maker and a browser-based digital audio workstation — demonstrating how harness complexity should evolve in step with model capability.

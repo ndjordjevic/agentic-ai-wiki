@@ -113,3 +113,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/summio.org.md | summio.org | 7 | 2026-07-08 | |
 | raw/web/phasr.sh.md | phasr.sh | 11 | 2026-07-08 | companion: irishabh96/phasr |
 | raw/web/integuru.com.md | integuru.com | 7 | 2026-07-08 | companion: Integuru-AI/Integuru |
+| raw/web/how-to-master-dynamic-workflows-claude-code-6-patterns-14-steps.md | how-to-master-dynamic-workflows-claude-code-6-patterns-14-steps | 1 | 2026-07-08 | X article by @0xCodez |

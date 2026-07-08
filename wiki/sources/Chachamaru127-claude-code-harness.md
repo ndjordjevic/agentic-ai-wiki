@@ -23,9 +23,11 @@ related:
   - everyinc-compound-engineering-plugin
   - snarktank-ralph
   - frankbria-ralph-claude-code
+  - how-to-master-dynamic-workflows-claude-code-6-patterns-14-steps
 product: claude-code-harness
 detail_level: standard
 created: 2026-07-08
+updated: 2026-07-08
 updated: 2026-07-08
 ---
 

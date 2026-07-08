@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-08 | ingest | how-to-master-dynamic-workflows-claude-code-6-patterns-14-steps | X article — Dynamic Workflows in Claude Code (6 patterns, 14 steps)
+
+- Created: wiki/sources/how-to-master-dynamic-workflows-claude-code-6-patterns-14-steps.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-07-08 | ingest | integuru.com | API generation platform — reverse-engineer web platforms into direct HTTP APIs
 
 - Created: wiki/sources/integuru.com.md
