@@ -199,5 +199,6 @@ created: 2026-04-28
 | [[SnailSploit-Claude-Red]] | github | standard | 2026-07-08 | |
 | [[integuru.com]] | web | standard | 2026-07-08 | companion: Integuru-AI/Integuru |
 | [[how-to-master-dynamic-workflows-claude-code-6-patterns-14-steps]] | web | standard | 2026-07-08 | X article by @0xCodez; Dynamic Workflows guide |
+| [[docusaurus.io]] | web | standard | 2026-07-08 | companion: facebook/docusaurus |
 
-_187 sources ingested._
+_188 sources ingested._

@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-08 | ingest | docusaurus.io | React static-site generator for documentation websites
+
+- Created: wiki/sources/docusaurus.io.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/facebook-docusaurus.md
+
 ## 2026-07-08 | ingest | how-to-master-dynamic-workflows-claude-code-6-patterns-14-steps | X article — Dynamic Workflows in Claude Code (6 patterns, 14 steps)
 
 - Created: wiki/sources/how-to-master-dynamic-workflows-claude-code-6-patterns-14-steps.md

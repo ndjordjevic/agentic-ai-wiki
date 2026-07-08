@@ -17,7 +17,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
-- [ ] https://docusaurus.io/
 - [ ] https://github.com/chopratejas/headroom
 - [ ] https://github.com/AgriciDaniel/claude-obsidian
 - [ ] https://github.com/pbakaus/impeccable
@@ -211,3 +210,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/SnailSploit/Claude-Red <!-- ingested 2026-07-08 -->
 - [x] https://www.integuru.com/ <!-- ingested 2026-07-08 -->
 - [x] https://x.com/0xCodez/status/2062127385923776831?s=20 <!-- ingested 2026-07-08 -->
+- [x] https://docusaurus.io/ <!-- ingested 2026-07-08 -->

@@ -120,3 +120,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/irishabh96-phasr.md | irishabh96/phasr | 19 | master | v0.2.4 | 2026-07-08 | companion for phasr.sh |
 | raw/github/Integuru-AI-Integuru.md | Integuru-AI/Integuru | 4631 | main | none | 2026-07-08 | companion for integuru.com |
 | raw/github/SnailSploit-Claude-Red.md | SnailSploit/Claude-Red | 2659 | main | Claude-Red-Skills V.2 | 2026-07-08 | |
+| raw/github/facebook-docusaurus.md | facebook/docusaurus | 65531 | main | 3.10.1 | 2026-07-08 | companion for docusaurus.io |

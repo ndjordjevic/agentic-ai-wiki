@@ -21,10 +21,11 @@ related:
   - pydantic.dev
   - retool.com
   - lovable.dev
+  - docusaurus.io
 product: streamlit
 detail_level: standard
 created: 2026-07-07
-updated: 2026-07-07
+updated: 2026-07-08
 ---
 
 Streamlit is an open-source Python framework (45K+ GitHub stars, Apache 2.0, owned by Snowflake) for turning data scripts into interactive web apps in minutes — dashboards, reports, and LLM chat UIs without HTML/CSS/JS. Its scripting model reruns the top-level script on every widget interaction, with Session State, caching (`st.cache_data` / `st.cache_resource`), forms, fragments, and multipage navigation handling state and performance. Deploy via free **Community Cloud** (GitHub-connected, one-click) or **Streamlit in Snowflake** for enterprise. For agentic workflows it is a common choice for rapid agent/LLM demo UIs and internal tools — compare full-stack app builders [[lovable.dev]], enterprise internal-app platforms [[retool.com]], and PaaS deploy targets like [[render.com]] that explicitly support Streamlit hosting.

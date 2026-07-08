@@ -52,6 +52,7 @@ related:
   - producthunt.com
   - claudemarketplaces.com
   - SnailSploit-Claude-Red
+  - docusaurus.io
 product: skills
 detail_level: standard
 created: 2026-04-30

@@ -2,11 +2,11 @@
 type: source
 source_url: https://github.com/aaif-goose/goose
 tags: [ai-agent, mcp, multi-provider, rust, desktop-app, cli, acp, open-source, extensions, linux-foundation]
-related: [njbrake-agent-of-empires, strandsagents.com, microsoft-agent-framework, omnigent-ai-omnigent, warp.dev, getcaveman.dev]
+related: [njbrake-agent-of-empires, strandsagents.com, microsoft-agent-framework, omnigent-ai-omnigent, warp.dev, getcaveman.dev, docusaurus.io]
 product: goose
 detail_level: standard
 created: 2026-06-10
-updated: 2026-07-01
+updated: 2026-07-08
 ---
 
 goose is an open-source, general-purpose AI agent built in Rust (48,633 stars, Apache-2.0) that runs natively on your machine as a desktop app (macOS, Linux, Windows), a CLI, or an embedded API. Originally developed at Block and now stewarded by the Agentic AI Foundation (AAIF) at the Linux Foundation, it is designed for research, writing, automation, data analysis, and code — not just code suggestions. goose connects to 15+ LLM providers (Anthropic, OpenAI, Google, Ollama, OpenRouter, Azure, Bedrock, and more) and exposes 70+ capabilities through MCP extensions, making it one of the most provider-agnostic and extensible local AI agents in this wiki.
