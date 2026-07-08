@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-07-07
+updated: 2026-07-08
 ---
 
 
@@ -365,3 +365,5 @@ updated: 2026-07-07
 [[claudemarketplaces.com]] documents Cross AI Tools (claudemarketplaces.com → crossaitools.com), an independent editor-curated directory of Claude Code skills (21,600+), plugin marketplaces (2,500+), and MCP servers (12,500+) with ~300k monthly visitors. Unlike raw aggregators, it filters skills to 500+ installs, requires active GitHub repos, runs manual editorial review, and publishes editor-written summaries plus one-command install snippets on every detail page. Automated crawlers ingest from [[skills.sh]], GitHub marketplace schemas, and MCP registries; `llms.txt`/`llms-full.txt` expose machine-readable catalogs for agents. A weekly "This week in Claude" digest tracks model releases and ecosystem moves. It is the quality-filtered Claude Code-specific counterpart to [[skills.sh]]'s full leaderboard and awesome-lists like [[voltagent-awesome-agent-skills]] — featured entries overlap with [[obra-superpowers]], [[anthropics-skills]], [[getcaveman.dev]], and [[forrestchang-andrej-karpathy-skills]].
 
 [[anysearch.com]] is AnySearch, a search infrastructure platform built for AI agents, offering unified search-source access with intent-aware routing behind a single API, MCP server, and Skill integration. It advertises Zero Retention Execution and benchmarks itself directly against [[brave-search]] and Parallel on accuracy and latency, but its concrete API/MCP reference documentation is client-rendered and was not retrievable in static form — a thinner source than [[brave-search]]'s fully documented endpoints and public MCP server.
+
+[[designmd.cc]] documents DesignMD, a free web tool and CLI (`@designmdcc/cli`, companion repo `adityarajdigital/designmd`) that measures a live site's DOM and CSSOM — not a screenshot — to generate a portable `DESIGN.md` spec (colors, typography, spacing, breakpoints, interaction states) in ~12 seconds, purpose-built as project-root context for coding agents. It occupies the same `DESIGN.md`-as-agent-context niche as [[voltagent-awesome-design-md]] and [[open-design.ai]], but where those distribute pre-made brand libraries, DesignMD is an on-demand live extractor for any URL — the generation counterpart to their curation, both tracing back to the [[stitch.withgoogle.com]] `DESIGN.md` specification.

@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-08 | ingest | designmd.cc | DesignMD — live DOM/CSSOM extractor for agent-ready DESIGN.md specs
+
+- Created: wiki/sources/designmd.cc.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/adityarajdigital-designmd.md
+
 ## 2026-07-07 | ingest | anysearch.com | AnySearch — search infrastructure for AI agents (API/MCP/Skill)
 
 - Created: wiki/sources/anysearch.com.md
