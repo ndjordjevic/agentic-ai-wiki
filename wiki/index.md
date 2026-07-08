@@ -200,5 +200,6 @@ created: 2026-04-28
 | [[integuru.com]] | web | standard | 2026-07-08 | companion: Integuru-AI/Integuru |
 | [[how-to-master-dynamic-workflows-claude-code-6-patterns-14-steps]] | web | standard | 2026-07-08 | X article by @0xCodez; Dynamic Workflows guide |
 | [[docusaurus.io]] | web | standard | 2026-07-08 | companion: facebook/docusaurus |
+| [[chopratejas-headroom]] | github | standard | 2026-07-08 | |
 
-_188 sources ingested._
+_189 sources ingested._

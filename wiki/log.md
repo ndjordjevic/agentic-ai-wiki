@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-08 | ingest | chopratejas-headroom | Local-first context compression layer for AI agents
+
+- Created: wiki/sources/chopratejas-headroom.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-07-08 | ingest | docusaurus.io | React static-site generator for documentation websites
 
 - Created: wiki/sources/docusaurus.io.md

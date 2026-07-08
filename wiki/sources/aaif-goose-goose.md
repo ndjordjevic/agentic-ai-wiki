@@ -2,7 +2,7 @@
 type: source
 source_url: https://github.com/aaif-goose/goose
 tags: [ai-agent, mcp, multi-provider, rust, desktop-app, cli, acp, open-source, extensions, linux-foundation]
-related: [njbrake-agent-of-empires, strandsagents.com, microsoft-agent-framework, omnigent-ai-omnigent, warp.dev, getcaveman.dev, docusaurus.io]
+related: [njbrake-agent-of-empires, strandsagents.com, microsoft-agent-framework, omnigent-ai-omnigent, warp.dev, getcaveman.dev, docusaurus.io, chopratejas-headroom]
 product: goose
 detail_level: standard
 created: 2026-06-10
