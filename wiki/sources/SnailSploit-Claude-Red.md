@@ -19,6 +19,7 @@ related:
   - obra-superpowers
   - mattpocock-skills
   - forrestchang-andrej-karpathy-skills
+  - pbakaus-impeccable
 product: claude-red
 detail_level: standard
 created: 2026-07-08

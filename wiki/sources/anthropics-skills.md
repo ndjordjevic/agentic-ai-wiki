@@ -45,6 +45,7 @@ related:
   - claudemarketplaces.com
   - SnailSploit-Claude-Red
   - how-to-master-dynamic-workflows-claude-code-6-patterns-14-steps
+  - pbakaus-impeccable
 product: skills
 detail_level: standard
 created: 2026-05-11

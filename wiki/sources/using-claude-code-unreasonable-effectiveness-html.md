@@ -18,10 +18,11 @@ related:
   - x.com-ericzakariasson-building-clis-for-agents
   - obra-superpowers
   - voltagent-awesome-design-md
+  - pbakaus-impeccable
 product: claude-code
 detail_level: standard
 created: 2026-07-07
-updated: 2026-07-07
+updated: 2026-07-08
 ---
 
 Thariq Shihipar's essay (Claude Code team, Anthropic) argues that HTML—not Markdown—should be the default output format for agent-generated specs, plans, reviews, and reports when humans must stay engaged in long agentic workflows. As agents produce longer, richer outputs, Markdown becomes a cognitive bottleneck (hard to read past ~100 lines, poor sharing, ASCII-diagram workarounds); single-file HTML artifacts leverage tables, CSS, SVG, interactivity, and Claude Code's filesystem/MCP/git context to keep operators "in the loop" rather than rubber-stamping unread plans.

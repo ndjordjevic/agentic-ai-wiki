@@ -24,6 +24,7 @@ related:
   - voltagent-awesome-design-md
   - stitch.withgoogle.com
   - designmd.cc
+  - pbakaus-impeccable
 product: open-design
 detail_level: standard
 created: 2026-06-09

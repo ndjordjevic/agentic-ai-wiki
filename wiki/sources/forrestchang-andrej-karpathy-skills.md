@@ -28,6 +28,7 @@ related:
   - claudemarketplaces.com
   - SnailSploit-Claude-Red
   - agricidaniel-claude-obsidian
+  - pbakaus-impeccable
 product: andrej-karpathy-skills
 detail_level: standard
 created: 2026-05-11

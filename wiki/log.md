@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-08 | ingest | pbakaus-impeccable | Design language for AI coding agents — 23 commands, 45 detector rules, multi-harness hooks
+
+- Created: wiki/sources/pbakaus-impeccable.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-07-08 | ingest | agricidaniel-claude-obsidian | Self-organizing AI second brain for Obsidian + Claude Code (Karpathy LLM Wiki)
 
 - Created: wiki/sources/agricidaniel-claude-obsidian.md

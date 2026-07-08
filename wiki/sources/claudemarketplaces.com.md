@@ -23,6 +23,7 @@ related:
   - forrestchang-andrej-karpathy-skills
   - mattpocock-skills
   - SnailSploit-Claude-Red
+  - pbakaus-impeccable
 product: claudemarketplaces
 detail_level: standard
 created: 2026-07-07

@@ -17,6 +17,7 @@ related:
   - bolt.new
   - the-new-sdlc-with-vibe-coding
   - designmd.cc
+  - pbakaus-impeccable
 product: stitch
 detail_level: standard
 created: 2026-07-03

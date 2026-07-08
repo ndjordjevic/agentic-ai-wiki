@@ -202,5 +202,6 @@ created: 2026-04-28
 | [[docusaurus.io]] | web | standard | 2026-07-08 | companion: facebook/docusaurus |
 | [[chopratejas-headroom]] | github | standard | 2026-07-08 | |
 | [[agricidaniel-claude-obsidian]] | github | standard | 2026-07-08 | |
+| [[pbakaus-impeccable]] | github | standard | 2026-07-08 | |
 
-_190 sources ingested._
+_191 sources ingested._
