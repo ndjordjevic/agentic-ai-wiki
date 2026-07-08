@@ -16,6 +16,7 @@ related:
   - zilliztech-claude-context
   - aaif-goose-goose
   - langchain.com
+  - agricidaniel-claude-obsidian
 product: headroom
 detail_level: standard
 created: 2026-07-08

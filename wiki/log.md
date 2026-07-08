@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-08 | ingest | agricidaniel-claude-obsidian | Self-organizing AI second brain for Obsidian + Claude Code (Karpathy LLM Wiki)
+
+- Created: wiki/sources/agricidaniel-claude-obsidian.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-07-08 | ingest | chopratejas-headroom | Local-first context compression layer for AI agents
 
 - Created: wiki/sources/chopratejas-headroom.md

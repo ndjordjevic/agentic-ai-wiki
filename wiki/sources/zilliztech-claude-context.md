@@ -16,6 +16,7 @@ related:
   - sequentialthinking-mcp
   - mksglu-context-mode
   - HKUDS-RAG-Anything
+  - agricidaniel-claude-obsidian
   - cocoindex-io-cocoindex
   - ollama-ollama
   - chopratejas-headroom

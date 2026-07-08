@@ -122,3 +122,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/SnailSploit-Claude-Red.md | SnailSploit/Claude-Red | 2659 | main | Claude-Red-Skills V.2 | 2026-07-08 | |
 | raw/github/facebook-docusaurus.md | facebook/docusaurus | 65531 | main | 3.10.1 | 2026-07-08 | companion for docusaurus.io |
 | raw/github/chopratejas-headroom.md | headroomlabs-ai/headroom | 57639 | main | v0.30.0 | 2026-07-08 | inbox URL: chopratejas/headroom |
+| raw/github/agricidaniel-claude-obsidian.md | AgriciDaniel/claude-obsidian | 8984 | main | v1.9.2 | 2026-07-08 | |

@@ -27,6 +27,7 @@ related:
   - davidondrej-skills
   - claudemarketplaces.com
   - SnailSploit-Claude-Red
+  - agricidaniel-claude-obsidian
 product: andrej-karpathy-skills
 detail_level: standard
 created: 2026-05-11

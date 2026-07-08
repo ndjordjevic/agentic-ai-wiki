@@ -201,5 +201,6 @@ created: 2026-04-28
 | [[how-to-master-dynamic-workflows-claude-code-6-patterns-14-steps]] | web | standard | 2026-07-08 | X article by @0xCodez; Dynamic Workflows guide |
 | [[docusaurus.io]] | web | standard | 2026-07-08 | companion: facebook/docusaurus |
 | [[chopratejas-headroom]] | github | standard | 2026-07-08 | |
+| [[agricidaniel-claude-obsidian]] | github | standard | 2026-07-08 | |
 
-_189 sources ingested._
+_190 sources ingested._
