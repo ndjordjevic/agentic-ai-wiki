@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-08 | ingest | Starmel-OpenSuperWhisper | Local whisper.cpp/Parakeet macOS dictation app with a bundled Aider-based issue-fixing agent
+
+- Created: wiki/sources/Starmel-OpenSuperWhisper.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-07-08 | ingest | higgsfield.ai | AI-native creative suite — MCP & CLI, Supercomputer agent, multi-model video/image API
 
 - Created: wiki/sources/higgsfield.ai.md

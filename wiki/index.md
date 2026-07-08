@@ -204,5 +204,6 @@ created: 2026-04-28
 | [[agricidaniel-claude-obsidian]] | github | standard | 2026-07-08 | |
 | [[pbakaus-impeccable]] | github | standard | 2026-07-08 | |
 | [[higgsfield.ai]] | web | standard | 2026-07-08 | |
+| [[Starmel-OpenSuperWhisper]] | github | standard | 2026-07-08 | |
 
-_192 sources ingested._
+_193 sources ingested._

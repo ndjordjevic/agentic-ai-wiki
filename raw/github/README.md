@@ -124,3 +124,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/chopratejas-headroom.md | headroomlabs-ai/headroom | 57639 | main | v0.30.0 | 2026-07-08 | inbox URL: chopratejas/headroom |
 | raw/github/agricidaniel-claude-obsidian.md | AgriciDaniel/claude-obsidian | 8984 | main | v1.9.2 | 2026-07-08 | |
 | raw/github/pbakaus-impeccable.md | pbakaus/impeccable | 44388 | main | Skill 3.9.1 | 2026-07-08 | |
+| raw/github/Starmel-OpenSuperWhisper.md | Starmel/OpenSuperWhisper | 1959 | master | 0.1.0 | 2026-07-08 | bundled Aider issue-fixing agent |

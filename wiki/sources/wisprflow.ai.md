@@ -11,10 +11,11 @@ tags:
 related:
   - pi.dev
   - elevenlabs.io
+  - Starmel-OpenSuperWhisper
 product: wisprflow
 detail_level: standard
 created: 2026-06-08
-updated: 2026-07-06
+updated: 2026-07-08
 ---
 
 Wispr Flow is an AI-powered voice-to-text dictation application that converts natural speech into polished, edited text inside any app on macOS, Windows, iOS, and Android — without requiring per-app integrations. It is notable for its context-aware transcription, AI auto-editing that removes filler words and corrects grammar, and developer-focused features like syntax-smart dictation and file tagging in Cursor and Windsurf IDEs. Wispr recently raised $81M to develop a broader "Voice OS" platform.
