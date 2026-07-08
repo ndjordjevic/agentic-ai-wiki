@@ -20,10 +20,11 @@ related:
   - pydantic.dev
   - streamlit.io
   - claudemarketplaces.com
+  - neon.com
 product: render
 detail_level: standard
 created: 2026-07-07
-updated: 2026-07-07
+updated: 2026-07-08
 ---
 
 Render is a unified cloud platform ("the cloud for builders") for deploying and scaling web apps, APIs, data pipelines, and AI agents with minimal ops. Connect a Git repo, pick a service type, and Render handles builds, networking, TLS, scaling, previews, rollbacks, and observability. For agentic workloads it adds **Render Workflows** (durable task orchestration as code), first-class **coding-agent integrations** (official Agent Skills, hosted MCP server, Jules PR auto-fix), and managed **Postgres** and **Key Value** datastores on a private network — positioning as a full-stack Heroku/Railway alternative that explicitly markets agent deployment alongside traditional PaaS use cases.

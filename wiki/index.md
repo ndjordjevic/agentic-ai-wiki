@@ -192,5 +192,6 @@ created: 2026-04-28
 | [[anysearch.com]] | web | standard | 2026-07-07 | |
 | [[designmd.cc]] | web | standard | 2026-07-08 | companion: adityarajdigital/designmd |
 | [[crafterq.ai]] | web | standard | 2026-07-08 | |
+| [[neon.com]] | web | standard | 2026-07-08 | companion: neondatabase/neon |
 
-_180 sources ingested._
+_181 sources ingested._

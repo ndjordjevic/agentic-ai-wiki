@@ -24,10 +24,11 @@ related:
   - langchain.com
   - vercel.com
   - render.com
+  - neon.com
 product: supabase
 detail_level: standard
 created: 2026-07-07
-updated: 2026-07-07
+updated: 2026-07-08
 ---
 
 Supabase is the open-source Postgres development platform (105K+ GitHub stars) that packages a dedicated Postgres database, Auth, auto-generated REST/GraphQL APIs, Storage, Realtime, Edge Functions, and a pgvector-powered AI toolkit into one integrated backend — marketed as a Firebase alternative you can self-host or run locally via the Supabase CLI. It matters for this wiki because it is the default managed backend behind many agentic app builders ([[lovable.dev]], [[bolt.new]]) and a common persistence layer for RAG pipelines, agent memory, and vector search — with first-class AI-tooling docs (MCP, skills, plugins) and case studies like [[firecrawl.dev]] migrating from Pinecone to Supabase Vector.

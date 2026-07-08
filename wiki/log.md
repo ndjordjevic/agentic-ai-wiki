@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-08 | ingest | neon.com | Serverless Postgres backend for apps and agents (Databricks)
+
+- Created: wiki/sources/neon.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/neondatabase-neon.md
+
 ## 2026-07-08 | ingest | crafterq.ai | No-code website AI agents for sales, support, and e-commerce
 
 - Created: wiki/sources/crafterq.ai.md
