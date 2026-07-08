@@ -23,6 +23,7 @@ related:
   - mcp.sentry.dev
   - teng-lin-notebooklm-py
   - firecrawl.dev
+  - integuru.com
 product: playwright-mcp
 detail_level: standard
 created: 2026-05-25

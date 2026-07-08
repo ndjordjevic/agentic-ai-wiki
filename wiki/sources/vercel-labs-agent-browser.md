@@ -18,6 +18,7 @@ related:
   - browserbase.com
   - ruvnet-ruflo
   - firecrawl.dev
+  - integuru.com
 product: agent-browser
 detail_level: standard
 created: 2026-05-25

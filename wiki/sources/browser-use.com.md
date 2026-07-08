@@ -22,6 +22,7 @@ related:
   - elevenlabs.io
   - marketstack.com
   - firecrawl.dev
+  - integuru.com
 product: browser-use
 detail_level: standard
 created: 2026-06-15

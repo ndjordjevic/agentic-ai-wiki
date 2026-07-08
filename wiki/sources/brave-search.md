@@ -17,6 +17,7 @@ tags:
   - real-time-search
 related:
   - anysearch.com
+  - integuru.com
 product: brave
 detail_level: standard
 created: 2026-06-09

@@ -197,5 +197,6 @@ created: 2026-04-28
 | [[Chachamaru127-claude-code-harness]] | github | standard | 2026-07-08 | |
 | [[phasr.sh]] | web | standard | 2026-07-08 | companion: irishabh96/phasr |
 | [[SnailSploit-Claude-Red]] | github | standard | 2026-07-08 | |
+| [[integuru.com]] | web | standard | 2026-07-08 | companion: Integuru-AI/Integuru |
 
-_185 sources ingested._
+_186 sources ingested._

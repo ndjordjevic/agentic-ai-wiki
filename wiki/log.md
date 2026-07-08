@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-08 | ingest | integuru.com | API generation platform — reverse-engineer web platforms into direct HTTP APIs
+
+- Created: wiki/sources/integuru.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/Integuru-AI-Integuru.md
+
 ## 2026-07-08 | ingest | SnailSploit-Claude-Red | 58 offensive-security skills for Claude (web, wireless, AD, red team, exploit dev)
 
 - Created: wiki/sources/SnailSploit-Claude-Red.md
