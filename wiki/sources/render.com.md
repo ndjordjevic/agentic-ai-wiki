@@ -22,6 +22,7 @@ related:
   - claudemarketplaces.com
   - neon.com
   - docusaurus.io
+  - higgsfield.ai
 product: render
 detail_level: standard
 created: 2026-07-07

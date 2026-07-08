@@ -203,5 +203,6 @@ created: 2026-04-28
 | [[chopratejas-headroom]] | github | standard | 2026-07-08 | |
 | [[agricidaniel-claude-obsidian]] | github | standard | 2026-07-08 | |
 | [[pbakaus-impeccable]] | github | standard | 2026-07-08 | |
+| [[higgsfield.ai]] | web | standard | 2026-07-08 | |
 
-_191 sources ingested._
+_192 sources ingested._

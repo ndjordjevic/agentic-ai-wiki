@@ -17,8 +17,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
-- [ ] https://higgsfield.ai/
-
 ## Completed
 
 <!-- Processed lines are moved here automatically.
@@ -211,3 +209,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/chopratejas/headroom <!-- ingested 2026-07-08 -->
 - [x] https://github.com/AgriciDaniel/claude-obsidian <!-- ingested 2026-07-08 -->
 - [x] https://github.com/pbakaus/impeccable <!-- ingested 2026-07-08 -->
+- [x] https://higgsfield.ai/ <!-- ingested 2026-07-08 -->

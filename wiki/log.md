@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-08 | ingest | higgsfield.ai | AI-native creative suite — MCP & CLI, Supercomputer agent, multi-model video/image API
+
+- Created: wiki/sources/higgsfield.ai.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-07-08 | ingest | pbakaus-impeccable | Design language for AI coding agents — 23 commands, 45 detector rules, multi-harness hooks
 
 - Created: wiki/sources/pbakaus-impeccable.md
