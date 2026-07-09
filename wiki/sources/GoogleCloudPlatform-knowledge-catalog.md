@@ -16,6 +16,7 @@ related:
   - adk.dev
   - cocoindex-io-cocoindex
   - HKUDS-RAG-Anything
+  - coleam00-cole-medin-ai-coding
 product: knowledge-catalog
 detail_level: standard
 created: 2026-07-09

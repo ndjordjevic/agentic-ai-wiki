@@ -18,6 +18,7 @@ related:
   - buildermethods-agent-os
   - eyaltoledano-claude-task-master
   - github-spec-kit
+  - coleam00-cole-medin-ai-coding
   - zilliztech-claude-context
   - frankbria-ralph-claude-code
   - coleam00-agent-control-plane

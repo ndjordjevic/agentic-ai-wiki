@@ -126,3 +126,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/pbakaus-impeccable.md | pbakaus/impeccable | 44388 | main | Skill 3.9.1 | 2026-07-08 | |
 | raw/github/Starmel-OpenSuperWhisper.md | Starmel/OpenSuperWhisper | 1959 | master | 0.1.0 | 2026-07-08 | bundled Aider issue-fixing agent |
 | raw/github/GoogleCloudPlatform-knowledge-catalog.md | GoogleCloudPlatform/knowledge-catalog | 6522 | main | (none) | 2026-07-09 | |
+| raw/github/coleam00-cole-medin-ai-coding.md | coleam00/cole-medin-ai-coding | 81 | main | (none) | 2026-07-09 | OKF bundle of Cole Medin's AI-coding videos |

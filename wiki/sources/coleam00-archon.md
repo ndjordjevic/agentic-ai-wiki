@@ -18,6 +18,7 @@ related:
   - gsd-build-get-shit-done
   - anthropic.com-managed-agents
   - gastownhall-beads
+  - coleam00-cole-medin-ai-coding
   - snarktank-ralph
   - bmad-code-org-bmad-method
   - goOZSXmrYQ4-my-complete-agentic-coding-workflow-to-b
