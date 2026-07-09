@@ -7,7 +7,7 @@ raw_files:
   - ../../raw/web/determinate.systems.md
   - ../../raw/github/DeterminateSystems-nix-installer.md
 tags: [nix, nix-installer, flakes, reproducible-builds, devops, ci-cd, package-management, supply-chain]
-related: []
+related: [kunchenguid-dotfiles]
 product: determinate-nix-installer
 detail_level: standard
 created: 2026-07-09

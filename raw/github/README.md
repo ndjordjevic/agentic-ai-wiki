@@ -129,3 +129,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/coleam00-cole-medin-ai-coding.md | coleam00/cole-medin-ai-coding | 81 | main | (none) | 2026-07-09 | OKF bundle of Cole Medin's AI-coding videos |
 | raw/github/DeterminateSystems-nix-installer.md | DeterminateSystems/nix-installer | 3640 | main | v3.21.5 | 2026-07-09 | |
 | raw/github/wezterm-wezterm.md | wezterm/wezterm | 27461 | main | 20240203-110809-5046fc22 | 2026-07-09 | |
+| raw/github/kunchenguid-dotfiles.md | kunchenguid/dotfiles | 98 | main | (none) | 2026-07-09 | |

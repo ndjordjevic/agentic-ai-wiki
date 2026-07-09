@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-09 | ingest | kunchenguid-dotfiles | reproducible macOS agentic engineering environment via nix-darwin, home-manager, and shared AGENTS.md
+
+- Created: wiki/sources/kunchenguid-dotfiles.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-07-09 | ingest | wezterm.org | GPU-accelerated cross-platform terminal emulator and multiplexer written in Rust
 
 - Created: wiki/sources/wezterm.org.md

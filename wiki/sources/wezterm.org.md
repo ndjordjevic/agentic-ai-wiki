@@ -7,7 +7,7 @@ raw_files:
   - ../../raw/web/wezterm.org.md
   - ../../raw/github/wezterm-wezterm.md
 tags: [terminal-emulator, multiplexer, gpu-accelerated, lua-config, rust, cross-platform, ssh, wezterm]
-related: [tmux-tmux, tmuxai.dev]
+related: [tmux-tmux, tmuxai.dev, kunchenguid-dotfiles]
 product: wezterm
 detail_level: standard
 created: 2026-07-09

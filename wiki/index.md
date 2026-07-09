@@ -210,5 +210,6 @@ created: 2026-04-28
 | [[coleam00-cole-medin-ai-coding]] | github | standard | 2026-07-09 | |
 | [[determinate.systems]] | web | standard | 2026-07-09 | companion: DeterminateSystems/nix-installer |
 | [[wezterm.org]] | web | standard | 2026-07-09 | companion: wezterm/wezterm |
+| [[kunchenguid-dotfiles]] | github | standard | 2026-07-09 | |
 
-_198 sources ingested._
+_199 sources ingested._
