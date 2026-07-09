@@ -118,3 +118,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/higgsfield.ai.md | higgsfield.ai | 10 | 2026-07-08 | |
 | raw/web/axi.md | axi.md | 1 | 2026-07-08 | |
 | raw/web/determinate.systems.md | determinate.systems | 5 | 2026-07-09 | companion: DeterminateSystems/nix-installer |
+| raw/web/wezterm.org.md | wezterm.org | 5 | 2026-07-09 | companion: wezterm/wezterm |

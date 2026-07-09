@@ -209,5 +209,6 @@ created: 2026-04-28
 | [[GoogleCloudPlatform-knowledge-catalog]] | github | standard | 2026-07-09 | |
 | [[coleam00-cole-medin-ai-coding]] | github | standard | 2026-07-09 | |
 | [[determinate.systems]] | web | standard | 2026-07-09 | companion: DeterminateSystems/nix-installer |
+| [[wezterm.org]] | web | standard | 2026-07-09 | companion: wezterm/wezterm |
 
-_197 sources ingested._
+_198 sources ingested._

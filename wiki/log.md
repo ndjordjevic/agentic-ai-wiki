@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-09 | ingest | wezterm.org | GPU-accelerated cross-platform terminal emulator and multiplexer written in Rust
+
+- Created: wiki/sources/wezterm.org.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/wezterm-wezterm.md
+
 ## 2026-07-09 | ingest | determinate.systems | Determinate Nix Installer — industry-standard planner-based Nix installer for macOS, Linux, WSL, and CI
 
 - Created: wiki/sources/determinate.systems.md
