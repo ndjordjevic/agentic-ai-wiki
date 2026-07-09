@@ -15,10 +15,11 @@ related:
   - HKUDS-RAG-Anything
   - zilliztech-claude-context
   - GoogleCloudPlatform-knowledge-catalog
+  - redis.io
 product: cocoindex
 detail_level: standard
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-09
 ---
 
 CocoIndex is an open-source incremental data pipeline engine (10,613 stars, Apache 2.0, Rust core with Python API) that keeps AI agent context continuously fresh by reprocessing only the delta whenever source data or pipeline code changes — turning codebases, PDFs, Slack, meeting notes, inboxes, and videos into always-current vector indexes, knowledge graphs, and structured targets in seconds rather than hours.

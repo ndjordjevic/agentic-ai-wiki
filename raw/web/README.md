@@ -121,3 +121,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/wezterm.org.md | wezterm.org | 5 | 2026-07-09 | companion: wezterm/wezterm |
 | raw/web/herdr.dev.md | herdr.dev | 8 | 2026-07-09 | companion: ogulcancelik/herdr |
 | raw/web/kiro.dev.md | kiro.dev | 7 | 2026-07-09 | |
+| raw/web/redis.io.md | redis.io | 4 | 2026-07-09 | Redis Iris product page (context engine for agents) |

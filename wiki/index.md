@@ -213,5 +213,6 @@ created: 2026-04-28
 | [[kunchenguid-dotfiles]] | github | standard | 2026-07-09 | |
 | [[herdr.dev]] | web | standard | 2026-07-09 | companion: ogulcancelik/herdr |
 | [[kiro.dev]] | web | standard | 2026-07-09 | |
+| [[redis.io]] | web | standard | 2026-07-09 | Redis Iris — agent context engine |
 
-_201 sources ingested._
+_202 sources ingested._

@@ -19,7 +19,7 @@ updated: 2026-07-09
 - [MCP servers & integrations](#mcp-servers--integrations) (12)
 - [Spec-driven dev, planning & tasks](#spec-driven-dev-planning--tasks) (13)
 - [Coding agents, IDEs & dev environments](#coding-agents-ides--dev-environments) (21)
-- [Knowledge, RAG, memory & context](#knowledge-rag-memory--context) (29)
+- [Knowledge, RAG, memory & context](#knowledge-rag-memory--context) (30)
 - [Browser & web automation](#browser--web-automation) (7)
 - [Terminal, session & parallel-agent runners](#terminal-session--parallel-agent-runners) (8)
 - [Model infra, ML & providers](#model-infra-ml--providers) (9)
@@ -177,6 +177,7 @@ updated: 2026-07-09
 - [[notebooklm.google]] — introduces Google NotebookLM, an AI-powered research assistant and thinking partner built on Gemini models.
 - [[PorunC-CodeWiki]] — combines AST code graphs, GraphRAG retrieval, source-cited wiki generation, and an MCP server in one local Python app (`pip install codewiki && codewiki serve`). Distinctive **Lite Mode** builds a…
 - [[pumadb.ai]] — documents pumaDB, a hosted agent memory API that gives agents durable JSON tables, a Streamable HTTP MCP server, and REST endpoints for trusted server-side apps.
+- [[redis.io]] — documents Redis Iris, Redis's unified real-time context engine for AI agents — a repackaging of four existing Redis capabilities (Data Integration/CDC pipelines, schema-first Context Retriever, Age…
 - [[reseek.net]] — introduces Reseek, a cloud-hosted personal knowledge management platform ("second brain") that saves links, notes, images, PDFs, YouTube videos, and Twitter/X posts into one AI-queryable library.
 - [[runcabinet.com]] — introduces Cabinet, a free and open-source self-hosted AI-first startup OS where all knowledge lives as markdown files on disk.
 - [[supermemory.ai]] — introduces Supermemory, a research and product lab building the memory and context infrastructure layer for AI agents.
@@ -279,4 +280,4 @@ updated: 2026-07-09
 - [[santifer-career-ops]] — documents Career-Ops, an open-source AI-powered job search automation system (52,587 stars, MIT, v1.10.0) that applies the same skill-mode architecture popularized by [[obra-superpowers]] and [[ant…
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 
-_201 sources across 16 categories._
+_202 sources across 16 categories._

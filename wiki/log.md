@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-09 | ingest | redis.io | Redis Iris — unified real-time context engine for AI agents (RDI, Context Retriever, Agent Memory, LangCache)
+
+- Created: wiki/sources/redis.io.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-07-09 | ingest | kiro.dev | Amazon's coding agent IDE+CLI+web — spec-driven development, hooks, steering, successor to Amazon Q Developer
 
 - Created: wiki/sources/kiro.dev.md
