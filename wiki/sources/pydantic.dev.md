@@ -8,11 +8,11 @@ raw_files:
   - ../../raw/web/pydantic.dev.md
   - ../../raw/github/pydantic-pydantic.md
 tags: [data-validation, agent-framework, observability, opentelemetry, type-safety, llm-proxy, python, pydantic-ai]
-related: [langchain.com, litellm.ai, crewai.com, strandsagents.com, adk.dev, google-adk-go, developers.openai.com, ollama-ollama, vercel.com, render.com]
+related: [langchain.com, litellm.ai, crewai.com, strandsagents.com, adk.dev, google-adk-go, developers.openai.com, ollama-ollama, vercel.com, render.com, coleam00-redis-iris-agent]
 product: pydantic
 detail_level: standard
 created: 2026-05-22
-updated: 2026-07-07
+updated: 2026-07-09
 ---
 
 Pydantic is an end-to-end AI engineering stack for Python teams, built on a foundation of the world's most widely used data validation library. It covers the full product cycle — validate data with Pydantic Validation (550M downloads/month, MIT), build type-safe agents with Pydantic AI, route model calls with Pydantic AI Gateway, evaluate systematically with Pydantic Evals, and observe everything in production with Pydantic Logfire. All products share the same type-hints-first design philosophy and tight OpenTelemetry integration.

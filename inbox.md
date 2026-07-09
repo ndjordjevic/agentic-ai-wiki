@@ -220,3 +220,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://herdr.dev/ <!-- ingested 2026-07-09 -->
 - [x] https://kiro.dev/ <!-- ingested 2026-07-09 -->
 - [x] https://redis.io/iris/ <!-- ingested 2026-07-09 -->
+- [x] https://github.com/coleam00/redis-iris-agent <!-- ingested 2026-07-09 -->

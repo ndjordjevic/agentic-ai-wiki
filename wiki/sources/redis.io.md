@@ -3,7 +3,7 @@ type: source
 category: "Knowledge, RAG, memory & context"
 source_url: https://redis.io/iris/
 tags: [context-engine, agent-memory, semantic-cache, change-data-capture, vector-search, redis, langcache]
-related: [supermemory.ai, zilliztech-claude-context, HKUDS-RAG-Anything, cocoindex-io-cocoindex]
+related: [supermemory.ai, zilliztech-claude-context, HKUDS-RAG-Anything, cocoindex-io-cocoindex, coleam00-redis-iris-agent]
 product: redis
 detail_level: standard
 created: 2026-07-09

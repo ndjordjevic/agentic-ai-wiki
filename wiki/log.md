@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-09 | ingest | coleam00-redis-iris-agent | Pydantic AI reference agent wiring Redis Iris Context Retriever (MCP) + Agent Memory
+
+- Created: wiki/sources/coleam00-redis-iris-agent.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-07-09 | ingest | redis.io | Redis Iris — unified real-time context engine for AI agents (RDI, Context Retriever, Agent Memory, LangCache)
 
 - Created: wiki/sources/redis.io.md

@@ -214,5 +214,6 @@ created: 2026-04-28
 | [[herdr.dev]] | web | standard | 2026-07-09 | companion: ogulcancelik/herdr |
 | [[kiro.dev]] | web | standard | 2026-07-09 | |
 | [[redis.io]] | web | standard | 2026-07-09 | Redis Iris — agent context engine |
+| [[coleam00-redis-iris-agent]] | github | standard | 2026-07-09 | Pydantic AI + Redis Iris demo agent |
 
-_202 sources ingested._
+_203 sources ingested._
