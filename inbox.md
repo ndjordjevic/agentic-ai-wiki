@@ -212,3 +212,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://higgsfield.ai/ <!-- ingested 2026-07-08 -->
 - [x] https://github.com/starmel/OpenSuperWhisper <!-- ingested 2026-07-08 -->
 - [x] https://axi.md/ <!-- ingested 2026-07-08 -->
+- [x] https://github.com/GoogleCloudPlatform/knowledge-catalog <!-- ingested 2026-07-09 -->

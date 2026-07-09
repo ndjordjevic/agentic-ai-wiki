@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-07-08
+updated: 2026-07-09
 ---
 
 
@@ -397,3 +397,5 @@ updated: 2026-07-08
 [[Starmel-OpenSuperWhisper]] is an open-source (MIT, 1,959+ stars) macOS dictation app that runs real-time transcription fully locally via whisper.cpp or Parakeet, offering system-wide keyboard/mouse-triggered recording without cloud dependency — the self-hosted counterpart to hosted voice-to-text products like [[wisprflow.ai]]. Notably, the repo also bundles a small maintainer-side autonomous coding agent (`agent/`) that wraps Aider over OpenRouter (`deepseek-v4-flash`) to pick up open GitHub issues, implement fixes in the Swift codebase, and iterate on build failures until they compile — a concrete, narrow example of an LLM-driven issue-to-PR loop wired into a real open-source project's maintenance workflow.
 
 [[axi.md]] documents AXI (Agent eXperience Interface) — a design and catalog for building agent-ergonomic CLI tools where token budget is treated as a first-class constraint. It frames the “MCP vs CLI” debate as a surface-level transport choice and argues the deeper issue is whether an agent-tool interface is shaped for reliable, discoverable next steps; AXI’s 10 principles emphasize TOON token-efficient structured output, minimal default schemas, truncation, pre-computed aggregates, definitive empty states, structured errors/exit codes, ambient context, and contextual disclosure (including concise per-subcommand `--help`). The site also points to reference implementations like `gh-axi` (GitHub operations) and `chrome-devtools-axi` (browser automation), plus an ecosystem of community AXIs built on the same interface principles.
+
+[[GoogleCloudPlatform-knowledge-catalog]] is the official Google Cloud sample and tooling repository for Knowledge Catalog (formerly Dataplex), an AI-powered data catalog and metadata management platform. Its primary contribution is the **Open Knowledge Format (OKF)** — a vendor-neutral, markdown+YAML-frontmatter directory format for representing any knowledge corpus so that any agent, human, or tool can read and produce it without bespoke SDKs. The repo ships a reference two-pass enrichment agent (BigQuery metadata pass + LLM-as-crawler web pass), a metadata-as-code toolbox (`kcmd`/`kcagent`), and discovery/enrichment samples. OKF bundles are git-native, portable, and consumable by any markdown-aware tool — Obsidian, MkDocs, or a Google ADK agent (see [[adk.dev]]) — making them a practical building block for durable, structured agent context management pipelines alongside incremental alternatives like [[cocoindex-io-cocoindex]] and graph-based retrieval systems like [[HKUDS-RAG-Anything]].

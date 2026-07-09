@@ -16,6 +16,7 @@ related:
   - reseek.net
   - graphify.net
   - cocoindex-io-cocoindex
+  - GoogleCloudPlatform-knowledge-catalog
 product: rag-anything
 detail_level: standard
 created: 2026-07-01

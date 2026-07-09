@@ -13,6 +13,7 @@ tags:
 related:
   - HKUDS-RAG-Anything
   - zilliztech-claude-context
+  - GoogleCloudPlatform-knowledge-catalog
 product: cocoindex
 detail_level: standard
 created: 2026-07-06

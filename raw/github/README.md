@@ -125,3 +125,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/agricidaniel-claude-obsidian.md | AgriciDaniel/claude-obsidian | 8984 | main | v1.9.2 | 2026-07-08 | |
 | raw/github/pbakaus-impeccable.md | pbakaus/impeccable | 44388 | main | Skill 3.9.1 | 2026-07-08 | |
 | raw/github/Starmel-OpenSuperWhisper.md | Starmel/OpenSuperWhisper | 1959 | master | 0.1.0 | 2026-07-08 | bundled Aider issue-fixing agent |
+| raw/github/GoogleCloudPlatform-knowledge-catalog.md | GoogleCloudPlatform/knowledge-catalog | 6522 | main | (none) | 2026-07-09 | |

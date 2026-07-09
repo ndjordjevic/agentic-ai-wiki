@@ -28,6 +28,7 @@ related:
   - trigger.dev
   - google-adk-go
   - ollama-ollama
+  - GoogleCloudPlatform-knowledge-catalog
 product: adk
 detail_level: standard
 created: 2026-06-30
