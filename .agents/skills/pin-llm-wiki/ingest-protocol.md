@@ -53,6 +53,7 @@ Three ingest shapes are possible. Pick the one that fits this ingest:
 ```yaml
 ---
 type: source
+category: "<one category from .pin-llm-wiki.yml `categories:` — see Step 2a.1>"
 source_url: <original URL of the source — GitHub repo URL, website URL, YouTube video URL>
 companion_urls:              # ONLY on unified web+github pages; omit entirely on all others
   - https://github.com/<org>/<repo>
@@ -70,11 +71,13 @@ updated: <today>
 
 `source_url:` is the canonical URL of the source (e.g. `https://github.com/org/repo`, `https://example.com`, `https://youtube.com/watch?v=ID`). Always populated.
 
+`category:` (**Step 2a.1 — classify the source**) is exactly one value from the `categories:` list in `.pin-llm-wiki.yml` — the source's single **primary** bucket for the grouped `wiki/categories.md` view (`tags:` remain the cross-cutting facets; `related:` the graph edges). Read the config's `categories:` list, then pick the one that best fits what the source fundamentally **is** (a source can touch several themes — choose its center of gravity, judging from its summary, `tags`, and how similar existing pages are already categorized). Wrap the value in double quotes and copy it **verbatim** from the config (exact spelling, including `&`) so `scripts/gen_categories.py` groups it correctly. If nothing fits, use `"Uncategorized"` — the generator renders these in their own section and flags them in its report for human review; prefer a real category over `Uncategorized` whenever one is defensible. If `.pin-llm-wiki.yml` has no `categories:` list at all, omit the field entirely (categorization is off for this wiki). On an **update/refresh** of an existing page, preserve the current `category:` unless the source's nature has clearly changed (a human may have overridden it).
+
 `product:` is a short kebab-case identifier for the product or project this source describes (e.g. `cabinet`, `gsd`, `superpowers`, `claude-memory-compiler`). Derive from the repo/site name — strip the author prefix from GitHub slugs (e.g. `obra-superpowers` → `superpowers`, `coleam00-claude-memory-compiler` → `claude-memory-compiler`, `gsd-build-get-shit-done` → `gsd`). For web sources, use the domain (strip `.com`/`.io`/etc when readable). **GitHub non-root pages treated as web sources are the exception:** use the source slug itself as `product:` (same as Medium — the slug is already leaf-derived, e.g. `sequentialthinking-mcp` → `product: sequentialthinking-mcp`). **Medium articles are the other exception:** because their slug is already title-derived (not domain-based), use the source slug itself as the `product:` value (e.g. slug `10-must-have-clis-ai-agents-2026` → `product: 10-must-have-clis-ai-agents-2026`). Sources describing the same product (e.g. a marketing site + its own GitHub repo) share the same `product:` slug. Resolved in Step 2b below.
 
 `companion_urls:` and `raw_files:` are present **only** on unified web+github pages (when `companion_slug` is non-null). **Omit both fields entirely** on standalone web, github, and youtube source pages — do not write empty lists.
 
-If the page **already exists** (this is an update or refresh): preserve the existing `created`, `tags`, `related`, `product`, `source_url`, `companion_urls`, and `raw_files` values. Always overwrite `updated` and `detail_level`.
+If the page **already exists** (this is an update or refresh): preserve the existing `created`, `category`, `tags`, `related`, `product`, `source_url`, `companion_urls`, and `raw_files` values. Always overwrite `updated` and `detail_level`.
 
 **MUST NOT include a `sources:` field.** Source pages do not cite themselves.
 
@@ -178,6 +181,7 @@ For each entry `p` in `products`:
 ```yaml
 ---
 type: source
+category: "<one category from .pin-llm-wiki.yml — see Step 2a.1; classify the platform as a whole>"
 source_url: <original URL of the source>
 subpages:
   - <slug>-<product1-slug>
@@ -197,7 +201,7 @@ updated: <today>
 - **Omit** `companion_urls:` and `raw_files:` — multi-product umbrellas do not have a github companion. Each sub may carry a `repo_url` in the raw file; the human can ingest those separately as needed.
 - **MUST NOT include** `sources:` or `parent_slug:`.
 
-If the umbrella **already exists** (refresh): preserve `created`, `tags`, `related`, `product`, `source_url`. Always overwrite `updated` and `detail_level`. The `subpages:` list is rewritten from the merged `products` list passed by the caller — this is how refresh can add new sub-pages when discovery turns up a product the original ingest missed (ingest.md, Step 4 of the refresh flow handles the merge: existing subs + new products = additive). Never **drop** an existing sub-slug from `subpages:` during refresh — refresh keeps stale entries; only `remove` deletes a sub.
+If the umbrella **already exists** (refresh): preserve `created`, `category`, `tags`, `related`, `product`, `source_url`. Always overwrite `updated` and `detail_level`. The `subpages:` list is rewritten from the merged `products` list passed by the caller — this is how refresh can add new sub-pages when discovery turns up a product the original ingest missed (ingest.md, Step 4 of the refresh flow handles the merge: existing subs + new products = additive). Never **drop** an existing sub-slug from `subpages:` during refresh — refresh keeps stale entries; only `remove` deletes a sub.
 
 **Body structure:**
 
@@ -232,6 +236,7 @@ For each entry `p` in `products`:
 ```yaml
 ---
 type: source
+category: "<one category from .pin-llm-wiki.yml — see Step 2a.1; usually the umbrella's category, unless the sub is clearly different>"
 source_url: <p.deep_link_url or umbrella source_url>
 parent_slug: <slug>
 tags: []

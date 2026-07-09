@@ -6,3 +6,13 @@ source_types: {{SOURCE_TYPES_LIST}}
 auto_lint: {{AUTO_LINT}}            # never | batch | per-ingest
 auto_mark_complete: {{AUTO_MARK_COMPLETE}}
 stale_threshold_days: 30
+
+# Optional: enable the grouped wiki/categories.md view. Uncomment and list your
+# domain's top-level buckets (order = display order). On ingest, each source is
+# classified into exactly one, written to its page's `category:` frontmatter, and
+# wiki/categories.md is regenerated from those fields (scripts/gen_categories.py).
+# Leave this out to keep categorization off. Example:
+# categories:
+#   - Frameworks & SDKs
+#   - Tools & integrations
+#   - Guides & references

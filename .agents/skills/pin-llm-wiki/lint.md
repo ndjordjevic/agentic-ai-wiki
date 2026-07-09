@@ -87,6 +87,8 @@ Excluded: `wiki/index.md` (root, no inbound by design). Included: `overview.md`,
 
 For each page P, scan body for occurrences of any known-slug or its index-table title that are not already inside a `[[wikilink]]` → WARN: `page mentions '<entity>' without a [[wikilink]]`.
 
+**Exclude `wiki/categories.md`** from this scan: it is a generated projection (see `ingest.md` § Post-ingest categories regeneration) whose one-line blurbs are copied from `wiki/overview.md` and whose every named source is already a `[[wikilink]]`.
+
 **Exclude citation-banner lines** from this scan: any line matching `_All claims below are sourced from ../../raw/` (required by Check #1). Slug substrings inside those mandatory raw paths are not cross-reference omissions — especially on multi-product sub-pages that share one umbrella raw file.
 
 If a source page has empty `related: []` AND Check #4 found candidates, include that in the same finding.

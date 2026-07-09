@@ -249,6 +249,24 @@ Read `inbox.md`. From the `## Completed` section, collect every `- [x]` or `- [ 
 
 ---
 
+## Post-ingest categories regeneration
+
+Runs after every ingest (single or batch) that produced at least one successful ingest, **only if** `.pin-llm-wiki.yml` has a `categories:` list (categorization is opt-in per wiki). This keeps `wiki/categories.md` — the grouped, human-navigable view — in sync as a **projection** of each source page's `category:` frontmatter. It is deliberately **separate** from the Post-ingest order verification above: `wiki/categories.md` is grouped by category, not ordered like `index.md`, so the order pass must **not** touch it.
+
+1. Confirm each newly ingested (or refreshed) source page carries a `category:` value from the config's `categories:` list (written in Step 2a.1 of `ingest-protocol.md`). This is the only per-source manual step; the file below rebuilds everything else deterministically.
+2. Regenerate the grouped view by running the bundled script from the wiki root:
+
+   ```bash
+   python3 <skill-dir>/scripts/gen_categories.py
+   ```
+
+   It reads the category order from `.pin-llm-wiki.yml`, groups every `[[slug]]` in `wiki/index.md` under its page's `category:`, pulls one-line blurbs from `wiki/overview.md`, and rewrites `wiki/categories.md`. It also runs an integrity check (every index slug appears exactly once) and exits non-zero on failure.
+3. Read the script's stdout. If it reports `WARN ... Uncategorized`, list those slugs in the summary so the human can assign a real category (edit the page's `category:` and re-run the script). Report: `Categories: regenerated (N sources, M categories)` or, if skipped, `Categories: skipped (no categories: list in config)`.
+
+If Python is unavailable, fall back to regenerating `wiki/categories.md` by hand from the same inputs (config order + each page's `category:` + overview blurbs) — but prefer the script; it is the source-of-truth generator and guarantees no drift.
+
+---
+
 ## Summary report
 
 ### `batch` mode
@@ -284,7 +302,7 @@ Ingested: <url>
   Products:    <product1>, <product2>, ...  ← only in multi-product mode
   Sub-pages:   wiki/sources/<slug>-<product1>.md, ...
 
-Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/<type>/README.md, inbox.md
+Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/<type>/README.md, inbox.md
 ```
 
 If the companion fetch was attempted but failed: `  Companion:   fetch failed (<reason>) — web-only page produced`.
