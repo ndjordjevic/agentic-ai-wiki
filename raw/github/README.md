@@ -127,3 +127,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/Starmel-OpenSuperWhisper.md | Starmel/OpenSuperWhisper | 1959 | master | 0.1.0 | 2026-07-08 | bundled Aider issue-fixing agent |
 | raw/github/GoogleCloudPlatform-knowledge-catalog.md | GoogleCloudPlatform/knowledge-catalog | 6522 | main | (none) | 2026-07-09 | |
 | raw/github/coleam00-cole-medin-ai-coding.md | coleam00/cole-medin-ai-coding | 81 | main | (none) | 2026-07-09 | OKF bundle of Cole Medin's AI-coding videos |
+| raw/github/DeterminateSystems-nix-installer.md | DeterminateSystems/nix-installer | 3640 | main | v3.21.5 | 2026-07-09 | |

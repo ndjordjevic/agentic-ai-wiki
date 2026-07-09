@@ -208,5 +208,6 @@ created: 2026-04-28
 | [[axi.md]] | web | standard | 2026-07-08 | |
 | [[GoogleCloudPlatform-knowledge-catalog]] | github | standard | 2026-07-09 | |
 | [[coleam00-cole-medin-ai-coding]] | github | standard | 2026-07-09 | |
+| [[determinate.systems]] | web | standard | 2026-07-09 | companion: DeterminateSystems/nix-installer |
 
-_196 sources ingested._
+_197 sources ingested._

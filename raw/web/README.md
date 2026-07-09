@@ -117,3 +117,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/docusaurus.io.md | docusaurus.io | 8 | 2026-07-08 | companion: facebook/docusaurus |
 | raw/web/higgsfield.ai.md | higgsfield.ai | 10 | 2026-07-08 | |
 | raw/web/axi.md | axi.md | 1 | 2026-07-08 | |
+| raw/web/determinate.systems.md | determinate.systems | 5 | 2026-07-09 | companion: DeterminateSystems/nix-installer |

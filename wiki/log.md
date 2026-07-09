@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-09 | ingest | determinate.systems | Determinate Nix Installer — industry-standard planner-based Nix installer for macOS, Linux, WSL, and CI
+
+- Created: wiki/sources/determinate.systems.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/DeterminateSystems-nix-installer.md
+
 ## 2026-07-09 | ingest | coleam00-cole-medin-ai-coding | OKF knowledge bundle of Cole Medin's best AI-coding videos: PIV loop, context engineering, AI layer, Archon harness builder
 
 - Created: wiki/sources/coleam00-cole-medin-ai-coding.md
