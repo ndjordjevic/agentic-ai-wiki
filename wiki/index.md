@@ -212,5 +212,6 @@ created: 2026-04-28
 | [[wezterm.org]] | web | standard | 2026-07-09 | companion: wezterm/wezterm |
 | [[kunchenguid-dotfiles]] | github | standard | 2026-07-09 | |
 | [[herdr.dev]] | web | standard | 2026-07-09 | companion: ogulcancelik/herdr |
+| [[kiro.dev]] | web | standard | 2026-07-09 | |
 
-_200 sources ingested._
+_201 sources ingested._

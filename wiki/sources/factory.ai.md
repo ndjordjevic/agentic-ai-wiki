@@ -14,6 +14,7 @@ related:
   - traycer.ai
   - crewai.com
   - strandsagents.com
+  - kiro.dev
   - langchain.com
   - bmad-code-org-bmad-method
   - warp.dev

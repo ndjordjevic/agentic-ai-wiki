@@ -7,7 +7,7 @@ raw_files:
   - ../../raw/web/herdr.dev.md
   - ../../raw/github/ogulcancelik-herdr.md
 tags: [agent-multiplexer, terminal, tmux-alternative, coding-agents, rust, pane-management, session-persistence, socket-api]
-related: [tmux-tmux, tmuxai.dev, kunchenguid-dotfiles]
+related: [tmux-tmux, tmuxai.dev, kunchenguid-dotfiles, kiro.dev]
 product: herdr
 detail_level: standard
 created: 2026-07-09

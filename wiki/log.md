@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-09 | ingest | kiro.dev | Amazon's coding agent IDE+CLI+web — spec-driven development, hooks, steering, successor to Amazon Q Developer
+
+- Created: wiki/sources/kiro.dev.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-07-09 | ingest | herdr.dev | agent multiplexer for the terminal — to coding agents what tmux is to terminals; 14,500+ stars
 
 - Created: wiki/sources/herdr.dev.md
