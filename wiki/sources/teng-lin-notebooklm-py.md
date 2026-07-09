@@ -22,10 +22,10 @@ related:
   - supermemory.ai
   - kepano-obsidian-skills
   - summio.org
-product: notebooklm
+product: notebooklm-py
 detail_level: standard
 created: 2026-07-02
-updated: 2026-07-08
+updated: 2026-07-09
 ---
 
 notebooklm-py is an unofficial Python library, CLI, and agent skill that exposes Google NotebookLM's full feature surface — including capabilities the web UI does not offer — to programmatic callers and MCP-aware coding agents. With 17,000+ stars (v0.7.3, MIT), it wraps undocumented Google APIs behind a layered architecture (CLI, MCP, and REST adapters over shared transport-neutral business logic), ships a root `SKILL.md` for `npx skills add` discovery, and targets the agentic pattern of offloading heavy document analysis to NotebookLM's grounded Gemini backend while the agent orchestrates and spends tokens only on the final mile.

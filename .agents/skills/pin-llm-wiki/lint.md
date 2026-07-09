@@ -1,12 +1,12 @@
-# lint — wiki health checks (12 checks; #2 and #6 deferred)
+# lint — wiki health checks (13 checks; #2 and #6 deferred; #13 only when `categories:` is configured)
 
 (Skill-directory paths and the `.pin-llm-wiki.yml` Guard are defined in `SKILL.md`.)
 
 ## Setup
 
-Read `.pin-llm-wiki.yml` → `domain`, `stale_threshold_days` (default `30`).
+Read `.pin-llm-wiki.yml` → `domain`, `stale_threshold_days` (default `30`), `categories:` (list, optional — absent means categorization is off for this wiki; Check #13 and the categories Auto-fix are skipped entirely when absent).
 
-Discover wiki files: `wiki/sources/*.md`, `wiki/overview.md`, `wiki/log.md`, `wiki/index.md`.
+Discover wiki files: `wiki/sources/*.md`, `wiki/overview.md`, `wiki/log.md`, `wiki/index.md`, and `wiki/categories.md` (only relevant when `categories:` is configured).
 
 Read `wiki/index.md` Sources table to build the **known-slugs set** (used by Checks #3, #4).
 
@@ -20,7 +20,8 @@ Initialize `findings = []`. Each finding: `{severity, check, file, line?, messag
 A — Check #7   frontmatter shape
 B — Check #8   citation path format
 C — Check #5   stale sources
-D — Auto-fix 1 index links (overview / log)
+D — Auto-fix 1 index links (overview / log / categories)
+D2 — Auto-fix 3 regenerate wiki/categories.md (only when `categories:` configured)
 E — Check #3   orphans
 F — Check #1   citation coverage
 G — Check #4   missing cross-references
@@ -28,6 +29,7 @@ H — Check #9   inbox consistency
 I — Check #10  adapter sync → Auto-fix 2 (re-sync from AGENTS.md)
 J — Check #11  split-product
 M — Check #12  parent-child consistency
+N — Check #13  category consistency (only when `categories:` configured)
 K — Check #2   contradictions       (Phase 1: deferred)
 L — Check #6   terminology collisions (Phase 1: deferred)
 ```
@@ -65,6 +67,27 @@ For each source page, if `today - updated > stale_threshold_days` → INFO: `sou
 ## Step D — Auto-fix 1: Index links
 
 If `wiki/index.md` body lacks `[[overview]]` or `[[log]]`, insert `→ [[overview]] | [[log]]` immediately below the `# <title>` heading. Log: `Auto-fix applied: added [[overview]] | [[log]] links to wiki/index.md`.
+
+If `categories:` is configured in `.pin-llm-wiki.yml` and the nav line lacks `[[categories]]`, insert it immediately after `[[overview]]` (`→ [[overview]] | [[categories]] | [[log]]`). Log: `Auto-fix applied: added [[categories]] link to wiki/index.md`. (`scripts/gen_categories.py` also performs this same fix idempotently when it runs — see Step D2 — so this only fires here if the script did not already run in this pass.)
+
+---
+
+## Step D2 — Auto-fix 3: Regenerate `wiki/categories.md`
+
+Skip entirely if `.pin-llm-wiki.yml` has no `categories:` list.
+
+`wiki/categories.md` is a **generated projection** of each source page's `category:` frontmatter (see `ingest.md` § Post-ingest categories regeneration) — it is not hand-maintained, so lint keeps it in sync rather than merely flagging drift:
+
+```bash
+python3 <skill-dir>/scripts/gen_categories.py
+```
+
+Read stdout:
+- `gen_categories: wrote wiki/categories.md — N sources, M categories; integrity OK.` → compare `N` against the known-slugs set size; mismatch → ERROR: `wiki/categories.md regeneration count (<N>) does not match wiki/index.md source count (<known-slugs count>) — investigate before trusting the categories view.`
+- `gen_categories: WARN <k> Uncategorized (review): [...]` → surface as INFO per listed slug: `source page has no recognized category: value (falls into Uncategorized) — set category: to one of the configured categories or leave as an intentional catch-all.`
+- A non-zero exit / `gen_categories: ERROR: ...` on stderr → ERROR: surface the script's message verbatim; do not proceed to Check #13 until fixed (a source file could not be resolved, or the slug set doesn't reconcile).
+
+If the script actually rewrote `wiki/categories.md` (content differs from before the run — check via `git diff --stat wiki/categories.md` or equivalent), log: `Auto-fix applied: regenerated wiki/categories.md (was stale).` If content is unchanged, no auto-fix entry is needed.
 
 ---
 
@@ -137,6 +160,19 @@ Pages with neither field are skipped (standalone / unified).
 
 ---
 
+## Step N — Check #13: Category consistency (ERROR / WARN)
+
+Skip entirely if `.pin-llm-wiki.yml` has no `categories:` list (categorization is opt-in per wiki).
+
+For each `wiki/sources/*.md`:
+- Missing `category:` field entirely → ERROR: `source page has no category: field (categories: is configured for this wiki — set one, or "Uncategorized")`.
+- `category:` present but its value is not a verbatim match (exact string, including `&`) for any entry in the config's `categories:` list, and is not the literal string `Uncategorized` → ERROR: `category: '<value>' does not match any entry in .pin-llm-wiki.yml categories: — check for typos or copy the value verbatim from config`. (This is what silently sends a source to the wrong Uncategorized bucket in Step D2's regeneration — worth catching as an ERROR rather than the script's own softer WARN.)
+- Umbrella / sub-page pairs (Step M's `subpages:` / `parent_slug:` relationship): no additional constraint beyond the above — each page (umbrella and every sub) independently needs a valid `category:`.
+
+Do not re-validate what Step D2 already reported (the Uncategorized INFO list) — this check is about catching typos/invalid values as ERRORs, Step D2's WARN is about the resulting Uncategorized bucket being non-empty. The two are complementary: a typo'd category value causes both a Step N ERROR (bad value) and a Step D2 INFO (it landed in Uncategorized).
+
+---
+
 ## Step K — Check #2: Contradictions (Phase 1: deferred)
 
 Add note: `Check #2 (contradictions): deferred in Phase 1.`
@@ -151,7 +187,7 @@ Add note: `Check #6 (terminology collisions): deferred in Phase 1.`
 
 ```
 Lint report — <domain> wiki
-<today> | <N> sources | 12 checks
+<today> | <N> sources | <12 or 13> checks
 
 ERRORs (<count>)
   [Check #N]  <file>:<line>  <message>
@@ -166,9 +202,12 @@ Auto-fixes applied (<count>):
   - <description>
 
 Deferred (Phase 1): Check #2 (contradictions), Check #6 (terminology collisions)
+[Check #13 (category consistency): skipped — no categories: list configured]
 
 Summary: <N> ERROR, <N> WARN, <N> INFO — <N> auto-fix(es) applied
 ```
+
+`<12 or 13>` — 13 when `categories:` is configured (Check #13 runs), else 12 (and print the bracketed `skipped` line above in place of running it).
 
 Omit empty severity sections (don't print "ERRORs (0)"). If no findings and no auto-fixes: print `All checks passed.`
 

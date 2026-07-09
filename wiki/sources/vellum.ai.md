@@ -45,7 +45,7 @@ Core differentiators from generic chat tools: tools not just words (web, files, 
 
 **Memory:** Three layers — workspace files (`essentials.md`, `threads.md`, `recent.md`, `buffer.md` plus legacy `SOUL.md`/`IDENTITY.md`/`USER.md`/`NOW.md` in llms.txt), curated PKB notes in `pkb/`, and auto-extracted long-term memory with eight kinds (Event, Knowledge, Feeling, Plan, Pattern, Story, Shared, Skill). Hybrid dense+sparse retrieval, spreading activation, injection gate, consolidation every four hours, procedural memory saved as self-authored skills.
 
-**Skills & tools:** 28 bundled skills (Gmail, Slack, Browser, Computer Use, App Builder, Schedule, Phone Calls, etc.) loaded on demand via `skill_load`. Core sandbox tools always on; host tools (`host_bash`, `host_file_*`) require approval. Community skills via skills.sh; custom skills scaffolded from conversation.
+**Skills & tools:** 28 bundled skills (Gmail, Slack, Browser, Computer Use, App Builder, Schedule, Phone Calls, etc.) loaded on demand via `skill_load`. Core sandbox tools always on; host tools (`host_bash`, `host_file_*`) require approval. Community skills via [[skills.sh]]; custom skills scaffolded from conversation.
 
 **Channels:** One assistant, one memory across web, macOS desktop (computer use + voice), iOS, CLI, Telegram, Slack, Agent Mail email, Twilio phone. Guardian model: you verify channel identities, route approvals, and gate memory extraction.
 
