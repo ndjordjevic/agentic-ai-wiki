@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Agent frameworks & SDKs"
 source_url: https://microsoft.github.io/autogen/stable/index.html
 companion_urls:
   - https://github.com/microsoft/autogen

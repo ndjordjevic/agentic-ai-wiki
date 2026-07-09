@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Spec-driven dev, planning & tasks"
 source_url: https://openspec.dev/
 companion_urls:
   - https://github.com/Fission-AI/OpenSpec

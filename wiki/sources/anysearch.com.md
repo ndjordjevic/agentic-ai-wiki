@@ -1,5 +1,6 @@
 ---
 type: source
+category: "MCP servers & integrations"
 source_url: https://anysearch.com/home
 tags:
   - web-search-api

@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Coding-agent harnesses & methodologies"
 source_url: https://paperclip.ing
 companion_urls:
   - https://github.com/paperclipai/paperclip

@@ -51,6 +51,7 @@ Then push to `origin` (remote: `https://github.com/ndjordjevic/agentic-ai-wiki.g
 wiki/
   index.md          ← start here; lists every page, counts sources
   overview.md       ← rolling cross-source overview (cites [[source pages]])
+  categories.md     ← grouped, human-navigable view (generated from each page's category:)
   log.md            ← append-only record of every ingest/refresh
   sources/          ← one page per ingested source (<slug>.md)
   .archive/         ← soft-deleted sources (ignore unless needed)

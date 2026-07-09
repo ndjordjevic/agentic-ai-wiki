@@ -1,5 +1,6 @@
 ---
 type: source
+category: "MCP servers & integrations"
 source_url: https://mcp.sentry.dev/
 companion_urls:
   - https://github.com/getsentry/sentry-mcp

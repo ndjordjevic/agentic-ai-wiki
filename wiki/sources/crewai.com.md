@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Agent frameworks & SDKs"
 source_url: https://crewai.com/
 companion_urls:
   - https://github.com/crewAIInc/crewAI

@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Knowledge, RAG, memory & context"
 source_url: https://reseek.net/
 tags:
   - personal-knowledge-management

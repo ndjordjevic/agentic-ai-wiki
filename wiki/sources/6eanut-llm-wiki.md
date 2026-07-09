@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Knowledge, RAG, memory & context"
 source_url: https://github.com/6eanut/llm-wiki
 tags: [llm-wiki, karpathy-pattern, claude-code, skills, knowledge-base, agent-memory]
 related: [anthropics-skills, shareai-lab-learn-claude-code, forrestchang-andrej-karpathy-skills, skills.sh, runcabinet.com, hilash-cabinet, nadimtuhin-claude-token-optimizer, teng-lin-notebooklm-py, kepano-obsidian-skills, langchain-ai-openwiki, deepwiki.com, he-yufeng-RepoWiki, bb-boy680-open-zread, coleam00-helpline, coleam00-claude-memory-compiler, agricidaniel-claude-obsidian]

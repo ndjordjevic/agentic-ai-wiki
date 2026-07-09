@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Workflow automation & no-code platforms"
 source_url: https://postiz.com/
 companion_urls:
   - https://github.com/gitroomhq/postiz-app

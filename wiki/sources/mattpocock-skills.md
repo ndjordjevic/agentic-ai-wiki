@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Agent Skills & plugins ecosystem"
 source_url: https://github.com/mattpocock/skills
 tags:
   - agent-skills

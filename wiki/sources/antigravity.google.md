@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Coding agents, IDEs & dev environments"
 source_url: https://antigravity.google/product/antigravity-sdk
 companion_urls:
   - https://github.com/google-antigravity/antigravity-sdk-python

@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Coding-agent harnesses & methodologies"
 source_url: https://github.com/Chachamaru127/claude-code-harness
 tags:
   - claude-code-harness

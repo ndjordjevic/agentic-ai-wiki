@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Terminal, session & parallel-agent runners"
 source_url: https://github.com/max-sixty/worktrunk
 tags: [git-worktrees, parallel-ai-agents, cli-tool, rust, merge-workflow, llm-commit-messages, hooks]
 related: []

@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Spec-driven dev, planning & tasks"
 source_url: https://www.taskmaster.one/
 tags:
   - ai-task-management

@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Coding agents, IDEs & dev environments"
 source_url: https://mainframe.app/
 tags: [agent-video-generation, mcp-compatible, team-collaboration, agent-observability, ai-coding-agent, video-recap]
 related: []

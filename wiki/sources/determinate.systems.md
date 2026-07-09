@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Infra, hosting, DB & observability"
 source_url: https://determinate.systems/nix-installer/
 companion_urls:
   - https://github.com/DeterminateSystems/nix-installer

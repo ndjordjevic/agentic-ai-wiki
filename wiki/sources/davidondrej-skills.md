@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Agent Skills & plugins ecosystem"
 source_url: https://github.com/davidondrej/skills
 tags:
   - agent-skills

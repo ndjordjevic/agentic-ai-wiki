@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Coding-agent harnesses & methodologies"
 source_url: https://x.com/ericzakariasson/status/2036762680401223946?s=20
 tags:
   - agent-cli-design

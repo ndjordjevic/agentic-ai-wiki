@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Coding agents, IDEs & dev environments"
 source_url: https://pi.dev/
 tags:
   - coding-agent

@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Browser & web automation"
 source_url: https://www.firecrawl.dev/
 companion_urls:
   - https://github.com/firecrawl/firecrawl

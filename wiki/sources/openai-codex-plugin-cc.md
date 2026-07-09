@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Coding agents, IDEs & dev environments"
 source_url: https://github.com/openai/codex-plugin-cc
 tags:
   - claude-code-plugin

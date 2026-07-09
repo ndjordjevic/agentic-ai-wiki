@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Business, career & learning"
 source_url: https://www.pipedrive.com/
 tags: [crm, sales-automation, pipeline-management, ai-sales-assistant, email-marketing, rest-api, saas, workflow-automation]
 related: [hunter.io, zapier.com]

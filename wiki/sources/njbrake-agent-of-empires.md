@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Terminal, session & parallel-agent runners"
 source_url: https://github.com/njbrake/agent-of-empires
 tags:
   - multi-agent

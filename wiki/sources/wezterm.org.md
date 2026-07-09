@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Terminal, session & parallel-agent runners"
 source_url: https://wezterm.org/index.html
 companion_urls:
   - https://github.com/wezterm/wezterm

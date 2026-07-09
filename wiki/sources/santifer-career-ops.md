@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Business, career & learning"
 source_url: https://github.com/santifer/career-ops
 tags:
   - job-search-automation

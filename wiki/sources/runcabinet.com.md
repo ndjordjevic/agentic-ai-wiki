@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Knowledge, RAG, memory & context"
 source_url: https://runcabinet.com/
 companion_urls:
   - https://github.com/hilash/cabinet

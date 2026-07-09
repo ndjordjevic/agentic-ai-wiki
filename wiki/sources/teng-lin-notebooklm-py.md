@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Knowledge, RAG, memory & context"
 source_url: https://github.com/teng-lin/notebooklm-py
 tags:
   - notebooklm

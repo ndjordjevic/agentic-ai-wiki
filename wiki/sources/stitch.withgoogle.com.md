@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Design & UI generation"
 source_url: https://stitch.withgoogle.com/
 tags:
   - vibe-design

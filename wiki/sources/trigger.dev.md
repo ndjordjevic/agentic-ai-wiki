@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Infra, hosting, DB & observability"
 source_url: https://trigger.dev/
 companion_urls:
   - https://github.com/triggerdotdev/trigger.dev

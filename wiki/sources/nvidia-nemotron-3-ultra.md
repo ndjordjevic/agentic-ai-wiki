@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Model infra, ML & providers"
 source_url: https://decrypt.co/369689/nvidia-open-ai-model-nemotron-3-ultra
 tags:
   - nemotron

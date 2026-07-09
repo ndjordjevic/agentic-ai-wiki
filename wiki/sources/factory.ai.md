@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Coding agents, IDEs & dev environments"
 source_url: https://factory.ai/
 tags:
   - enterprise-ai-agents

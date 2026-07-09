@@ -1,5 +1,6 @@
 ---
 type: source
+category: "MCP servers & integrations"
 source_url: https://webhook.site/
 companion_urls:
   - https://github.com/webhooksite/webhook.site

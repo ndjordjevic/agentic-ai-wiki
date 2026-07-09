@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Knowledge, RAG, memory & context"
 source_url: https://tolaria.md/
 companion_urls:
   - https://github.com/refactoringhq/tolaria

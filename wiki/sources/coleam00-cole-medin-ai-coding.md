@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Coding-agent harnesses & methodologies"
 source_url: https://github.com/coleam00/cole-medin-ai-coding
 tags:
   - okf-bundle

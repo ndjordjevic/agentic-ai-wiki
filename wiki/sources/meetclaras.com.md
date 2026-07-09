@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Media, voice & content"
 source_url: https://www.meetclaras.com/
 tags: [youtube-transcription, ai-chat, video-summarization, transcript-export, knowledge-extraction, ai-integration, chrome-extension]
 related:

@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Knowledge, RAG, memory & context"
 source_url: https://github.com/nadimtuhin/claude-token-optimizer
 tags:
   - claude-code

@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Coding agents, IDEs & dev environments"
 source_url: https://bolt.new/
 companion_urls:
   - https://github.com/stackblitz/bolt.new

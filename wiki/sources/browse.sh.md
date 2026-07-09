@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Browser & web automation"
 source_url: https://browse.sh/
 tags:
   - web-automation

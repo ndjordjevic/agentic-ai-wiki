@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Infra, hosting, DB & observability"
 source_url: https://sentry.io/welcome/
 companion_urls:
   - https://github.com/getsentry/sentry

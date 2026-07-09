@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Coding-agent harnesses & methodologies"
 source_url: https://github.com/Yeachan-Heo/oh-my-claudecode
 tags: [claude-code-plugin, multi-agent-orchestration, hook-based-routing, skill-based-routing, team-orchestration, magic-keywords, model-routing]
 related: [obra-superpowers, gsd-build-get-shit-done, ruvnet-ruflo, frankbria-ralph-claude-code, snarktank-ralph, tmuxai.dev, Chachamaru127-claude-code-harness]

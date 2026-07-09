@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Agent frameworks & SDKs"
 source_url: https://google.github.io/agents-cli/
 companion_urls:
   - https://github.com/google/agents-cli

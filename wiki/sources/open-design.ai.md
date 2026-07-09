@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Design & UI generation"
 source_url: https://open-design.ai/
 companion_urls:
   - https://github.com/nexu-io/open-design

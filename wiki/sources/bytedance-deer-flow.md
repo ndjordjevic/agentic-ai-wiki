@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Coding-agent harnesses & methodologies"
 source_url: https://github.com/bytedance/deer-flow
 tags:
   - superagent-harness

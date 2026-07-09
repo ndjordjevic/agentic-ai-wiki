@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Terminal, session & parallel-agent runners"
 source_url: https://herdr.dev/
 companion_urls:
   - https://github.com/ogulcancelik/herdr

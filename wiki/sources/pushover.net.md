@@ -1,5 +1,6 @@
 ---
 type: source
+category: "MCP servers & integrations"
 source_url: https://pushover.net/
 tags: [push-notifications, rest-api, mobile-alerts, ios-notifications, android-notifications, priority-alerts, webhook-integration]
 related: [happy.engineering, marketstack.com]

@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Agent frameworks & SDKs"
 source_url: https://docs.langchain.com/oss/python/deepagents/overview
 parent_slug: langchain.com
 tags:

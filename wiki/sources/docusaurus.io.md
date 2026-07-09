@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Infra, hosting, DB & observability"
 source_url: https://docusaurus.io/
 companion_urls:
   - https://github.com/facebook/docusaurus

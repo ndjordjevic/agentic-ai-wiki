@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Agent frameworks & SDKs"
 source_url: https://www.langchain.com/
 subpages:
   - langchain.com-langsmith

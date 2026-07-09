@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Knowledge, RAG, memory & context"
 source_url: https://github.com/he-yufeng/RepoWiki
 tags:
   - deepwiki-alternative

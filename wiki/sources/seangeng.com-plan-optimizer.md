@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Spec-driven dev, planning & tasks"
 source_url: https://seangeng.com-plan-optimizer/freebies/plan-optimizer
 tags: [claude-code-skill, plan-optimization, iterative-refinement, rubric-scoring, hill-climbing, best-of-n, agentic-tools, plateau-detection]
 related: [obra-superpowers, anthropics-skills, mattpocock-skills, shadcn-improve, skills.sh, q00-ouroboros]

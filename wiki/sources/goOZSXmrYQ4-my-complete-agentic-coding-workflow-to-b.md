@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Coding-agent harnesses & methodologies"
 source_url: https://youtu.be/goOZSXmrYQ4
 tags: [greenfield-development, piv-loop, ai-layer, prd-creation, prime-command, subagents, on-demand-context, agentic-coding-workflow]
 related:

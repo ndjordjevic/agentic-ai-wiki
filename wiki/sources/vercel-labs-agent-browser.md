@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Browser & web automation"
 source_url: https://github.com/vercel-labs/agent-browser
 tags:
   - browser-automation

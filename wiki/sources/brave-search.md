@@ -1,5 +1,6 @@
 ---
 type: source
+category: "MCP servers & integrations"
 source_url: https://brave.com/search/api/
 companion_urls:
   - https://github.com/brave/brave-search-mcp-server

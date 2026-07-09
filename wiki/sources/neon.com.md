@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Infra, hosting, DB & observability"
 source_url: https://neon.com/
 companion_urls:
   - https://github.com/neondatabase/neon

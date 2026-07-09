@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Terminal, session & parallel-agent runners"
 source_url: https://github.com/tmux/tmux
 tags:
   - terminal-multiplexer

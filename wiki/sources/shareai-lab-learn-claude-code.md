@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Coding-agent harnesses & methodologies"
 source_url: https://github.com/shareAI-lab/learn-claude-code
 tags:
   - harness-engineering

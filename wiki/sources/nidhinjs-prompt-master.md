@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Agent Skills & plugins ecosystem"
 source_url: https://github.com/nidhinjs/prompt-master
 tags: [prompt-engineering, claude-skill, skill-md, multi-tool-routing, token-efficiency, agentic-ai, prompt-templates, intent-extraction]
 related: [anthropics-skills, skills.sh, forrestchang-andrej-karpathy-skills, obra-superpowers, anombyte93-prd-taskmaster]

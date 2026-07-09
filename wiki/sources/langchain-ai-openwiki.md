@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Knowledge, RAG, memory & context"
 source_url: https://github.com/langchain-ai/openwiki
 tags: [openwiki-cli, agent-documentation, deepagents, self-updating-docs, github-actions, agents-md, provider-agnostic]
 related: [langchain.com-deepagents, langchain.com-langsmith, langchain.com, deepwiki.com, AsyncFuncAI-deepwiki-open, he-yufeng-RepoWiki, AIDotNet-OpenDeepWiki, PorunC-CodeWiki, bb-boy680-open-zread, coleam00-helpline, coleam00-claude-memory-compiler, 6eanut-llm-wiki, hilash-cabinet]

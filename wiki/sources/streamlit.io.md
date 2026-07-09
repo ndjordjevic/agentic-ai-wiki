@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Infra, hosting, DB & observability"
 source_url: https://streamlit.io/
 companion_urls:
   - https://github.com/streamlit/streamlit

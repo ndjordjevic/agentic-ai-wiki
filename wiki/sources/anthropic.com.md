@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Agent frameworks & SDKs"
 source_url: https://www.anthropic.com/engineering/harness-design-long-running-apps
 subpages:
   - anthropic.com-messages

@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Coding agents, IDEs & dev environments"
 source_url: https://github.com/Felix-Forever/hermes-agent-desktop
 tags:
   - multi-agent-collaboration

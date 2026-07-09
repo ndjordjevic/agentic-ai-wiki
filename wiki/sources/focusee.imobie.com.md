@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Media, voice & content"
 source_url: https://focusee.imobie.com/
 tags:
   - screen-recorder

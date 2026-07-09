@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Browser & web automation"
 source_url: https://www.browserbase.com/
 companion_urls:
   - https://github.com/browserbase/stagehand

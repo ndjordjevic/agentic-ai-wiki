@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Knowledge, RAG, memory & context"
 source_url: https://www.vellum.ai/
 companion_urls:
   - https://github.com/vellum-ai/vellum-assistant

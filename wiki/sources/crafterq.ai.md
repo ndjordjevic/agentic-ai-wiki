@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Business, career & learning"
 source_url: https://crafterq.ai/
 tags:
   - website-ai-agent

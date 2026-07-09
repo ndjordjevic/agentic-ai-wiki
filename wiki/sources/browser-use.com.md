@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Browser & web automation"
 source_url: https://browser-use.com/
 companion_urls:
   - https://github.com/browser-use/browser-use

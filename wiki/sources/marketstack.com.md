@@ -1,5 +1,6 @@
 ---
 type: source
+category: "MCP servers & integrations"
 source_url: https://marketstack.com/
 tags:
   - stock-market-api

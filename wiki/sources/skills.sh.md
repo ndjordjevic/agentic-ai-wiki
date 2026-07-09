@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Agent Skills & plugins ecosystem"
 source_url: https://skills.sh/
 companion_urls:
   - https://github.com/vercel-labs/skills

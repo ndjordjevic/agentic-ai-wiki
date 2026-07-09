@@ -6,3 +6,25 @@ source_types: [web, github, youtube]
 auto_lint: batch            # never | batch | per-ingest
 auto_mark_complete: true
 stale_threshold_days: 30
+
+# Controlled vocabulary for the per-source `category:` field and the grouped
+# wiki/categories.md view. On ingest, each source is classified into exactly one
+# of these (LLM step; fall back to "Uncategorized" for human review). Order here
+# is the display order in categories.md.
+categories:
+  - Agent frameworks & SDKs
+  - Coding-agent harnesses & methodologies
+  - Agent Skills & plugins ecosystem
+  - MCP servers & integrations
+  - Spec-driven dev, planning & tasks
+  - Coding agents, IDEs & dev environments
+  - Knowledge, RAG, memory & context
+  - Browser & web automation
+  - Terminal, session & parallel-agent runners
+  - Model infra, ML & providers
+  - Workflow automation & no-code platforms
+  - Design & UI generation
+  - Media, voice & content
+  - Infra, hosting, DB & observability
+  - Security
+  - Business, career & learning

@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Browser & web automation"
 source_url: https://github.com/microsoft/playwright-mcp
 tags:
   - mcp-server

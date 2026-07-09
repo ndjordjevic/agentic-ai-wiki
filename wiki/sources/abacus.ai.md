@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Model infra, ML & providers"
 source_url: https://abacus.ai/
 tags:
   - super-assistant

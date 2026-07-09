@@ -1,5 +1,6 @@
 ---
 type: source
+category: "MCP servers & integrations"
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking
 tags:
   - mcp-server

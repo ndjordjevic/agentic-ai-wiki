@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Coding agents, IDEs & dev environments"
 source_url: https://zcode.z.ai/en
 tags: [agentic-cli, glm-5.2, ade, goal-mode, mcp-servers, bot-control, zhipu-ai]
 related: [warp.dev, factory.ai, codeyai.space]

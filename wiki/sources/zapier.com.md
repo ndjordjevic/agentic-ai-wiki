@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Workflow automation & no-code platforms"
 source_url: https://zapier.com/
 companion_urls:
   - https://github.com/zapier/sdk

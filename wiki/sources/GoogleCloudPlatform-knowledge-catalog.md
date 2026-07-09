@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Knowledge, RAG, memory & context"
 source_url: https://github.com/GoogleCloudPlatform/knowledge-catalog
 tags:
   - knowledge-catalog

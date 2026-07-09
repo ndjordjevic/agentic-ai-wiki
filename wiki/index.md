@@ -6,7 +6,7 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki
 
-→ [[overview]] | [[log]]
+→ [[overview]] | [[categories]] | [[log]]
 
 ## Sources
 

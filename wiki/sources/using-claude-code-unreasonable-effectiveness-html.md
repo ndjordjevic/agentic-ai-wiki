@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Coding-agent harnesses & methodologies"
 source_url: https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html
 tags:
   - claude-code

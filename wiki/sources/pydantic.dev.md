@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Agent frameworks & SDKs"
 source_url: https://pydantic.dev/
 companion_urls:
   - https://github.com/pydantic/pydantic

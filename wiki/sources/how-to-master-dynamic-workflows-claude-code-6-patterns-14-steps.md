@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Coding-agent harnesses & methodologies"
 source_url: https://x.com/0xCodez/status/2062127385923776831?s=20
 tags:
   - dynamic-workflows

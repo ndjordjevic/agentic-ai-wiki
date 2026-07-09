@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Agent frameworks & SDKs"
 source_url: https://github.com/microsoft/agent-framework
 tags:
   - multi-agent-framework

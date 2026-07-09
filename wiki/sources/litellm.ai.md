@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Model infra, ML & providers"
 source_url: https://www.litellm.ai/
 companion_urls:
   - https://github.com/BerriAI/litellm

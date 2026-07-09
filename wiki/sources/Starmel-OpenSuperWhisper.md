@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Media, voice & content"
 source_url: https://github.com/Starmel/OpenSuperWhisper
 tags:
   - macos-dictation

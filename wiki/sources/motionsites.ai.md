@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Design & UI generation"
 source_url: https://motionsites.ai/
 tags:
   - ai-design-prompts

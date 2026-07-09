@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Coding agents, IDEs & dev environments"
 source_url: https://kiro.dev/
 tags: [coding-agent, ide, cli, spec-driven-development, hooks, steering, aws, agent-skills, mcp]
 related: [herdr.dev, cognition.ai, factory.ai]

@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Model infra, ML & providers"
 source_url: https://kie.ai/
 tags:
   - unified-ai-api

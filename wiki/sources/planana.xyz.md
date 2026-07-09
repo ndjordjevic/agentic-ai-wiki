@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Business, career & learning"
 source_url: https://planana.xyz
 tags:
   - ai-tutor

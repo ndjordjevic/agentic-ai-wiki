@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Spec-driven dev, planning & tasks"
 source_url: https://github.com/github/spec-kit
 tags:
   - spec-driven-development

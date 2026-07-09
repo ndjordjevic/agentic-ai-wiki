@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Agent frameworks & SDKs"
 source_url: https://hermes-agent.nousresearch.com/
 companion_urls:
   - https://github.com/NousResearch/hermes-agent

@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Media, voice & content"
 source_url: https://elevenlabs.io/
 tags:
   - text-to-speech

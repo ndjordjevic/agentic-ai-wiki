@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Design & UI generation"
 source_url: https://designmd.cc/
 companion_urls:
   - https://github.com/adityarajdigital/designmd

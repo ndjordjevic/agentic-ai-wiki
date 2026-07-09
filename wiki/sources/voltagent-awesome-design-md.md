@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Design & UI generation"
 source_url: https://github.com/VoltAgent/awesome-design-md
 tags:
   - design-md

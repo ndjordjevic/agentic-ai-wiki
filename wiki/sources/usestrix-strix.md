@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Security"
 source_url: https://github.com/usestrix/strix
 tags:
   - ai-pentesting

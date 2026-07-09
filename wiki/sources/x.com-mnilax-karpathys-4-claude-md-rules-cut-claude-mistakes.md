@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Coding-agent harnesses & methodologies"
 source_url: https://x.com/mnilax/status/2053116311132155938?s=43&t=5l2OHSF10JbahgpENs1smw
 tags: [claude-md, behavioral-rules, agent-orchestration, claude-code, token-budgets, checkpointing, test-quality, coding-conventions]
 related: [forrestchang-andrej-karpathy-skills, anthropics-skills, shareai-lab-learn-claude-code, 9d5bzxVsocw-anthropic-just-dropped-the-new-blueprint, obra-superpowers, x.com-ericzakariasson-building-clis-for-agents, how-claude-code-works-in-large-codebases, nadimtuhin-claude-token-optimizer, how-to-master-dynamic-workflows-claude-code-6-patterns-14-steps]

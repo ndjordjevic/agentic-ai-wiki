@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Coding-agent harnesses & methodologies"
 source_url: https://github.com/frankbria/ralph-claude-code
 tags:
   - autonomous-agent-loop

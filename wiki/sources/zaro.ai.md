@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Workflow automation & no-code platforms"
 source_url: https://zaro.ai/
 tags:
   - workspace-platform

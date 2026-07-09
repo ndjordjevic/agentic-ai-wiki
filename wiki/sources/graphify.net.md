@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Knowledge, RAG, memory & context"
 source_url: https://graphify.net/
 companion_urls:
   - https://github.com/safishamsi/graphify

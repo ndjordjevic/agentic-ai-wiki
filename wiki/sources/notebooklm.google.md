@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Knowledge, RAG, memory & context"
 source_url: https://notebooklm.google/
 tags: [ai-research-assistant, source-grounded, audio-overview, gemini, knowledge-synthesis, document-analysis, multimodal, note-taking]
 related: [runcabinet.com, supermemory.ai, zaro.ai, teng-lin-notebooklm-py]

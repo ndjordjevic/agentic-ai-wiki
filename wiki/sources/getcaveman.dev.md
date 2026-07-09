@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Knowledge, RAG, memory & context"
 source_url: https://getcaveman.dev/
 companion_urls:
   - https://github.com/JuliusBrussee/caveman

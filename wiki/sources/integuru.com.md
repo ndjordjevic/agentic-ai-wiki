@@ -1,5 +1,6 @@
 ---
 type: source
+category: "MCP servers & integrations"
 source_url: https://www.integuru.com/
 companion_urls:
   - https://github.com/Integuru-AI/Integuru

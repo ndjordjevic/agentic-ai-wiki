@@ -1,5 +1,6 @@
 ---
 type: source
+category: "MCP servers & integrations"
 source_url: https://resend.com/
 companion_urls:
   - https://github.com/resend/resend-cli

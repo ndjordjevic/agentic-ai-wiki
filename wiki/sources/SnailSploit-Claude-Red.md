@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Security"
 source_url: https://github.com/SnailSploit/Claude-Red
 tags:
   - agent-skills

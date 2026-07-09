@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Infra, hosting, DB & observability"
 source_url: https://www.hostinger.com/1
 tags: [web-hosting, vps-hosting, ai-website-builder, vibe-coding, cloud-hosting, domain-services, wordpress-hosting]
 related: []

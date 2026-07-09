@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Coding-agent harnesses & methodologies"
 source_url: https://github.com/forrestchang/andrej-karpathy-skills
 tags:
   - claude-code-guidelines

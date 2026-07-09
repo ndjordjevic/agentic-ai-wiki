@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Coding agents, IDEs & dev environments"
 source_url: https://axi.md/
 tags:
   - agent-ergonomic-cli

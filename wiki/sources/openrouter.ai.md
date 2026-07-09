@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Model infra, ML & providers"
 source_url: https://openrouter.ai/
 tags:
   - unified-llm-api

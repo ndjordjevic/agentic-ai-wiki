@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Workflow automation & no-code platforms"
 source_url: https://n8n.io/
 companion_urls:
   - https://github.com/n8n-io/n8n

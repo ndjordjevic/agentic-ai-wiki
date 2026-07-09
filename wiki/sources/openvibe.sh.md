@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Business, career & learning"
 source_url: https://openvibe.sh/
 companion_urls:
   - https://github.com/wasp-lang/open-vibe

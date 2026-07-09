@@ -1,5 +1,6 @@
 ---
 type: source
+category: "Knowledge, RAG, memory & context"
 source_url: https://github.com/coleam00/claude-memory-compiler
 tags:
   - personal-knowledge-base
