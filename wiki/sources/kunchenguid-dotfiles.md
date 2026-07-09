@@ -2,7 +2,7 @@
 type: source
 source_url: https://github.com/kunchenguid/dotfiles
 tags: [nix-darwin, home-manager, dotfiles, nix-flakes, agentic-engineering, macos-setup, agents-md]
-related: [determinate.systems, wezterm.org]
+related: [determinate.systems, wezterm.org, herdr.dev]
 product: dotfiles
 detail_level: standard
 created: 2026-07-09

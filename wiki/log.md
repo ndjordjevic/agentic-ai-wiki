@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-09 | ingest | herdr.dev | agent multiplexer for the terminal — to coding agents what tmux is to terminals; 14,500+ stars
+
+- Created: wiki/sources/herdr.dev.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/ogulcancelik-herdr.md
+
 ## 2026-07-09 | ingest | kunchenguid-dotfiles | reproducible macOS agentic engineering environment via nix-darwin, home-manager, and shared AGENTS.md
 
 - Created: wiki/sources/kunchenguid-dotfiles.md

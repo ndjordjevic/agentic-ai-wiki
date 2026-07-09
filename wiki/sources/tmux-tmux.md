@@ -14,6 +14,7 @@ related:
   - njbrake-agent-of-empires
   - tmuxai.dev
   - wezterm.org
+  - herdr.dev
 product: tmux
 detail_level: standard
 created: 2026-05-02

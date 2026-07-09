@@ -119,3 +119,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/axi.md | axi.md | 1 | 2026-07-08 | |
 | raw/web/determinate.systems.md | determinate.systems | 5 | 2026-07-09 | companion: DeterminateSystems/nix-installer |
 | raw/web/wezterm.org.md | wezterm.org | 5 | 2026-07-09 | companion: wezterm/wezterm |
+| raw/web/herdr.dev.md | herdr.dev | 8 | 2026-07-09 | companion: ogulcancelik/herdr |

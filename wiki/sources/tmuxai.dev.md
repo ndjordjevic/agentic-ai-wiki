@@ -18,6 +18,7 @@ tags:
   - go
 related:
   - tmux-tmux
+  - herdr.dev
   - njbrake-agent-of-empires
   - warp.dev
   - wezterm.org

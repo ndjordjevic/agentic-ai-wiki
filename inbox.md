@@ -217,3 +217,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://determinate.systems/nix-installer/ <!-- ingested 2026-07-09 -->
 - [x] https://wezterm.org/index.html <!-- ingested 2026-07-09 -->
 - [x] https://github.com/kunchenguid/dotfiles <!-- ingested 2026-07-09 -->
+- [x] https://herdr.dev/ <!-- ingested 2026-07-09 -->
