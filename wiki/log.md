@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-08 | ingest | axi.md | AXI — Agent eXperience Interface: 10 agent-ergonomic CLI design principles + catalog (gh-axi, chrome-devtools-axi)
+
+- Created: wiki/sources/axi.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-07-08 | ingest | Starmel-OpenSuperWhisper | Local whisper.cpp/Parakeet macOS dictation app with a bundled Aider-based issue-fixing agent
 
 - Created: wiki/sources/Starmel-OpenSuperWhisper.md

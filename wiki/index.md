@@ -205,5 +205,6 @@ created: 2026-04-28
 | [[pbakaus-impeccable]] | github | standard | 2026-07-08 | |
 | [[higgsfield.ai]] | web | standard | 2026-07-08 | |
 | [[Starmel-OpenSuperWhisper]] | github | standard | 2026-07-08 | |
+| [[axi.md]] | web | standard | 2026-07-08 | |
 
-_193 sources ingested._
+_194 sources ingested._
