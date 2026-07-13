@@ -8,6 +8,17 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-13 | ingest | dark-factory-autonomous-ai-codebase | MindStudio explainer on dark factories — fully autonomous AI-driven codebases
+
+- Created: wiki/sources/dark-factory-autonomous-ai-codebase.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+- Related updates: coleam00-harness-engineering-demo, factory.ai, cognition.ai, coleam00-archon
+
+## 2026-07-10 | ingest | duply.ai | Curated library of 312+ real-world design systems published as copy-paste DESIGN.md brand token files
+
+- Created: wiki/sources/duply.ai.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-07-09 | ingest | coleam00-redis-iris-agent | Pydantic AI reference agent wiring Redis Iris Context Retriever (MCP) + Agent Memory
 
 - Created: wiki/sources/coleam00-redis-iris-agent.md

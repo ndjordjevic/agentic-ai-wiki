@@ -26,10 +26,11 @@ related:
   - stitch.withgoogle.com
   - designmd.cc
   - pbakaus-impeccable
+  - duply.ai
 product: open-design
 detail_level: standard
 created: 2026-06-09
-updated: 2026-07-08
+updated: 2026-07-10
 ---
 
 Open Design (open-design.ai, 62,118 GitHub stars, Apache-2.0, v0.9.0) is the open-source, local-first alternative to Claude Design — a complete agent-native design platform that turns any coding agent CLI (Claude Code, Codex, Cursor, Gemini CLI, 21+ others) into a design engine via composable SKILL.md skills and portable DESIGN.md brand systems. It is both a native desktop app (macOS, Windows, Linux AppImage) and a filesystem-first toolkit that generates HTML, PDF, PPTX, MP4, and HyperFrame artifacts — without locking output into a vendor cloud. The project was created in direct response to Anthropic's Claude Design launch in April 2026 and positions itself as the open-source, self-hostable, multi-agent equivalent. (../../raw/github/nexu-io-open-design.md)

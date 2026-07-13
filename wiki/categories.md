@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-07-09
+updated: 2026-07-13
 ---
 
 # Agentic AI Frameworks — by category
@@ -14,7 +14,7 @@ updated: 2026-07-09
 ## Categories
 
 - [Agent frameworks & SDKs](#agent-frameworks--sdks) (19)
-- [Coding-agent harnesses & methodologies](#coding-agent-harnesses--methodologies) (29)
+- [Coding-agent harnesses & methodologies](#coding-agent-harnesses--methodologies) (30)
 - [Agent Skills & plugins ecosystem](#agent-skills--plugins-ecosystem) (11)
 - [MCP servers & integrations](#mcp-servers--integrations) (12)
 - [Spec-driven dev, planning & tasks](#spec-driven-dev-planning--tasks) (13)
@@ -24,7 +24,7 @@ updated: 2026-07-09
 - [Terminal, session & parallel-agent runners](#terminal-session--parallel-agent-runners) (8)
 - [Model infra, ML & providers](#model-infra-ml--providers) (9)
 - [Workflow automation & no-code platforms](#workflow-automation--no-code-platforms) (9)
-- [Design & UI generation](#design--ui-generation) (7)
+- [Design & UI generation](#design--ui-generation) (8)
 - [Media, voice & content](#media-voice--content) (6)
 - [Infra, hosting, DB & observability](#infra-hosting-db--observability) (11)
 - [Security](#security) (2)
@@ -63,6 +63,7 @@ updated: 2026-07-09
 - [[coleam00-cole-medin-ai-coding]] — is an Open Knowledge Format (OKF) bundle of Cole Medin's best AI-coding videos, transcript-verified and organized into five concept pages (PIV Loop, Context Engineering/PRP, AI Layer, Archon Harnes…
 - [[coleam00-harness-engineering-demo]] — is a companion repo to the YouTube video "What is Harness Engineering?", demonstrating how to build a real harness — the context and workflows wrapping a coding agent — using only Claude Code's bui…
 - [[coleam00-helpline]] — is Cole Medin's fully validated reference implementation of [[how-claude-code-works-in-large-codebases]] — a realistic five-service Python monorepo whose real product is the **AI Layer** harness: l…
+- [[dark-factory-autonomous-ai-codebase]] — is MindStudio's explainer on "dark factories" — fully autonomous software pipelines where AI agents plan, code, test, and deploy without human intervention, borrowing the term from lights-out manuf…
 - [[everyinc-compound-engineering-plugin]] — introduces Every's Compound Engineering plugin, a comprehensive AI-agent workflow suite for Claude Code, Codex, Cursor, GitHub Copilot, and other coding agents that operationalises the philosophy t…
 - [[forrestchang-andrej-karpathy-skills]] — distills Andrej Karpathy's public critique of LLM coding assistants into four actionable behavioral principles — Think Before Coding, Simplicity First, Surgical Changes, and Goal-Driven Execution —…
 - [[frankbria-ralph-claude-code]] — documents Ralph for Claude Code (9,380 stars, MIT, Shell, v0.11.5), a full-featured autonomous development loop built specifically for the Claude Code CLI and inspired by the same Geoffrey Huntley…
@@ -236,6 +237,7 @@ updated: 2026-07-09
 
 - [[canva.com]] — documents Canva as an AI-powered visual design platform with a developer layer directly relevant to agentic AI workflows.
 - [[designmd.cc]] — documents DesignMD, a free web tool and CLI (`@designmdcc/cli`, companion repo `adityarajdigital/designmd`) that measures a live site's DOM and CSSOM — not a screenshot — to generate a portable `DE…
+- [[duply.ai]] — is a curated library of 312+ real-world design systems, each published as a copy-paste-ready `DESIGN.md` file (structured color/typography/spacing/radius/component tokens plus a written analysis) s…
 - [[motionsites.ai]] — is a paid library of copy-paste AI design prompts — hero sections, full landing pages, animated backgrounds, and gradients — meant to be pasted into an AI website builder like Bolt.new rather than…
 - [[open-design.ai]] — introduces Open Design (62,118 stars, Apache-2.0, v0.9.0), the open-source, local-first alternative to Claude Design — a complete agent-native design platform that turns any of 21+ supported coding…
 - [[pbakaus-impeccable]] — is Impeccable (44K+ stars, Apache 2.0, Skill 3.9.1) — Paul Bakaus's design language for AI coding agents, evolved from Anthropic's `frontend-design` skill in [[anthropics-skills]]. One `/impeccable…
@@ -281,4 +283,4 @@ updated: 2026-07-09
 - [[santifer-career-ops]] — documents Career-Ops, an open-source AI-powered job search automation system (52,587 stars, MIT, v1.10.0) that applies the same skill-mode architecture popularized by [[obra-superpowers]] and [[ant…
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 
-_203 sources across 16 categories._
+_205 sources across 16 categories._

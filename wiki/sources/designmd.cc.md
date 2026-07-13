@@ -20,10 +20,11 @@ related:
   - open-design.ai
   - stitch.withgoogle.com
   - pbakaus-impeccable
+  - duply.ai
 product: designmd.cc
 detail_level: standard
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-07-10
 ---
 
 DesignMD is a free web tool and CLI (`@designmdcc/cli`) that measures a live production website's DOM and CSSOM — not a screenshot — and generates a portable `DESIGN.md` spec with real CSS variables, typography, spacing scale, breakpoints, and interaction states, purpose-built as project-root context for coding agents like Claude Code, Cursor, and GitHub Copilot.

@@ -122,3 +122,5 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/herdr.dev.md | herdr.dev | 8 | 2026-07-09 | companion: ogulcancelik/herdr |
 | raw/web/kiro.dev.md | kiro.dev | 7 | 2026-07-09 | |
 | raw/web/redis.io.md | redis.io | 4 | 2026-07-09 | Redis Iris product page (context engine for agents) |
+| raw/web/duply.ai.md | duply.ai | 6 | 2026-07-10 | 312-brand DESIGN.md library; llms.txt (312 entries) |
+| raw/web/dark-factory-autonomous-ai-codebase.md | dark-factory-autonomous-ai-codebase | 1 | 2026-07-13 | MindStudio blog article |

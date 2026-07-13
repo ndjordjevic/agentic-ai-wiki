@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-07-09
+updated: 2026-07-13
 ---
 
 
@@ -416,3 +416,7 @@ updated: 2026-07-09
 [[redis.io]] documents Redis Iris, Redis's unified real-time context engine for AI agents — a repackaging of four existing Redis capabilities (Data Integration/CDC pipelines, schema-first Context Retriever, Agent Memory, and LangCache semantic caching) under one agent-facing positioning. It's a useful data point for how incumbent infrastructure vendors are re-marketing existing primitives (change-data-capture, vector retrieval, response caching) specifically as "agent context" plumbing, distinct from the open-source memory/RAG tools in this wiki like [[supermemory.ai]] and [[zilliztech-claude-context]] — Iris is delivered as a hosted/enterprise Redis capability rather than a standalone library.
 
 [[coleam00-redis-iris-agent]] is a small [[pydantic.dev]]-based reference implementation (Cole Medin, MIT, 6 stars) showing how to actually wire an LLM agent to two [[redis.io]] Iris primitives — Context Retriever as an auto-generated MCP toolset over live business data, and Agent Memory as plain tools for cross-session recall — with a full reproducible 134-record support-desk demo. Where [[redis.io]]'s own page states the value proposition, this repo shows the concrete tool-call sequence (`search_memory`, `get_customer_by_id`, `filter_order_by_customer_id`, ...) an agent builder would need to reproduce the pattern themselves, explicitly marked as a proof-of-concept rather than a production template.
+
+[[duply.ai]] is a curated library of 312+ real-world design systems, each published as a copy-paste-ready `DESIGN.md` file (structured color/typography/spacing/radius/component tokens plus a written analysis) so a coding agent can reproduce a specific brand's visual language exactly. It sits in the same DESIGN.md-distribution niche as [[voltagent-awesome-design-md]] (73+ brands) and [[open-design.ai]] (150+ brands plus a full design engine), differentiating on raw library size and on shipping both per-brand raw exports and a single-fetch full-corpus file — a contrast to [[designmd.cc]]'s live DOM/CSSOM extraction approach to the same format.
+
+[[dark-factory-autonomous-ai-codebase]] is MindStudio's explainer on "dark factories" — fully autonomous software pipelines where AI agents plan, code, test, and deploy without human intervention, borrowing the term from lights-out manufacturing. It's a conceptual framing rather than a product: it names five required components (planning, code generation, validation, deployment, orchestration agents), a Planner-Generator-Evaluator loop as the core adversarial pattern, and concrete failure modes (cascading plan failures, overprivileged agent actions, evaluation gaming, agent sprawl) worth checking against harness designs already documented in this wiki, such as [[coleam00-harness-engineering-demo]] and [[coleam00-archon]].

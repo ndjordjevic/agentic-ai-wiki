@@ -221,3 +221,5 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://kiro.dev/ <!-- ingested 2026-07-09 -->
 - [x] https://redis.io/iris/ <!-- ingested 2026-07-09 -->
 - [x] https://github.com/coleam00/redis-iris-agent <!-- ingested 2026-07-09 -->
+- [x] https://duply.ai/ <!-- ingested 2026-07-10 -->
+- [x] https://www.mindstudio.ai/blog/what-is-dark-factory-autonomous-ai-codebase <!-- ingested 2026-07-13 -->

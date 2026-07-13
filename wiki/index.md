@@ -215,5 +215,7 @@ created: 2026-04-28
 | [[kiro.dev]] | web | standard | 2026-07-09 | |
 | [[redis.io]] | web | standard | 2026-07-09 | Redis Iris — agent context engine |
 | [[coleam00-redis-iris-agent]] | github | standard | 2026-07-09 | Pydantic AI + Redis Iris demo agent |
+| [[duply.ai]] | web | standard | 2026-07-10 | 312+ curated DESIGN.md brand systems |
+| [[dark-factory-autonomous-ai-codebase]] | web | standard | 2026-07-13 | MindStudio explainer on autonomous coding pipelines |
 
-_203 sources ingested._
+_205 sources ingested._

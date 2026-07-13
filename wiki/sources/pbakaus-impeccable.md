@@ -22,10 +22,11 @@ related:
   - claudemarketplaces.com
   - SnailSploit-Claude-Red
   - using-claude-code-unreasonable-effectiveness-html
+  - duply.ai
 product: impeccable
 detail_level: standard
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-07-10
 ---
 
 Impeccable (44K+ stars, Apache 2.0, latest release Skill 3.9.1) is Paul Bakaus's design language for AI coding agents — one skill with 23 slash commands, live browser iteration, 45 deterministic anti-pattern detector rules, and provider-native design hooks for Cursor, Claude Code, Codex, and GitHub Copilot. It evolved from Anthropic's `frontend-design` skill into a full harness-agnostic design system: `/impeccable init` writes `PRODUCT.md` and `DESIGN.md`, commands like `audit`, `polish`, `critique`, and `live` give agents a shared design vocabulary, and `npx impeccable detect` runs the same rules in CI without an LLM.
