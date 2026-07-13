@@ -30,10 +30,11 @@ related:
   - vercel.com
   - neon.com
   - chopratejas-headroom
+  - pydantic-pydantic-ai
 product: langchain.com
 detail_level: deep
 created: 2026-04-29
-updated: 2026-07-08
+updated: 2026-07-13
 ---
 
 LangChain's main website and docs now describe a multi-product agent-engineering platform rather than a single framework. The umbrella spans LangSmith for observability, evaluation, and deployment; Fleet for no-code business agents; and the open-source LangChain and LangGraph frameworks for higher-level and lower-level agent construction. This source matters because it shows how those products fit together as one stack for building, operating, and scaling agents.

@@ -8,6 +8,13 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-13 | ingest | pydantic-pydantic-ai | Pydantic AI framework — type-safe agent loop, capabilities system, and the separate Pydantic AI Harness capability library
+
+- Created: wiki/sources/pydantic-pydantic-ai.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Related updates: pydantic.dev, langchain.com, strandsagents.com, adk.dev, crewai.com
+- Note: product grouping (Step 2b) was NOT applied verbatim — homepageUrl resolves to pydantic.dev, which already has a companion-grouped product (`pydantic`, shared with github.com/pydantic/pydantic). Kept this page's `product:` as the repo-derived `pydantic-ai` instead of overwriting pydantic.dev's existing group, to avoid breaking that pairing. Linked via `related:` both ways instead.
+
 ## 2026-07-13 | ingest | dark-factory-autonomous-ai-codebase | MindStudio explainer on dark factories — fully autonomous AI-driven codebases
 
 - Created: wiki/sources/dark-factory-autonomous-ai-codebase.md

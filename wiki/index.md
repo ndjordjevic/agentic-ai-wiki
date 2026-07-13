@@ -217,5 +217,6 @@ created: 2026-04-28
 | [[coleam00-redis-iris-agent]] | github | standard | 2026-07-09 | Pydantic AI + Redis Iris demo agent |
 | [[duply.ai]] | web | standard | 2026-07-10 | 312+ curated DESIGN.md brand systems |
 | [[dark-factory-autonomous-ai-codebase]] | web | standard | 2026-07-13 | MindStudio explainer on autonomous coding pipelines |
+| [[pydantic-pydantic-ai]] | github | standard | 2026-07-13 | Type-safe Python agent framework; flagship of pydantic.dev |
 
-_205 sources ingested._
+_206 sources ingested._

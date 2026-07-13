@@ -13,22 +13,22 @@ updated: 2026-07-13
 
 ## Categories
 
-- [Agent frameworks & SDKs](#agent-frameworks--sdks) (19)
-- [Coding-agent harnesses & methodologies](#coding-agent-harnesses--methodologies) (30)
-- [Agent Skills & plugins ecosystem](#agent-skills--plugins-ecosystem) (11)
-- [MCP servers & integrations](#mcp-servers--integrations) (12)
-- [Spec-driven dev, planning & tasks](#spec-driven-dev-planning--tasks) (13)
-- [Coding agents, IDEs & dev environments](#coding-agents-ides--dev-environments) (21)
-- [Knowledge, RAG, memory & context](#knowledge-rag-memory--context) (31)
-- [Browser & web automation](#browser--web-automation) (7)
-- [Terminal, session & parallel-agent runners](#terminal-session--parallel-agent-runners) (8)
-- [Model infra, ML & providers](#model-infra-ml--providers) (9)
-- [Workflow automation & no-code platforms](#workflow-automation--no-code-platforms) (9)
-- [Design & UI generation](#design--ui-generation) (8)
-- [Media, voice & content](#media-voice--content) (6)
-- [Infra, hosting, DB & observability](#infra-hosting-db--observability) (11)
-- [Security](#security) (2)
-- [Business, career & learning](#business-career--learning) (8)
+- [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (20)
+- [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (30)
+- [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (11)
+- [[#MCP servers & integrations|MCP servers & integrations]] (12)
+- [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (13)
+- [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (21)
+- [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (31)
+- [[#Browser & web automation|Browser & web automation]] (7)
+- [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (8)
+- [[#Model infra, ML & providers|Model infra, ML & providers]] (9)
+- [[#Workflow automation & no-code platforms|Workflow automation & no-code platforms]] (9)
+- [[#Design & UI generation|Design & UI generation]] (8)
+- [[#Media, voice & content|Media, voice & content]] (6)
+- [[#Infra, hosting, DB & observability|Infra, hosting, DB & observability]] (11)
+- [[#Security|Security]] (2)
+- [[#Business, career & learning|Business, career & learning]] (8)
 
 ## Agent frameworks & SDKs
 
@@ -49,6 +49,7 @@ updated: 2026-07-13
 - [[langchain.com-langsmith]] — adds the operational layer to the wiki's agentic AI coverage: framework-agnostic tracing, offline and online evaluation loops, deployment options, Agent Server runtime architecture, and the product…
 - [[microsoft-agent-framework]] — is Microsoft's production-grade successor to AutoGen (11,206 stars, MIT, python-1.8.1). Where AutoGen pioneered experimental multi-agent research patterns, MAF is designed for teams taking agents t…
 - [[microsoft-autogen]] — documents AutoGen, Microsoft Research's open-source multi-agent framework (58,823 stars, Python + .NET) that pioneered experimental multi-agent orchestration patterns now widely referenced across t…
+- [[pydantic-pydantic-ai]] — is the Pydantic team's Python agent framework (18,400+ stars) — the flagship product of [[pydantic.dev]], covered here in depth beyond that page's stack-wide overview.
 - [[pydantic.dev]] — introduces the Pydantic AI engineering stack — an end-to-end suite of five interlocking Python tools that cover the full lifecycle of an AI application.
 - [[strandsagents.com]] — introduces Strands Agents, an open-source model-driven agent harness SDK built by AWS (5,910 stars, Apache 2.0, Python 3.10+ and TypeScript). The SDK provides a complete agentic loop — model invoca…
 
@@ -283,4 +284,4 @@ updated: 2026-07-13
 - [[santifer-career-ops]] — documents Career-Ops, an open-source AI-powered job search automation system (52,587 stars, MIT, v1.10.0) that applies the same skill-mode architecture popularized by [[obra-superpowers]] and [[ant…
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 
-_205 sources across 16 categories._
+_206 sources across 16 categories._

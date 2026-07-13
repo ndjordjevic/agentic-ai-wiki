@@ -145,9 +145,6 @@ if unresolved:
 
 order = list(categories) + (["Uncategorized"] if groups["Uncategorized"] else [])
 
-def anchor(name):
-    return re.sub(r"[^a-z0-9 -]", "", name.lower()).replace(" ", "-")
-
 today = datetime.date.today().isoformat()
 out = ["---", "type: categories", f'domain: "{domain}"', f"updated: {today}", "---", ""]
 out += [f"# {domain} — by category", "", "→ [[index]] | [[overview]] | [[log]]", ""]
@@ -155,7 +152,7 @@ out += ["> Grouped, human-navigable view of every source. **Generated** — do n
         "> the source of truth is each page's `category:` frontmatter. Regenerated on every ingest.", ""]
 out += ["## Categories", ""]
 for name in order:
-    out.append(f"- [{name}](#{anchor(name)}) ({len(groups[name])})")
+    out.append(f"- [[#{name}|{name}]] ({len(groups[name])})")
 out.append("")
 for name in order:
     out.append(f"## {name}")
