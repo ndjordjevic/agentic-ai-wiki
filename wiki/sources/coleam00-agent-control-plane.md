@@ -19,10 +19,11 @@ related:
   - frankbria-ralph-claude-code
   - retool.com
   - sentry.io
+  - karpathy-autoresearch
 product: agent-control-plane
 detail_level: standard
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-07-14
 ---
 
 Agent Control Plane is a TypeScript/Bun harness by Cole Medin that wraps Pi (the provider-independent coding agent) in a durable orchestration layer: give it a goal, it runs a loop of agents until the goal is met, persists every run to Neon (serverless Postgres), and exposes a React dashboard (deployable via Retool) so you can watch the loop live or review the full history afterward. It closes the observability gap that makes unattended long-running agent loops hard to trust — you see not just the current state but every orchestrator decision, every worker output, token counts, and costs for the entire run history.

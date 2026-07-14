@@ -226,5 +226,10 @@ created: 2026-04-28
 | [[oso95-scroll-world]] | github | standard | 2026-07-14 | Agent Skill — scroll-scrubbed 3D fly-through landing pages via Higgsfield |
 | [[leonxlnx-taste-skill]] | github | standard | 2026-07-14 | Anti-slop frontend Agent Skill family — dials for layout, motion, density |
 | [[playwright.dev-agent-cli]] | web | standard | 2026-07-14 | Shell-first Playwright interface for coding agents (vs. Playwright MCP) |
+| [[googleworkspace-cli]] | github | standard | 2026-07-14 | Dynamic Google Workspace CLI + 100 agent skills, built from Discovery Service |
+| [[mvanhorn-last30days-skill]] | github | standard | 2026-07-14 | Agent Skill — parallel Reddit/X/YouTube/Polymarket research synthesis |
+| [[karpathy-autoresearch]] | github | standard | 2026-07-14 | Autonomous overnight nanochat training loop, single-file agent edits |
+| [[supabase-cli]] | github | standard | 2026-07-14 | Supabase CLI — local stack, migrations, edge functions, type generation |
+| [[HKUDS-LightRAG]] | github | standard | 2026-07-14 | Graph-based RAG framework, dual-layer KG + vector retrieval |
 
-_214 sources ingested._
+_219 sources ingested._

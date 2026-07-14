@@ -18,6 +18,8 @@ related:
   - skills.sh
   - bradautomates-claude-video
   - oso95-scroll-world
+  - googleworkspace-cli
+  - mvanhorn-last30days-skill
 product: claude-code-templates
 detail_level: standard
 created: 2026-07-14

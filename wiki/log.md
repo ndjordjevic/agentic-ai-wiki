@@ -8,6 +8,36 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-14 | ingest | HKUDS-LightRAG | Graph-based RAG framework (EMNLP 2025) — dual-layer KG + vector retrieval, incremental updates without full rebuilds
+
+- Created: wiki/sources/HKUDS-LightRAG.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Related updates: HKUDS-RAG-Anything, zilliztech-claude-context
+
+## 2026-07-14 | ingest | supabase-cli | Supabase CLI — local stack, Postgres migrations, edge functions, type generation; mid-migration Go→TypeScript monorepo
+
+- Created: wiki/sources/supabase-cli.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Related updates: supabase.com
+
+## 2026-07-14 | ingest | karpathy-autoresearch | Andrej Karpathy's autonomous overnight nanochat training loop — single-file agent edits, fixed 5-minute time budget per experiment
+
+- Created: wiki/sources/karpathy-autoresearch.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Related updates: snarktank-ralph, frankbria-ralph-claude-code, coleam00-agent-control-plane
+
+## 2026-07-14 | ingest | mvanhorn-last30days-skill | Agent Skill — parallel Reddit/X/YouTube/Polymarket/arXiv research synthesis scored by real engagement, not editorial ranking
+
+- Created: wiki/sources/mvanhorn-last30days-skill.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Related updates: voltagent-awesome-agent-skills, davila7-claude-code-templates, firecrawl.dev
+
+## 2026-07-14 | ingest | googleworkspace-cli | Dynamic Google Workspace CLI (`gws`) built from Google's Discovery Service, ships 100+ bundled Agent Skills
+
+- Created: wiki/sources/googleworkspace-cli.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Related updates: voltagent-awesome-agent-skills, davila7-claude-code-templates, notebooklm.google
+
 ## 2026-07-14 | ingest | playwright.dev-agent-cli | Shell-first Playwright CLI for coding agents — token-efficient alternative interface to Playwright MCP, same underlying automation engine
 
 - Created: wiki/sources/playwright.dev-agent-cli.md

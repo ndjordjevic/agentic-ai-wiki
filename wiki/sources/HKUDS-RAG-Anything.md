@@ -18,6 +18,7 @@ related:
   - graphify.net
   - cocoindex-io-cocoindex
   - GoogleCloudPlatform-knowledge-catalog
+  - HKUDS-LightRAG
   - redis.io
 product: rag-anything
 detail_level: standard

@@ -139,3 +139,8 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/chaseai-yt-grill-me-codex.md | chaseai-yt/grill-me-codex | 666 | main | (none) | 2026-07-14 | |
 | raw/github/oso95-scroll-world.md | oso95/scroll-world | 1757 | main | (none) | 2026-07-14 | |
 | raw/github/leonxlnx-taste-skill.md | Leonxlnx/taste-skill | 63152 | main | (none) | 2026-07-14 | |
+| raw/github/googleworkspace-cli.md | googleworkspace/cli | 29674 | main | v0.22.5 | 2026-07-14 | |
+| raw/github/mvanhorn-last30days-skill.md | mvanhorn/last30days-skill | 52052 | main | v3.14.0 | 2026-07-14 | |
+| raw/github/karpathy-autoresearch.md | karpathy/autoresearch | 91053 | master | (none) | 2026-07-14 | |
+| raw/github/supabase-cli.md | supabase/cli | 2346 | develop | v2.110.0-beta.27 | 2026-07-14 | |
+| raw/github/HKUDS-LightRAG.md | HKUDS/LightRAG | 37654 | main | v1.5.5rc1 | 2026-07-14 | |

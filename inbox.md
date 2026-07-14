@@ -232,3 +232,8 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/oso95/scroll-world <!-- ingested 2026-07-14 -->
 - [x] https://github.com/leonxlnx/taste-skill <!-- ingested 2026-07-14 -->
 - [x] https://playwright.dev/agent-cli/introduction <!-- ingested 2026-07-14 -->
+- [x] https://github.com/googleworkspace/cli <!-- ingested 2026-07-14 -->
+- [x] https://github.com/mvanhorn/last30days-skill <!-- ingested 2026-07-14 -->
+- [x] https://github.com/karpathy/autoresearch <!-- ingested 2026-07-14 -->
+- [x] https://github.com/supabase/cli <!-- ingested 2026-07-14 -->
+- [x] https://github.com/hkuds/lightrag <!-- ingested 2026-07-14 -->
