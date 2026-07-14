@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-07-13
+updated: 2026-07-14
 ---
 
 
@@ -422,3 +422,5 @@ updated: 2026-07-13
 [[dark-factory-autonomous-ai-codebase]] is MindStudio's explainer on "dark factories" — fully autonomous software pipelines where AI agents plan, code, test, and deploy without human intervention, borrowing the term from lights-out manufacturing. It's a conceptual framing rather than a product: it names five required components (planning, code generation, validation, deployment, orchestration agents), a Planner-Generator-Evaluator loop as the core adversarial pattern, and concrete failure modes (cascading plan failures, overprivileged agent actions, evaluation gaming, agent sprawl) worth checking against harness designs already documented in this wiki, such as [[coleam00-harness-engineering-demo]] and [[coleam00-archon]].
 
 [[pydantic-pydantic-ai]] is the Pydantic team's Python agent framework (18,400+ stars) — the flagship product of [[pydantic.dev]], covered here in depth beyond that page's stack-wide overview. Its defining trait is static type-safety threaded through the whole agent loop: tools, dependency injection, and structured output are all generic and checkable before runtime. A capabilities system (reusable bundles of tools, hooks, instructions, model settings) is the extension point — core ships only capabilities needing deep provider integration or considered universally essential, while everything else (memory, guardrails, code execution, multi-agent orchestration) lives in a separately-versioned **Pydantic AI Harness** package that "graduates" proven capabilities into core over time. Comparable to [[langchain.com]], [[strandsagents.com]], [[adk.dev]], and [[crewai.com]] as an agent framework, differentiating on type-safety and tight Pydantic-ecosystem integration.
+
+[[davila7-claude-code-templates]] is a large, actively maintained CLI (`npx claude-code-templates`) and catalog for Claude Code — 600+ agents, 200+ commands, 55+ MCP integrations, plus hooks, settings, skills, and autonomous "loops" — installable individually or as full stacks in one command, alongside operational tools (session analytics dashboard, mobile chat monitor, health-check, plugin/marketplace manager). It aggregates and re-licenses components from several sources already in this wiki, including [[anthropics-skills]] and [[obra-superpowers]], and competes with pure discovery sites like [[claudemarketplaces.com]] and [[skills.sh]] by also shipping its own installer and dev-tooling, not just a browsable index.

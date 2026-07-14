@@ -218,5 +218,6 @@ created: 2026-04-28
 | [[duply.ai]] | web | standard | 2026-07-10 | 312+ curated DESIGN.md brand systems |
 | [[dark-factory-autonomous-ai-codebase]] | web | standard | 2026-07-13 | MindStudio explainer on autonomous coding pipelines |
 | [[pydantic-pydantic-ai]] | github | standard | 2026-07-13 | Type-safe Python agent framework; flagship of pydantic.dev |
+| [[davila7-claude-code-templates]] | github | standard | 2026-07-14 | 600+ agent/command/MCP/skill catalog + CLI installer for Claude Code |
 
-_206 sources ingested._
+_207 sources ingested._

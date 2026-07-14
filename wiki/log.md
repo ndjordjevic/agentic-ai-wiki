@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-14 | ingest | davila7-claude-code-templates | Component catalog + CLI installer for Claude Code (600+ agents, 200+ commands, 55+ MCPs, skills, hooks, loops) plus analytics/health-check/plugin tooling
+
+- Created: wiki/sources/davila7-claude-code-templates.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Related updates: anthropics-skills, obra-superpowers, claudemarketplaces.com, skills.sh
+
 ## 2026-07-13 | ingest | pydantic-pydantic-ai | Pydantic AI framework — type-safe agent loop, capabilities system, and the separate Pydantic AI Harness capability library
 
 - Created: wiki/sources/pydantic-pydantic-ai.md

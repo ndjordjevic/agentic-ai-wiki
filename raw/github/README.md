@@ -133,3 +133,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/ogulcancelik-herdr.md | ogulcancelik/herdr | 14553 | master | v0.7.3 | 2026-07-09 | |
 | raw/github/coleam00-redis-iris-agent.md | coleam00/redis-iris-agent | 6 | main | (none) | 2026-07-09 | Pydantic AI agent demoing Redis Iris |
 | raw/github/pydantic-pydantic-ai.md | pydantic/pydantic-ai | 18459 | main | v1.107.1 | 2026-07-13 | |
+| raw/github/davila7-claude-code-templates.md | davila7/claude-code-templates | 29431 | main | v1.28.3 | 2026-07-14 | |

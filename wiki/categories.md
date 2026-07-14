@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-07-13
+updated: 2026-07-14
 ---
 
 # Agentic AI Frameworks — by category
@@ -15,7 +15,7 @@ updated: 2026-07-13
 
 - [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (20)
 - [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (30)
-- [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (11)
+- [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (12)
 - [[#MCP servers & integrations|MCP servers & integrations]] (12)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (13)
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (21)
@@ -92,6 +92,7 @@ updated: 2026-07-13
 - [[anthropics-skills]] — is Anthropic's official reference repository for the Agent Skills pattern — 17 SKILL.md-based capability modules for Claude spanning document processing (xlsx, docx, pptx, pdf), creative design, MC…
 - [[claudemarketplaces.com]] — documents Cross AI Tools (claudemarketplaces.com → crossaitools.com), an independent editor-curated directory of Claude Code skills (21,600+), plugin marketplaces (2,500+), and MCP servers (12,500+…
 - [[davidondrej-skills]] — is David Ondrej's personal Agent Skills repository (1.5k+ stars, MIT) — 31 skills across agent-orchestration, skill-authoring, research-and-web, thinking-and-docs, and ops-and-setup categories.
+- [[davila7-claude-code-templates]] — is a large, actively maintained CLI (`npx claude-code-templates`) and catalog for Claude Code — 600+ agents, 200+ commands, 55+ MCP integrations, plus hooks, settings, skills, and autonomous "loops…
 - [[kepano-obsidian-skills]] — is Steph Ango's official Agent Skills pack for Obsidian (39k+ stars, MIT) — five SKILL.md modules that teach coding agents to work with Obsidian Flavored Markdown (wikilinks, embeds, callouts, prop…
 - [[mattpocock-skills]] — is Matt Pocock's opinionated engineering skills collection (126,065 stars, MIT), distributed via [[skills.sh]] under `mattpocock/skills` and built around four diagnosed failure modes of AI-assisted…
 - [[nidhinjs-prompt-master]] — introduces Prompt Master, a Claude skill (SKILL.md-based, v1.6.0, 7,412 stars, MIT) that functions as an on-demand prompt engineer across 30+ AI tools.
@@ -284,4 +285,4 @@ updated: 2026-07-13
 - [[santifer-career-ops]] — documents Career-Ops, an open-source AI-powered job search automation system (52,587 stars, MIT, v1.10.0) that applies the same skill-mode architecture popularized by [[obra-superpowers]] and [[ant…
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 
-_206 sources across 16 categories._
+_207 sources across 16 categories._
