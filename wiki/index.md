@@ -220,5 +220,6 @@ created: 2026-04-28
 | [[pydantic-pydantic-ai]] | github | standard | 2026-07-13 | Type-safe Python agent framework; flagship of pydantic.dev |
 | [[davila7-claude-code-templates]] | github | standard | 2026-07-14 | 600+ agent/command/MCP/skill catalog + CLI installer for Claude Code |
 | [[gemini-enterprise-agent-platform]] | web | standard | 2026-07-14 | Google Cloud's Vertex AI rebrand — full-stack enterprise agent platform |
+| [[dietrichgebert-ponytail]] | github | standard | 2026-07-14 | Escalation-ladder minimalism ruleset + skill bundle for ~20 agent hosts |
 
-_208 sources ingested._
+_209 sources ingested._

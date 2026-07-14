@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-14 | ingest | dietrichgebert-ponytail | Escalation-ladder code-minimalism ruleset + 6-skill bundle, benchmarked, portable across ~20 agent hosts
+
+- Created: wiki/sources/dietrichgebert-ponytail.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Related updates: obra-superpowers, x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes, shadcn-improve, forrestchang-andrej-karpathy-skills
+
 ## 2026-07-14 | ingest | gemini-enterprise-agent-platform | Google Cloud's Vertex AI rebrand — full-stack enterprise agent build/scale/govern platform (Agent Studio, ADK, Model Garden, MLOps)
 
 - Created: wiki/sources/gemini-enterprise-agent-platform.md

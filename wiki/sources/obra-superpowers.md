@@ -49,6 +49,7 @@ related:
   - Chachamaru127-claude-code-harness
   - SnailSploit-Claude-Red
   - davila7-claude-code-templates
+  - dietrichgebert-ponytail
 product: superpowers
 detail_level: standard
 created: 2026-05-14

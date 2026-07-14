@@ -17,10 +17,11 @@ related:
   - seangeng.com-plan-optimizer
   - everyinc-compound-engineering-plugin
   - mattpocock-skills
+  - dietrichgebert-ponytail
 product: improve
 detail_level: standard
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-07-14
 ---
 
 `shadcn/improve` is a Claude Code plugin skill (1,977 stars, MIT, v1.0.0) that separates the two cognitive tasks in AI-assisted development — *judging what's worth doing* and *doing it* — across models priced for each job. The capable model audits the codebase and writes self-contained, machine-checkable plans; cheaper models execute. The skill never touches source code itself.

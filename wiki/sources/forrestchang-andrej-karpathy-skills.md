@@ -30,10 +30,11 @@ related:
   - SnailSploit-Claude-Red
   - agricidaniel-claude-obsidian
   - pbakaus-impeccable
+  - dietrichgebert-ponytail
 product: andrej-karpathy-skills
 detail_level: standard
 created: 2026-05-11
-updated: 2026-07-08
+updated: 2026-07-14
 ---
 
 `andrej-karpathy-skills` (124,694 stars, MIT) is a single `CLAUDE.md` file — and matching Claude Code plugin skill — that encodes four behavioral principles for AI coding agents, derived directly from Andrej Karpathy's public critique of LLM coding assistants. It is one of the most-starred repositories in the agent-skills ecosystem and represents the community's distillation of Karpathy's observations into actionable, drop-in guidelines: don't assume, don't overcomplicate, don't touch what you weren't asked to touch, and define verifiable success criteria instead of vague imperatives.
