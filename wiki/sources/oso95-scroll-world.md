@@ -16,6 +16,7 @@ related:
   - motionsites.ai
   - stitch.withgoogle.com
   - davila7-claude-code-templates
+  - leonxlnx-taste-skill
 product: scroll-world
 detail_level: standard
 created: 2026-07-14

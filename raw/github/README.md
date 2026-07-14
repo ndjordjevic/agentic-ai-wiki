@@ -138,3 +138,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/bradautomates-claude-video.md | bradautomates/claude-video | 8256 | main | v0.2.0 | 2026-07-14 | |
 | raw/github/chaseai-yt-grill-me-codex.md | chaseai-yt/grill-me-codex | 666 | main | (none) | 2026-07-14 | |
 | raw/github/oso95-scroll-world.md | oso95/scroll-world | 1757 | main | (none) | 2026-07-14 | |
+| raw/github/leonxlnx-taste-skill.md | Leonxlnx/taste-skill | 63152 | main | (none) | 2026-07-14 | |

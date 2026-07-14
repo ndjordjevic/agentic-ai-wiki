@@ -8,6 +8,18 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-14 | ingest | playwright.dev-agent-cli | Shell-first Playwright CLI for coding agents — token-efficient alternative interface to Playwright MCP, same underlying automation engine
+
+- Created: wiki/sources/playwright.dev-agent-cli.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+- Related updates: microsoft-playwright-mcp, browser-use.com, browserbase.com, vercel-labs-agent-browser
+
+## 2026-07-14 | ingest | leonxlnx-taste-skill | Anti-slop frontend Agent Skill family (13 skills) — tunable layout/motion/density dials plus fixed-aesthetic and image-generation variants
+
+- Created: wiki/sources/leonxlnx-taste-skill.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Related updates: stitch.withgoogle.com, voltagent-awesome-design-md, open-design.ai, oso95-scroll-world, skills.sh
+
 ## 2026-07-14 | ingest | oso95-scroll-world | Agent Skill — scroll-scrubbed, no-cut "fly through the world" landing pages built on the Higgsfield generative-media API
 
 - Created: wiki/sources/oso95-scroll-world.md

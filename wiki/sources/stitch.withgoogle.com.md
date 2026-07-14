@@ -21,6 +21,7 @@ related:
   - pbakaus-impeccable
   - duply.ai
   - oso95-scroll-world
+  - leonxlnx-taste-skill
 product: stitch
 detail_level: standard
 created: 2026-07-03
