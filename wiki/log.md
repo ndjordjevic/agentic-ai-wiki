@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-14 | ingest | gemini-enterprise-agent-platform | Google Cloud's Vertex AI rebrand — full-stack enterprise agent build/scale/govern platform (Agent Studio, ADK, Model Garden, MLOps)
+
+- Created: wiki/sources/gemini-enterprise-agent-platform.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+- Related updates: antigravity.google, google-adk-go, adk.dev
+
 ## 2026-07-14 | ingest | davila7-claude-code-templates | Component catalog + CLI installer for Claude Code (600+ agents, 200+ commands, 55+ MCPs, skills, hooks, loops) plus analytics/health-check/plugin tooling
 
 - Created: wiki/sources/davila7-claude-code-templates.md

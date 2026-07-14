@@ -219,5 +219,6 @@ created: 2026-04-28
 | [[dark-factory-autonomous-ai-codebase]] | web | standard | 2026-07-13 | MindStudio explainer on autonomous coding pipelines |
 | [[pydantic-pydantic-ai]] | github | standard | 2026-07-13 | Type-safe Python agent framework; flagship of pydantic.dev |
 | [[davila7-claude-code-templates]] | github | standard | 2026-07-14 | 600+ agent/command/MCP/skill catalog + CLI installer for Claude Code |
+| [[gemini-enterprise-agent-platform]] | web | standard | 2026-07-14 | Google Cloud's Vertex AI rebrand — full-stack enterprise agent platform |
 
-_207 sources ingested._
+_208 sources ingested._

@@ -225,3 +225,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://www.mindstudio.ai/blog/what-is-dark-factory-autonomous-ai-codebase <!-- ingested 2026-07-13 -->
 - [x] https://github.com/pydantic/pydantic-ai <!-- ingested 2026-07-13 -->
 - [x] https://github.com/davila7/claude-code-templates <!-- ingested 2026-07-14 -->
+- [x] https://cloud.google.com/products/gemini-enterprise-agent-platform <!-- ingested 2026-07-14 -->

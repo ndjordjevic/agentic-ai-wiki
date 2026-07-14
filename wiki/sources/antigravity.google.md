@@ -24,10 +24,11 @@ related:
   - langchain.com-deepagents
   - pi.dev
   - the-new-sdlc-with-vibe-coding
+  - gemini-enterprise-agent-platform
 product: antigravity-sdk
 detail_level: standard
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-07-14
 ---
 
 The **Google Antigravity SDK** (`google-antigravity` on PyPI) is a Python library that exposes the same agent runtime powering Antigravity 2.0 and the Antigravity CLI — file I/O, code editing, shell execution, MCP, skills, safety policies, hooks, sub-agents, and stateful sessions — as programmable infrastructure for custom agentic applications. It is a tool *for building agents*, not a coding agent itself; most developers need only `Agent` + `LocalAgentConfig` in an async `with` block. The product page and companion repo (`google-antigravity/antigravity-sdk-python`, 2.1k+ stars, Apache 2.0) document operator positioning and API/examples respectively. (../../raw/github/google-antigravity-antigravity-sdk-python.md)

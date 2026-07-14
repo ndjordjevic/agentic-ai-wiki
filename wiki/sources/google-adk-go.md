@@ -22,10 +22,11 @@ related:
   - agents-cli
   - trigger.dev
   - microsoft-autogen
+  - gemini-enterprise-agent-platform
 product: adk
 detail_level: standard
 created: 2026-07-07
-updated: 2026-07-07
+updated: 2026-07-14
 ---
 
 **ADK Go** (`google.golang.org/adk/v2`) is Google's open-source, code-first Go implementation of the Agent Development Kit — a modular framework for building, evaluating, and deploying production AI agents with idiomatic Go patterns, strong concurrency, and cloud-native deployment (notably Google Cloud Run). v2.0.0 (June 2026) ships a graph-based workflow engine, unified agent context, MCP and A2A integrations, and parity-oriented alignment with the Python ADK. It complements the canonical docs and Python runtime documented in [[adk.dev]].
