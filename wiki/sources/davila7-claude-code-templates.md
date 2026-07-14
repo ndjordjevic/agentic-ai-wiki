@@ -16,6 +16,8 @@ related:
   - obra-superpowers
   - claudemarketplaces.com
   - skills.sh
+  - bradautomates-claude-video
+  - oso95-scroll-world
 product: claude-code-templates
 detail_level: standard
 created: 2026-07-14

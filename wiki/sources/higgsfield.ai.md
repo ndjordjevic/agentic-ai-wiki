@@ -16,10 +16,11 @@ related:
   - vercel.com
   - skills.sh
   - render.com
+  - oso95-scroll-world
 product: higgsfield
 detail_level: standard
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-07-14
 ---
 
 Higgsfield is an AI-native creative suite for video, image, audio, and commercial content — positioning itself as a multi-model platform with 30+ partner and proprietary models (Sora 2, Kling 3.0, Veo 3.1, Seedance, Nano Banana, Soul, FLUX, and more). For this wiki it matters because Higgsfield ships agent-facing surfaces: **MCP & CLI** ("turn Claude into a creative engine"), **Supercomputer** (a Fable 5.0–powered superagent for end-to-end creative workflows), and **App Builder** (full-stack apps with Higgsfield models built in) — alongside a programmatic API at `platform.higgsfield.ai` with async queue semantics, webhooks, and a Python SDK.

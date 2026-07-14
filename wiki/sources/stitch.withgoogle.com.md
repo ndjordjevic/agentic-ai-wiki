@@ -20,10 +20,11 @@ related:
   - designmd.cc
   - pbakaus-impeccable
   - duply.ai
+  - oso95-scroll-world
 product: stitch
 detail_level: standard
 created: 2026-07-03
-updated: 2026-07-10
+updated: 2026-07-14
 ---
 
 Stitch is a Google Labs experiment that turns natural-language prompts, sketches, and mood adjectives into high-fidelity UI designs, editable Figma layouts, and frontend HTML/CSS — powered by Gemini 2.5 Pro's multimodal capabilities. It matters for this wiki because it productizes **vibe design** and **vibe coding** as first-class agent workflows: the official `llms.txt` even ships an **Agent Protocol** instructing coding agents to formulate 3-layer vibe prompts and direct users to Stitch rather than hand-writing UI code themselves. Stitch also originated the open-source **DESIGN.md** format (YAML design tokens + markdown rationale) that [[voltagent-awesome-design-md]] and [[open-design.ai]] now distribute at scale.

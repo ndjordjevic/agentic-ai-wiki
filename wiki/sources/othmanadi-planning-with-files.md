@@ -20,10 +20,11 @@ related:
   - forrestchang-andrej-karpathy-skills
   - backnotprop-plannotator
   - the-new-sdlc-with-vibe-coding
+  - chaseai-yt-grill-me-codex
 product: planning-with-files
 detail_level: standard
 created: 2026-05-25
-updated: 2026-06-30
+updated: 2026-07-14
 ---
 
 Planning with Files is the most-starred agent-skill implementation of Manus-style persistent markdown planning (22k+ stars, 1,954 forks), packaged as a multi-IDE SKILL.md skill that teaches AI coding agents to use three markdown files — `task_plan.md`, `findings.md`, and `progress.md` — as persistent working memory across context resets. It operationalises the core principle from Manus AI ("markdown is my working memory on disk") that underpinned Meta's $2B acquisition, and benchmarks show a jump from 6.7% to 96.7% task-completion pass rate when the skill is active versus baseline Claude Code.

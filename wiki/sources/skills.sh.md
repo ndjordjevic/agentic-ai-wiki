@@ -57,6 +57,7 @@ related:
   - pbakaus-impeccable
   - higgsfield.ai
   - davila7-claude-code-templates
+  - bradautomates-claude-video
 product: skills
 detail_level: standard
 created: 2026-04-30

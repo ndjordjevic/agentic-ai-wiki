@@ -18,6 +18,7 @@ related:
   - everyinc-compound-engineering-plugin
   - mattpocock-skills
   - dietrichgebert-ponytail
+  - chaseai-yt-grill-me-codex
 product: improve
 detail_level: standard
 created: 2026-06-12

@@ -11,10 +11,11 @@ tags:
   - aider
 related:
   - wisprflow.ai
+  - bradautomates-claude-video
 detail_level: standard
 product: opensuperwhisper
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-07-14
 ---
 
 OpenSuperWhisper is an open-source (MIT, 1,959+ stars) macOS dictation app that runs real-time audio transcription fully locally via whisper.cpp or the Parakeet engine, offering system-wide keyboard/mouse-triggered recording with no cloud dependency — the self-hosted counterpart to hosted voice-to-text products like [[wisprflow.ai]]. Notably, the repo also ships a small maintainer-side autonomous coding agent (`agent/`) that uses [Aider](https://github.com/Aider-AI/aider) over OpenRouter to pick up GitHub issues, implement fixes in the Swift codebase, and iterate on build failures.

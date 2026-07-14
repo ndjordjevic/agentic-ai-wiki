@@ -227,3 +227,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/davila7/claude-code-templates <!-- ingested 2026-07-14 -->
 - [x] https://cloud.google.com/products/gemini-enterprise-agent-platform <!-- ingested 2026-07-14 -->
 - [x] https://github.com/DietrichGebert/ponytail <!-- ingested 2026-07-14 -->
+- [x] https://github.com/bradautomates/claude-video <!-- ingested 2026-07-14 -->
+- [x] https://github.com/chaseai-yt/grill-me-codex <!-- ingested 2026-07-14 -->
+- [x] https://github.com/oso95/scroll-world <!-- ingested 2026-07-14 -->

@@ -3,11 +3,11 @@ type: source
 category: "Spec-driven dev, planning & tasks"
 source_url: https://seangeng.com-plan-optimizer/freebies/plan-optimizer
 tags: [claude-code-skill, plan-optimization, iterative-refinement, rubric-scoring, hill-climbing, best-of-n, agentic-tools, plateau-detection]
-related: [obra-superpowers, anthropics-skills, mattpocock-skills, shadcn-improve, skills.sh, q00-ouroboros]
+related: [obra-superpowers, anthropics-skills, mattpocock-skills, shadcn-improve, skills.sh, q00-ouroboros, chaseai-yt-grill-me-codex]
 product: seangeng
 detail_level: standard
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-07-14
 ---
 
 Sean Geng's plan-optimizer is a downloadable Claude Code skill that treats planning as a search problem: generate an initial plan, score it against a weighted rubric, identify the highest-impact weaknesses, rewrite to address them, and halt when scores stop advancing beyond a meaningful margin. Built and dog-fooded by Sean Geng (co-founder & CTO at B3, formerly Coinbase engineering), the skill is available via a single curl install to `~/.claude/skills/plan-optimizer/` and activates whenever a user asks to improve, harden, or stress-test any plan — project launches, code migrations, research initiatives, strategy documents, or any other high-stakes planning artifact.

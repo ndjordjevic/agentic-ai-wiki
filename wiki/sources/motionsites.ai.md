@@ -10,10 +10,11 @@ tags:
   - no-code-website-builder
 related:
   - bolt.new
+  - oso95-scroll-world
 product: motionsites
 detail_level: standard
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-07-14
 ---
 
 MotionSites is a curated, paid library of copy-paste AI design prompts — hero sections, full landing pages, animated backgrounds, and gradients — intended for use inside AI website builders (e.g. [[bolt.new|Bolt.new]]) rather than a framework or SDK. It's relevant to this wiki as an example of "prompt as product": instead of shipping code, the product packages reusable natural-language prompts that an AI builder executes to generate UI.

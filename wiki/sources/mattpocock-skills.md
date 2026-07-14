@@ -24,10 +24,11 @@ related:
   - davidondrej-skills
   - claudemarketplaces.com
   - SnailSploit-Claude-Red
+  - chaseai-yt-grill-me-codex
 product: skills
 detail_level: standard
 created: 2026-06-12
-updated: 2026-07-08
+updated: 2026-07-14
 ---
 
 Matt Pocock's opinionated skill collection for real-world engineering with AI coding agents, distributed via [skills.sh](https://skills.sh/mattpocock/skills) with 126k+ stars. Built around four diagnosed failure modes of AI-assisted development — misalignment, verbosity, broken code, and software entropy — each addressed by a concrete, composable skill that can be installed with `npx skills@latest add mattpocock/skills`. The philosophy explicitly rejects "process-owning" frameworks (GSD, BMAD, Spec-Kit) in favour of small, hackable skills that keep the developer in control.

@@ -221,5 +221,8 @@ created: 2026-04-28
 | [[davila7-claude-code-templates]] | github | standard | 2026-07-14 | 600+ agent/command/MCP/skill catalog + CLI installer for Claude Code |
 | [[gemini-enterprise-agent-platform]] | web | standard | 2026-07-14 | Google Cloud's Vertex AI rebrand — full-stack enterprise agent platform |
 | [[dietrichgebert-ponytail]] | github | standard | 2026-07-14 | Escalation-ladder minimalism ruleset + skill bundle for ~20 agent hosts |
+| [[bradautomates-claude-video]] | github | standard | 2026-07-14 | `/watch` skill — video frame extraction + transcription for Claude |
+| [[chaseai-yt-grill-me-codex]] | github | standard | 2026-07-14 | Cross-model (Claude+Codex) adversarial plan review + role-flipped build |
+| [[oso95-scroll-world]] | github | standard | 2026-07-14 | Agent Skill — scroll-scrubbed 3D fly-through landing pages via Higgsfield |
 
-_209 sources ingested._
+_212 sources ingested._

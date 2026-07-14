@@ -135,3 +135,6 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/pydantic-pydantic-ai.md | pydantic/pydantic-ai | 18459 | main | v1.107.1 | 2026-07-13 | |
 | raw/github/davila7-claude-code-templates.md | davila7/claude-code-templates | 29431 | main | v1.28.3 | 2026-07-14 | |
 | raw/github/dietrichgebert-ponytail.md | DietrichGebert/ponytail | 82558 | main | v4.8.4 | 2026-07-14 | |
+| raw/github/bradautomates-claude-video.md | bradautomates/claude-video | 8256 | main | v0.2.0 | 2026-07-14 | |
+| raw/github/chaseai-yt-grill-me-codex.md | chaseai-yt/grill-me-codex | 666 | main | (none) | 2026-07-14 | |
+| raw/github/oso95-scroll-world.md | oso95/scroll-world | 1757 | main | (none) | 2026-07-14 | |

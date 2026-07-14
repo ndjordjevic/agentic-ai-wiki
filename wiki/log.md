@@ -8,6 +8,24 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-14 | ingest | oso95-scroll-world | Agent Skill — scroll-scrubbed, no-cut "fly through the world" landing pages built on the Higgsfield generative-media API
+
+- Created: wiki/sources/oso95-scroll-world.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Related updates: higgsfield.ai, motionsites.ai, stitch.withgoogle.com, davila7-claude-code-templates
+
+## 2026-07-14 | ingest | chaseai-yt-grill-me-codex | Cross-model (Claude plans/reviews, Codex reviews/builds) adversarial plan-hardening skill family, extends mattpocock/skills
+
+- Created: wiki/sources/chaseai-yt-grill-me-codex.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Related updates: mattpocock-skills, shadcn-improve, seangeng.com-plan-optimizer, othmanadi-planning-with-files
+
+## 2026-07-14 | ingest | bradautomates-claude-video | `/watch` Agent Skill — video download, scene-aware frame extraction, transcription (captions/Whisper), fed to Claude's multimodal Read
+
+- Created: wiki/sources/bradautomates-claude-video.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Related updates: Starmel-OpenSuperWhisper, skills.sh, davila7-claude-code-templates
+
 ## 2026-07-14 | ingest | dietrichgebert-ponytail | Escalation-ladder code-minimalism ruleset + 6-skill bundle, benchmarked, portable across ~20 agent hosts
 
 - Created: wiki/sources/dietrichgebert-ponytail.md
