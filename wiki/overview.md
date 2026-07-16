@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-07-14
+updated: 2026-07-16
 ---
 
 
@@ -448,3 +448,5 @@ updated: 2026-07-14
 [[supabase-cli]] is the terminal companion to [[supabase.com]]: it runs the full local Supabase stack (Postgres, Auth, Realtime, Storage, Edge Functions), manages Postgres migrations and schema diffs, deploys Edge Functions, and generates TypeScript types from a live schema. The repo is mid-migration from a Go CLI (`apps/cli-go`, legacy shell wrapper) to a TypeScript/Bun CLI (`apps/cli`, the current published `supabase` command) inside an Nx-orchestrated pnpm monorepo — a useful concrete example of a widely-used dev CLI's rewrite-in-place strategy.
 
 [[HKUDS-LightRAG]] is a lightweight, graph-based Retrieval-Augmented Generation framework (37,600+ stars, MIT, EMNLP 2025) positioned as an efficient alternative to Microsoft GraphRAG. Its dual-layer architecture indexes both a knowledge graph and vector embeddings, and its standout claim is incremental updates without full rebuilds — new documents merge into the existing graph via set merging, and deletions reuse cached LLM extraction results to rapidly recompute only the affected entity/relation descriptions. It's the base framework behind [[HKUDS-RAG-Anything]] (the same lab's multimodal extension, since merged back into this repo) and sits alongside [[zilliztech-claude-context]] in this wiki's knowledge-retrieval-for-agents space, differentiating on graph-structured retrieval versus pure vector search.
+
+[[Houseofmvps-codesight]] (1,230+ stars, MIT) is a zero-dependency `npx` CLI that compiles a codebase into a structured context map (`CODESIGHT.md`, plus routes/schema/components/graph files) for AI coding assistants — using the TypeScript compiler API for AST precision and regex fallback across 30+ frameworks and 14 languages. Its `--wiki` mode is a deterministic, zero-LLM-call counterpart to the agent-facing wiki generators already in this wiki ([[langchain-ai-openwiki]], [[he-yufeng-RepoWiki]], [[PorunC-CodeWiki]]): rather than an LLM synthesizing documentation, codesight's own AST/regex extraction populates an `index.md` plus per-topic articles, following the same "compile once, read cheaply per session" pattern popularized by Karpathy. A `--blast <file>` command and matching MCP tool compute change impact via BFS through the import graph, and `--mode knowledge` extends the same compile-once idea to non-code artifacts (ADRs, meeting notes, retrospectives), pairing with [[nadimtuhin-claude-token-optimizer]]'s CLAUDE.md-budget focus from a structural-extraction angle instead of a prompt-hygiene one.

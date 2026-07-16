@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-16 | ingest | Houseofmvps-codesight | Zero-dep AST/regex context-map generator + Karpathy-style `--wiki` for AI coding agents
+
+- Created: wiki/sources/Houseofmvps-codesight.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Related updates: nadimtuhin-claude-token-optimizer, langchain-ai-openwiki, he-yufeng-RepoWiki, PorunC-CodeWiki
+
 ## 2026-07-14 | ingest | HKUDS-LightRAG | Graph-based RAG framework (EMNLP 2025) — dual-layer KG + vector retrieval, incremental updates without full rebuilds
 
 - Created: wiki/sources/HKUDS-LightRAG.md

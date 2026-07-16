@@ -144,3 +144,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/karpathy-autoresearch.md | karpathy/autoresearch | 91053 | master | (none) | 2026-07-14 | |
 | raw/github/supabase-cli.md | supabase/cli | 2346 | develop | v2.110.0-beta.27 | 2026-07-14 | |
 | raw/github/HKUDS-LightRAG.md | HKUDS/LightRAG | 37654 | main | v1.5.5rc1 | 2026-07-14 | |
+| raw/github/Houseofmvps-codesight.md | Houseofmvps/codesight | 1230 | main | (none) | 2026-07-16 | |

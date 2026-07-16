@@ -14,10 +14,11 @@ related:
   - AsyncFuncAI-deepwiki-open
   - langchain-ai-openwiki
   - bb-boy680-open-zread
+  - Houseofmvps-codesight
 product: repowiki
 detail_level: standard
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-07-16
 ---
 
 `he-yufeng/RepoWiki` is a lightweight, MIT-licensed **open-source DeepWiki alternative** that generates structured wiki documentation from **local directories or GitHub URLs** using only Python + SQLite — no Docker required. Its README explicitly positions it against [[deepwiki.com]] (SaaS-only) and [[AsyncFuncAI-deepwiki-open]] (Docker, no local-folder path): RepoWiki adds `pip install repowiki`, `repowiki scan ./my-project`, terminal Q&A via `repowiki chat`, and PageRank-based "start here" reading guides.

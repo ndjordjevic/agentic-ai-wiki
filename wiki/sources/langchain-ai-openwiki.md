@@ -3,11 +3,11 @@ type: source
 category: "Knowledge, RAG, memory & context"
 source_url: https://github.com/langchain-ai/openwiki
 tags: [openwiki-cli, agent-documentation, deepagents, self-updating-docs, github-actions, agents-md, provider-agnostic]
-related: [langchain.com-deepagents, langchain.com-langsmith, langchain.com, deepwiki.com, AsyncFuncAI-deepwiki-open, he-yufeng-RepoWiki, AIDotNet-OpenDeepWiki, PorunC-CodeWiki, bb-boy680-open-zread, coleam00-helpline, coleam00-claude-memory-compiler, 6eanut-llm-wiki, hilash-cabinet]
+related: [langchain.com-deepagents, langchain.com-langsmith, langchain.com, deepwiki.com, AsyncFuncAI-deepwiki-open, he-yufeng-RepoWiki, AIDotNet-OpenDeepWiki, PorunC-CodeWiki, bb-boy680-open-zread, coleam00-helpline, coleam00-claude-memory-compiler, 6eanut-llm-wiki, hilash-cabinet, Houseofmvps-codesight]
 product: openwiki
 detail_level: standard
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-07-16
 ---
 
 `langchain-ai/openwiki` is a TypeScript CLI, built by LangChain, that writes and maintains documentation for a codebase specifically so agents can consume it. Rather than a human-facing README generator, it runs a DeepAgents-backed agent that inspects a target repository and produces (and keeps refreshed) a structured `openwiki/` directory, then wires `AGENTS.md`/`CLAUDE.md` to point coding agents at it — an implementation of the same "compile knowledge once, look it up cheaply" idea seen in [[6eanut-llm-wiki]], but automated end-to-end by an LLM agent instead of a Claude Code skill workflow.

@@ -20,10 +20,11 @@ related:
   - 6eanut-llm-wiki
   - obra-superpowers
   - chopratejas-headroom
+  - Houseofmvps-codesight
 product: claude-token-optimizer
 detail_level: standard
 created: 2026-07-01
-updated: 2026-07-08
+updated: 2026-07-16
 ---
 
 Claude Token Optimizer (`cto`) is an open-source npm CLI (499 stars, MIT) that structures a project's documentation so Claude Code loads only essential context at session start — typically ~800 tokens across four core files instead of 8,000–11,000 tokens of stale docs, session history, and task archives. It scaffolds `CLAUDE.md`, `.claudeignore`, `.claude/` support files, and `docs/learnings/` topic files; auto-detects 13 web frameworks; ships 12 Claude Code hook templates for active token monitoring and on-demand context injection; and provides maintenance commands (`measure`, `audit`, `compress`, `prune`, `diff`, `watch`) with CI-friendly JSON output.

@@ -231,5 +231,6 @@ created: 2026-04-28
 | [[karpathy-autoresearch]] | github | standard | 2026-07-14 | Autonomous overnight nanochat training loop, single-file agent edits |
 | [[supabase-cli]] | github | standard | 2026-07-14 | Supabase CLI — local stack, migrations, edge functions, type generation |
 | [[HKUDS-LightRAG]] | github | standard | 2026-07-14 | Graph-based RAG framework, dual-layer KG + vector retrieval |
+| [[Houseofmvps-codesight]] | github | standard | 2026-07-16 | Zero-dep AST/regex context-map generator + Karpathy-style `--wiki` for AI coding agents |
 
-_219 sources ingested._
+_220 sources ingested._

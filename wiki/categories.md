@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-07-14
+updated: 2026-07-16
 ---
 
 # Agentic AI Frameworks — by category
@@ -19,7 +19,7 @@ updated: 2026-07-14
 - [[#MCP servers & integrations|MCP servers & integrations]] (12)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (14)
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (21)
-- [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (32)
+- [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (33)
 - [[#Browser & web automation|Browser & web automation]] (8)
 - [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (8)
 - [[#Model infra, ML & providers|Model infra, ML & providers]] (9)
@@ -182,6 +182,7 @@ updated: 2026-07-14
 - [[hilash-cabinet]] — is the GitHub source for Cabinet (2.4k+ stars, MIT, TypeScript, v0.4.4): a self-hosted AI-first startup OS where markdown files on disk are the database, agents run through a provider-adapter runti…
 - [[HKUDS-LightRAG]] — is a lightweight, graph-based Retrieval-Augmented Generation framework (37,600+ stars, MIT, EMNLP 2025) positioned as an efficient alternative to Microsoft GraphRAG.
 - [[HKUDS-RAG-Anything]] — documents RAG-Anything, HKUDS's open-source multimodal RAG framework (21k+ stars, MIT) that extends LightRAG into a single pipeline for parsing PDFs/Office/images with MinerU, analyzing figures/tab…
+- [[Houseofmvps-codesight]] — (1,230+ stars, MIT) is a zero-dependency `npx` CLI that compiles a codebase into a structured context map (`CODESIGHT.md`, plus routes/schema/components/graph files) for AI coding assistants — usin…
 - [[langchain-ai-openwiki]] — documents OpenWiki, LangChain's TypeScript CLI that writes and maintains agent-facing documentation for a repository using a [[langchain.com-deepagents|Deep Agents]] local-shell backend. `openwiki…
 - [[mksglu-context-mode]] — addresses the context window problem directly at the MCP protocol layer, making it one of the most practically impactful tools in the agentic AI ecosystem.
 - [[nadimtuhin-claude-token-optimizer]] — documents Claude Token Optimizer (`cto`), an open-source npm CLI that scaffolds a tiered documentation structure so Claude Code loads ~800 tokens at session start instead of 8,000–11,000 tokens of…
@@ -297,4 +298,4 @@ updated: 2026-07-14
 - [[santifer-career-ops]] — documents Career-Ops, an open-source AI-powered job search automation system (52,587 stars, MIT, v1.10.0) that applies the same skill-mode architecture popularized by [[obra-superpowers]] and [[ant…
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 
-_219 sources across 16 categories._
+_220 sources across 16 categories._
