@@ -13,10 +13,11 @@ tags:
 related:
   - HKUDS-RAG-Anything
   - zilliztech-claude-context
+  - Shubhamsaboo-awesome-llm-apps
 product: lightrag
 detail_level: standard
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-17
 ---
 
 LightRAG (EMNLP 2025) is a lightweight, graph-based Retrieval-Augmented Generation framework positioned as an efficient alternative to Microsoft GraphRAG. It combines a knowledge-graph layer with vector embeddings in a dual-layer architecture, aiming to keep both indexing cost and query latency low while still capturing the cross-entity relationships that pure chunk-based RAG misses. It's the base framework behind [[HKUDS-RAG-Anything]], the same lab's multimodal extension (PDFs, images, tables, formulas via MinerU/Docling), which was merged back into this repo as of the 2026.05 release.

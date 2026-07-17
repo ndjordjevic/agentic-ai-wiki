@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-17 | ingest | Shubhamsaboo-awesome-llm-apps | 100+ runnable AI agent, RAG, MCP, voice, and generative-UI example apps
+
+- Created: wiki/sources/Shubhamsaboo-awesome-llm-apps.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Related updates: voltagent-awesome-agent-skills, HKUDS-LightRAG, crewai.com, adk.dev, pydantic-pydantic-ai, langchain.com-langgraph
+
 ## 2026-07-16 | ingest | Houseofmvps-codesight | Zero-dep AST/regex context-map generator + Karpathy-style `--wiki` for AI coding agents
 
 - Created: wiki/sources/Houseofmvps-codesight.md

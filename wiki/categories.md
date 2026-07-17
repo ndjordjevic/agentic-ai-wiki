@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-07-16
+updated: 2026-07-17
 ---
 
 # Agentic AI Frameworks — by category
@@ -13,7 +13,7 @@ updated: 2026-07-16
 
 ## Categories
 
-- [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (21)
+- [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (22)
 - [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (32)
 - [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (14)
 - [[#MCP servers & integrations|MCP servers & integrations]] (12)
@@ -52,6 +52,7 @@ updated: 2026-07-16
 - [[microsoft-autogen]] — documents AutoGen, Microsoft Research's open-source multi-agent framework (58,823 stars, Python + .NET) that pioneered experimental multi-agent orchestration patterns now widely referenced across t…
 - [[pydantic-pydantic-ai]] — is the Pydantic team's Python agent framework (18,400+ stars) — the flagship product of [[pydantic.dev]], covered here in depth beyond that page's stack-wide overview.
 - [[pydantic.dev]] — introduces the Pydantic AI engineering stack — an end-to-end suite of five interlocking Python tools that cover the full lifecycle of an AI application.
+- [[Shubhamsaboo-awesome-llm-apps]] — (123,196 stars, Apache-2.0) is a large curated collection of 100+ hand-built, runnable AI agent, RAG, and LLM example applications — not a links-only awesome-list but a gallery of working, cloneabl…
 - [[strandsagents.com]] — introduces Strands Agents, an open-source model-driven agent harness SDK built by AWS (5,910 stars, Apache 2.0, Python 3.10+ and TypeScript). The SDK provides a complete agentic loop — model invoca…
 
 ## Coding-agent harnesses & methodologies
@@ -298,4 +299,4 @@ updated: 2026-07-16
 - [[santifer-career-ops]] — documents Career-Ops, an open-source AI-powered job search automation system (52,587 stars, MIT, v1.10.0) that applies the same skill-mode architecture popularized by [[obra-superpowers]] and [[ant…
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 
-_220 sources across 16 categories._
+_221 sources across 16 categories._
