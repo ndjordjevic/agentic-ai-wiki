@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-07-17
+updated: 2026-07-20
 ---
 
 
@@ -452,3 +452,5 @@ updated: 2026-07-17
 [[Houseofmvps-codesight]] (1,230+ stars, MIT) is a zero-dependency `npx` CLI that compiles a codebase into a structured context map (`CODESIGHT.md`, plus routes/schema/components/graph files) for AI coding assistants — using the TypeScript compiler API for AST precision and regex fallback across 30+ frameworks and 14 languages. Its `--wiki` mode is a deterministic, zero-LLM-call counterpart to the agent-facing wiki generators already in this wiki ([[langchain-ai-openwiki]], [[he-yufeng-RepoWiki]], [[PorunC-CodeWiki]]): rather than an LLM synthesizing documentation, codesight's own AST/regex extraction populates an `index.md` plus per-topic articles, following the same "compile once, read cheaply per session" pattern popularized by Karpathy. A `--blast <file>` command and matching MCP tool compute change impact via BFS through the import graph, and `--mode knowledge` extends the same compile-once idea to non-code artifacts (ADRs, meeting notes, retrospectives), pairing with [[nadimtuhin-claude-token-optimizer]]'s CLAUDE.md-budget focus from a structural-extraction angle instead of a prompt-hygiene one.
 
 [[Shubhamsaboo-awesome-llm-apps]] (123,196 stars, Apache-2.0) is a large curated collection of 100+ hand-built, runnable AI agent, RAG, and LLM example applications — not a links-only awesome-list but a gallery of working, cloneable projects spanning starter single-file agents, production-style multi-agent teams, RAG pipelines, voice agents, MCP-connected agents, generative UI agents, and installable Agent Skills, across Claude, GPT, Gemini, DeepSeek, Llama, and Qwen. Its `agent_skills/` section is a smaller, hand-picked counterpart to dedicated skills registries like [[voltagent-awesome-agent-skills]], while its 20+ `rag_tutorials/` entries demonstrate patterns (hybrid search, knowledge-graph RAG, corrective RAG) comparable to standalone RAG frameworks like [[HKUDS-LightRAG]] at tutorial scale. Two dedicated framework crash courses (Google ADK, OpenAI Agents SDK) make it a useful side-by-side entry point alongside the framework pages already in this wiki ([[crewai.com]], [[adk.dev]], [[pydantic-pydantic-ai]], [[langchain.com-langgraph]]) for developers evaluating an approach before building from scratch.
+
+[[karpathy-llm-council]] is Andrej Karpathy's local multi-model adjudication app (22,918 stars): one prompt fans out to multiple LLMs via OpenRouter, each model then ranks anonymized peer responses, and a designated chairman model synthesizes the final answer. Its value in this wiki is as a compact, concrete implementation of a three-stage "model council" loop (generation → cross-review → synthesis) that complements infrastructure pages like [[openrouter.ai]] with an end-user orchestration pattern.

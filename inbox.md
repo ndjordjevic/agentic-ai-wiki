@@ -239,3 +239,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/hkuds/lightrag <!-- ingested 2026-07-14 -->
 - [x] https://github.com/Houseofmvps/codesight <!-- ingested 2026-07-16 -->
 - [x] https://github.com/Shubhamsaboo/awesome-llm-apps <!-- ingested 2026-07-17 -->
+- [x] https://github.com/karpathy/llm-council <!-- ingested 2026-07-20 -->

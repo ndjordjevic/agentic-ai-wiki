@@ -146,3 +146,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/HKUDS-LightRAG.md | HKUDS/LightRAG | 37654 | main | v1.5.5rc1 | 2026-07-14 | |
 | raw/github/Houseofmvps-codesight.md | Houseofmvps/codesight | 1230 | main | (none) | 2026-07-16 | |
 | raw/github/Shubhamsaboo-awesome-llm-apps.md | Shubhamsaboo/awesome-llm-apps | 123196 | main | (none) | 2026-07-17 | |
+| raw/github/karpathy-llm-council.md | karpathy/llm-council | 22918 | master | (none) | 2026-07-20 | |

@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-07-17
+updated: 2026-07-20
 ---
 
 # Agentic AI Frameworks — by category
@@ -22,7 +22,7 @@ updated: 2026-07-17
 - [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (33)
 - [[#Browser & web automation|Browser & web automation]] (8)
 - [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (8)
-- [[#Model infra, ML & providers|Model infra, ML & providers]] (9)
+- [[#Model infra, ML & providers|Model infra, ML & providers]] (10)
 - [[#Workflow automation & no-code platforms|Workflow automation & no-code platforms]] (9)
 - [[#Design & UI generation|Design & UI generation]] (10)
 - [[#Media, voice & content|Media, voice & content]] (7)
@@ -226,6 +226,7 @@ updated: 2026-07-17
 - [[abacus.ai]] — documents Abacus.AI, a vertically integrated "Super Assistant" platform bundling ChatLLM Teams ($10/month) with 100+ frontier LLMs and image/video generators, the general-purpose **Abacus AI Agent*…
 - [[fastai-fastbook]] — documents the fastai book — Jeremy Howard and Sylvain Gugger's open-source deep-learning course (25k+ stars) published as 20 Jupyter notebooks teaching practical ML through the fastai 2.x layered A…
 - [[huggingface.co]] — is the open-source AI platform where the machine learning community collaborates on models, datasets, and applications — hosting 2M+ models, 1.5M+ datasets, and 1.5M+ Spaces.
+- [[karpathy-llm-council]] — is Andrej Karpathy's local multi-model adjudication app (22,918 stars): one prompt fans out to multiple LLMs via OpenRouter, each model then ranks anonymized peer responses, and a designated chairm…
 - [[kie.ai]] — introduces Kie.ai, a unified multimodal API gateway at `https://api.kie.ai` that aggregates 100+ video, image, audio, and LLM models — Veo, Kling, Seedance, GPT Image, Nano Banana, Suno, ElevenLabs…
 - [[litellm.ai]] — introduces LiteLLM, an open-source AI Gateway (Y Combinator W23, 47k+ GitHub stars) that gives teams a single OpenAI-compatible interface to 100+ LLM providers — OpenAI, Anthropic, Bedrock, Gemini,…
 - [[nvidia-nemotron-3-ultra]] — summarizes Decrypt's June 2026 coverage of Nvidia's Nemotron 3 Ultra launch at Computex: a 550B-parameter (55B active) open-weight mixture-of-experts model with public weights, 1M-token context, Ma…
@@ -299,4 +300,4 @@ updated: 2026-07-17
 - [[santifer-career-ops]] — documents Career-Ops, an open-source AI-powered job search automation system (52,587 stars, MIT, v1.10.0) that applies the same skill-mode architecture popularized by [[obra-superpowers]] and [[ant…
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 
-_221 sources across 16 categories._
+_222 sources across 16 categories._

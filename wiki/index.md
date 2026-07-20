@@ -233,5 +233,6 @@ created: 2026-04-28
 | [[HKUDS-LightRAG]] | github | standard | 2026-07-14 | Graph-based RAG framework, dual-layer KG + vector retrieval |
 | [[Houseofmvps-codesight]] | github | standard | 2026-07-16 | Zero-dep AST/regex context-map generator + Karpathy-style `--wiki` for AI coding agents |
 | [[Shubhamsaboo-awesome-llm-apps]] | github | standard | 2026-07-17 | 100+ runnable AI agent, RAG, MCP, voice, and generative-UI example apps |
+| [[karpathy-llm-council]] | github | standard | 2026-07-20 | Local multi-LLM "council" app: anonymized peer ranking + chairman synthesis via OpenRouter |
 
-_221 sources ingested._
+_222 sources ingested._
