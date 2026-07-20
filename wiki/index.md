@@ -234,5 +234,6 @@ created: 2026-04-28
 | [[Houseofmvps-codesight]] | github | standard | 2026-07-16 | Zero-dep AST/regex context-map generator + Karpathy-style `--wiki` for AI coding agents |
 | [[Shubhamsaboo-awesome-llm-apps]] | github | standard | 2026-07-17 | 100+ runnable AI agent, RAG, MCP, voice, and generative-UI example apps |
 | [[karpathy-llm-council]] | github | standard | 2026-07-20 | Local multi-LLM "council" app: anonymized peer ranking + chairman synthesis via OpenRouter |
+| [[nvidia-skillspector]] | github | standard | 2026-07-20 | Skill security scanner with 68-pattern analysis, OSV lookups, MCP guardrail mode |
 
-_222 sources ingested._
+_223 sources ingested._

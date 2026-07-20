@@ -27,7 +27,7 @@ updated: 2026-07-20
 - [[#Design & UI generation|Design & UI generation]] (10)
 - [[#Media, voice & content|Media, voice & content]] (7)
 - [[#Infra, hosting, DB & observability|Infra, hosting, DB & observability]] (12)
-- [[#Security|Security]] (2)
+- [[#Security|Security]] (3)
 - [[#Business, career & learning|Business, career & learning]] (8)
 
 ## Agent frameworks & SDKs
@@ -286,6 +286,7 @@ updated: 2026-07-20
 
 ## Security
 
+- [[nvidia-skillspector]] — is NVIDIA's security scanner for agent skills (13,453 stars), designed to answer "is this skill safe to install?" before runtime.
 - [[SnailSploit-Claude-Red]] — is claude-red (2,659+ stars, MIT) — the largest domain-specific offensive-security skill library for the Claude Skills system, with 58 `SKILL.md` files across 13 categories (web, wireless, AD, clou…
 - [[usestrix-strix]] — represents the security testing edge of the agentic AI space: an open-source Python framework (27k+ stars, Apache 2.0) that deploys a graph of autonomous AI pentest agents to find and validate vuln…
 
@@ -300,4 +301,4 @@ updated: 2026-07-20
 - [[santifer-career-ops]] — documents Career-Ops, an open-source AI-powered job search automation system (52,587 stars, MIT, v1.10.0) that applies the same skill-mode architecture popularized by [[obra-superpowers]] and [[ant…
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 
-_222 sources across 16 categories._
+_223 sources across 16 categories._

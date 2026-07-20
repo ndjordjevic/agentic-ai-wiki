@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-20 | ingest | nvidia-skillspector | NVIDIA skill security scanner: 68-pattern risk analysis + OSV CVE lookup + MCP install-gating mode
+
+- Created: wiki/sources/nvidia-skillspector.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Related updates: skills.sh, davila7-claude-code-templates
+
 ## 2026-07-20 | ingest | karpathy-llm-council | Local multi-LLM council app with anonymized peer ranking and chairman synthesis via OpenRouter
 
 - Created: wiki/sources/karpathy-llm-council.md

@@ -20,10 +20,11 @@ related:
   - oso95-scroll-world
   - googleworkspace-cli
   - mvanhorn-last30days-skill
+  - nvidia-skillspector
 product: claude-code-templates
 detail_level: standard
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-20
 ---
 
 claude-code-templates (published to npm as `claude-code-templates`, browsable at [aitmpl.com](https://aitmpl.com)) is a large, actively maintained catalog and CLI installer for Claude Code components — 600+ agents, 200+ commands, 55+ MCP integrations, 60+ settings, 39+ hooks, 18+ autonomous "loops," and 14+ full project templates — plus a set of standalone dev tools (real-time session analytics dashboard, mobile conversation monitor, health-check diagnostics, plugin/marketplace dashboard). It's one of the largest third-party distribution points for ready-made Claude Code configuration in the ecosystem, aggregating and re-licensing components from several other community and Anthropic-official sources.

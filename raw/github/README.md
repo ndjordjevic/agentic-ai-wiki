@@ -147,3 +147,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/Houseofmvps-codesight.md | Houseofmvps/codesight | 1230 | main | (none) | 2026-07-16 | |
 | raw/github/Shubhamsaboo-awesome-llm-apps.md | Shubhamsaboo/awesome-llm-apps | 123196 | main | (none) | 2026-07-17 | |
 | raw/github/karpathy-llm-council.md | karpathy/llm-council | 22918 | master | (none) | 2026-07-20 | |
+| raw/github/nvidia-skillspector.md | NVIDIA/SkillSpector | 13453 | main | (none) | 2026-07-20 | |
