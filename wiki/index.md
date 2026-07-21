@@ -237,5 +237,6 @@ created: 2026-04-28
 | [[nvidia-skillspector]] | github | standard | 2026-07-20 | Skill security scanner with 68-pattern analysis, OSV lookups, MCP guardrail mode |
 | [[coleam00-eve-analyst]] | github | standard | 2026-07-21 | |
 | [[eve.dev]] | web | standard | 2026-07-21 | companion: vercel-eve |
+| [[rtk-ai-rtk]] | github | standard | 2026-07-21 | CLI proxy filtering shell-command output for 60-90% token savings, via PreToolUse hook |
 
-_225 sources ingested._
+_226 sources ingested._

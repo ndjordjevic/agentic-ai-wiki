@@ -16,10 +16,11 @@ related:
   - obra-superpowers
   - anthropics-skills
   - chopratejas-headroom
+  - rtk-ai-rtk
 product: context-mode
 detail_level: standard
 created: 2026-06-29
-updated: 2026-07-08
+updated: 2026-07-21
 ---
 
 Context Mode is an MCP server and hook layer that solves the context window problem for AI coding agents across 17 platforms. It addresses the fundamental issue that every MCP tool call dumps raw data into the context window — a Playwright snapshot costs 56 KB, 20 GitHub issues cost 59 KB, one access log 45 KB — by sandboxing tool output so only stdout enters context (98% reduction), tracking session events in SQLite FTS5 for compaction-resilient continuity, and enforcing the "Think in Code" paradigm that redirects the LLM from reading data directly into treating the LLM as a code generator that programs its own analysis. With 18,000+ stars and adoption at Microsoft, Google, Meta, and others, it is the de-facto standard for context optimization across the multi-agent coding ecosystem.

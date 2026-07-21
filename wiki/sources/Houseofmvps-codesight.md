@@ -16,10 +16,11 @@ related:
   - langchain-ai-openwiki
   - he-yufeng-RepoWiki
   - PorunC-CodeWiki
+  - rtk-ai-rtk
 product: codesight
 detail_level: standard
 created: 2026-07-16
-updated: 2026-07-16
+updated: 2026-07-21
 ---
 
 `codesight` is a zero-dependency `npx` CLI that scans a codebase and compiles a structured context map (`CODESIGHT.md` plus `routes.md`, `schema.md`, `components.md`, `graph.md`, and more) for AI coding assistants, using the TypeScript compiler API for AST-precision on TypeScript projects and regex fallback across 30+ frameworks and 13 other languages. Its `--wiki` mode generates a persistent, Karpathy-pattern knowledge base (`.codesight/wiki/index.md` + per-topic articles) purely from AST/regex extraction rather than an LLM pass — a deterministic, zero-API-call counterpart to LLM-driven wiki generators like [[langchain-ai-openwiki]], [[he-yufeng-RepoWiki]], and [[PorunC-CodeWiki]].

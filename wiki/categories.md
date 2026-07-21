@@ -19,7 +19,7 @@ updated: 2026-07-21
 - [[#MCP servers & integrations|MCP servers & integrations]] (12)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (14)
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (21)
-- [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (33)
+- [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (34)
 - [[#Browser & web automation|Browser & web automation]] (8)
 - [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (8)
 - [[#Model infra, ML & providers|Model infra, ML & providers]] (10)
@@ -194,6 +194,7 @@ updated: 2026-07-21
 - [[pumadb.ai]] — documents pumaDB, a hosted agent memory API that gives agents durable JSON tables, a Streamable HTTP MCP server, and REST endpoints for trusted server-side apps.
 - [[redis.io]] — documents Redis Iris, Redis's unified real-time context engine for AI agents — a repackaging of four existing Redis capabilities (Data Integration/CDC pipelines, schema-first Context Retriever, Age…
 - [[reseek.net]] — introduces Reseek, a cloud-hosted personal knowledge management platform ("second brain") that saves links, notes, images, PDFs, YouTube videos, and Twitter/X posts into one AI-queryable library.
+- [[rtk-ai-rtk]] — is a single-binary Rust CLI proxy that filters and compresses everyday shell-command output (git, cargo, test runners, docker, aws, and 100+ others) before it reaches an AI coding agent's context,…
 - [[runcabinet.com]] — introduces Cabinet, a free and open-source self-hosted AI-first startup OS where all knowledge lives as markdown files on disk.
 - [[supermemory.ai]] — introduces Supermemory, a research and product lab building the memory and context infrastructure layer for AI agents.
 - [[teng-lin-notebooklm-py]] — documents notebooklm-py, the dominant unofficial Python/CLI/MCP bridge to Google NotebookLM (17k+ stars, MIT). Where [[notebooklm.google]] is a closed SaaS with no public API, this repo reverse-eng…
@@ -303,4 +304,4 @@ updated: 2026-07-21
 - [[santifer-career-ops]] — documents Career-Ops, an open-source AI-powered job search automation system (52,587 stars, MIT, v1.10.0) that applies the same skill-mode architecture popularized by [[obra-superpowers]] and [[ant…
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 
-_225 sources across 16 categories._
+_226 sources across 16 categories._

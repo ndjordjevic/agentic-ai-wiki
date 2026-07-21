@@ -243,3 +243,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/nvidia/skillspector <!-- ingested 2026-07-20 -->
 - [x] https://github.com/coleam00/eve-analyst <!-- ingested 2026-07-21 -->
 - [x] https://eve.dev/ <!-- ingested 2026-07-21 -->
+- [x] https://github.com/rtk-ai/rtk <!-- ingested 2026-07-21 -->

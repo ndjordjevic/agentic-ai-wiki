@@ -18,10 +18,11 @@ related:
   - aaif-goose-goose
   - langchain.com
   - agricidaniel-claude-obsidian
+  - rtk-ai-rtk
 product: headroom
 detail_level: standard
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-07-21
 ---
 
 Headroom (57.6K+ stars, Apache 2.0, v0.30.0) is a local-first context compression layer for AI agents — it shrinks tool outputs, logs, RAG chunks, files, and conversation history before they reach the LLM, claiming 60–95% token reduction on JSON workloads and 15–20% on coding agents while preserving answer quality via reversible CCR caching. It ships as a Python/TypeScript library (`compress(messages)`), a drop-in OpenAI-compatible proxy (`headroom proxy`), one-command agent wrappers (`headroom wrap claude|codex|cursor|…`), an MCP server (`headroom_compress`, `headroom_retrieve`, `headroom_stats`), cross-agent memory, and `headroom learn` for mining failed sessions into `CLAUDE.md`/`AGENTS.md` corrections. The repo has moved to `headroomlabs-ai/headroom` but remains reachable via the original `chopratejas/headroom` URL.
