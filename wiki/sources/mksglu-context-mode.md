@@ -17,6 +17,7 @@ related:
   - anthropics-skills
   - chopratejas-headroom
   - rtk-ai-rtk
+  - teamchong-pxpipe
 product: context-mode
 detail_level: standard
 created: 2026-06-29

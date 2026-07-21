@@ -19,6 +19,7 @@ related:
   - langchain.com
   - agricidaniel-claude-obsidian
   - rtk-ai-rtk
+  - teamchong-pxpipe
 product: headroom
 detail_level: standard
 created: 2026-07-08

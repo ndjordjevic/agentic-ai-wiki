@@ -15,6 +15,7 @@ related:
   - chopratejas-headroom
   - mksglu-context-mode
   - Houseofmvps-codesight
+  - teamchong-pxpipe
 product: rtk
 detail_level: standard
 created: 2026-07-21

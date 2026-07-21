@@ -238,5 +238,6 @@ created: 2026-04-28
 | [[coleam00-eve-analyst]] | github | standard | 2026-07-21 | |
 | [[eve.dev]] | web | standard | 2026-07-21 | companion: vercel-eve |
 | [[rtk-ai-rtk]] | github | standard | 2026-07-21 | CLI proxy filtering shell-command output for 60-90% token savings, via PreToolUse hook |
+| [[teamchong-pxpipe]] | github | standard | 2026-07-21 | Local proxy that images bulky context to reduce request-token usage |
 
-_226 sources ingested._
+_227 sources ingested._

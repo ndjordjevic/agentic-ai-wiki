@@ -22,6 +22,7 @@ related:
   - chopratejas-headroom
   - Houseofmvps-codesight
   - rtk-ai-rtk
+  - teamchong-pxpipe
 product: claude-token-optimizer
 detail_level: standard
 created: 2026-07-01
