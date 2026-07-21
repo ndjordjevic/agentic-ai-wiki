@@ -18,10 +18,11 @@ related:
   - felix-forever-hermes-agent-desktop
   - 0xnyk-awesome-hermes-agent
   - phasr.sh
+  - topoteretes-cognee
 product: gbrain
 detail_level: standard
 created: 2026-06-18
-updated: 2026-07-07
+updated: 2026-07-21
 ---
 
 GBrain is a persistent knowledge-graph and hybrid-retrieval brain layer for AI agents — built by Garry Tan (YC President/CEO) as the production memory infrastructure behind his OpenClaw and Hermes deployments. It separates itself from keyword-search personal-knowledge tools with two compounding features: a synthesis layer that answers questions with cited prose and an honest gap analysis (what the brain doesn't know yet), and a self-wiring knowledge graph that extracts typed entity edges on every page write with zero LLM calls. In benchmarks on a 240-page corpus it reaches **P@5 49.1% / R@5 97.9%**, a **+31.4 P@5 gain** over vector-only RAG. The same brain layer powers Garry's live deployment: 146,646 pages, 24,585 people, 5,339 companies, 66 autonomous cron jobs that enrich, deduplicate, and consolidate knowledge overnight.

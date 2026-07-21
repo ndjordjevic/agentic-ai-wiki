@@ -239,5 +239,6 @@ created: 2026-04-28
 | [[eve.dev]] | web | standard | 2026-07-21 | companion: vercel-eve |
 | [[rtk-ai-rtk]] | github | standard | 2026-07-21 | CLI proxy filtering shell-command output for 60-90% token savings, via PreToolUse hook |
 | [[teamchong-pxpipe]] | github | standard | 2026-07-21 | Local proxy that images bulky context to reduce request-token usage |
+| [[topoteretes-cognee]] | github | standard | 2026-07-21 | Open-source AI memory platform — knowledge graph + vector memory unifiable on a single Postgres instance |
 
-_227 sources ingested._
+_228 sources ingested._

@@ -3,11 +3,11 @@ type: source
 category: "Knowledge, RAG, memory & context"
 source_url: https://supermemory.ai/
 tags: [memory-layer, context-engineering, knowledge-graph, rag, mcp-server, ai-agents, typescript-sdk, python-sdk]
-related: [reseek.net, runcabinet.com, hilash-cabinet, garrytan-gbrain, tolaria.md, notebooklm.google, HKUDS-RAG-Anything, getcaveman.dev, zaro.ai, teng-lin-notebooklm-py, coleam00-claude-memory-compiler, 0xnyk-awesome-hermes-agent, app.sauna.ai, summio.org, redis.io]
+related: [reseek.net, runcabinet.com, hilash-cabinet, garrytan-gbrain, tolaria.md, notebooklm.google, HKUDS-RAG-Anything, getcaveman.dev, zaro.ai, teng-lin-notebooklm-py, coleam00-claude-memory-compiler, 0xnyk-awesome-hermes-agent, app.sauna.ai, summio.org, redis.io, topoteretes-cognee]
 product: supermemory
 detail_level: standard
 created: 2026-06-12
-updated: 2026-07-09
+updated: 2026-07-21
 ---
 
 Supermemory is a research and product lab building the memory and context infrastructure layer for AI agents — a five-component API (User Profiles, Memory Graph, Retrieval, Extractors, Connectors) that gives agents persistent, queryable knowledge about users and their world. It holds state-of-the-art benchmark positions on LongMemEval (85.2%), LoCoMo (#1), and ConvoMem (#1), and ships in three surfaces: an enterprise developer API, a personal consumer app (10,000+ power users), and an MCP server compatible with Claude, Cursor, ChatGPT, and 15+ MCP clients. Integrations cover Vercel AI SDK, LangChain, LangGraph, CrewAI, OpenAI SDK, Mastra, Zapier, and n8n.
