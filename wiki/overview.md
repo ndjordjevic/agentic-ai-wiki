@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 
@@ -456,3 +456,7 @@ updated: 2026-07-20
 [[karpathy-llm-council]] is Andrej Karpathy's local multi-model adjudication app (22,918 stars): one prompt fans out to multiple LLMs via OpenRouter, each model then ranks anonymized peer responses, and a designated chairman model synthesizes the final answer. Its value in this wiki is as a compact, concrete implementation of a three-stage "model council" loop (generation → cross-review → synthesis) that complements infrastructure pages like [[openrouter.ai]] with an end-user orchestration pattern.
 
 [[nvidia-skillspector]] is NVIDIA's security scanner for agent skills (13,453 stars), designed to answer "is this skill safe to install?" before runtime. It combines static checks, optional LLM semantic analysis, and live OSV.dev dependency vulnerability lookups into a single risk score and recommendation (`SAFE`, `CAUTION`, `DO_NOT_INSTALL`), with JSON/SARIF outputs and an MCP server mode (`scan_skill`) for turning skill install decisions into enforceable guardrails. It sits directly between discovery catalogs like [[skills.sh]] and operational distribution pipelines like [[davila7-claude-code-templates]], adding a security-gating layer to the skills ecosystem.
+
+[[coleam00-eve-analyst]] is a compact Eve-based data analyst agent reference implementation (TypeScript, 9 stars) that demonstrates the full “agent app” stack in one repo: read-only SQL tools with hard guards, approval-gated expensive scans, a sandboxed Python analysis tool, an on-demand `revenue-rules` skill, and an `investigator` subagent for “why did this metric change?” workflows, plus HTTP and Slack channels and evals as a deployment gate. It fits directly alongside [[coleam00-harness-engineering-demo]], [[coleam00-helpline]], and [[coleam00-archon]] as a practical harness-engineering teaching artifact, but focused specifically on analytics-agent behavior and business-rule correctness.
+
+[[eve.dev]] captures Vercel’s `eve` framework as a filesystem-first, durability-oriented agent platform: author an agent as ordinary files (`instructions`, `tools`, `skills`, `channels`, `connections`, `subagents`, `schedules`), then run it through a built-in durable session/runtime layer with streamable HTTP flows, pause/resume, and multi-channel delivery. Its companion GitHub repo (`vercel/eve`) grounds that product story in an active TypeScript monorepo and release train (`eve@0.26.1`), with deep docs for MCP/OpenAPI connections, approval-gated tool execution, channel adapters, and eval-driven regression gates. This page is a direct framework-level complement to app-level examples like [[coleam00-eve-analyst]] and neighboring SDK/framework references such as [[adk.dev]] and [[pydantic-pydantic-ai]].

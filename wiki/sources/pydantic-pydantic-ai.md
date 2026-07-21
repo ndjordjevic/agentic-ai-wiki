@@ -18,10 +18,11 @@ related:
   - adk.dev
   - crewai.com
   - Shubhamsaboo-awesome-llm-apps
+  - eve.dev
 product: pydantic-ai
 detail_level: standard
 created: 2026-07-13
-updated: 2026-07-17
+updated: 2026-07-21
 ---
 
 Pydantic AI is the Pydantic team's Python agent framework (18,400+ stars, MIT) — the flagship product of the wider [[pydantic.dev]] stack, brought to FastAPI-style ergonomics: type-safe agents, model-agnostic providers, dependency injection, and structured output validated by Pydantic itself. This page goes deeper than [[pydantic.dev]]'s stack-wide overview, covering the framework's agent loop, capabilities system, tool model, and its separately-versioned "Harness" capability library.

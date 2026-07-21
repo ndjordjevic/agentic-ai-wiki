@@ -235,5 +235,7 @@ created: 2026-04-28
 | [[Shubhamsaboo-awesome-llm-apps]] | github | standard | 2026-07-17 | 100+ runnable AI agent, RAG, MCP, voice, and generative-UI example apps |
 | [[karpathy-llm-council]] | github | standard | 2026-07-20 | Local multi-LLM "council" app: anonymized peer ranking + chairman synthesis via OpenRouter |
 | [[nvidia-skillspector]] | github | standard | 2026-07-20 | Skill security scanner with 68-pattern analysis, OSV lookups, MCP guardrail mode |
+| [[coleam00-eve-analyst]] | github | standard | 2026-07-21 | |
+| [[eve.dev]] | web | standard | 2026-07-21 | companion: vercel-eve |
 
-_223 sources ingested._
+_225 sources ingested._

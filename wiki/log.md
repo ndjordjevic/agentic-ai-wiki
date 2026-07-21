@@ -8,6 +8,19 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-21 | ingest | eve.dev | Filesystem-first agent framework with durable sessions, MCP/OpenAPI connections, and eval-driven workflows
+
+- Created: wiki/sources/eve.dev.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/vercel-eve.md
+- Related updates: adk.dev, pydantic-pydantic-ai, coleam00-eve-analyst
+
+## 2026-07-21 | ingest | coleam00-eve-analyst | Eve-based data analyst agent with read-only SQL guards, approval gates, sandbox analysis, and delegated investigator subagent
+
+- Created: wiki/sources/coleam00-eve-analyst.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Related updates: coleam00-archon, coleam00-harness-engineering-demo, coleam00-helpline
+
 ## 2026-07-20 | ingest | nvidia-skillspector | NVIDIA skill security scanner: 68-pattern risk analysis + OSV CVE lookup + MCP install-gating mode
 
 - Created: wiki/sources/nvidia-skillspector.md

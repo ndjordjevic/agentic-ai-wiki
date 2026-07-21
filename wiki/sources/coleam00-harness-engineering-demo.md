@@ -27,10 +27,11 @@ related:
   - coleam00-helpline
   - the-new-sdlc-with-vibe-coding
   - dark-factory-autonomous-ai-codebase
+  - coleam00-eve-analyst
 product: harness-engineering-demo
 detail_level: standard
 created: 2026-06-16
-updated: 2026-07-13
+updated: 2026-07-21
 ---
 
 A companion repo to the YouTube video "What is Harness Engineering?" demonstrating how to build a real **harness** — the context and workflows wrapping a coding agent — using only Claude Code's built-in primitives (CLAUDE.md, skills, hooks, sub-agents, MCP), with no external framework. It wraps a brownfield SaaS app (Schedulr: FastAPI + Next.js) in a self-validating **PIV loop** (Plan → Implement → Validate) and pairs it with the Ralph loop ([[snarktank-ralph]]) for unattended multi-session runs.

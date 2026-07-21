@@ -148,3 +148,5 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/Shubhamsaboo-awesome-llm-apps.md | Shubhamsaboo/awesome-llm-apps | 123196 | main | (none) | 2026-07-17 | |
 | raw/github/karpathy-llm-council.md | karpathy/llm-council | 22918 | master | (none) | 2026-07-20 | |
 | raw/github/nvidia-skillspector.md | NVIDIA/SkillSpector | 13453 | main | (none) | 2026-07-20 | |
+| raw/github/coleam00-eve-analyst.md | coleam00/eve-analyst | 9 | main | (none) | 2026-07-21 | |
+| raw/github/vercel-eve.md | vercel/eve | 3916 | main | eve@0.26.1 | 2026-07-21 | companion for eve.dev |
