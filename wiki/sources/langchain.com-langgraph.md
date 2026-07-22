@@ -21,10 +21,11 @@ related:
   - ruvnet-ruflo
   - developers.openai.com
   - Shubhamsaboo-awesome-llm-apps
+  - langflow-ai-langflow
 product: langgraph
 detail_level: deep
 created: 2026-04-29
-updated: 2026-07-17
+updated: 2026-07-22
 ---
 
 LangGraph is the lower-level orchestration framework and runtime in the LangChain stack. It is designed for long-running, stateful agents that need durable execution, human-in-the-loop pauses, memory, streaming, and explicit control over workflow shape rather than a single high-level agent abstraction.

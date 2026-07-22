@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-22 | ingest | langflow-ai-langflow | Visual flow builder for AI agents/workflows with built-in API and MCP deployment surfaces
+
+- Created: wiki/sources/langflow-ai-langflow.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Related updates: n8n.io, crewai.com, langchain.com-langgraph
+
 ## 2026-07-22 | ingest | openai-symphony | Open-source issue-tracker orchestrator for isolated autonomous coding-agent runs via WORKFLOW.md policy
 
 - Created: wiki/sources/openai-symphony.md
