@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-22 | ingest | openai-symphony | Open-source issue-tracker orchestrator for isolated autonomous coding-agent runs via WORKFLOW.md policy
+
+- Created: wiki/sources/openai-symphony.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Related updates: openai-codex-plugin-cc, coleam00-harness-engineering-demo, karpathy-autoresearch
+
 ## 2026-07-22 | ingest | mozilla-ai-any-llm | Unified LLM provider interface wrapping official provider SDKs (LiteLLM alternative)
 
 - Created: wiki/sources/mozilla-ai-any-llm.md

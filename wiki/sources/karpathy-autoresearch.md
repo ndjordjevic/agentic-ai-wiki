@@ -14,10 +14,11 @@ related:
   - snarktank-ralph
   - frankbria-ralph-claude-code
   - coleam00-agent-control-plane
+  - openai-symphony
 product: autoresearch
 detail_level: standard
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-22
 ---
 
 `autoresearch` is Andrej Karpathy's minimal harness for letting a coding agent run unattended overnight ML research: it edits one file (`train.py`, a single-GPU simplified [nanochat](https://github.com/karpathy/nanochat) implementation), trains for a fixed 5-minute wall-clock budget, checks whether `val_bpb` improved, keeps or discards the change, and repeats — roughly 12 experiments/hour, ~100 overnight. It's a smaller, single-purpose sibling of the "Ralph"-style autonomous-loop pattern (see [[snarktank-ralph]], [[frankbria-ralph-claude-code]]): instead of a general coding loop, the loop target is a narrow, measurable ML metric.

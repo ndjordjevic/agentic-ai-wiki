@@ -241,5 +241,6 @@ created: 2026-04-28
 | [[teamchong-pxpipe]] | github | standard | 2026-07-21 | Local proxy that images bulky context to reduce request-token usage |
 | [[topoteretes-cognee]] | github | standard | 2026-07-21 | Open-source AI memory platform — knowledge graph + vector memory unifiable on a single Postgres instance |
 | [[mozilla-ai-any-llm]] | github | standard | 2026-07-22 | Unified LLM provider interface wrapping official SDKs (LiteLLM-alternative) |
+| [[openai-symphony]] | github | standard | 2026-07-22 | Open-source issue-tracker orchestrator for isolated autonomous coding-agent runs |
 
-_229 sources ingested._
+_230 sources ingested._
