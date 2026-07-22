@@ -246,3 +246,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/rtk-ai/rtk <!-- ingested 2026-07-21 -->
 - [x] https://github.com/teamchong/pxpipe <!-- ingested 2026-07-21 -->
 - [x] https://github.com/topoteretes/cognee <!-- ingested 2026-07-21 -->
+- [x] https://github.com/mozilla-ai/any-llm <!-- ingested 2026-07-22 -->

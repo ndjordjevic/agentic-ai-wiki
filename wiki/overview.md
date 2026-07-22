@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-07-21
+updated: 2026-07-22
 ---
 
 
@@ -466,3 +466,5 @@ updated: 2026-07-21
 [[teamchong-pxpipe]] is a TypeScript proxy that compresses AI-agent request context by rendering high-volume text blocks as images before forwarding to model APIs, with an explicit emphasis on measurement discipline and known failure modes rather than blanket "free token savings" claims. It complements neighboring context-efficiency approaches in this wiki — [[nadimtuhin-claude-token-optimizer]] (doc-structure/load optimization), [[mksglu-context-mode]] (MCP output sandboxing), [[chopratejas-headroom]] (general tool/log compression), and [[rtk-ai-rtk]] (shell-output filtering) — by targeting request payload shape directly through model-specific render profiles, cache-aware rewrite logic, and per-request baseline accounting.
 
 [[topoteretes-cognee]] is an open-source AI memory platform that ingests data in any format and continuously builds a self-hosted knowledge graph, giving agents persistent long-term memory across sessions through a four-operation SDK (`remember`, `recall`, `forget`, `improve`) plus a Claude Code plugin that hooks the full session lifecycle. Its distinguishing architectural claim is unifying the entire memory layer — graph, vector embeddings, sessions, and metadata — on a single Postgres instance instead of a multi-service stack (Neo4j + vector DB + Redis), while still supporting dedicated backends when needed. It sits alongside [[garrytan-gbrain]] and [[HKUDS-LightRAG]] as a knowledge-graph-plus-vector memory layer, and alongside [[supermemory.ai]] as a persistent cross-session memory system for agents.
+
+[[mozilla-ai-any-llm]] is Mozilla.ai's unified Python interface for calling any LLM provider through a single `completion()`/`AnyLLM` API, covering 50+ providers under `src/any_llm/providers/`. It occupies the same provider-abstraction niche as [[litellm.ai]] and [[openrouter.ai]] but takes a distinct architectural stance: rather than reimplementing each provider's request/response translation (LiteLLM) or routing through a hosted SaaS gateway (OpenRouter), it wraps each provider's **official SDK** directly, trading a larger dependency surface for closer fidelity to provider behavior and an explicit migration path for existing LiteLLM users. It underpins Mozilla.ai's own agent framework, any-agent, and pairs with the separate Otari gateway project for budget/key management.

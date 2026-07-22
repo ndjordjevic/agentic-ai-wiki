@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-07-21
+updated: 2026-07-22
 ---
 
 # Agentic AI Frameworks — by category
@@ -22,7 +22,7 @@ updated: 2026-07-21
 - [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (36)
 - [[#Browser & web automation|Browser & web automation]] (8)
 - [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (8)
-- [[#Model infra, ML & providers|Model infra, ML & providers]] (10)
+- [[#Model infra, ML & providers|Model infra, ML & providers]] (11)
 - [[#Workflow automation & no-code platforms|Workflow automation & no-code platforms]] (9)
 - [[#Design & UI generation|Design & UI generation]] (10)
 - [[#Media, voice & content|Media, voice & content]] (7)
@@ -234,6 +234,7 @@ updated: 2026-07-21
 - [[karpathy-llm-council]] — is Andrej Karpathy's local multi-model adjudication app (22,918 stars): one prompt fans out to multiple LLMs via OpenRouter, each model then ranks anonymized peer responses, and a designated chairm…
 - [[kie.ai]] — introduces Kie.ai, a unified multimodal API gateway at `https://api.kie.ai` that aggregates 100+ video, image, audio, and LLM models — Veo, Kling, Seedance, GPT Image, Nano Banana, Suno, ElevenLabs…
 - [[litellm.ai]] — introduces LiteLLM, an open-source AI Gateway (Y Combinator W23, 47k+ GitHub stars) that gives teams a single OpenAI-compatible interface to 100+ LLM providers — OpenAI, Anthropic, Bedrock, Gemini,…
+- [[mozilla-ai-any-llm]] — is Mozilla.ai's unified Python interface for calling any LLM provider through a single `completion()`/`AnyLLM` API, covering 50+ providers under `src/any_llm/providers/`. It occupies the same provi…
 - [[nvidia-nemotron-3-ultra]] — summarizes Decrypt's June 2026 coverage of Nvidia's Nemotron 3 Ultra launch at Computex: a 550B-parameter (55B active) open-weight mixture-of-experts model with public weights, 1M-token context, Ma…
 - [[ollama-ollama]] — documents Ollama (`ollama/ollama`, 175k+ stars, MIT, Go) — the default local LLM runtime for running open-weight models on macOS, Windows, and Linux.
 - [[openrouter.ai]] — introduces OpenRouter, a hosted API gateway that gives developers and agentic applications unified access to 400+ AI models from 60+ providers through a single OpenAI-compatible endpoint.
@@ -306,4 +307,4 @@ updated: 2026-07-21
 - [[santifer-career-ops]] — documents Career-Ops, an open-source AI-powered job search automation system (52,587 stars, MIT, v1.10.0) that applies the same skill-mode architecture popularized by [[obra-superpowers]] and [[ant…
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 
-_228 sources across 16 categories._
+_229 sources across 16 categories._

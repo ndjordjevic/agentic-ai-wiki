@@ -153,3 +153,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/rtk-ai-rtk.md | rtk-ai/rtk | 72152 | develop | dev-0.44.0-rc.323 | 2026-07-21 | |
 | raw/github/topoteretes-cognee.md | topoteretes/cognee | 28990 | main | v1.4.0.dev0 | 2026-07-21 | |
 | raw/github/teamchong-pxpipe.md | teamchong/pxpipe | 6552 | main | v0.7.1 | 2026-07-21 | |
+| raw/github/mozilla-ai-any-llm.md | mozilla-ai/any-llm | 2134 | main | 1.21.0 | 2026-07-22 | |

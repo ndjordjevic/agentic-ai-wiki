@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-22 | ingest | mozilla-ai-any-llm | Unified LLM provider interface wrapping official provider SDKs (LiteLLM alternative)
+
+- Created: wiki/sources/mozilla-ai-any-llm.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Related updates: litellm.ai, openrouter.ai, pydantic-pydantic-ai
+
 ## 2026-07-21 | ingest | topoteretes-cognee | Open-source AI memory platform — knowledge graph + vector memory, unifiable on a single Postgres instance
 
 - Created: wiki/sources/topoteretes-cognee.md
