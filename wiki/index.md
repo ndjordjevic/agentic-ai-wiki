@@ -243,5 +243,6 @@ created: 2026-04-28
 | [[mozilla-ai-any-llm]] | github | standard | 2026-07-22 | Unified LLM provider interface wrapping official SDKs (LiteLLM-alternative) |
 | [[openai-symphony]] | github | standard | 2026-07-22 | Open-source issue-tracker orchestrator for isolated autonomous coding-agent runs |
 | [[langflow-ai-langflow]] | github | standard | 2026-07-22 | Visual flow builder for AI agents/workflows with built-in API and MCP deployment surfaces |
+| [[cursor-plugins]] | github | standard | 2026-07-24 | Official Cursor plugin marketplace: 13 plugins, 75 agent skills for CI, code review, PR workflows, and engineering discipline |
 
-_231 sources ingested._
+_232 sources ingested._

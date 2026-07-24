@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-07-22
+updated: 2026-07-24
 ---
 
 
@@ -472,3 +472,5 @@ updated: 2026-07-22
 [[openai-symphony]] is OpenAI's open-source orchestration pattern for autonomous coding-agent execution at the issue-tracker level: a long-running service polls work, maps each issue to an isolated workspace, runs Codex sessions in app-server mode, and enforces policy through a repo-owned `WORKFLOW.md` contract instead of ad hoc operator supervision. The project combines a language-agnostic spec (`SPEC.md`) with a prototype Elixir implementation supporting multiple tracker adapters (Linear, GitHub Issues, Jira, Asana, GitLab), positioning it as a concrete "manage work, not individual agent sessions" harness that complements app-level harness patterns like [[coleam00-harness-engineering-demo]] and tool-level Codex integrations like [[openai-codex-plugin-cc]].
 
 [[langflow-ai-langflow]] is Langflow's OSS codebase (152k+ stars), a visual flow-graph platform for building and deploying AI agents/workflows that unifies UI-first authoring with production execution surfaces: each project can expose flows as REST/API endpoints and as MCP tools. It sits at the intersection of low-code automation platforms like [[n8n.io]], framework-level orchestration primitives like [[langchain.com-langgraph]], and agent-focused development stacks like [[crewai.com]], with a distinctive emphasis on dual MCP roles (Langflow as both MCP server and MCP client) and Python extensibility through custom components.
+
+[[cursor-plugins]] is the official Cursor plugin marketplace repo: a two-level manifest spec (`marketplace.json` + per-plugin `plugin.json`) bundling 13 plugins and 75 agent skills for CI, code review, PR workflows, learning support, and multi-agent orchestration via the Cursor SDK. Its `pstack` plugin alone contributes 38 skills, including a library of 22 standalone "principle" skills that auto-apply engineering discipline (root-cause fixes, idempotent operations, type-system discipline) rather than being explicitly invoked. As a concrete large-scale plugin marketplace with schema validation in CI, it makes a useful architectural comparison point against [[anthropics-skills]]'s skill-only distribution model.

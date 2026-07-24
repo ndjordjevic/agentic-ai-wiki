@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-24 | ingest | cursor-plugins | Official Cursor plugin marketplace: 13 plugins, 75 agent skills for CI, code review, PR workflows, and engineering discipline
+
+- Created: wiki/sources/cursor-plugins.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+- Related updates: anthropics-skills
+
 ## 2026-07-22 | ingest | langflow-ai-langflow | Visual flow builder for AI agents/workflows with built-in API and MCP deployment surfaces
 
 - Created: wiki/sources/langflow-ai-langflow.md

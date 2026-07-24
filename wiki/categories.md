@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-07-22
+updated: 2026-07-24
 ---
 
 # Agentic AI Frameworks — by category
@@ -15,7 +15,7 @@ updated: 2026-07-22
 
 - [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (23)
 - [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (34)
-- [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (14)
+- [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (15)
 - [[#MCP servers & integrations|MCP servers & integrations]] (12)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (14)
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (21)
@@ -98,6 +98,7 @@ updated: 2026-07-22
 - [[0xnyk-awesome-hermes-agent]] — is the community-maintained Awesome-list for the Hermes Agent ecosystem (4.5k+ stars, CC BY 4.0) — the Hermes-specific discovery layer cataloging skills, plugins, memory providers, GUIs, deployment…
 - [[anthropics-skills]] — is Anthropic's official reference repository for the Agent Skills pattern — 17 SKILL.md-based capability modules for Claude spanning document processing (xlsx, docx, pptx, pdf), creative design, MC…
 - [[claudemarketplaces.com]] — documents Cross AI Tools (claudemarketplaces.com → crossaitools.com), an independent editor-curated directory of Claude Code skills (21,600+), plugin marketplaces (2,500+), and MCP servers (12,500+…
+- [[cursor-plugins]] — is the official Cursor plugin marketplace repo: a two-level manifest spec (`marketplace.json` + per-plugin `plugin.json`) bundling 13 plugins and 75 agent skills for CI, code review, PR workflows,…
 - [[davidondrej-skills]] — is David Ondrej's personal Agent Skills repository (1.5k+ stars, MIT) — 31 skills across agent-orchestration, skill-authoring, research-and-web, thinking-and-docs, and ops-and-setup categories.
 - [[davila7-claude-code-templates]] — is a large, actively maintained CLI (`npx claude-code-templates`) and catalog for Claude Code — 600+ agents, 200+ commands, 55+ MCP integrations, plus hooks, settings, skills, and autonomous "loops…
 - [[googleworkspace-cli]] — is `gws`, a Rust CLI that exposes the whole Google Workspace API surface (Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin) by reading Google's own Discovery Service at runtime instead of shipping…
@@ -309,4 +310,4 @@ updated: 2026-07-22
 - [[santifer-career-ops]] — documents Career-Ops, an open-source AI-powered job search automation system (52,587 stars, MIT, v1.10.0) that applies the same skill-mode architecture popularized by [[obra-superpowers]] and [[ant…
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 
-_231 sources across 16 categories._
+_232 sources across 16 categories._
