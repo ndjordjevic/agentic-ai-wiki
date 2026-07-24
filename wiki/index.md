@@ -36,9 +36,9 @@ created: 2026-04-28
 | [[reseek.net]] | web | standard | 2026-05-13 | |
 | [[nidhinjs-prompt-master]] | github | standard | 2026-05-13 | |
 | [[9d5bzxVsocw-anthropic-just-dropped-the-new-blueprint]] | youtube | standard | 2026-05-14 | |
-| [[anthropic.com]] | web | deep | 2026-05-14 | |
-| [[anthropic.com-messages]] | web | deep | 2026-05-14 | |
-| [[anthropic.com-managed-agents]] | web | deep | 2026-05-14 | |
+| [[anthropic.com]] | web | deep | 2026-05-14 | Anthropic's developer platform (Messages API + Managed Agents) and its harness-design research for long-running autonomous agents |
+| [[anthropic.com-messages]] | web | deep | 2026-05-14 | Direct-access Messages API: custom agent loops, tool use, extended thinking, and the Agent Skills system |
+| [[anthropic.com-managed-agents]] | web | deep | 2026-05-14 | Pre-built managed agent harness: multi-agent orchestration, secure containers, and stateful long-running sessions |
 | [[gsd-build-get-shit-done]] | github | standard | 2026-05-14 | |
 | [[obra-superpowers]] | github | standard | 2026-05-14 | |
 | [[coleam00-archon]] | github | standard | 2026-05-14 | |

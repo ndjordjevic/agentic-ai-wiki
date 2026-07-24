@@ -43,6 +43,8 @@ gh auth switch -u ndjordjevic
 
 Then push to `origin` (remote: `https://github.com/ndjordjevic/agentic-ai-wiki.git`). If push fails with a 403 naming a different user, switch accounts and retry — do not leave the push failed without attempting the switch.
 
+**Prefer the `wiki-commit-push` skill over raw git commands.** When the human asks to commit and push wiki changes — whether by typing `/wiki-commit-push` or just saying "commit and push", "commit that", etc. — after a `/pin-llm-wiki` subcommand printed a suggested commit message, invoke the `wiki-commit-push` skill (`.claude/skills/wiki-commit-push/` or its Copilot equivalent) instead of running `git add`/`git commit`/`git push` by hand. It stages everything, commits with the suggested message, handles the `ndjordjevic` account switch automatically, and pushes — one call instead of re-deriving the same sequence each time.
+
 ---
 
 ## Wiki structure
