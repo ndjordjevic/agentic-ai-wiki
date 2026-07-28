@@ -8,6 +8,23 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-28 | ingest | mastra.ai | Y Combinator-backed TypeScript agent framework — agents, workflows, memory, MCP servers, Studio UI (companion: mastra-ai/mastra)
+
+- Created: wiki/sources/mastra.ai.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/mastra-ai-mastra.md
+
+## 2026-07-28 | ingest | agno.com | Open-source multi-agent SDK + self-hosted AgentOS production runtime (companion: agno-agi/agno)
+
+- Created: wiki/sources/agno.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/agno-agi-agno.md
+
+## 2026-07-28 | ingest | microsoft-semantic-kernel | Microsoft's agent-orchestration SDK (.NET/Python/Java) — now deprecated in favor of Microsoft Agent Framework
+
+- Created: wiki/sources/microsoft-semantic-kernel.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-07-24 | ingest | cursor-plugins | Official Cursor plugin marketplace: 13 plugins, 75 agent skills for CI, code review, PR workflows, and engineering discipline
 
 - Created: wiki/sources/cursor-plugins.md

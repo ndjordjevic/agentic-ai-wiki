@@ -250,3 +250,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/openai/symphony <!-- ingested 2026-07-22 -->
 - [x] https://github.com/langflow-ai/langflow <!-- ingested 2026-07-22 -->
 - [x] https://github.com/cursor/plugins <!-- ingested 2026-07-24 -->
+- [x] https://github.com/microsoft/semantic-kernel <!-- ingested 2026-07-28 -->
+- [x] https://www.agno.com/ <!-- ingested 2026-07-28 -->
+- [x] https://mastra.ai/ <!-- ingested 2026-07-28 -->

@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-07-24
+updated: 2026-07-28
 ---
 
 
@@ -474,3 +474,9 @@ updated: 2026-07-24
 [[langflow-ai-langflow]] is Langflow's OSS codebase (152k+ stars), a visual flow-graph platform for building and deploying AI agents/workflows that unifies UI-first authoring with production execution surfaces: each project can expose flows as REST/API endpoints and as MCP tools. It sits at the intersection of low-code automation platforms like [[n8n.io]], framework-level orchestration primitives like [[langchain.com-langgraph]], and agent-focused development stacks like [[crewai.com]], with a distinctive emphasis on dual MCP roles (Langflow as both MCP server and MCP client) and Python extensibility through custom components.
 
 [[cursor-plugins]] is the official Cursor plugin marketplace repo: a two-level manifest spec (`marketplace.json` + per-plugin `plugin.json`) bundling 13 plugins and 75 agent skills for CI, code review, PR workflows, learning support, and multi-agent orchestration via the Cursor SDK. Its `pstack` plugin alone contributes 38 skills, including a library of 22 standalone "principle" skills that auto-apply engineering discipline (root-cause fixes, idempotent operations, type-system discipline) rather than being explicitly invoked. As a concrete large-scale plugin marketplace with schema validation in CI, it makes a useful architectural comparison point against [[anthropics-skills]]'s skill-only distribution model.
+
+[[microsoft-semantic-kernel]] is Microsoft's earlier agent-orchestration SDK — a polyglot (.NET/Python/Java) "kernel" that composes native-code and prompt-template plugins into pipelines and supports multi-agent triage composition. Its README now marks it deprecated in favor of [[microsoft-agent-framework]], SK's declared enterprise-ready successor (with an official migration guide), making SK's chief remaining value in this wiki architectural/historical: it is the direct conceptual predecessor to MAF's plugin and agent-composition model, alongside [[microsoft-autogen]] as Microsoft's other merged-in framework.
+
+[[agno.com]] is an open-source Python multi-agent framework (41,000+ stars) that pairs a lightweight agent/team-authoring SDK with **AgentOS**, a self-hostable, framework-agnostic FastAPI runtime — it can serve production agents built with Agno itself, the Claude Agent SDK, [[langchain.com-langgraph]], or DSPy behind a shared API surface with JWT-based RBAC, observability, and a web control plane. Where [[crewai.com]] and [[microsoft-agent-framework]] bundle authoring and production concerns into one framework, Agno's split between "build with the SDK" and "run with AgentOS" makes it a useful comparison point for evaluating agent-runtime portability across frameworks.
+
+[[mastra.ai]] is a Y Combinator-backed, TypeScript-native agent framework (26,600+ stars, dual Apache-2.0/Enterprise license) filling a gap this wiki's largely Python-first framework landscape otherwise leaves open — it offers typed agents, graph-based Workflows, Observational Memory, human-in-the-loop suspend/resume, MCP server authoring, and a built-in local Studio UI for building and debugging agents. Its target audience (React/Next.js/Node teams) and Workflow model make it a natural point of comparison to [[langchain.com-langgraph]]'s state-graph orchestration and to [[strandsagents.com]]'s TypeScript-plus-Python dual-language support.

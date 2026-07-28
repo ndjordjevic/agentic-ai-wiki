@@ -244,5 +244,8 @@ created: 2026-04-28
 | [[openai-symphony]] | github | standard | 2026-07-22 | Open-source issue-tracker orchestrator for isolated autonomous coding-agent runs |
 | [[langflow-ai-langflow]] | github | standard | 2026-07-22 | Visual flow builder for AI agents/workflows with built-in API and MCP deployment surfaces |
 | [[cursor-plugins]] | github | standard | 2026-07-24 | Official Cursor plugin marketplace: 13 plugins, 75 agent skills for CI, code review, PR workflows, and engineering discipline |
+| [[microsoft-semantic-kernel]] | github | standard | 2026-07-28 | Microsoft's agent-orchestration SDK (.NET/Python/Java) with plugin/kernel-function model — now deprecated in favor of Microsoft Agent Framework |
+| [[agno.com]] | web | standard | 2026-07-28 | companion: agno-agi/agno — multi-agent SDK + AgentOS self-hosted production runtime |
+| [[mastra.ai]] | web | standard | 2026-07-28 | companion: mastra-ai/mastra — TypeScript agent framework with workflows, memory, MCP servers, and Studio UI |
 
-_232 sources ingested._
+_235 sources ingested._

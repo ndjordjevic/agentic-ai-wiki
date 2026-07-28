@@ -157,3 +157,6 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/openai-symphony.md | openai/symphony | 26126 | main | v0.0.1 | 2026-07-22 | |
 | raw/github/langflow-ai-langflow.md | langflow-ai/langflow | 152186 | main | v1.10.2 | 2026-07-22 | |
 | raw/github/cursor-plugins.md | cursor/plugins | 2428 | main | none | 2026-07-24 | |
+| raw/github/microsoft-semantic-kernel.md | microsoft/semantic-kernel | 28378 | main | dotnet-1.78.0 | 2026-07-28 | |
+| raw/github/agno-agi-agno.md | agno-agi/agno | 41460 | main | v2.8.5 | 2026-07-28 | |
+| raw/github/mastra-ai-mastra.md | mastra-ai/mastra | 26626 | main | @mastra/core@1.52.0 | 2026-07-28 | |

@@ -127,3 +127,5 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/gemini-enterprise-agent-platform.md | gemini-enterprise-agent-platform | 1 | 2026-07-14 | Single product page (formerly Vertex AI) |
 | raw/web/playwright.dev-agent-cli.md | playwright.dev-agent-cli | 6 | 2026-07-14 | Introduction + 5 docs pages (Agent CLI section) |
 | raw/web/eve.dev.md | eve.dev | 7 | 2026-07-21 | companion: vercel/eve |
+| raw/web/agno.com.md | agno.com | 5 | 2026-07-28 | companion: agno-agi/agno |
+| raw/web/mastra.ai.md | mastra.ai | 4 | 2026-07-28 | companion: mastra-ai/mastra |
