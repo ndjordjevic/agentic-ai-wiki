@@ -8,7 +8,7 @@ raw_files:
   - ../../raw/web/strandsagents.com.md
   - ../../raw/github/strands-agents-sdk-python.md
 tags: [agent-sdk, agent-loop, tool-calling, multi-agent, model-agnostic, hooks, mcp, amazon-bedrock]
-related: [langchain.com, litellm.ai, crewai.com, pydantic.dev, factory.ai, microsoft-playwright-mcp, pi.dev, microsoft-autogen, microsoft-agent-framework, aaif-goose-goose, zapier.com, joinoasis.com, agentixlabs.com, adk.dev, google-adk-go, warp.dev, developers.openai.com, elevenlabs.io, ollama-ollama, pydantic-pydantic-ai, microsoft-semantic-kernel, agno.com, mastra.ai]
+related: [langchain.com, litellm.ai, crewai.com, pydantic.dev, factory.ai, microsoft-playwright-mcp, pi.dev, microsoft-autogen, microsoft-agent-framework, aaif-goose-goose, zapier.com, joinoasis.com, agentixlabs.com, adk.dev, google-adk-go, warp.dev, developers.openai.com, elevenlabs.io, ollama-ollama, pydantic-pydantic-ai, microsoft-semantic-kernel, agno.com, mastra.ai, ai-sdk.dev]
 product: strandsagents
 detail_level: standard
 created: 2026-05-21

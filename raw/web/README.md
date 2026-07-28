@@ -129,3 +129,5 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/eve.dev.md | eve.dev | 7 | 2026-07-21 | companion: vercel/eve |
 | raw/web/agno.com.md | agno.com | 5 | 2026-07-28 | companion: agno-agi/agno |
 | raw/web/mastra.ai.md | mastra.ai | 4 | 2026-07-28 | companion: mastra-ai/mastra |
+| raw/web/nvidia.com.md | nvidia.com | 4 | 2026-07-28 | NeMo agent platform product page; no single companion repo (org-only GitHub link) |
+| raw/web/ai-sdk.dev.md | ai-sdk.dev | 4 | 2026-07-28 | companion: vercel/ai (resolved via homepageUrl match) |

@@ -15,10 +15,11 @@ related:
   - litellm.ai
   - openrouter.ai
   - huggingface.co
+  - nvidia.com
 product: nvidia-nemotron-3-ultra
 detail_level: standard
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-07-28
 ---
 
 Decrypt news coverage of Nvidia's Computex 2026 launch of Nemotron 3 Ultra — a 550B-parameter (55B active) open-weight mixture-of-experts model positioned as the top U.S. open model for agentic workloads, with public weights, released training recipes, 1M-token context, and 300+ tokens/sec inference on DeepInfra — while still trailing Moonshot AI's Kimi K2.6 on Artificial Analysis's Intelligence Index.

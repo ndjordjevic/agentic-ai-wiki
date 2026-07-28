@@ -253,3 +253,5 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/microsoft/semantic-kernel <!-- ingested 2026-07-28 -->
 - [x] https://www.agno.com/ <!-- ingested 2026-07-28 -->
 - [x] https://mastra.ai/ <!-- ingested 2026-07-28 -->
+- [x] https://www.nvidia.com/en-eu/ai-data-science/products/nemo/ <!-- ingested 2026-07-28 -->
+- [x] https://ai-sdk.dev/ <!-- ingested 2026-07-28 -->

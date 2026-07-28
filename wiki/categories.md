@@ -13,7 +13,7 @@ updated: 2026-07-28
 
 ## Categories
 
-- [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (26)
+- [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (27)
 - [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (34)
 - [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (15)
 - [[#MCP servers & integrations|MCP servers & integrations]] (12)
@@ -22,7 +22,7 @@ updated: 2026-07-28
 - [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (36)
 - [[#Browser & web automation|Browser & web automation]] (8)
 - [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (8)
-- [[#Model infra, ML & providers|Model infra, ML & providers]] (11)
+- [[#Model infra, ML & providers|Model infra, ML & providers]] (12)
 - [[#Workflow automation & no-code platforms|Workflow automation & no-code platforms]] (10)
 - [[#Design & UI generation|Design & UI generation]] (10)
 - [[#Media, voice & content|Media, voice & content]] (7)
@@ -35,6 +35,7 @@ updated: 2026-07-28
 - [[adk.dev]] — documents Google's **Agent Development Kit (ADK)** — the open-source, code-first agent framework underlying [[agents-cli]]. Available in Python, TypeScript, Go, Java, and Kotlin, ADK is model-agnos…
 - [[agents-cli]] — documents Google's **agents-cli** — a CLI and seven-skill package for the Gemini Enterprise Agent Platform that turns coding agents (Claude Code, Codex, Antigravity CLI, etc.) into experts at build…
 - [[agno.com]] — is an open-source Python multi-agent framework (41,000+ stars) that pairs a lightweight agent/team-authoring SDK with **AgentOS**, a self-hostable, framework-agnostic FastAPI runtime — it can serve…
+- [[ai-sdk.dev]] — is Vercel's provider-agnostic TypeScript toolkit (`vercel/ai`, 25,800+ stars, 18.7M weekly downloads) for building AI applications and agents — a unified model API, structured-output and tool-calli…
 - [[anthropic.com]] — captures Anthropic's developer platform and original harness research.
 - [[anthropic.com-managed-agents]] — documents Claude Managed Agents: a fully managed agentic harness with secure cloud containers, automatic context compaction, server-side session persistence, and multi-agent thread orchestration.
 - [[anthropic.com-messages]] — documents the Messages API: direct model access for custom agent loops, tool use, function calling, extended thinking, batch processing, and the Agent Skills system.
@@ -241,6 +242,7 @@ updated: 2026-07-28
 - [[litellm.ai]] — introduces LiteLLM, an open-source AI Gateway (Y Combinator W23, 47k+ GitHub stars) that gives teams a single OpenAI-compatible interface to 100+ LLM providers — OpenAI, Anthropic, Bedrock, Gemini,…
 - [[mozilla-ai-any-llm]] — is Mozilla.ai's unified Python interface for calling any LLM provider through a single `completion()`/`AnyLLM` API, covering 50+ providers under `src/any_llm/providers/`. It occupies the same provi…
 - [[nvidia-nemotron-3-ultra]] — summarizes Decrypt's June 2026 coverage of Nvidia's Nemotron 3 Ultra launch at Computex: a 550B-parameter (55B active) open-weight mixture-of-experts model with public weights, 1M-token context, Ma…
+- [[nvidia.com]] — documents NVIDIA NeMo, an "agent-first" open suite of libraries, microservices, and foundation models spanning the full agent lifecycle — data curation, fine-tuning, guardrails, deployment via NVID…
 - [[ollama-ollama]] — documents Ollama (`ollama/ollama`, 175k+ stars, MIT, Go) — the default local LLM runtime for running open-weight models on macOS, Windows, and Linux.
 - [[openrouter.ai]] — introduces OpenRouter, a hosted API gateway that gives developers and agentic applications unified access to 400+ AI models from 60+ providers through a single OpenAI-compatible endpoint.
 - [[pytorch.org]] — documents PyTorch, the dominant open-source deep learning framework (~100k GitHub stars, v2.12.0, BSD-style license, Linux Foundation). PyTorch provides GPU-accelerated tensor computation and a dyn…
@@ -313,4 +315,4 @@ updated: 2026-07-28
 - [[santifer-career-ops]] — documents Career-Ops, an open-source AI-powered job search automation system (52,587 stars, MIT, v1.10.0) that applies the same skill-mode architecture popularized by [[obra-superpowers]] and [[ant…
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 
-_235 sources across 16 categories._
+_237 sources across 16 categories._

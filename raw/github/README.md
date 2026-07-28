@@ -160,3 +160,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/microsoft-semantic-kernel.md | microsoft/semantic-kernel | 28378 | main | dotnet-1.78.0 | 2026-07-28 | |
 | raw/github/agno-agi-agno.md | agno-agi/agno | 41460 | main | v2.8.5 | 2026-07-28 | |
 | raw/github/mastra-ai-mastra.md | mastra-ai/mastra | 26626 | main | @mastra/core@1.52.0 | 2026-07-28 | |
+| raw/github/vercel-ai.md | vercel/ai | 25844 | main | @ai-sdk/workflow-harness@1.0.46 | 2026-07-28 | |

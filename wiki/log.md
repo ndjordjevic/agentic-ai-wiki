@@ -8,6 +8,17 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-28 | ingest | ai-sdk.dev | Vercel's TypeScript AI toolkit — unified provider API, ToolLoopAgent, AI SDK UI (companion: vercel/ai)
+
+- Created: wiki/sources/ai-sdk.dev.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/vercel-ai.md
+
+## 2026-07-28 | ingest | nvidia.com | NVIDIA NeMo — agent-first lifecycle suite (build/deploy/optimize): data curation, fine-tuning, guardrails, NIM inference
+
+- Created: wiki/sources/nvidia.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-07-28 | ingest | mastra.ai | Y Combinator-backed TypeScript agent framework — agents, workflows, memory, MCP servers, Studio UI (companion: mastra-ai/mastra)
 
 - Created: wiki/sources/mastra.ai.md

@@ -43,6 +43,7 @@ related:
   - microsoft-semantic-kernel
   - agno.com
   - mastra.ai
+  - ai-sdk.dev
 product: crewai
 detail_level: standard
 created: 2026-05-22

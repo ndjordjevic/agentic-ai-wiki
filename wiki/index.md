@@ -247,5 +247,7 @@ created: 2026-04-28
 | [[microsoft-semantic-kernel]] | github | standard | 2026-07-28 | Microsoft's agent-orchestration SDK (.NET/Python/Java) with plugin/kernel-function model — now deprecated in favor of Microsoft Agent Framework |
 | [[agno.com]] | web | standard | 2026-07-28 | companion: agno-agi/agno — multi-agent SDK + AgentOS self-hosted production runtime |
 | [[mastra.ai]] | web | standard | 2026-07-28 | companion: mastra-ai/mastra — TypeScript agent framework with workflows, memory, MCP servers, and Studio UI |
+| [[nvidia.com]] | web | standard | 2026-07-28 | NVIDIA NeMo — agent-first lifecycle suite (build/deploy/optimize) spanning data curation, fine-tuning, guardrails, and NIM inference |
+| [[ai-sdk.dev]] | web | standard | 2026-07-28 | companion: vercel/ai — TypeScript AI toolkit with unified provider API, ToolLoopAgent, and AI SDK UI hooks |
 
-_235 sources ingested._
+_237 sources ingested._

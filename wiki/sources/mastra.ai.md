@@ -23,6 +23,7 @@ related:
   - langchain.com-langgraph
   - microsoft-agent-framework
   - pydantic-pydantic-ai
+  - ai-sdk.dev
 product: mastra
 detail_level: standard
 created: 2026-07-28
