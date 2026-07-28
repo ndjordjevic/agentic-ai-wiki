@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-28 | ingest | uditakhourii-adhd | Agent skill for parallel divergent ideation — isolated cognitive-frame fan-out + mechanical generator-critic split
+
+- Created: wiki/sources/uditakhourii-adhd.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-07-28 | ingest | docker-sandboxes | Docker Sandboxes — microVM isolation for coding agents in YOLO mode (companion: docker/sbx-releases)
 
 - Created: wiki/sources/docker-sandboxes.md

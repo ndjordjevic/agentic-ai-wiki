@@ -15,7 +15,7 @@ updated: 2026-07-28
 
 - [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (27)
 - [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (34)
-- [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (15)
+- [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (16)
 - [[#MCP servers & integrations|MCP servers & integrations]] (12)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (14)
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (21)
@@ -113,6 +113,7 @@ updated: 2026-07-28
 - [[phuryn-pm-skills]] — is Paweł Huryn's PM Skills Marketplace (22k+ stars, MIT, v2.1.0) — the largest structured product-management plugin ecosystem for Claude Code and Cowork: 68 skills and 42 slash commands across nine…
 - [[skills.sh]] — covers the open agent skills directory and ecosystem built by Vercel, which provides the de-facto distribution layer for SKILL.md-based capability modules across 50+ AI coding agents.
 - [[tomevault.io]] — introduces TomeVault, a cross-platform index, converter, and trust layer for AI instruction files — indexing 117,590+ CLAUDE.md, AGENTS.md, SKILL.md, GEMINI.md, .cursorrules, Windsurf rules, and co…
+- [[uditakhourii-adhd]] — is an open-source agent skill (2,450+ stars) that reframes premature convergence in LLM reasoning as an architecture problem rather than a prompting one: it fans out N fully isolated Claude Agent S…
 - [[voltagent-awesome-agent-skills]] — is the most-contributed curated list of agent skills in the ecosystem (24,603 stars, MIT), aggregating 1,424+ hand-picked SKILL.md-based capability modules from official development teams and the c…
 
 ## MCP servers & integrations
@@ -316,4 +317,4 @@ updated: 2026-07-28
 - [[santifer-career-ops]] — documents Career-Ops, an open-source AI-powered job search automation system (52,587 stars, MIT, v1.10.0) that applies the same skill-mode architecture popularized by [[obra-superpowers]] and [[ant…
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 
-_238 sources across 16 categories._
+_239 sources across 16 categories._

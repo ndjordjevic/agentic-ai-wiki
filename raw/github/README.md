@@ -162,3 +162,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/mastra-ai-mastra.md | mastra-ai/mastra | 26626 | main | @mastra/core@1.52.0 | 2026-07-28 | |
 | raw/github/vercel-ai.md | vercel/ai | 25844 | main | @ai-sdk/workflow-harness@1.0.46 | 2026-07-28 | |
 | raw/github/docker-sbx-releases.md | docker/sbx-releases | 252 | main | v0.37.0 | 2026-07-28 | |
+| raw/github/uditakhourii-adhd.md | uditakhourii/adhd | 2450 | main | v0.1.4 | 2026-07-28 | |

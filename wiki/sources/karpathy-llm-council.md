@@ -12,10 +12,11 @@ tags:
   - vibe-coding
 related:
   - openrouter.ai
+  - uditakhourii-adhd
 product: llm-council
 detail_level: standard
 created: 2026-07-20
-updated: 2026-07-20
+updated: 2026-07-28
 ---
 
 LLM Council is Andrej Karpathy's local, two-tier web app for "ensembling" frontier models on a single prompt: it fans out a question to multiple LLMs via OpenRouter, runs a second-pass peer review where each model ranks anonymized answers, and then has a designated chairman model synthesize the final response. It is intentionally positioned as a non-production Saturday hack ("99% vibe coded"), but it is a practical reference implementation for multi-model adjudication loops and side-by-side answer inspection.

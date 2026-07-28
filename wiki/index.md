@@ -250,5 +250,6 @@ created: 2026-04-28
 | [[nvidia.com]] | web | standard | 2026-07-28 | NVIDIA NeMo — agent-first lifecycle suite (build/deploy/optimize) spanning data curation, fine-tuning, guardrails, and NIM inference |
 | [[ai-sdk.dev]] | web | standard | 2026-07-28 | companion: vercel/ai — TypeScript AI toolkit with unified provider API, ToolLoopAgent, and AI SDK UI hooks |
 | [[docker-sandboxes]] | web | standard | 2026-07-28 | companion: docker/sbx-releases — Docker Sandboxes: microVM isolation for coding agents running in YOLO mode |
+| [[uditakhourii-adhd]] | github | standard | 2026-07-28 | Parallel divergent-ideation agent skill — isolated cognitive-frame fan-out + mechanical generator-critic split |
 
-_238 sources ingested._
+_239 sources ingested._
