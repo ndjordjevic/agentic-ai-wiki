@@ -251,5 +251,7 @@ created: 2026-04-28
 | [[ai-sdk.dev]] | web | standard | 2026-07-28 | companion: vercel/ai — TypeScript AI toolkit with unified provider API, ToolLoopAgent, and AI SDK UI hooks |
 | [[docker-sandboxes]] | web | standard | 2026-07-28 | companion: docker/sbx-releases — Docker Sandboxes: microVM isolation for coding agents running in YOLO mode |
 | [[uditakhourii-adhd]] | github | standard | 2026-07-28 | Parallel divergent-ideation agent skill — isolated cognitive-frame fan-out + mechanical generator-critic split |
+| [[Nutlope-hallmark]] | github | standard | 2026-07-28 | Anti-AI-slop design skill — macrostructure catalog + 57 slop-test gates for Claude Code, Cursor, Codex |
+| [[router-for-me-CLIProxyAPI]] | github | standard | 2026-07-28 | CLI OAuth-to-API proxy — wraps Claude Code/Codex/Antigravity/Grok Build subscriptions as OpenAI/Gemini/Claude-compatible endpoints |
 
-_239 sources ingested._
+_241 sources ingested._

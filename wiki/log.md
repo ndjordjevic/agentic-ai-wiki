@@ -8,6 +8,16 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-28 | ingest | router-for-me-CLIProxyAPI | CLI OAuth-to-API proxy — wraps Claude Code/Codex/Antigravity/Grok Build subscriptions as OpenAI/Gemini/Claude-compatible endpoints
+
+- Created: wiki/sources/router-for-me-CLIProxyAPI.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-07-28 | ingest | Nutlope-hallmark | Anti-AI-slop design skill — macrostructure catalog + 57 slop-test gates for Claude Code, Cursor, Codex
+
+- Created: wiki/sources/Nutlope-hallmark.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-07-28 | ingest | uditakhourii-adhd | Agent skill for parallel divergent ideation — isolated cognitive-frame fan-out + mechanical generator-critic split
 
 - Created: wiki/sources/uditakhourii-adhd.md

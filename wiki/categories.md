@@ -22,9 +22,9 @@ updated: 2026-07-28
 - [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (36)
 - [[#Browser & web automation|Browser & web automation]] (8)
 - [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (8)
-- [[#Model infra, ML & providers|Model infra, ML & providers]] (12)
+- [[#Model infra, ML & providers|Model infra, ML & providers]] (13)
 - [[#Workflow automation & no-code platforms|Workflow automation & no-code platforms]] (10)
-- [[#Design & UI generation|Design & UI generation]] (10)
+- [[#Design & UI generation|Design & UI generation]] (11)
 - [[#Media, voice & content|Media, voice & content]] (7)
 - [[#Infra, hosting, DB & observability|Infra, hosting, DB & observability]] (13)
 - [[#Security|Security]] (3)
@@ -247,6 +247,7 @@ updated: 2026-07-28
 - [[ollama-ollama]] — documents Ollama (`ollama/ollama`, 175k+ stars, MIT, Go) — the default local LLM runtime for running open-weight models on macOS, Windows, and Linux.
 - [[openrouter.ai]] — introduces OpenRouter, a hosted API gateway that gives developers and agentic applications unified access to 400+ AI models from 60+ providers through a single OpenAI-compatible endpoint.
 - [[pytorch.org]] — documents PyTorch, the dominant open-source deep learning framework (~100k GitHub stars, v2.12.0, BSD-style license, Linux Foundation). PyTorch provides GPU-accelerated tensor computation and a dyn…
+- [[router-for-me-CLIProxyAPI]] — is a Go proxy server (45,200+ stars) that exposes OAuth-authenticated CLI subscriptions — Claude Code, ChatGPT Codex, Antigravity, Grok Build, Kimi — as OpenAI/Gemini/Claude/Codex-compatible API en…
 
 ## Workflow automation & no-code platforms
 
@@ -268,6 +269,7 @@ updated: 2026-07-28
 - [[duply.ai]] — is a curated library of 312+ real-world design systems, each published as a copy-paste-ready `DESIGN.md` file (structured color/typography/spacing/radius/component tokens plus a written analysis) s…
 - [[leonxlnx-taste-skill]] — is a family of thirteen Agent Skills targeting a specific complaint about AI-built frontends — that they default to generic, boilerplate-looking layouts.
 - [[motionsites.ai]] — is a paid library of copy-paste AI design prompts — hero sections, full landing pages, animated backgrounds, and gradients — meant to be pasted into an AI website builder like Bolt.new rather than…
+- [[Nutlope-hallmark]] — is Together AI's open-source design skill (18,900+ stars) for Claude Code, Cursor, and Codex, aimed squarely at the "every AI-generated page looks the same" problem: it picks a macrostructure per b…
 - [[open-design.ai]] — introduces Open Design (62,118 stars, Apache-2.0, v0.9.0), the open-source, local-first alternative to Claude Design — a complete agent-native design platform that turns any of 21+ supported coding…
 - [[oso95-scroll-world]] — is an Agent Skill that builds Apple-style scroll-scrubbed "fly through the world" landing pages for any brand: a camera flies into one generated diorama scene after another with no cuts, driven pur…
 - [[pbakaus-impeccable]] — is Impeccable (44K+ stars, Apache 2.0, Skill 3.9.1) — Paul Bakaus's design language for AI coding agents, evolved from Anthropic's `frontend-design` skill in [[anthropics-skills]]. One `/impeccable…
@@ -317,4 +319,4 @@ updated: 2026-07-28
 - [[santifer-career-ops]] — documents Career-Ops, an open-source AI-powered job search automation system (52,587 stars, MIT, v1.10.0) that applies the same skill-mode architecture popularized by [[obra-superpowers]] and [[ant…
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 
-_239 sources across 16 categories._
+_241 sources across 16 categories._

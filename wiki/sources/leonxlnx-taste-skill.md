@@ -17,10 +17,11 @@ related:
   - open-design.ai
   - oso95-scroll-world
   - skills.sh
+  - Nutlope-hallmark
 product: taste-skill
 detail_level: standard
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-28
 ---
 
 Taste Skill (63,152 stars, MIT) is a family of thirteen portable Agent Skills — ten implementation skills that output frontend code and three image-generation skills that output design reference boards — aimed at a specific, named failure mode: AI-built interfaces that default to generic, "boilerplate-looking" layouts. Rather than one skill, it's a menu of stylistic variants (soft, minimalist, brutalist, Stitch-compatible) plus workflow skills (redesign audit, image-to-code, full-output enforcement), with the flagship `taste-skill` (v2, install name `design-taste-frontend`) exposing three 1-10 tunable dials — layout variance, motion intensity, visual density — instead of a single fixed aesthetic.

@@ -50,6 +50,7 @@ related:
   - davila7-claude-code-templates
   - cursor-plugins
   - uditakhourii-adhd
+  - Nutlope-hallmark
 product: skills
 detail_level: standard
 created: 2026-05-11

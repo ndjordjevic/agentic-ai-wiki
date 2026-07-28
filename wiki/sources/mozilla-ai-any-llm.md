@@ -14,10 +14,11 @@ related:
   - litellm.ai
   - openrouter.ai
   - pydantic-pydantic-ai
+  - router-for-me-CLIProxyAPI
 product: any-llm
 detail_level: standard
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-07-28
 ---
 
 any-llm is a Mozilla.ai open-source Python SDK that provides a single, unified interface for calling any LLM provider — OpenAI, Anthropic, Azure/Microsoft Foundry, Mistral, Ollama, and 45+ others — without changing application code between providers. Unlike LiteLLM ([[litellm.ai]]), which reimplements each provider's request/response format itself, any-llm deliberately wraps each provider's **official SDK**, trading breadth of custom translation logic for compatibility guarantees and lower maintenance risk. It positions itself as a drop-in migration target for existing LiteLLM users and powers Mozilla.ai's own agent framework, any-agent.

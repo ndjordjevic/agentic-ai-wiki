@@ -257,3 +257,5 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://ai-sdk.dev/ <!-- ingested 2026-07-28 -->
 - [x] https://www.docker.com/products/docker-sandboxes/ <!-- ingested 2026-07-28 -->
 - [x] https://github.com/uditakhourii/adhd <!-- ingested 2026-07-28 -->
+- [x] https://github.com/Nutlope/hallmark <!-- ingested 2026-07-28 -->
+- [x] https://github.com/router-for-me/CLIProxyAPI <!-- ingested 2026-07-28 -->
