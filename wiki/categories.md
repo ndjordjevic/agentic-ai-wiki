@@ -26,7 +26,7 @@ updated: 2026-07-28
 - [[#Workflow automation & no-code platforms|Workflow automation & no-code platforms]] (10)
 - [[#Design & UI generation|Design & UI generation]] (10)
 - [[#Media, voice & content|Media, voice & content]] (7)
-- [[#Infra, hosting, DB & observability|Infra, hosting, DB & observability]] (12)
+- [[#Infra, hosting, DB & observability|Infra, hosting, DB & observability]] (13)
 - [[#Security|Security]] (3)
 - [[#Business, career & learning|Business, career & learning]] (8)
 
@@ -286,6 +286,7 @@ updated: 2026-07-28
 ## Infra, hosting, DB & observability
 
 - [[determinate.systems]] — documents Determinate Nix Installer — the industry-standard, planner-based Rust tool for installing Nix and enabling flakes on macOS, Linux, WSL, Docker, and CI pipelines, with over 7 million insta…
+- [[docker-sandboxes]] — documents Docker Sandboxes, a product for running coding agents (Claude Code, Gemini CLI, Copilot CLI, Codex, OpenCode, Kiro) inside disposable, hypervisor-isolated microVMs so they can operate in…
 - [[docusaurus.io]] — documents Docusaurus (v3.10.1, 65K+ GitHub stars, MIT) — Meta's React static-site generator built specifically for documentation websites.
 - [[hostinger.com]] — is a global web hosting provider (5M+ clients, 150+ countries) that has evolved into an AI-augmented full-stack web platform combining shared hosting, VPS, cloud, domain registration, and AI tooling.
 - [[kunchenguid-dotfiles]] — is a complete, reproducible macOS developer environment managed with nix-darwin, home-manager, and nix-homebrew — designed for agentic engineering.
@@ -315,4 +316,4 @@ updated: 2026-07-28
 - [[santifer-career-ops]] — documents Career-Ops, an open-source AI-powered job search automation system (52,587 stars, MIT, v1.10.0) that applies the same skill-mode architecture popularized by [[obra-superpowers]] and [[ant…
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 
-_237 sources across 16 categories._
+_238 sources across 16 categories._

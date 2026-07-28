@@ -13,11 +13,12 @@ tags:
 product: cognition
 detail_level: standard
 created: 2026-06-10
-updated: 2026-07-13
+updated: 2026-07-28
 related:
   - factory.ai
   - warp.dev
   - deepwiki.com
+  - docker-sandboxes
   - kiro.dev
   - dark-factory-autonomous-ai-codebase
 ---

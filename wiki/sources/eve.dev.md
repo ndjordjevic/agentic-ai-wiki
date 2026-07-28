@@ -19,10 +19,11 @@ related:
   - adk.dev
   - pydantic-pydantic-ai
   - coleam00-eve-analyst
+  - docker-sandboxes
 product: eve
 detail_level: standard
 created: 2026-07-21
-updated: 2026-07-21
+updated: 2026-07-28
 ---
 
 `eve.dev` documents **eve**, Vercel’s filesystem-first framework for durable agents: agents are authored as ordinary folders (`instructions`, `tools`, `skills`, `channels`, `connections`, `subagents`, `schedules`) and run through a built-in durable execution harness with pause/resume, streaming, and multi-channel delivery. Paired with its companion repo, it provides both product-level framing and concrete implementation/runtime semantics.

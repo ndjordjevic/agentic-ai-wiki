@@ -249,5 +249,6 @@ created: 2026-04-28
 | [[mastra.ai]] | web | standard | 2026-07-28 | companion: mastra-ai/mastra — TypeScript agent framework with workflows, memory, MCP servers, and Studio UI |
 | [[nvidia.com]] | web | standard | 2026-07-28 | NVIDIA NeMo — agent-first lifecycle suite (build/deploy/optimize) spanning data curation, fine-tuning, guardrails, and NIM inference |
 | [[ai-sdk.dev]] | web | standard | 2026-07-28 | companion: vercel/ai — TypeScript AI toolkit with unified provider API, ToolLoopAgent, and AI SDK UI hooks |
+| [[docker-sandboxes]] | web | standard | 2026-07-28 | companion: docker/sbx-releases — Docker Sandboxes: microVM isolation for coding agents running in YOLO mode |
 
-_237 sources ingested._
+_238 sources ingested._
