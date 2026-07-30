@@ -254,5 +254,8 @@ created: 2026-04-28
 | [[Nutlope-hallmark]] | github | standard | 2026-07-28 | Anti-AI-slop design skill — macrostructure catalog + 57 slop-test gates for Claude Code, Cursor, Codex |
 | [[router-for-me-CLIProxyAPI]] | github | standard | 2026-07-28 | CLI OAuth-to-API proxy — wraps Claude Code/Codex/Antigravity/Grok Build subscriptions as OpenAI/Gemini/Claude-compatible endpoints |
 | [[serper.dev]] | web | standard | 2026-07-30 | Google Search API for agents — 10 verticals, credit-based pricing, LangChain/CrewAI/Haystack integrations |
+| [[serpapi.com]] | web | standard | 2026-07-30 | Enterprise SERP API — 100+ engine endpoints, Legal Shield, SOC 2/ISO 27001, MCP integration |
+| [[supadata.ai]] | web | standard | 2026-07-30 | companion: supadata-ai/mcp — video/social-media transcript, metadata, and web scrape/crawl API |
+| [[coleam00-cole-medin-knowledge-base]] | github | standard | 2026-07-30 | Karpathy-style OKF wiki mined from 198 YouTube videos — two-pass extract/canonicalize pipeline, 99% citation integrity |
 
-_242 sources ingested._
+_245 sources ingested._

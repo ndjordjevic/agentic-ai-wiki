@@ -20,6 +20,7 @@ related:
   - anysearch.com
   - integuru.com
   - serper.dev
+  - serpapi.com
 product: brave
 detail_level: standard
 created: 2026-06-09

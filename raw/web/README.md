@@ -133,3 +133,5 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/ai-sdk.dev.md | ai-sdk.dev | 4 | 2026-07-28 | companion: vercel/ai (resolved via homepageUrl match) |
 | raw/web/docker-sandboxes.md | docker-sandboxes | 2 | 2026-07-28 | companion: docker/sbx-releases (Docker Sandboxes product page) |
 | raw/web/serper.dev.md | serper.dev | 1 | 2026-07-30 | |
+| raw/web/serpapi.com.md | serpapi.com | 6 | 2026-07-30 | |
+| raw/web/supadata.ai.md | supadata.ai | 6 | 2026-07-30 | companion: supadata-ai/mcp |

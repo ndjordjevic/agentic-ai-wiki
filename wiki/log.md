@@ -8,6 +8,22 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-30 | ingest | coleam00-cole-medin-knowledge-base | Karpathy-style OKF wiki mined from 198 YouTube videos — two-pass extract/canonicalize pipeline, 99% citation integrity
+
+- Created: wiki/sources/coleam00-cole-medin-knowledge-base.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-07-30 | ingest | supadata.ai | Video/social-media transcript, metadata, and web scrape/crawl API with official MCP server
+
+- Created: wiki/sources/supadata.ai.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/supadata-ai-mcp.md
+
+## 2026-07-30 | ingest | serpapi.com | Enterprise SERP API — 100+ engine endpoints, Legal Shield, SOC 2/ISO 27001, MCP integration
+
+- Created: wiki/sources/serpapi.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-07-30 | ingest | serper.dev | Google Search API for agents — 10 verticals, credit-based pricing, LangChain/CrewAI/Haystack integrations
 
 - Created: wiki/sources/serper.dev.md

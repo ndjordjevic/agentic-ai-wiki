@@ -12,6 +12,7 @@ tags:
 related:
   - brave-search
   - serper.dev
+  - serpapi.com
 product: anysearch
 detail_level: standard
 created: 2026-07-07

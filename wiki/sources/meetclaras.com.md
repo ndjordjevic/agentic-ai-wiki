@@ -5,10 +5,11 @@ source_url: https://www.meetclaras.com/
 tags: [youtube-transcription, ai-chat, video-summarization, transcript-export, knowledge-extraction, ai-integration, chrome-extension]
 related:
   - reseek.net
+  - supadata.ai
 product: meetclaras
 detail_level: standard
 created: 2026-05-13
-updated: 2026-05-13
+updated: 2026-07-30
 ---
 
 Claras is an AI-powered YouTube transcript and knowledge-extraction tool that turns any YouTube video into an interactive knowledge base: instant transcripts, AI Q&A against the full transcript, auto-generated summaries and chapter tables of contents, multilingual support (60+ languages, 98% accuracy), and export to Claude, ChatGPT, or custom agents. Targeted at students, creators, founders, and professionals, Claras eliminates passive video watching in favour of fast, structured knowledge extraction.

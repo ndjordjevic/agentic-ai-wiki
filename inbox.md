@@ -260,3 +260,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/Nutlope/hallmark <!-- ingested 2026-07-28 -->
 - [x] https://github.com/router-for-me/CLIProxyAPI <!-- ingested 2026-07-28 -->
 - [x] https://serper.dev/ <!-- ingested 2026-07-30 -->
+- [x] https://serpapi.com/ <!-- ingested 2026-07-30 -->
+- [x] https://supadata.ai/ <!-- ingested 2026-07-30 -->
+- [x] https://github.com/coleam00/cole-medin-knowledge-base <!-- ingested 2026-07-30 -->

@@ -26,10 +26,11 @@ related:
   - summio.org
   - integuru.com
   - mvanhorn-last30days-skill
+  - supadata.ai
 product: firecrawl.dev
 detail_level: standard
 created: 2026-07-06
-updated: 2026-07-14
+updated: 2026-07-30
 ---
 
 Firecrawl is a web data API platform (145K+ GitHub stars, one of the largest open-source repos on GitHub) that turns the live web into clean, LLM-ready data through one API family: Search, Scrape, Crawl, Map, Parse, and Interact. It targets the same "AI needs reliable web access" problem as [[browserbase.com]] and [[browser-use.com]], but positions itself specifically as a **data** API rather than a full browser-automation platform — the core promise is markdown/JSON output with minimal token overhead, not driving a persistent interactive session.
