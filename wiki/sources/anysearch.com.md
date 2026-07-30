@@ -11,10 +11,11 @@ tags:
   - search-infrastructure
 related:
   - brave-search
+  - serper.dev
 product: anysearch
 detail_level: standard
 created: 2026-07-07
-updated: 2026-07-07
+updated: 2026-07-30
 ---
 
 AnySearch is a search infrastructure platform built specifically for AI applications and agents, positioning itself as "The Search Infrastructure Your AI Can Trust." It combines a unified entry point across multiple upstream data sources with agent-native access via API, MCP, and a Skill installation, aiming to compete with Brave Search and Parallel on accuracy and latency for agentic search workloads.

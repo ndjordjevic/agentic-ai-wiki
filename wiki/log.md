@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-30 | ingest | serper.dev | Google Search API for agents — 10 verticals, credit-based pricing, LangChain/CrewAI/Haystack integrations
+
+- Created: wiki/sources/serper.dev.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-07-28 | ingest | router-for-me-CLIProxyAPI | CLI OAuth-to-API proxy — wraps Claude Code/Codex/Antigravity/Grok Build subscriptions as OpenAI/Gemini/Claude-compatible endpoints
 
 - Created: wiki/sources/router-for-me-CLIProxyAPI.md

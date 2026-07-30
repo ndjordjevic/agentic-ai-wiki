@@ -253,5 +253,6 @@ created: 2026-04-28
 | [[uditakhourii-adhd]] | github | standard | 2026-07-28 | Parallel divergent-ideation agent skill — isolated cognitive-frame fan-out + mechanical generator-critic split |
 | [[Nutlope-hallmark]] | github | standard | 2026-07-28 | Anti-AI-slop design skill — macrostructure catalog + 57 slop-test gates for Claude Code, Cursor, Codex |
 | [[router-for-me-CLIProxyAPI]] | github | standard | 2026-07-28 | CLI OAuth-to-API proxy — wraps Claude Code/Codex/Antigravity/Grok Build subscriptions as OpenAI/Gemini/Claude-compatible endpoints |
+| [[serper.dev]] | web | standard | 2026-07-30 | Google Search API for agents — 10 verticals, credit-based pricing, LangChain/CrewAI/Haystack integrations |
 
-_241 sources ingested._
+_242 sources ingested._

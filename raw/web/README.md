@@ -132,3 +132,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/nvidia.com.md | nvidia.com | 4 | 2026-07-28 | NeMo agent platform product page; no single companion repo (org-only GitHub link) |
 | raw/web/ai-sdk.dev.md | ai-sdk.dev | 4 | 2026-07-28 | companion: vercel/ai (resolved via homepageUrl match) |
 | raw/web/docker-sandboxes.md | docker-sandboxes | 2 | 2026-07-28 | companion: docker/sbx-releases (Docker Sandboxes product page) |
+| raw/web/serper.dev.md | serper.dev | 1 | 2026-07-30 | |

@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-07-28
+updated: 2026-07-30
 ---
 
 
@@ -492,3 +492,5 @@ updated: 2026-07-28
 [[Nutlope-hallmark]] is Together AI's open-source design skill (18,900+ stars) for Claude Code, Cursor, and Codex, aimed squarely at the "every AI-generated page looks the same" problem: it picks a macrostructure per brief, applies one of twenty themes (or a from-scratch Custom branch), and runs 57 slop-test gates plus a self-critique before handing back output, with the explicit goal of structural — not just visual — variety between pages. It joins [[leonxlnx-taste-skill]], [[voltagent-awesome-design-md]], and [[open-design.ai]] as part of this wiki's growing anti-AI-slop / agent-native design cluster, sharing the portable `design.md` DNA-extraction pattern with the first two while installing as a conventional Agent Skill alongside the broader catalog in [[anthropics-skills]].
 
 [[router-for-me-CLIProxyAPI]] is a Go proxy server (45,200+ stars) that exposes OAuth-authenticated CLI subscriptions — Claude Code, ChatGPT Codex, Antigravity, Grok Build, Kimi — as OpenAI/Gemini/Claude/Codex-compatible API endpoints, with multi-account round-robin load balancing and an embeddable Go SDK. It occupies the same "one endpoint, many models" niche as [[litellm.ai]], [[openrouter.ai]], and [[mozilla-ai-any-llm]] in this wiki, but takes a distinct mechanism — reusing existing CLI-tool OAuth logins rather than routing paid API-key traffic — and has spawned a large downstream ecosystem of desktop/tray/dashboard wrappers for multi-account quota tracking.
+
+[[serper.dev]] is a Google Search API for agents spanning ten search verticals (web, images, news, maps, video, shopping, Scholar, patents, autocomplete) at credit-based pricing starting at $0.30/1,000 queries, with built-in integrations in LangChain, CrewAI, Jan AI, and Haystack. Unlike [[brave-search]], it wraps Google's index rather than running an independent crawler and publishes no MCP server or public GitHub repo, making it a lighter-weight, cheaper-but-less-documented alternative to [[brave-search]] and [[anysearch.com]] for teams that just need fast Google-backed search grounding.

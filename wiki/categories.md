@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-07-28
+updated: 2026-07-30
 ---
 
 # Agentic AI Frameworks — by category
@@ -16,7 +16,7 @@ updated: 2026-07-28
 - [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (27)
 - [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (34)
 - [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (16)
-- [[#MCP servers & integrations|MCP servers & integrations]] (12)
+- [[#MCP servers & integrations|MCP servers & integrations]] (13)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (14)
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (21)
 - [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (36)
@@ -129,6 +129,7 @@ updated: 2026-07-28
 - [[pushover.net]] — documents Pushover, a hosted push-notification service: a three-parameter HTTP POST (`token`, `user`, `message`) delivers alerts to a user's Android, iOS, and desktop clients via native push channe…
 - [[resend.com]] — introduces Resend, an email API platform for developers that sends transactional and marketing emails at scale via a clean REST API (`api.resend.com`) with SDKs for nine languages and a full OpenAP…
 - [[sequentialthinking-mcp]] — documents the Sequential Thinking MCP Server, a focused MCP server that exposes a single `sequential_thinking` tool for structured, revisable, branching reasoning inside an MCP-aware host.
+- [[serper.dev]] — is a Google Search API for agents spanning ten search verticals (web, images, news, maps, video, shopping, Scholar, patents, autocomplete) at credit-based pricing starting at $0.30/1,000 queries, w…
 - [[webhook.site]] — introduces Webhook.site, a webhook testing and workflow-automation service that hands every visitor an instantly-usable unique URL, e-mail address, and DNS name (DNSHook), displaying everything sen…
 
 ## Spec-driven dev, planning & tasks
@@ -319,4 +320,4 @@ updated: 2026-07-28
 - [[santifer-career-ops]] — documents Career-Ops, an open-source AI-powered job search automation system (52,587 stars, MIT, v1.10.0) that applies the same skill-mode architecture popularized by [[obra-superpowers]] and [[ant…
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 
-_241 sources across 16 categories._
+_242 sources across 16 categories._
