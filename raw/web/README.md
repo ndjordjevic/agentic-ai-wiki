@@ -135,3 +135,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/serper.dev.md | serper.dev | 1 | 2026-07-30 | |
 | raw/web/serpapi.com.md | serpapi.com | 6 | 2026-07-30 | |
 | raw/web/supadata.ai.md | supadata.ai | 6 | 2026-07-30 | companion: supadata-ai/mcp |
+| raw/web/x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10.md | x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10 | 1 | 2026-07-31 | X Article; WebFetch blocked (402), fetched via browser extension |

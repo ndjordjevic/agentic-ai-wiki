@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-07-30
+updated: 2026-07-31
 ---
 
 
@@ -500,3 +500,5 @@ updated: 2026-07-30
 [[supadata.ai]] is a "web media to text" API that turns YouTube, TikTok, Instagram, X, and Facebook videos into transcripts, metadata, and AI-extracted structured data, plus general web scrape/map/crawl endpoints, backed by an official MCP server (`supadata-ai/mcp`) for direct use from Claude, Cursor, and other agent clients. It bridges two clusters already in this wiki: it overlaps [[firecrawl.dev]] on the web scrape/crawl surface while adding video/social-platform transcript extraction that Firecrawl doesn't cover, and it targets the same YouTube-transcript problem as [[meetclaras.com]] but from a programmatic-API angle rather than an end-user knowledge-extraction product.
 
 [[coleam00-cole-medin-knowledge-base]] is a Karpathy-style LLM wiki and OKF (Open Knowledge Format) bundle synthesized entirely from Cole Medin's 198-video long-form YouTube catalog — a directly relevant methodological sibling to [[6eanut-llm-wiki]] and to this wiki's own `pin-llm-wiki` skill. Its documented build pipeline is unusually concrete about the exact problem this wiki's own ingest process solves by hand: a two-pass extract-then-canonicalize architecture with a frozen manifest barrier prevents parallel agents from inventing divergent duplicate pages for the same idea, and six independent validation checks (99% citation integrity, 0 semantic duplicates, adversarial QA with 0 hallucinations) prove the result rather than merely asserting it. It relies on [[supadata.ai]] as its underlying transcript-sync mechanism via Cole's own production database.
+
+[[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterprise AI projects showed little measurable impact because deployments — not models — failed. Its most direct connection to the rest of this wiki is structural: it names MCP servers, agent skills, and subagents (the exact primitives documented in [[anthropics-skills]]) as the three concrete artifacts the job produces, and treats Claude Code fluency as both a productivity multiplier and a literal interview-evaluation criterion. It sits alongside [[santifer-career-ops]] as one of the wiki's few career-facing sources, though the two are complementary — job-search automation tooling versus a role-and-skills roadmap.

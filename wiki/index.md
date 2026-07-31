@@ -257,5 +257,6 @@ created: 2026-04-28
 | [[serpapi.com]] | web | standard | 2026-07-30 | Enterprise SERP API — 100+ engine endpoints, Legal Shield, SOC 2/ISO 27001, MCP integration |
 | [[supadata.ai]] | web | standard | 2026-07-30 | companion: supadata-ai/mcp — video/social-media transcript, metadata, and web scrape/crawl API |
 | [[coleam00-cole-medin-knowledge-base]] | github | standard | 2026-07-30 | Karpathy-style OKF wiki mined from 198 YouTube videos — two-pass extract/canonicalize pipeline, 99% citation integrity |
+| [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] | web | standard | 2026-07-31 | 10-step roadmap into the Forward Deployed Engineer / Applied AI Engineer role — MCP servers, agent skills, and subagents as job deliverables |
 
-_245 sources ingested._
+_246 sources ingested._

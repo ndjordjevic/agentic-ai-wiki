@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-07-30
+updated: 2026-07-31
 ---
 
 # Agentic AI Frameworks — by category
@@ -28,7 +28,7 @@ updated: 2026-07-30
 - [[#Media, voice & content|Media, voice & content]] (8)
 - [[#Infra, hosting, DB & observability|Infra, hosting, DB & observability]] (13)
 - [[#Security|Security]] (3)
-- [[#Business, career & learning|Business, career & learning]] (8)
+- [[#Business, career & learning|Business, career & learning]] (9)
 
 ## Agent frameworks & SDKs
 
@@ -322,5 +322,6 @@ updated: 2026-07-30
 - [[planana.xyz]] — introduces Planana AI, a free web application that turns an open-ended learning goal into a structured, personalized weekly study roadmap.
 - [[santifer-career-ops]] — documents Career-Ops, an open-source AI-powered job search automation system (52,587 stars, MIT, v1.10.0) that applies the same skill-mode architecture popularized by [[obra-superpowers]] and [[ant…
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
+- [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_245 sources across 16 categories._
+_246 sources across 16 categories._

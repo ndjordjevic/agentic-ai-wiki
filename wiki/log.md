@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-07-31 | ingest | x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10 | 10-step Forward Deployed Engineer / Applied AI Engineer career roadmap — MCP servers, agent skills, subagents as job deliverables
+
+- Created: wiki/sources/x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md, wiki/sources/santifer-career-ops.md, wiki/sources/anthropics-skills.md
+
 ## 2026-07-30 | ingest | coleam00-cole-medin-knowledge-base | Karpathy-style OKF wiki mined from 198 YouTube videos — two-pass extract/canonicalize pipeline, 99% citation integrity
 
 - Created: wiki/sources/coleam00-cole-medin-knowledge-base.md

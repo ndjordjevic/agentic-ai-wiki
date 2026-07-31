@@ -15,10 +15,11 @@ related:
   - obra-superpowers
   - gsd-build-get-shit-done
   - anthropics-skills
+  - x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10
 product: career-ops
 detail_level: standard
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-07-31
 ---
 
 Career-Ops is an open-source, AI-powered job search automation system — 52,587 stars, MIT license, v1.10.0 — that turns any AI coding CLI into a full end-to-end job search command center. Built by Santiago (santifer), who used it to evaluate 740+ job offers, generate 100+ tailored CVs, and land a Head of Applied AI role. It is CLI-agnostic, shipping native support for Claude Code, Gemini CLI, OpenCode, Codex, Qwen, GitHub Copilot, and Kimi through dedicated harness wrappers (`AGENTS.md`, `CLAUDE.md`, `GEMINI.md`, `.claude-plugin/`, etc.). The system is not a spray-and-pray tool — it is explicitly a filter: it helps surface the few high-signal offers out of hundreds and strongly discourages applying to anything scoring below 4.0/5.
