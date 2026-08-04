@@ -23,13 +23,14 @@ related:
   - SnailSploit-Claude-Red
   - using-claude-code-unreasonable-effectiveness-html
   - duply.ai
-product: impeccable
+  - impeccable.style
+product: impeccable.style
 detail_level: standard
 created: 2026-07-08
-updated: 2026-07-10
+updated: 2026-08-04
 ---
 
-Impeccable (44K+ stars, Apache 2.0, latest release Skill 3.9.1) is Paul Bakaus's design language for AI coding agents — one skill with 23 slash commands, live browser iteration, 45 deterministic anti-pattern detector rules, and provider-native design hooks for Cursor, Claude Code, Codex, and GitHub Copilot. It evolved from Anthropic's `frontend-design` skill into a full harness-agnostic design system: `/impeccable init` writes `PRODUCT.md` and `DESIGN.md`, commands like `audit`, `polish`, `critique`, and `live` give agents a shared design vocabulary, and `npx impeccable detect` runs the same rules in CI without an LLM.
+Impeccable (54K+ stars, Apache 2.0, latest release Extension 1.3.1) is Paul Bakaus's design language for AI coding agents — one skill with 23 slash commands, live browser iteration, 59 deterministic anti-pattern detector rules, and provider-native design hooks for Cursor, Claude Code, Codex, and GitHub Copilot. The product's own documentation site is covered separately in [[impeccable.style]]. It evolved from Anthropic's `frontend-design` skill into a full harness-agnostic design system: `/impeccable init` writes `PRODUCT.md` and `DESIGN.md`, commands like `audit`, `polish`, `critique`, and `live` give agents a shared design vocabulary, and `npx impeccable detect` runs the same rules in CI without an LLM.
 
 _All claims below are sourced from ../../raw/github/pbakaus-impeccable.md unless otherwise noted._
 
@@ -52,7 +53,7 @@ After install, run `/impeccable init` inside your coding tool. Codex users must 
 ## Key features
 
 - **23 design commands** behind one `/impeccable` skill — `pin audit` creates standalone `/audit` shortcuts.
-- **45 deterministic detector rules** in `cli/engine/detect-antipatterns.mjs` — AI slop (purple gradients, Inter overuse, side-tab borders, bounce easing, icon-tile stacks) plus quality checks (line length, touch targets, heading skips). No LLM, no API key.
+- **59 deterministic detector rules** in `cli/engine/detect-antipatterns.mjs` — AI slop (purple gradients, Inter overuse, side-tab borders, bounce easing, icon-tile stacks) plus quality checks (line length, touch targets, heading skips). No LLM, no API key.
 - **Provider-native design hooks** for Claude Code (`.claude/settings.json`), Cursor (`.cursor/hooks.json`, pre-edit block), Codex (`.codex/hooks.json`), GitHub Copilot (`.github/hooks/impeccable.json`).
 - **Live mode** (`/impeccable live`) — visual variant iteration in the browser with session state under `.impeccable/live/`.
 - **PRODUCT.md + DESIGN.md setup** — `init` distinguishes brand (marketing) vs product (app UI) surfaces and writes shared design context every command reads.
@@ -84,4 +85,4 @@ Pin frequently used commands: `/impeccable pin audit` → `/audit`.
 
 ## Maintenance status
 
-44,388 stars, 2,533 forks, pushed 2026-07-08, default branch `main`, latest release Skill 3.9.1 (2026-07-01), Apache 2.0, homepage impeccable.style, npm package `impeccable` v3.2.0. Issue-first contribution policy for outside contributors. `.github/workflows/sync-generated-output.yml` auto-commits generated harness output after source changes land on `main`.
+54,629 stars, 3,286 forks, pushed 2026-08-04, default branch `main`, latest release Extension 1.3.1 (2026-07-30), Apache 2.0, homepage impeccable.style, npm package `impeccable`. Issue-first contribution policy for outside contributors. `.github/workflows/sync-generated-output.yml` auto-commits generated harness output after source changes land on `main`.

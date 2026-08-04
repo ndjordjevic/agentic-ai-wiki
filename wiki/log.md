@@ -8,6 +8,12 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-08-04 | ingest | impeccable.style | Impeccable's documentation site — design context, Live Mode, and the Slop anti-pattern catalog; companion GitHub repo pbakaus/impeccable refreshed
+
+- Created: wiki/sources/impeccable.style.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md, wiki/sources/pbakaus-impeccable.md, wiki/sources/anthropics-skills.md, wiki/sources/designmd.cc.md, wiki/sources/stitch.withgoogle.com.md
+- Companion: raw/github/pbakaus-impeccable.md
+
 ## 2026-07-31 | ingest | x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10 | 10-step Forward Deployed Engineer / Applied AI Engineer career roadmap — MCP servers, agent skills, subagents as job deliverables
 
 - Created: wiki/sources/x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10.md

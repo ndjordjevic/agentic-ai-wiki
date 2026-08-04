@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-07-31
+updated: 2026-08-04
 ---
 
 # Agentic AI Frameworks — by category
@@ -24,7 +24,7 @@ updated: 2026-07-31
 - [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (8)
 - [[#Model infra, ML & providers|Model infra, ML & providers]] (13)
 - [[#Workflow automation & no-code platforms|Workflow automation & no-code platforms]] (10)
-- [[#Design & UI generation|Design & UI generation]] (11)
+- [[#Design & UI generation|Design & UI generation]] (12)
 - [[#Media, voice & content|Media, voice & content]] (8)
 - [[#Infra, hosting, DB & observability|Infra, hosting, DB & observability]] (13)
 - [[#Security|Security]] (3)
@@ -270,6 +270,7 @@ updated: 2026-07-31
 - [[canva.com]] — documents Canva as an AI-powered visual design platform with a developer layer directly relevant to agentic AI workflows.
 - [[designmd.cc]] — documents DesignMD, a free web tool and CLI (`@designmdcc/cli`, companion repo `adityarajdigital/designmd`) that measures a live site's DOM and CSSOM — not a screenshot — to generate a portable `DE…
 - [[duply.ai]] — is a curated library of 312+ real-world design systems, each published as a copy-paste-ready `DESIGN.md` file (structured color/typography/spacing/radius/component tokens plus a written analysis) s…
+- [[impeccable.style]] — is the documentation and marketing site for [[pbakaus-impeccable]], covering the product from the user-facing side: the Design Context workflow (`PRODUCT.md`/`DESIGN.md`), the Live Mode browser-ite…
 - [[leonxlnx-taste-skill]] — is a family of thirteen Agent Skills targeting a specific complaint about AI-built frontends — that they default to generic, boilerplate-looking layouts.
 - [[motionsites.ai]] — is a paid library of copy-paste AI design prompts — hero sections, full landing pages, animated backgrounds, and gradients — meant to be pasted into an AI website builder like Bolt.new rather than…
 - [[Nutlope-hallmark]] — is Together AI's open-source design skill (18,900+ stars) for Claude Code, Cursor, and Codex, aimed squarely at the "every AI-generated page looks the same" problem: it picks a macrostructure per b…
@@ -324,4 +325,4 @@ updated: 2026-07-31
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_246 sources across 16 categories._
+_247 sources across 16 categories._

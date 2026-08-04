@@ -123,7 +123,7 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/facebook-docusaurus.md | facebook/docusaurus | 65531 | main | 3.10.1 | 2026-07-08 | companion for docusaurus.io |
 | raw/github/chopratejas-headroom.md | headroomlabs-ai/headroom | 57639 | main | v0.30.0 | 2026-07-08 | inbox URL: chopratejas/headroom |
 | raw/github/agricidaniel-claude-obsidian.md | AgriciDaniel/claude-obsidian | 8984 | main | v1.9.2 | 2026-07-08 | |
-| raw/github/pbakaus-impeccable.md | pbakaus/impeccable | 44388 | main | Skill 3.9.1 | 2026-07-08 | |
+| raw/github/pbakaus-impeccable.md | pbakaus/impeccable | 54629 | main | Extension 1.3.1 | 2026-08-04 | |
 | raw/github/Starmel-OpenSuperWhisper.md | Starmel/OpenSuperWhisper | 1959 | master | 0.1.0 | 2026-07-08 | bundled Aider issue-fixing agent |
 | raw/github/GoogleCloudPlatform-knowledge-catalog.md | GoogleCloudPlatform/knowledge-catalog | 6522 | main | (none) | 2026-07-09 | |
 | raw/github/coleam00-cole-medin-ai-coding.md | coleam00/cole-medin-ai-coding | 81 | main | (none) | 2026-07-09 | OKF bundle of Cole Medin's AI-coding videos |
