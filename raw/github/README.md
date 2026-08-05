@@ -167,3 +167,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/router-for-me-CLIProxyAPI.md | router-for-me/CLIProxyAPI | 45243 | main | v7.2.103 | 2026-07-28 | |
 | raw/github/supadata-ai-mcp.md | supadata-ai/mcp | 61 | main | none | 2026-07-30 | |
 | raw/github/coleam00-cole-medin-knowledge-base.md | coleam00/cole-medin-knowledge-base | 25 | main | none | 2026-07-30 | |
+| raw/github/block-buzz.md | block/buzz | 22660 | main | desktop-v0.5.5 | 2026-08-05 | |

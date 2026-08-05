@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-08-04
+updated: 2026-08-05
 ---
 
 # Agentic AI Frameworks — by category
@@ -13,7 +13,7 @@ updated: 2026-08-04
 
 ## Categories
 
-- [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (27)
+- [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (28)
 - [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (34)
 - [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (16)
 - [[#MCP servers & integrations|MCP servers & integrations]] (14)
@@ -39,6 +39,7 @@ updated: 2026-08-04
 - [[anthropic.com]] — captures Anthropic's developer platform and original harness research.
 - [[anthropic.com-managed-agents]] — documents Claude Managed Agents: a fully managed agentic harness with secure cloud containers, automatic context compaction, server-side session persistence, and multi-agent thread orchestration.
 - [[anthropic.com-messages]] — documents the Messages API: direct model access for custom agent loops, tool use, function calling, extended thinking, batch processing, and the Agent Skills system.
+- [[block-buzz]] — is Block's self-hosted, Nostr-backed team workspace where AI agents are members of the same rooms as humans — every message, reaction, workflow step, review, and git event is a signed event in one…
 - [[crewai.com]] — introduces CrewAI, the leading open-source multi-agent orchestration framework (51,928 stars, MIT, Python) with an enterprise platform (CrewAI AMP) adopted by 60% of the Fortune 500. Its two-layer…
 - [[developers.openai.com]] — documents OpenAI's official Agents SDK — the vendor's code-first path for multi-agent apps in TypeScript (`@openai/agents`) and Python (`openai-agents`), paired on the same docs hub with the Respon…
 - [[eve.dev]] — captures Vercel’s `eve` framework as a filesystem-first, durability-oriented agent platform: author an agent as ordinary files (`instructions`, `tools`, `skills`, `channels`, `connections`, `subage…
@@ -325,4 +326,4 @@ updated: 2026-08-04
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_247 sources across 16 categories._
+_248 sources across 16 categories._

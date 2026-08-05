@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-08-04
+updated: 2026-08-05
 ---
 
 
@@ -504,3 +504,5 @@ updated: 2026-08-04
 [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterprise AI projects showed little measurable impact because deployments — not models — failed. Its most direct connection to the rest of this wiki is structural: it names MCP servers, agent skills, and subagents (the exact primitives documented in [[anthropics-skills]]) as the three concrete artifacts the job produces, and treats Claude Code fluency as both a productivity multiplier and a literal interview-evaluation criterion. It sits alongside [[santifer-career-ops]] as one of the wiki's few career-facing sources, though the two are complementary — job-search automation tooling versus a role-and-skills roadmap.
 
 [[impeccable.style]] is the documentation and marketing site for [[pbakaus-impeccable]], covering the product from the user-facing side: the Design Context workflow (`PRODUCT.md`/`DESIGN.md`), the Live Mode browser-iteration feature, and the 64-rule Slop anti-pattern catalog that the CLI, browser extension, and `critique` command all enforce from one rule set. Together the two pages give the wiki both angles on Impeccable — the repo's build internals and provider-transformer architecture versus the site's task-oriented docs and tutorials — the same split already used for [[designmd.cc]] and its GitHub companion.
+
+[[block-buzz]] is Block's self-hosted, Nostr-backed team workspace where AI agents are members of the same rooms as humans — every message, reaction, workflow step, review, and git event is a signed event in one log, whether the author is a person or a process. It's a distinct architectural bet from every other collaboration-adjacent tool in this wiki: instead of a chat product with an agent bolted on, agents get their own keypairs, channel memberships, and audit trail, driven through an agent-first `buzz-cli` (JSON in/out) and an ACP harness (`buzz-acp`) that bridges relay `@mentions` to [[aaif-goose-goose]], Codex, and Claude Code. Its own `buzz-agent`/`buzz-dev-mcp` pair is a small, deliberately uncoupled ACP-agent-plus-MCP-server reference implementation — two crates a senior engineer can read in a sitting, with zero unsafe code and bounded process/output/history lifetimes throughout.

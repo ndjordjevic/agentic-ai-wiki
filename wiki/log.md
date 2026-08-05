@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-08-05 | ingest | block-buzz | Self-hosted Nostr-based team workspace where humans and AI agents are first-class members with their own keys, channels, and audit trail
+
+- Created: wiki/sources/block-buzz.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md, wiki/sources/aaif-goose-goose.md
+
 ## 2026-08-04 | ingest | impeccable.style | Impeccable's documentation site — design context, Live Mode, and the Slop anti-pattern catalog; companion GitHub repo pbakaus/impeccable refreshed
 
 - Created: wiki/sources/impeccable.style.md

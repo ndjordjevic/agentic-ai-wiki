@@ -16,7 +16,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         no-companion        — web: suppress companion GitHub fetch even if a repo is found
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
-
 ## Completed
 
 <!-- Processed lines are moved here automatically.
@@ -265,3 +264,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/coleam00/cole-medin-knowledge-base <!-- ingested 2026-07-30 -->
 - [x] https://x.com/0xcodez/status/2082468167935308098?s=43 <!-- ingested 2026-07-31 -->
 - [x] https://impeccable.style/ <!-- ingested 2026-08-04 -->
+- [x] https://github.com/block/buzz <!-- ingested 2026-08-05 -->

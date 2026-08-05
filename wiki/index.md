@@ -259,5 +259,6 @@ created: 2026-04-28
 | [[coleam00-cole-medin-knowledge-base]] | github | standard | 2026-07-30 | Karpathy-style OKF wiki mined from 198 YouTube videos — two-pass extract/canonicalize pipeline, 99% citation integrity |
 | [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] | web | standard | 2026-07-31 | 10-step roadmap into the Forward Deployed Engineer / Applied AI Engineer role — MCP servers, agent skills, and subagents as job deliverables |
 | [[impeccable.style]] | web | standard | 2026-08-04 | companion: pbakaus/impeccable — Impeccable's documentation site: design context, Live Mode, and the Slop anti-pattern catalog |
+| [[block-buzz]] | github | standard | 2026-08-05 | Self-hosted Nostr-based team workspace where humans and AI agents are first-class members with their own keys, channels, and audit trail — agent-first CLI + ACP/MCP harness |
 
-_247 sources ingested._
+_248 sources ingested._
