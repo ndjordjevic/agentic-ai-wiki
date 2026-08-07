@@ -260,5 +260,6 @@ created: 2026-04-28
 | [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] | web | standard | 2026-07-31 | 10-step roadmap into the Forward Deployed Engineer / Applied AI Engineer role — MCP servers, agent skills, and subagents as job deliverables |
 | [[impeccable.style]] | web | standard | 2026-08-04 | companion: pbakaus/impeccable — Impeccable's documentation site: design context, Live Mode, and the Slop anti-pattern catalog |
 | [[block-buzz]] | github | standard | 2026-08-05 | Self-hosted Nostr-based team workspace where humans and AI agents are first-class members with their own keys, channels, and audit trail — agent-first CLI + ACP/MCP harness |
+| [[markitdown.tech]] | web | standard | 2026-08-07 | Online document-to-Markdown converter (PDF, DOCX, XLSX, PPTX, HTML, CSV, JSON, images, audio) built on Microsoft's MarkItDown library, with MCP server and Claude integration |
 
-_248 sources ingested._
+_249 sources ingested._

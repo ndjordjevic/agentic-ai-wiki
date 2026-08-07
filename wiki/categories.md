@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-08-05
+updated: 2026-08-07
 ---
 
 # Agentic AI Frameworks — by category
@@ -19,7 +19,7 @@ updated: 2026-08-05
 - [[#MCP servers & integrations|MCP servers & integrations]] (14)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (14)
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (21)
-- [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (37)
+- [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (38)
 - [[#Browser & web automation|Browser & web automation]] (8)
 - [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (8)
 - [[#Model infra, ML & providers|Model infra, ML & providers]] (13)
@@ -198,6 +198,7 @@ updated: 2026-08-05
 - [[HKUDS-RAG-Anything]] — documents RAG-Anything, HKUDS's open-source multimodal RAG framework (21k+ stars, MIT) that extends LightRAG into a single pipeline for parsing PDFs/Office/images with MinerU, analyzing figures/tab…
 - [[Houseofmvps-codesight]] — (1,230+ stars, MIT) is a zero-dependency `npx` CLI that compiles a codebase into a structured context map (`CODESIGHT.md`, plus routes/schema/components/graph files) for AI coding assistants — usin…
 - [[langchain-ai-openwiki]] — documents OpenWiki, LangChain's TypeScript CLI that writes and maintains agent-facing documentation for a repository using a [[langchain.com-deepagents|Deep Agents]] local-shell backend. `openwiki…
+- [[markitdown.tech]] — is an online document-to-Markdown converter (PDF, DOCX, XLSX, PPTX, HTML, CSV, JSON, images, audio) built on Microsoft's open-source MarkItDown library, offering a free web UI, a Pro batch tier, an…
 - [[mksglu-context-mode]] — addresses the context window problem directly at the MCP protocol layer, making it one of the most practically impactful tools in the agentic AI ecosystem.
 - [[nadimtuhin-claude-token-optimizer]] — documents Claude Token Optimizer (`cto`), an open-source npm CLI that scaffolds a tiered documentation structure so Claude Code loads ~800 tokens at session start instead of 8,000–11,000 tokens of…
 - [[notebooklm.google]] — introduces Google NotebookLM, an AI-powered research assistant and thinking partner built on Gemini models.
@@ -326,4 +327,4 @@ updated: 2026-08-05
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_248 sources across 16 categories._
+_249 sources across 16 categories._

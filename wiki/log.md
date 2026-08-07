@@ -8,6 +8,14 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-08-07 | ingest | markitdown.tech | Online document-to-Markdown converter with MCP server and Claude integration
+
+- Created: wiki/sources/markitdown.tech.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+- Raw: raw/web/markitdown.tech.md
+
+---
+
 ## 2026-08-05 | ingest | block-buzz | Self-hosted Nostr-based team workspace where humans and AI agents are first-class members with their own keys, channels, and audit trail
 
 - Created: wiki/sources/block-buzz.md

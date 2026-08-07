@@ -265,3 +265,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://x.com/0xcodez/status/2082468167935308098?s=43 <!-- ingested 2026-07-31 -->
 - [x] https://impeccable.style/ <!-- ingested 2026-08-04 -->
 - [x] https://github.com/block/buzz <!-- ingested 2026-08-05 -->
+- [x] https://markitdown.tech/ <!-- ingested 2026-08-07 -->
