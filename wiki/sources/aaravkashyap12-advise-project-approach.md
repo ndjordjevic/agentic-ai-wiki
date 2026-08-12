@@ -3,7 +3,7 @@ type: source
 category: "Agent Skills & plugins ecosystem"
 source_url: https://github.com/AaravKashyap12/advise-project-approach
 tags: [project-advice, evidence-driven, comparative-analysis, stack-selection, skill, workflow]
-related: []
+related: [uditakhourii-neuroarxiv]
 product: advise-project-approach
 detail_level: standard
 created: 2026-08-12

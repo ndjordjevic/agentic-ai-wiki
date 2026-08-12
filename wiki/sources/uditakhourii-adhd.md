@@ -13,10 +13,11 @@ tags:
 related:
   - anthropics-skills
   - karpathy-llm-council
+  - uditakhourii-neuroarxiv
 product: adhd
 detail_level: standard
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-12
 ---
 
 ADHD is an open-source agent skill and TypeScript library that treats premature convergence in LLM reasoning as an architectural problem rather than a prompting one. Instead of Chain-of-Thought (which anchors on its first idea) or in-context Tree-of-Thought (which still shares one context across branches), ADHD spawns N fully isolated Agent SDK sessions under distinct "cognitive frame" system prompts, forbids evaluation during generation, then runs a separate critic pass to score, cluster, prune traps, and deepen the survivors. It installs as a skill (`npx skills add UditAkhourii/adhd`) into Claude Code, Codex, Cursor, and ~50 other agents, and ships as a standalone CLI/library (`adhd-agent` on npm). See [[uditakhourii-adhd]].

@@ -15,7 +15,7 @@ updated: 2026-08-12
 
 - [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (28)
 - [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (34)
-- [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (17)
+- [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (18)
 - [[#MCP servers & integrations|MCP servers & integrations]] (14)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (14)
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (21)
@@ -116,6 +116,7 @@ updated: 2026-08-12
 - [[skills.sh]] — covers the open agent skills directory and ecosystem built by Vercel, which provides the de-facto distribution layer for SKILL.md-based capability modules across 50+ AI coding agents.
 - [[tomevault.io]] — introduces TomeVault, a cross-platform index, converter, and trust layer for AI instruction files — indexing 117,590+ CLAUDE.md, AGENTS.md, SKILL.md, GEMINI.md, .cursorrules, Windsurf rules, and co…
 - [[uditakhourii-adhd]] — is an open-source agent skill (2,450+ stars) that reframes premature convergence in LLM reasoning as an architecture problem rather than a prompting one: it fans out N fully isolated Claude Agent S…
+- [[uditakhourii-neuroarxiv]] — is an agent skill that kills from-scratch architecture decisions by forcing Claude to check real arXiv prior art first — not as a search wrapper, but as a four-phase isolate-then-converge disciplin…
 - [[voltagent-awesome-agent-skills]] — is the most-contributed curated list of agent skills in the ecosystem (24,603 stars, MIT), aggregating 1,424+ hand-picked SKILL.md-based capability modules from official development teams and the c…
 
 ## MCP servers & integrations
@@ -328,4 +329,4 @@ updated: 2026-08-12
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_250 sources across 16 categories._
+_251 sources across 16 categories._
