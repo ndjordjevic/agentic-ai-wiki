@@ -8,6 +8,14 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-08-12 | ingest | aaravkashyap12-advise-project-approach | Evidence-driven agent skill for project planning, course correction, and architecture/vendor decisions
+
+- Created: wiki/sources/aaravkashyap12-advise-project-approach.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+---
+
+
 ## 2026-08-07 | ingest | markitdown.tech | Online document-to-Markdown converter with MCP server and Claude integration
 
 - Created: wiki/sources/markitdown.tech.md

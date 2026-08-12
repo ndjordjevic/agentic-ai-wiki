@@ -262,4 +262,7 @@ created: 2026-04-28
 | [[block-buzz]] | github | standard | 2026-08-05 | Self-hosted Nostr-based team workspace where humans and AI agents are first-class members with their own keys, channels, and audit trail — agent-first CLI + ACP/MCP harness |
 | [[markitdown.tech]] | web | standard | 2026-08-07 | Online document-to-Markdown converter (PDF, DOCX, XLSX, PPTX, HTML, CSV, JSON, images, audio) built on Microsoft's MarkItDown library, with MCP server and Claude integration |
 
-_249 sources ingested._
+| [[aaravkashyap12-advise-project-approach]] | github | standard | 2026-08-12 | Evidence-driven agent skill for project planning, course correction, and architecture/vendor decisions before committing to code
+
+
+_250 sources ingested._

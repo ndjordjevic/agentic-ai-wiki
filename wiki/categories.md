@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-08-07
+updated: 2026-08-12
 ---
 
 # Agentic AI Frameworks — by category
@@ -15,7 +15,7 @@ updated: 2026-08-07
 
 - [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (28)
 - [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (34)
-- [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (16)
+- [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (17)
 - [[#MCP servers & integrations|MCP servers & integrations]] (14)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (14)
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (21)
@@ -101,6 +101,7 @@ updated: 2026-08-07
 ## Agent Skills & plugins ecosystem
 
 - [[0xnyk-awesome-hermes-agent]] — is the community-maintained Awesome-list for the Hermes Agent ecosystem (4.5k+ stars, CC BY 4.0) — the Hermes-specific discovery layer cataloging skills, plugins, memory providers, GUIs, deployment…
+- [[aaravkashyap12-advise-project-approach]] — is an evidence-driven agent skill that enforces a grounded methodology for project decisions before teams commit to stacks, architectures, vendors, or refactors — rather than handing back generic "…
 - [[anthropics-skills]] — is Anthropic's official reference repository for the Agent Skills pattern — 17 SKILL.md-based capability modules for Claude spanning document processing (xlsx, docx, pptx, pdf), creative design, MC…
 - [[claudemarketplaces.com]] — documents Cross AI Tools (claudemarketplaces.com → crossaitools.com), an independent editor-curated directory of Claude Code skills (21,600+), plugin marketplaces (2,500+), and MCP servers (12,500+…
 - [[cursor-plugins]] — is the official Cursor plugin marketplace repo: a two-level manifest spec (`marketplace.json` + per-plugin `plugin.json`) bundling 13 plugins and 75 agent skills for CI, code review, PR workflows,…
@@ -327,4 +328,4 @@ updated: 2026-08-07
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_249 sources across 16 categories._
+_250 sources across 16 categories._
