@@ -16,6 +16,7 @@ tags:
 related:
   - 9d5bzxVsocw-anthropic-just-dropped-the-new-blueprint
   - anthropics-skills
+  - anthropics-claude-agent-sdk-python
   - langchain.com
   - the-new-sdlc-with-vibe-coding
 product: anthropic.com

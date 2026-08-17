@@ -13,6 +13,7 @@ tags:
   - context-resets
   - agent-sdk
 related:
+  - anthropics-claude-agent-sdk-python
   - 9d5bzxVsocw-anthropic-just-dropped-the-new-blueprint
   - langchain.com-langgraph
   - njbrake-agent-of-empires

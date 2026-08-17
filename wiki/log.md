@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-08-17 | ingest | anthropics-claude-agent-sdk-python | Official Python SDK for Claude Agent — in-process MCP servers, hooks, bidirectional sessions
+
+- Created: wiki/sources/anthropics-claude-agent-sdk-python.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-08-12 | ingest | uditakhourii-neuroarxiv | Agent skill for arXiv prior-art research before designing architecture — isolate-then-converge with source-skepticism flags
 
 - Created: wiki/sources/uditakhourii-neuroarxiv.md

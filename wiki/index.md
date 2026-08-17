@@ -267,5 +267,6 @@ created: 2026-04-28
 
 _250 sources ingested._
 | [[uditakhourii-neuroarxiv]] | github | standard | 2026-08-12 | Agent skill that fetches real arXiv prior art, reads each paper in isolation, and converges to ONE cited architecture recommendation |
+| [[anthropics-claude-agent-sdk-python]] | github | standard | 2026-08-17 | Official Python SDK for Claude Agent — programmatic async interface to Claude Code with in-process MCP servers, hooks, and bidirectional sessions |
 
-_251 sources ingested._
+_252 sources ingested._

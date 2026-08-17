@@ -268,3 +268,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://markitdown.tech/ <!-- ingested 2026-08-07 -->
 - [x] https://github.com/AaravKashyap12/advise-project-approach <!-- ingested 2026-08-12 -->
 - [x] https://github.com/UditAkhourii/neuroarxiv <!-- ingested 2026-08-12 -->
+- [x] https://github.com/anthropics/claude-agent-sdk-python <!-- ingested 2026-08-17 -->

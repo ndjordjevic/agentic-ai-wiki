@@ -170,3 +170,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/block-buzz.md | block/buzz | 22660 | main | desktop-v0.5.5 | 2026-08-05 | |
 | raw/github/AaravKashyap12-advise-project-approach.md | AaravKashyap12/advise-project-approach | 160 | main | v0.6.0 | 2026-08-12 | |
 | raw/github/UditAkhourii-neuroarxiv.md | UditAkhourii/neuroarxiv | 308 | master | none | 2026-08-12 | |
+| raw/github/anthropics-claude-agent-sdk-python.md | anthropics/claude-agent-sdk-python | 7905 | main | v0.2.139 | 2026-08-17 | |

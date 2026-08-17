@@ -12,6 +12,7 @@ tags:
   - anthropic
   - plugin-marketplace
 related:
+  - anthropics-claude-agent-sdk-python
   - skills.sh
   - shareai-lab-learn-claude-code
   - seangeng.com-plan-optimizer
