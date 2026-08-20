@@ -8,11 +8,11 @@ raw_files:
   - ../../raw/web/wezterm.org.md
   - ../../raw/github/wezterm-wezterm.md
 tags: [terminal-emulator, multiplexer, gpu-accelerated, lua-config, rust, cross-platform, ssh, wezterm]
-related: [tmux-tmux, tmuxai.dev, kunchenguid-dotfiles]
+related: [tmux-tmux, tmuxai.dev, kunchenguid-dotfiles, x74353-amphetamine]
 product: wezterm
 detail_level: standard
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-08-20
 ---
 
 WezTerm is a GPU-accelerated, cross-platform terminal emulator and multiplexer written in Rust by Wez Furlong. It combines the rendering power of a GPU-native terminal (Metal, Vulkan, OpenGL) with built-in multiplexing, a full SSH client, and a Lua-based configuration system. With 27,000+ GitHub stars, WezTerm is one of the most feature-rich terminal emulators available, notable for its strong cross-platform story (macOS, Windows, Linux, FreeBSD, NetBSD) and its ability to multiplex sessions both locally and across remote machines over SSH or Unix domains.

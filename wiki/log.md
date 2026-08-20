@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-08-20 | ingest | x74353-amphetamine | Supplementary Power Protect resources for Amphetamine macOS keep-awake app — AppleScript + sudoers fix for Apple Silicon Closed-Display Mode
+
+- Created: wiki/sources/x74353-amphetamine.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-08-17 | ingest | anthropics-claude-agent-sdk-python | Official Python SDK for Claude Agent — in-process MCP servers, hooks, bidirectional sessions
 
 - Created: wiki/sources/anthropics-claude-agent-sdk-python.md

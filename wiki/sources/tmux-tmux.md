@@ -16,10 +16,11 @@ related:
   - tmuxai.dev
   - wezterm.org
   - herdr.dev
+  - x74353-amphetamine
 product: tmux
 detail_level: standard
 created: 2026-05-02
-updated: 2026-07-09
+updated: 2026-08-20
 ---
 
 tmux is the canonical Unix terminal multiplexer: a C program that lets a single screen host multiple terminal sessions, each of which can be detached from the display and later reattached from any other client. With 45,000+ stars and 30+ years of active development, tmux has become the foundational infrastructure layer for developer workflows, remote server management, and—increasingly—AI-agent session orchestration. Tools like [[njbrake-agent-of-empires]] and [[tmuxai.dev]] are built directly on top of its session/window/pane model.
