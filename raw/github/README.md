@@ -172,3 +172,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/UditAkhourii-neuroarxiv.md | UditAkhourii/neuroarxiv | 308 | master | none | 2026-08-12 | |
 | raw/github/anthropics-claude-agent-sdk-python.md | anthropics/claude-agent-sdk-python | 7905 | main | v0.2.139 | 2026-08-17 | |
 | raw/github/x74353-amphetamine.md | x74353/Amphetamine | 119 | main | none | 2026-08-20 | |
+| raw/github/coreyhaines31-makerskills.md | coreyhaines31/makerskills | 669 | main | v1.5.0 | 2026-08-20 | |

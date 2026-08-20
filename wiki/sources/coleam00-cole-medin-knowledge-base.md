@@ -14,10 +14,11 @@ tags:
 related:
   - 6eanut-llm-wiki
   - supadata.ai
+  - coreyhaines31-makerskills
 product: cole-medin-knowledge-base
 detail_level: standard
 created: 2026-07-30
-updated: 2026-07-30
+updated: 2026-08-20
 ---
 
 `coleam00/cole-medin-knowledge-base` is a Karpathy-style LLM wiki — and simultaneously an Open Knowledge Format (OKF v0.1) bundle — synthesized entirely from Cole Medin's long-form YouTube catalog (198 videos): plain markdown + YAML frontmatter, navigated by index and relative links, no database or embeddings required. It is a directly relevant sibling project to this very wiki's own `pin-llm-wiki` methodology, and its documented build pipeline — two-pass extraction/canonicalization with a frozen manifest barrier, plus six independent validation checks including 99% citation-integrity verification — is a concrete, reproducible answer to the exact synthesis and provenance problems this wiki's own ingest process has to solve by hand.

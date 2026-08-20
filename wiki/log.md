@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-08-20 | ingest | coreyhaines31-makerskills | 20-skill Claude Code plugin for personal operators — decisions, second-brain, CFO cadence, domain hunt, maker-council, and meta-skills
+
+- Created: wiki/sources/coreyhaines31-makerskills.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-08-20 | ingest | x74353-amphetamine | Supplementary Power Protect resources for Amphetamine macOS keep-awake app — AppleScript + sudoers fix for Apple Silicon Closed-Display Mode
 
 - Created: wiki/sources/x74353-amphetamine.md

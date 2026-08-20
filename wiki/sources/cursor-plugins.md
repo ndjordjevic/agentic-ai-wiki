@@ -11,10 +11,11 @@ tags:
   - principle-skills
 related:
   - anthropics-skills
+  - coreyhaines31-makerskills
 product: cursor-plugins
 detail_level: standard
 created: 2026-07-24
-updated: 2026-07-24
+updated: 2026-08-20
 ---
 
 Official marketplace repo for Cursor's plugin system: a spec for packaging Cursor plugins (skills, rules, MCP servers, hooks) plus 13 first-party and community plugins bundling 75 agent skills for CI, code review, PR workflows, learning, orchestration, and disciplined engineering practices. It is a concrete, large-scale example of the "plugin bundles skills + rules + MCP config" pattern also seen in [[anthropics-skills]], useful for comparing how Cursor structures its marketplace against Anthropic's skill ecosystem.

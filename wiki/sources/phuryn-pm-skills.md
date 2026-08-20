@@ -20,12 +20,13 @@ related:
   - github-spec-kit
   - anombyte93-prd-taskmaster
   - openai-codex-plugin-cc
+  - coreyhaines31-makerskills
   - mattpocock-skills
   - shareai-lab-learn-claude-code
 product: pm-skills
 detail_level: standard
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-08-20
 ---
 
 PM Skills Marketplace (`phuryn/pm-skills`, 22,658 stars, MIT, v2.1.0) is the largest structured product-management skills ecosystem for AI coding assistants — 68 skills and 42 slash commands across 9 installable plugins covering discovery, strategy, execution, market research, analytics, GTM, marketing/growth, PM utilities, and an AI Shipping Kit for vibe-coded apps. Built primarily for Claude Code and Claude Cowork via a single marketplace manifest; individual `SKILL.md` files follow the universal skill format and work in Cursor, Gemini CLI, OpenCode, and Kiro when copied manually, while Codex CLI installs the same marketplace natively.
