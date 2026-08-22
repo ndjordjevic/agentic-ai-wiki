@@ -27,7 +27,7 @@ updated: 2026-08-22
 - [[#Design & UI generation|Design & UI generation]] (12)
 - [[#Media, voice & content|Media, voice & content]] (8)
 - [[#Infra, hosting, DB & observability|Infra, hosting, DB & observability]] (13)
-- [[#Security|Security]] (3)
+- [[#Security|Security]] (4)
 - [[#Business, career & learning|Business, career & learning]] (9)
 
 ## Agent frameworks & SDKs
@@ -318,6 +318,7 @@ updated: 2026-08-22
 
 ## Security
 
+- [[mukul975-anthropic-cybersecurity-skills]] — is the largest open-source cybersecurity skills library for AI agents — 817 production-grade skills across 29 domains (Cloud Security, Threat Hunting, Red Teaming, AI Security, and more), each foll…
 - [[nvidia-skillspector]] — is NVIDIA's security scanner for agent skills (13,453 stars), designed to answer "is this skill safe to install?" before runtime.
 - [[SnailSploit-Claude-Red]] — is claude-red (2,659+ stars, MIT) — the largest domain-specific offensive-security skill library for the Claude Skills system, with 58 `SKILL.md` files across 13 categories (web, wireless, AD, clou…
 - [[usestrix-strix]] — represents the security testing edge of the agentic AI space: an open-source Python framework (27k+ stars, Apache 2.0) that deploys a graph of autonomous AI pentest agents to find and validate vuln…
@@ -334,4 +335,4 @@ updated: 2026-08-22
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_256 sources across 16 categories._
+_257 sources across 16 categories._

@@ -272,5 +272,6 @@ _250 sources ingested._
 | [[coreyhaines31-makerskills]] | github | standard | 2026-08-20 | |
 | [[agiloop.ai]] | web | standard | 2026-08-22 | |
 | [[router.com]] | web | standard | 2026-08-22 | |
+| [[mukul975-anthropic-cybersecurity-skills]] | github | standard | 2026-08-22 | |
 
-_256 sources ingested._
+_257 sources ingested._

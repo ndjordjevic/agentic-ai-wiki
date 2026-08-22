@@ -8,6 +8,11 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-08-22 | ingest | mukul975-anthropic-cybersecurity-skills | 817 structured cybersecurity skills for AI agents across 29 domains, mapped to 6 frameworks
+
+- Created: wiki/sources/mukul975-anthropic-cybersecurity-skills.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-08-22 | ingest | router.com | LLM gateway from Ramp that cuts inference costs 40% via automatic cost-quality model routing
 
 - Created: wiki/sources/router.com.md
