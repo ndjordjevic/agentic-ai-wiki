@@ -16,7 +16,7 @@ tags:
   - computer-use
   - skills-system
   - self-hosted
-related:
+related: [router.com]
   - hermes-agent.nousresearch.com
   - app.sauna.ai
   - joinoasis.com
@@ -28,7 +28,7 @@ related:
 product: vellum
 detail_level: standard
 created: 2026-07-07
-updated: 2026-07-07
+updated: 2026-08-22
 ---
 
 Vellum is an open-source (MIT) personal intelligence platform — product site plus `vellum-ai/vellum-assistant` runtime — that gives each user a persistent AI assistant with managed memory, its own identity (email, Slack handle, phone), and real-world tool use across Gmail, calendar, Slack, browser automation, macOS computer use, and 28+ bundled skills. Unlike session-scoped chatbots, it runs always-on in Vellum Cloud by default or self-hosted on macOS, reachable from web, iOS, desktop, CLI, Telegram, Slack, email, and voice. The marketing site emphasizes easy setup and managed integrations; the companion repo implements a Bun+TypeScript runtime (`assistant/`), gateway (`gateway/`), credential-executor sidecar, and native macOS client with hybrid memory (workspace files + PKB + vector recall). (../../raw/github/vellum-ai-vellum-assistant.md)

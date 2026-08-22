@@ -8,6 +8,16 @@ created: 2026-04-28
 
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
+## 2026-08-22 | ingest | router.com | LLM gateway from Ramp that cuts inference costs 40% via automatic cost-quality model routing
+
+- Created: wiki/sources/router.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
+## 2026-08-22 | ingest | agiloop.ai | AI-native platform closing the full product lifecycle: INVENT → IMPLEMENT → INSPECT → ITERATE
+
+- Created: wiki/sources/agiloop.ai.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-08-20 | ingest | coreyhaines31-makerskills | 20-skill Claude Code plugin for personal operators — decisions, second-brain, CFO cadence, domain hunt, maker-council, and meta-skills
 
 - Created: wiki/sources/coreyhaines31-makerskills.md

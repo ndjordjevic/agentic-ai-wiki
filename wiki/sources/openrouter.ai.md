@@ -10,7 +10,7 @@ tags:
   - agent-sdk
   - multi-provider
   - cost-optimization
-related:
+related: [router.com]
   - abacus.ai
   - agent-field-pr-af
   - karpathy-llm-council
@@ -23,7 +23,7 @@ related:
 product: openrouter
 detail_level: standard
 created: 2026-05-18
-updated: 2026-07-28
+updated: 2026-08-22
 ---
 
 OpenRouter is a unified API gateway that gives developers and agents access to 400+ AI models from 60+ providers (Anthropic, OpenAI, Google, DeepSeek, Meta, Mistral, and many more) through a single, OpenAI-compatible endpoint. It handles provider routing, automatic fallback, uptime monitoring, and cost optimization transparently, removing the need to manage individual provider accounts or SDKs. With 8M+ global users and 250k+ apps integrated, OpenRouter has become a default LLM access layer for both direct API consumers and large-scale agentic platforms.

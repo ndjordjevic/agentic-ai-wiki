@@ -270,5 +270,7 @@ _250 sources ingested._
 | [[anthropics-claude-agent-sdk-python]] | github | standard | 2026-08-17 | Official Python SDK for Claude Agent — programmatic async interface to Claude Code with in-process MCP servers, hooks, and bidirectional sessions |
 | [[x74353-amphetamine]] | github | standard | 2026-08-20 | |
 | [[coreyhaines31-makerskills]] | github | standard | 2026-08-20 | |
+| [[agiloop.ai]] | web | standard | 2026-08-22 | |
+| [[router.com]] | web | standard | 2026-08-22 | |
 
-_254 sources ingested._
+_256 sources ingested._

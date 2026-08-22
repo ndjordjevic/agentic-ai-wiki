@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-08-20
+updated: 2026-08-22
 ---
 
 # Agentic AI Frameworks — by category
@@ -17,12 +17,12 @@ updated: 2026-08-20
 - [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (34)
 - [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (19)
 - [[#MCP servers & integrations|MCP servers & integrations]] (14)
-- [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (14)
+- [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (15)
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (21)
 - [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (38)
 - [[#Browser & web automation|Browser & web automation]] (8)
 - [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (9)
-- [[#Model infra, ML & providers|Model infra, ML & providers]] (13)
+- [[#Model infra, ML & providers|Model infra, ML & providers]] (14)
 - [[#Workflow automation & no-code platforms|Workflow automation & no-code platforms]] (10)
 - [[#Design & UI generation|Design & UI generation]] (12)
 - [[#Media, voice & content|Media, voice & content]] (8)
@@ -140,6 +140,7 @@ updated: 2026-08-20
 
 ## Spec-driven dev, planning & tasks
 
+- [[agiloop.ai]] — is an AI-native platform that closes the full software product lifecycle in a single loop — INVENT (AI-led discovery interview → structured spec → backlog), IMPLEMENT (AI-orchestrated code generati…
 - [[anombyte93-prd-taskmaster]] — introduces PRD-Taskmaster, a Claude Code skill (4,447 stars, MIT, Python) that structures the process of turning a feature idea into a validated Product Requirements Document and a Taskmaster AI ta…
 - [[backnotprop-plannotator]] — introduces Plannotator, an open-source visual plan-and-code-review UI for AI coding agents.
 - [[buildermethods-agent-os]] — introduces Agent OS, an open-source framework (4,635 stars, MIT) by Brian Casel / Builder Methods that solves the context-injection problem in AI-assisted development: agents lack knowledge of a pr…
@@ -258,6 +259,7 @@ updated: 2026-08-20
 - [[openrouter.ai]] — introduces OpenRouter, a hosted API gateway that gives developers and agentic applications unified access to 400+ AI models from 60+ providers through a single OpenAI-compatible endpoint.
 - [[pytorch.org]] — documents PyTorch, the dominant open-source deep learning framework (~100k GitHub stars, v2.12.0, BSD-style license, Linux Foundation). PyTorch provides GPU-accelerated tensor computation and a dyn…
 - [[router-for-me-CLIProxyAPI]] — is a Go proxy server (45,200+ stars) that exposes OAuth-authenticated CLI subscriptions — Claude Code, ChatGPT Codex, Antigravity, Grok Build, Kimi — as OpenAI/Gemini/Claude/Codex-compatible API en…
+- [[router.com]] — is Ramp Router, an LLM gateway from Ramp that routes each inference request to the cheapest approved model still clearing your quality bar — cutting inference costs by 40% on average based on Ramp'…
 
 ## Workflow automation & no-code platforms
 
@@ -332,4 +334,4 @@ updated: 2026-08-20
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_254 sources across 16 categories._
+_256 sources across 16 categories._

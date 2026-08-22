@@ -11,7 +11,7 @@ tags:
   - agent-backend
   - mlx-engine
   - coding-agent-integration
-related:
+related: [router.com]
   - litellm.ai
   - strandsagents.com
   - pydantic.dev
@@ -27,7 +27,7 @@ related:
 product: ollama
 detail_level: standard
 created: 2026-07-07
-updated: 2026-07-28
+updated: 2026-08-22
 ---
 
 **Ollama** (`ollama/ollama`, 175k+ stars, MIT, Go) is the dominant local LLM runtime for running open-weight models on macOS, Windows, and Linux. It packages model pull/run, a localhost REST API on port 11434, official Python/JS SDKs, OpenAI- and Anthropic-compatible endpoints, and first-party `ollama launch` integrations for coding agents (Claude Code, Codex, Copilot CLI, OpenCode, OpenClaw). Inference backends include llama.cpp (GGUF) and MLX (safetensors); GPU acceleration spans Metal, CUDA, ROCm, and Vulkan.

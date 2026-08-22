@@ -138,3 +138,5 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10.md | x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10 | 1 | 2026-07-31 | X Article; WebFetch blocked (402), fetched via browser extension |
 | raw/web/impeccable.style.md | impeccable.style | 8 | 2026-08-04 | companion: pbakaus/impeccable |
 | raw/web/markitdown.tech.md | markitdown.tech | 5 | 2026-08-07 | |
+| raw/web/agiloop.ai.md | agiloop.ai | 3 | 2026-08-22 | |
+| raw/web/router.com.md | router.com | 5 | 2026-08-22 | |

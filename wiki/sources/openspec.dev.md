@@ -16,14 +16,14 @@ tags:
   - brownfield-development
   - specification-first
   - agent-instructions
-related:
+related: [agiloop.ai]
   - github-spec-kit
   - gsd-build-get-shit-done
   - traycer.ai
 product: openspec
 detail_level: standard
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-08-22
 ---
 
 OpenSpec is a lightweight, open-source spec-driven development (SDD) framework for AI coding assistants and CLIs — universal, requires no API keys, and no MCP. Built by Fission, it reached 49,000+ stars and supports 25+ coding tools natively (Claude Code, Cursor, Codex, GitHub Copilot, Windsurf, Gemini CLI, Cline, and more). Its central idea: AI agents perform better when requirements are captured as structured specs in the codebase before any code is written, and those specs persist across sessions, agents, and team members.

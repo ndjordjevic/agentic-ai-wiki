@@ -3,11 +3,11 @@ type: source
 category: "Coding agents, IDEs & dev environments"
 source_url: https://kiro.dev/
 tags: [coding-agent, ide, cli, spec-driven-development, hooks, steering, aws, agent-skills, mcp]
-related: [herdr.dev, cognition.ai, factory.ai]
+related: [herdr.dev, cognition.ai, factory.ai, agiloop.ai]
 product: kiro
 detail_level: standard
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-08-22
 ---
 
 Kiro is a coding agent from Amazon available as an IDE, CLI, and web interface — the successor to Amazon Q Developer. Its defining approach is **spec-driven development**: rather than vibe-coding from prompts, Kiro formalizes feature work into three structured artifacts (requirements, design, tasks) and executes tasks with parallel agents, dependency-aware wave scheduling, and real-time progress tracking. Kiro also brings **hooks** (event-triggered automations that run on file save, tool use, spec task start, etc.) and **steering** (persistent markdown context files that keep Kiro aware of your tech stack, architecture, and conventions across all sessions). A shared Kiro Agent Server engine powers IDE, CLI, and web under a unified model.

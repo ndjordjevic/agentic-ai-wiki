@@ -9,12 +9,12 @@ tags:
   - study-roadmap
   - goal-based-learning
   - self-paced-learning
-related:
+related: [agiloop.ai]
   - producthunt.com
 product: planana
 detail_level: standard
 created: 2026-05-13
-updated: 2026-07-01
+updated: 2026-08-22
 ---
 
 Planana AI is a free web application that converts an open-ended learning goal into a structured, personalized weekly study roadmap. The user describes what they want to learn and their current level; Planana's AI tutor generates a practical plan broken into weeks and daily sessions, with matched resources — eliminating the friction of figuring out what to study next.
