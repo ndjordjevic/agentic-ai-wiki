@@ -15,6 +15,7 @@ related:
   - ai-sdk.dev
   - developers.openai.com
   - pydantic-pydantic-ai
+  - deepseek-ai-deepseek-harness
 product: x.ai
 detail_level: standard
 created: 2026-08-24

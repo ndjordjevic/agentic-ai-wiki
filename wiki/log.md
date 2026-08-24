@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-08-24 | ingest | deepseek-ai-deepseek-harness | DeepSeek Harness: 189k-star fully composable agent harness where everything is a Cordis plugin
+
+- Created: wiki/sources/deepseek-ai-deepseek-harness.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-08-24 | ingest | x.ai | xAI platform: Grok API (OpenAI-compatible), Grok Bot (persistent AI teammates on a cloud VM), and Grok Build (agentic coding CLI)
 
 - Created: wiki/sources/x.ai.md

@@ -23,12 +23,13 @@ related:
   - microsoft-agent-framework
   - microsoft-autogen
   - langchain.com-langgraph
+  - deepseek-ai-deepseek-harness
   - mastra.ai
   - ai-sdk.dev
 product: agno
 detail_level: standard
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-24
 ---
 
 Agno is an open-source Python framework and runtime (41,000+ GitHub stars, Apache-2.0) for building, running, and managing multi-agent AI platforms, pairing a lightweight SDK for defining agents/teams/workflows with **AgentOS**, a self-hostable, stateless FastAPI runtime that turns those agents into a production service with its own web control plane.

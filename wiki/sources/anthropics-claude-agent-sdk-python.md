@@ -16,10 +16,11 @@ related:
   - anthropic.com-managed-agents
   - anthropic.com-messages
   - anthropics-skills
+  - deepseek-ai-deepseek-harness
 product: claude-agent-sdk-python
 detail_level: standard
 created: 2026-08-17
-updated: 2026-08-17
+updated: 2026-08-24
 ---
 
 The Claude Agent SDK for Python is Anthropic's official library for programmatically embedding Claude Code (the agentic coding tool) as a library inside Python applications, scripts, and multi-agent systems — turning a CLI-driven tool into a composable, async-native SDK. It ships with the Claude Code CLI bundled inside the pip package, requiring zero separate installation, and exposes two primary interfaces: the `query()` fire-and-forget async iterator for one-shot tasks and the `ClaudeSDKClient` class for interactive, bidirectional, multi-turn conversations. Its standout capability is **in-process MCP servers**: rather than launching a separate subprocess per tool, custom Python functions can be registered as SDK MCP servers that run in the same process, eliminating IPC overhead and subprocess management.

@@ -274,5 +274,6 @@ _250 sources ingested._
 | [[router.com]] | web | standard | 2026-08-22 | |
 | [[mukul975-anthropic-cybersecurity-skills]] | github | standard | 2026-08-22 | |
 | [[x.ai]] | web | standard | 2026-08-24 | xAI platform: Grok API (OpenAI-compatible), Grok Bot (persistent AI teammates on a cloud VM), and Grok Build (agentic coding CLI) |
+| [[deepseek-ai-deepseek-harness]] | github | standard | 2026-08-24 | DeepSeek Harness: 189k-star fully composable agent harness where everything is a plugin (Cordis) — model adapters, tools, shell, session log, subagents, and self-modification all swappable via config |
 
-_258 sources ingested._
+_259 sources ingested._
