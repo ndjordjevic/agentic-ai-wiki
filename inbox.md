@@ -274,3 +274,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://www.agiloop.ai/ <!-- ingested 2026-08-22 -->
 - [x] https://router.com/ <!-- ingested 2026-08-22 -->
 - [x] https://github.com/mukul975/Anthropic-Cybersecurity-Skills <!-- ingested 2026-08-22 -->
+- [x] https://x.ai/bot <!-- ingested 2026-08-24 -->

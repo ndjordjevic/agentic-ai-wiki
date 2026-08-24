@@ -19,6 +19,7 @@ tags:
 related:
   - vercel.com
   - mastra.ai
+  - x.ai
   - strandsagents.com
   - crewai.com
   - agno.com
@@ -26,7 +27,7 @@ related:
 product: ai-sdk
 detail_level: standard
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-24
 ---
 
 The AI SDK (`ai-sdk.dev`, GitHub `vercel/ai`, 25,800+ stars, 18.7M weekly npm downloads) is Vercel's provider-agnostic TypeScript toolkit for building AI-powered applications and agents. It is the lower-level, npm-package sibling to the broader [[vercel.com]] platform overview already in this wiki — where that page covers Vercel's whole agentic-infrastructure stack (Sandbox, AI Gateway, Workflows, MCP), this page focuses specifically on the `ai` package's programming model: unified model calls, structured output, tool calling, and the `ToolLoopAgent` agent class.

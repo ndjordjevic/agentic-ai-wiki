@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-08-24 | ingest | x.ai | xAI platform: Grok API (OpenAI-compatible), Grok Bot (persistent AI teammates on a cloud VM), and Grok Build (agentic coding CLI)
+
+- Created: wiki/sources/x.ai.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 Append-only record of all ingests, refreshes, and significant changes. Newest entries at top.
 
 ## 2026-08-22 | ingest | mukul975-anthropic-cybersecurity-skills | 817 structured cybersecurity skills for AI agents across 29 domains, mapped to 6 frameworks
