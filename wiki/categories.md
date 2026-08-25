@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-08-24
+updated: 2026-08-25
 ---
 
 # Agentic AI Frameworks — by category
@@ -18,7 +18,7 @@ updated: 2026-08-24
 - [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (19)
 - [[#MCP servers & integrations|MCP servers & integrations]] (14)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (15)
-- [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (21)
+- [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (22)
 - [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (38)
 - [[#Browser & web automation|Browser & web automation]] (8)
 - [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (9)
@@ -164,6 +164,7 @@ updated: 2026-08-24
 - [[antigravity.google]] — covers the **Google Antigravity SDK** — a Python library (`pip install google-antigravity`) that exposes the same agent runtime powering Antigravity 2.0 and the Antigravity CLI as programmable infr…
 - [[axi.md]] — documents AXI (Agent eXperience Interface) — a design and catalog for building agent-ergonomic CLI tools where token budget is treated as a first-class constraint.
 - [[bolt.new]] — adds one of the clearest mainstream product examples of browser-native vibe coding turning into a full-stack delivery workflow.
+- [[coderabbit.ai]] — is an "Agentic Change Management" platform — an AI-driven review, triage, explainability, and security layer for pull requests, positioned as the independent validation step between AI-generated co…
 - [[codeyai.space]] — documents Codey, a local-first "AI development OS" from Codey Labs — desktop, TUI, CLI, and web client in one private workspace with 70+ BYOK LLM providers (Claude, Codex, Gemini, OpenRouter, Ollam…
 - [[cognition.ai]] — introduces Cognition and its flagship product Devin, marketed as the first autonomous software engineer — an AI agent that independently plans, writes, tests, and ships production code inside exist…
 - [[factory.ai]] — introduces Factory, the enterprise platform for agent-native software development, built around an AI agent called Droid that automates the full software development lifecycle — coding, testing, re…
@@ -337,4 +338,4 @@ updated: 2026-08-24
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_259 sources across 16 categories._
+_260 sources across 16 categories._

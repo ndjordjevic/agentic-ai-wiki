@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-08-25 | ingest | coderabbit.ai | Agentic Change Management platform: AI PR review, risk-based triage, Change Stack diff explainability, and continuous security scanning
+
+- Created: wiki/sources/coderabbit.ai.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-08-24 | ingest | deepseek-ai-deepseek-harness | DeepSeek Harness: 189k-star fully composable agent harness where everything is a Cordis plugin
 
 - Created: wiki/sources/deepseek-ai-deepseek-harness.md

@@ -276,3 +276,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/mukul975/Anthropic-Cybersecurity-Skills <!-- ingested 2026-08-22 -->
 - [x] https://x.ai/bot <!-- ingested 2026-08-24 -->
 - [x] https://github.com/deepseek-ai/deepseek-harness <!-- ingested 2026-08-24 -->
+- [x] https://www.coderabbit.ai/ <!-- ingested 2026-08-25 -->
