@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-08-25
+updated: 2026-08-26
 ---
 
 # Agentic AI Frameworks — by category
@@ -21,7 +21,7 @@ updated: 2026-08-25
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (22)
 - [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (38)
 - [[#Browser & web automation|Browser & web automation]] (8)
-- [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (9)
+- [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (10)
 - [[#Model infra, ML & providers|Model infra, ML & providers]] (15)
 - [[#Workflow automation & no-code platforms|Workflow automation & no-code platforms]] (10)
 - [[#Design & UI generation|Design & UI generation]] (12)
@@ -245,6 +245,7 @@ updated: 2026-08-25
 - [[vibekanban.com]] — introduces Vibe Kanban, an open-source kanban-based project management tool purpose-built for teams running AI coding agents in parallel.
 - [[wezterm.org]] — documents WezTerm — a GPU-accelerated, cross-platform terminal emulator and multiplexer written in Rust (27,000+ GitHub stars). Its standout traits are a unified GPU renderer (Metal/Vulkan/OpenGL)…
 - [[x74353-amphetamine]] — is a supplementary resource repo for Amphetamine, a free macOS app that prevents a Mac from sleeping, dimming, or activating the screensaver.
+- [[xhluca-session-migrate]] — fills a gap this wiki's other multi-harness tooling assumes away: moving a live, resumable coding-agent conversation between agents, not just its text. `smigrate transfer` reads a native session (C…
 
 ## Model infra, ML & providers
 
@@ -338,4 +339,4 @@ updated: 2026-08-25
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_260 sources across 16 categories._
+_261 sources across 16 categories._

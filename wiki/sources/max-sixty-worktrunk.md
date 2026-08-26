@@ -3,11 +3,11 @@ type: source
 category: "Terminal, session & parallel-agent runners"
 source_url: https://github.com/max-sixty/worktrunk
 tags: [git-worktrees, parallel-ai-agents, cli-tool, rust, merge-workflow, llm-commit-messages, hooks]
-related: []
+related: [xhluca-session-migrate]
 product: worktrunk
 detail_level: standard
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-08-26
 ---
 
 Worktrunk is a Rust CLI (5,470 stars, MIT OR Apache-2.0) that wraps git's native worktree feature to make running multiple AI coding agents in parallel as easy as switching branches. It addresses the friction of plain `git worktree` commands — typing the branch name three times, manually computing paths — by addressing worktrees purely by branch name and deriving filesystem paths from a configurable template.

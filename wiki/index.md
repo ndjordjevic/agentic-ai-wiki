@@ -276,5 +276,6 @@ _250 sources ingested._
 | [[x.ai]] | web | standard | 2026-08-24 | xAI platform: Grok API (OpenAI-compatible), Grok Bot (persistent AI teammates on a cloud VM), and Grok Build (agentic coding CLI) |
 | [[deepseek-ai-deepseek-harness]] | github | standard | 2026-08-24 | DeepSeek Harness: 189k-star fully composable agent harness where everything is a plugin (Cordis) — model adapters, tools, shell, session log, subagents, and self-modification all swappable via config |
 | [[coderabbit.ai]] | web | standard | 2026-08-25 | Agentic Change Management platform: AI PR review, risk-based triage, Change Stack diff explainability, and continuous security scanning across 17K+ customers |
+| [[xhluca-session-migrate]] | github | standard | 2026-08-26 | CLI that migrates native, resumable coding-agent sessions across 12 harnesses (Claude Code, Codex, Pi, OpenCode, Copilot, Antigravity, Cursor, Vibe, Muse, Qwen, Kimi) with content-free loss manifests and a local title-search catalog |
 
-_260 sources ingested._
+_261 sources ingested._

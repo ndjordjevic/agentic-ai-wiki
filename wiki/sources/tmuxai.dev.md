@@ -26,10 +26,11 @@ related:
   - happy.engineering
   - codeyai.space
   - Yeachan-Heo-oh-my-claudecode
+  - xhluca-session-migrate
 product: tmuxai
 detail_level: standard
 created: 2026-05-02
-updated: 2026-07-09
+updated: 2026-08-26
 ---
 
 TmuxAI is an AI-powered, non-intrusive terminal assistant that runs inside a tmux session as a "pair programmer" alongside your existing workflow. Rather than replacing your shell or requiring a special terminal emulator, TmuxAI reads the live content of all visible tmux panes, communicates through a dedicated Chat Pane, and executes commands in a separate Exec Pane—always with user confirmation. With 1,790 GitHub stars and an active release cadence (v2.1.4 as of May 2026), TmuxAI sits at the intersection of AI agent tooling and the [[tmux-tmux]] ecosystem, and complements multi-agent session managers like [[njbrake-agent-of-empires]].

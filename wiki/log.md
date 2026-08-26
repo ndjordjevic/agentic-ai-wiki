@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-08-26 | ingest | xhluca-session-migrate | CLI that migrates native, resumable coding-agent sessions across 12 harnesses with content-free loss manifests
+
+- Created: wiki/sources/xhluca-session-migrate.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-08-25 | ingest | coderabbit.ai | Agentic Change Management platform: AI PR review, risk-based triage, Change Stack diff explainability, and continuous security scanning
 
 - Created: wiki/sources/coderabbit.ai.md
