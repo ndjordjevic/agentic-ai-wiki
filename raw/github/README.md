@@ -176,3 +176,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/mukul975-anthropic-cybersecurity-skills.md | mukul975/Anthropic-Cybersecurity-Skills | 30556 | main | v1.3.0 | 2026-08-22 | |
 | raw/github/deepseek-ai-deepseek-harness.md | deepseek-ai/deepseek-harness | 189060 | master | v0.1.1-rc.2 | 2026-08-24 | |
 | raw/github/xhluca-session-migrate.md | xhluca/session-migrate | 53 | main | v0.8.0 | 2026-08-26 | |
+| raw/github/Tencent-BrowserSkill.md | Tencent/BrowserSkill | 4454 | main | cli-v0.3.0 | 2026-09-18 | |

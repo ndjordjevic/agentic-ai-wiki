@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-09-01
+updated: 2026-09-18
 ---
 
 # Agentic AI Frameworks — by category
@@ -20,7 +20,7 @@ updated: 2026-09-01
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (15)
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (22)
 - [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (38)
-- [[#Browser & web automation|Browser & web automation]] (8)
+- [[#Browser & web automation|Browser & web automation]] (9)
 - [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (10)
 - [[#Model infra, ML & providers|Model infra, ML & providers]] (15)
 - [[#Workflow automation & no-code platforms|Workflow automation & no-code platforms]] (10)
@@ -233,6 +233,7 @@ updated: 2026-09-01
 - [[microsoft-playwright-mcp]] — introduces Microsoft's official Playwright MCP server, which gives LLMs structured browser automation capabilities without requiring vision models.
 - [[playwright.dev-agent-cli]] — is Microsoft's shell-first alternative to [[microsoft-playwright-mcp]] for coding agents: instead of an LLM calling structured MCP tools with schemas loaded into context, the agent runs `playwright…
 - [[qa.tech]] — is an AI-powered end-to-end testing platform that runs autonomous agents throughout the software development lifecycle — from automated PR reviews against preview deployments to scheduled productio…
+- [[Tencent-BrowserSkill]] — takes a third design point in this wiki's browser-automation-for-agents cluster: instead of a hosted headless browser API like [[browserbase.com]] or an in-process automation library like [[browser…
 - [[vercel-labs-agent-browser]] — introduces agent-browser, Vercel Labs' open-source native Rust CLI for browser automation purpose-built for AI agents (34,229 stars, Apache-2.0, v0.27.0). Unlike [[microsoft-playwright-mcp]] which…
 
 ## Terminal, session & parallel-agent runners
@@ -340,4 +341,4 @@ updated: 2026-09-01
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_262 sources across 16 categories._
+_263 sources across 16 categories._

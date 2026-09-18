@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-09-18 | ingest | Tencent-BrowserSkill | CLI + daemon + Chromium extension letting shell-capable agents drive the user's own logged-in browser, with Agent Window isolation, explicit tab borrowing, and human-in-the-loop handoff
+
+- Created: wiki/sources/Tencent-BrowserSkill.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-09-01 | ingest | monid.ai | "OpenRouter for agent tools" — gateway brokering 1,000+ paid data/tool endpoints behind one key and one prepaid pay-per-call balance, with runtime discovery via MCP/Skill/CLI/API
 
 - Created: wiki/sources/monid.ai.md

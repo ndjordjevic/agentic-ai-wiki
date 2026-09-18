@@ -278,5 +278,6 @@ _250 sources ingested._
 | [[coderabbit.ai]] | web | standard | 2026-08-25 | Agentic Change Management platform: AI PR review, risk-based triage, Change Stack diff explainability, and continuous security scanning across 17K+ customers |
 | [[xhluca-session-migrate]] | github | standard | 2026-08-26 | CLI that migrates native, resumable coding-agent sessions across 12 harnesses (Claude Code, Codex, Pi, OpenCode, Copilot, Antigravity, Cursor, Vibe, Muse, Qwen, Kimi) with content-free loss manifests and a local title-search catalog |
 | [[monid.ai]] | web | standard | 2026-09-01 | "OpenRouter for agent tools" — a gateway brokering 1,000+ paid data/tool endpoints (search, scraping, enrichment, social, financial, generative) behind one key, one prepaid balance, with runtime discovery via MCP/Skill/CLI/API |
+| [[Tencent-BrowserSkill]] | github | standard | 2026-09-18 | CLI + daemon + Chromium extension letting shell-capable agents drive the user's own logged-in browser in a separate Agent Window, with explicit tab borrowing and human-in-the-loop handoff for captcha/login |
 
-_262 sources ingested._
+_263 sources ingested._
