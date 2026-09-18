@@ -14,10 +14,11 @@ related:
   - brave-search
   - anysearch.com
   - serpapi.com
+  - monid.ai
 product: serper
 detail_level: standard
 created: 2026-07-30
-updated: 2026-07-30
+updated: 2026-09-01
 ---
 
 Serper is a Google Search API positioned as "The World's Fastest & Cheapest," returning results in 1-2 seconds across ten search verticals with pay-as-you-go credit pricing starting at $0.30 per 1,000 queries. It is widely used as an agent-facing search tool — bundled as a built-in integration in LangChain, CrewAI, Jan AI, and Haystack — making it a cheaper, Google-backed alternative to [[brave-search]] and [[anysearch.com]] for agents that need real-time web grounding.

@@ -15,10 +15,11 @@ related:
   - brave-search
   - anysearch.com
   - serper.dev
+  - monid.ai
 product: serpapi
 detail_level: standard
 created: 2026-07-30
-updated: 2026-07-30
+updated: 2026-09-01
 ---
 
 SerpApi is a real-time JSON API for structured search-engine results, covering over 100 named endpoints across Google (dozens of verticals: search, images, maps, shopping, scholar, patents, trends, flights, and more), Bing, Baidu, Amazon, DuckDuckGo, Yandex, Yahoo!, YouTube, and a dozen other engines/platforms, plus an in-house "Search Index" LLM-first web index still in preview. It is a larger, more enterprise-oriented, GEO-priced competitor to [[serper.dev]] and [[brave-search]] in this wiki's search-API-for-agents cluster, distinguished by full-browser CAPTCHA-solving execution, a U.S. Legal Shield (up to $2M coverage) for lawful scraping, and SOC 2/SOC 3/ISO 27001 certification.

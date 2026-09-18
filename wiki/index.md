@@ -277,5 +277,6 @@ _250 sources ingested._
 | [[deepseek-ai-deepseek-harness]] | github | standard | 2026-08-24 | DeepSeek Harness: 189k-star fully composable agent harness where everything is a plugin (Cordis) — model adapters, tools, shell, session log, subagents, and self-modification all swappable via config |
 | [[coderabbit.ai]] | web | standard | 2026-08-25 | Agentic Change Management platform: AI PR review, risk-based triage, Change Stack diff explainability, and continuous security scanning across 17K+ customers |
 | [[xhluca-session-migrate]] | github | standard | 2026-08-26 | CLI that migrates native, resumable coding-agent sessions across 12 harnesses (Claude Code, Codex, Pi, OpenCode, Copilot, Antigravity, Cursor, Vibe, Muse, Qwen, Kimi) with content-free loss manifests and a local title-search catalog |
+| [[monid.ai]] | web | standard | 2026-09-01 | "OpenRouter for agent tools" — a gateway brokering 1,000+ paid data/tool endpoints (search, scraping, enrichment, social, financial, generative) behind one key, one prepaid balance, with runtime discovery via MCP/Skill/CLI/API |
 
-_261 sources ingested._
+_262 sources ingested._

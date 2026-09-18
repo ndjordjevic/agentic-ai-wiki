@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-08-26
+updated: 2026-09-01
 ---
 
 # Agentic AI Frameworks — by category
@@ -16,7 +16,7 @@ updated: 2026-08-26
 - [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (29)
 - [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (35)
 - [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (19)
-- [[#MCP servers & integrations|MCP servers & integrations]] (14)
+- [[#MCP servers & integrations|MCP servers & integrations]] (15)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (15)
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (22)
 - [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (38)
@@ -130,6 +130,7 @@ updated: 2026-08-26
 - [[integuru.com]] — is Integuru (YC-backed, 10M+ API calls/month) — a platform that generates production-ready APIs for websites lacking usable public APIs by reverse-engineering the private HTTP endpoints a platform'…
 - [[marketstack.com]] — documents Marketstack, an APILayer REST API for worldwide stock market data — EOD, intraday, real-time US quotes (IEX), 750+ indices, splits/dividends, exchange metadata, and V2 EDGAR SEC filings.
 - [[mcp.sentry.dev]] — documents **Sentry MCP** — Sentry's official remote Model Context Protocol server (`https://mcp.sentry.dev/mcp`) that wires coding agents (Cursor, Claude Code, VS Code, Codex, Windsurf, Zed) to liv…
+- [[monid.ai]] — applies the OpenRouter pattern to the tool layer: it is a gateway that brokers 1,000+ paid data and tool endpoints — web search, scraping, browser automation, people and company enrichment, social-…
 - [[ngrok.com]] — introduces ngrok, a globally distributed cloud networking platform that secures, transforms, and routes traffic to services running anywhere — local machines, cloud VMs, Kubernetes clusters, or IoT…
 - [[producthunt.com]] — documents Product Hunt, the community-driven discovery platform where makers submit new tech products daily and the audience ranks them on a public leaderboard — including Product of the Day.
 - [[pushover.net]] — documents Pushover, a hosted push-notification service: a three-parameter HTTP POST (`token`, `user`, `message`) delivers alerts to a user's Android, iOS, and desktop clients via native push channe…
@@ -339,4 +340,4 @@ updated: 2026-08-26
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_261 sources across 16 categories._
+_262 sources across 16 categories._
