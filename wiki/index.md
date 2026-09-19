@@ -279,5 +279,6 @@ _250 sources ingested._
 | [[xhluca-session-migrate]] | github | standard | 2026-08-26 | CLI that migrates native, resumable coding-agent sessions across 12 harnesses (Claude Code, Codex, Pi, OpenCode, Copilot, Antigravity, Cursor, Vibe, Muse, Qwen, Kimi) with content-free loss manifests and a local title-search catalog |
 | [[monid.ai]] | web | standard | 2026-09-01 | "OpenRouter for agent tools" — a gateway brokering 1,000+ paid data/tool endpoints (search, scraping, enrichment, social, financial, generative) behind one key, one prepaid balance, with runtime discovery via MCP/Skill/CLI/API |
 | [[Tencent-BrowserSkill]] | github | standard | 2026-09-18 | CLI + daemon + Chromium extension letting shell-capable agents drive the user's own logged-in browser in a separate Agent Window, with explicit tab borrowing and human-in-the-loop handoff for captcha/login |
+| [[zenbu-labs-terminal-browser]] | github | standard | 2026-09-19 | Real Chromium browser rendered as live pixels inside the terminal via the kitty graphics protocol, with an agent-browser-compatible CLI and a Claude Code plugin for opening pages in a split pane |
 
-_263 sources ingested._
+_264 sources ingested._

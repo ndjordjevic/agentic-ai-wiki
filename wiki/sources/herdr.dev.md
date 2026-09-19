@@ -8,11 +8,11 @@ raw_files:
   - ../../raw/web/herdr.dev.md
   - ../../raw/github/ogulcancelik-herdr.md
 tags: [agent-multiplexer, terminal, tmux-alternative, coding-agents, rust, pane-management, session-persistence, socket-api]
-related: [tmux-tmux, tmuxai.dev, kunchenguid-dotfiles, kiro.dev]
+related: [tmux-tmux, tmuxai.dev, kunchenguid-dotfiles, kiro.dev, zenbu-labs-terminal-browser]
 product: herdr
 detail_level: standard
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-09-19
 ---
 
 Herdr is an agent multiplexer for the terminal — "to coding agents what tmux is to terminals." It runs a persistent background server that keeps every coding agent alive across detach, SSH reconnects, and laptop lid closes. A single `herdr` command attaches to (or creates) a session with workspaces, tabs, and panes; each pane runs a real terminal process and Herdr tracks its agent state (blocked, working, done, idle) in a sidebar across all workspaces. Written in Rust with 14,500+ GitHub stars, Herdr ships as a single binary with no Electron, no account, and no telemetry, and supports 18+ coding agents including Claude Code, Codex, GitHub Copilot CLI, Pi, OpenCode, and Hermes Agent.

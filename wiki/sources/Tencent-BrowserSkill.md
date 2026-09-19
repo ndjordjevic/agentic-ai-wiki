@@ -3,11 +3,11 @@ type: source
 category: "Browser & web automation"
 source_url: https://github.com/Tencent/BrowserSkill
 tags: [browser-automation, agent-skill, logged-in-browser, shell-cli, human-in-the-loop, chromium-extension, tab-borrowing, deepseek-harness-plugin]
-related: [browserbase.com, browser-use.com, playwright.dev-agent-cli, microsoft-playwright-mcp]
+related: [browserbase.com, browser-use.com, playwright.dev-agent-cli, microsoft-playwright-mcp, zenbu-labs-terminal-browser]
 product: browserskill
 detail_level: standard
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-09-19
 ---
 
 BrowserSkill (Tencent, 4.4k+ stars, MIT) lets a shell-capable AI agent drive the user's own already-logged-in Chromium browser instead of a fresh, cookie-less automation profile. A local `bsk` CLI/daemon talks to a browser extension over a loopback WebSocket; the extension runs agent tasks in a dedicated, visible **Agent Window** so the human can keep using their normal windows at the same time, and can explicitly "borrow" a specific existing tab and return it when done. It matters to this wiki as a distinct design point in the browser-automation-for-agents space: rather than a headless-cloud-browser API ([[browserbase.com]]) or an in-process automation library ([[browser-use.com]]), it is a locally-installed skill + CLI + extension triple that any harness capable of running shell commands can adopt, with built-in human-in-the-loop handoff for captchas, logins, and confirmations.

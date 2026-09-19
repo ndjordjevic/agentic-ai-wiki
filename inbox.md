@@ -280,3 +280,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/xhluca/session-migrate <!-- ingested 2026-08-26 -->
 - [x] https://monid.ai/ <!-- ingested 2026-09-01 -->
 - [x] https://github.com/Tencent/BrowserSkill <!-- ingested 2026-09-18 -->
+- [x] https://github.com/zenbu-labs/terminal-browser <!-- ingested 2026-09-19 -->
