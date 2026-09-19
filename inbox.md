@@ -281,3 +281,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://monid.ai/ <!-- ingested 2026-09-01 -->
 - [x] https://github.com/Tencent/BrowserSkill <!-- ingested 2026-09-18 -->
 - [x] https://github.com/zenbu-labs/terminal-browser <!-- ingested 2026-09-19 -->
+- [x] https://github.com/affaan-m/ECC <!-- ingested 2026-09-19 -->

@@ -17,10 +17,11 @@ related:
   - anthropics-claude-agent-sdk-python
   - x.ai
   - agno.com
+  - affaan-m-ECC
 product: deepseek-harness
 detail_level: standard
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-09-19
 ---
 
 DeepSeek Harness (`dsh`) is an open-source agent harness from DeepSeek AI built on the radical principle that **everything is a plugin** — the model adapter, tool registry, session log, approval policy, shell executor, and even the agent loop itself are all Cordis plugins, making every part of the harness replaceable through configuration. With 189k stars on GitHub (developer preview, v0.1.1-rc.2 as of August 2026), it is one of the most-starred agent harness projects and represents a serious architectural reference for composable, extensible agentic systems.

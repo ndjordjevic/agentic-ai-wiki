@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-09-19 | ingest | affaan-m-ECC | "Everything Claude Code": 68 agents, 292 skills, hooks, and a cross-harness Memory Vault packaging a plan-test-implement-review-verify-remember-improve engineering process, with adapters for Codex, Cursor, OpenCode, Copilot, and more
+
+- Created: wiki/sources/affaan-m-ECC.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-09-19 | ingest | zenbu-labs-terminal-browser | Real Chromium browser rendered as live pixels inside the terminal via the kitty graphics protocol, with an agent-browser-compatible CLI and a Claude Code plugin
 
 - Created: wiki/sources/zenbu-labs-terminal-browser.md

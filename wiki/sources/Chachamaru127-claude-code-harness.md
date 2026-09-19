@@ -25,11 +25,11 @@ related:
   - snarktank-ralph
   - frankbria-ralph-claude-code
   - how-to-master-dynamic-workflows-claude-code-6-patterns-14-steps
+  - affaan-m-ECC
 product: claude-code-harness
 detail_level: standard
 created: 2026-07-08
-updated: 2026-07-08
-updated: 2026-07-08
+updated: 2026-09-19
 ---
 
 Claude Code Harness (2,951 ★, MIT, v4.16.4, Shell/Go) is a Claude Code plugin that replaces ad-hoc agent coding with a disciplined **Plan → Work → Review → Release** operating loop. Five verb skills (`/harness-plan`, `/harness-work`, `/harness-review`, `/harness-sync`, `/harness-release`) keep the surface small while `spec.md` and `Plans.md` become the source of truth — unobserved data stays `unknown` rather than being invented. A Go-native guardrail engine (`go/`, `bin/harness*`) enforces permission boundaries without requiring Node.js. Claude Code is the only `supported` host; Codex CLI, OpenCode, and Cursor are `internal-compatible`; Copilot CLI and Codex app are `candidate`. The project is self-referential — it uses its own harness to develop itself.

@@ -280,5 +280,6 @@ _250 sources ingested._
 | [[monid.ai]] | web | standard | 2026-09-01 | "OpenRouter for agent tools" — a gateway brokering 1,000+ paid data/tool endpoints (search, scraping, enrichment, social, financial, generative) behind one key, one prepaid balance, with runtime discovery via MCP/Skill/CLI/API |
 | [[Tencent-BrowserSkill]] | github | standard | 2026-09-18 | CLI + daemon + Chromium extension letting shell-capable agents drive the user's own logged-in browser in a separate Agent Window, with explicit tab borrowing and human-in-the-loop handoff for captcha/login |
 | [[zenbu-labs-terminal-browser]] | github | standard | 2026-09-19 | Real Chromium browser rendered as live pixels inside the terminal via the kitty graphics protocol, with an agent-browser-compatible CLI and a Claude Code plugin for opening pages in a split pane |
+| [[affaan-m-ECC]] | github | standard | 2026-09-19 | "Everything Claude Code" — 68 agents, 292 skills, hooks, and a cross-harness Memory Vault packaging a plan→test→implement→review→verify→remember→improve engineering process, with adapters for Codex, Cursor, OpenCode, Copilot, and more |
 
-_264 sources ingested._
+_265 sources ingested._

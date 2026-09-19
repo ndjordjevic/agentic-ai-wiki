@@ -14,7 +14,7 @@ updated: 2026-09-19
 ## Categories
 
 - [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (29)
-- [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (35)
+- [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (36)
 - [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (19)
 - [[#MCP servers & integrations|MCP servers & integrations]] (15)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (15)
@@ -65,6 +65,7 @@ updated: 2026-09-19
 ## Coding-agent harnesses & methodologies
 
 - [[9d5bzxVsocw-anthropic-just-dropped-the-new-blueprint]] — is a 17-minute breakdown by The AI Automators of Anthropic's March 2026 engineering article on harness design for long-running autonomous agents.
+- [[affaan-m-ECC]] — takes the coding-agent-harness idea about as far as any single project in this wiki: 68 subagents, 292 skills, a full TDD-enforcement loop, a cross-harness Memory Vault, and a separately installed…
 - [[bmad-code-org-bmad-method]] — introduces the BMad Method (BMAD-METHOD), a comprehensive open-source Agile AI Driven Development framework (47,851 stars, MIT, v6.7.1) that structures the full software lifecycle as four progressi…
 - [[bytedance-deer-flow]] — adds a full-stack, production-oriented agent harness to the wiki.
 - [[Chachamaru127-claude-code-harness]] — is Claude Code Harness (2,951 ★, MIT, v4.16.4) — a Claude Code plugin that enforces a **Plan → Work → Review → Release** delivery loop via five verb skills (`/harness-plan`, `/harness-work`, `/harn…
@@ -342,4 +343,4 @@ updated: 2026-09-19
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_264 sources across 16 categories._
+_265 sources across 16 categories._
