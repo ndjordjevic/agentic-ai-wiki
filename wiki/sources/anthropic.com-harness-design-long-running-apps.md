@@ -19,7 +19,7 @@ related:
   - anthropics-claude-agent-sdk-python
   - langchain.com
   - the-new-sdlc-with-vibe-coding
-product: anthropic.com
+product: anthropic.com-harness-design-long-running-apps
 detail_level: deep
 created: 2026-05-14
 updated: 2026-06-30

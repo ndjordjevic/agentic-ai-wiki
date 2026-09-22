@@ -1371,7 +1371,7 @@ Append-only record of all ingests, refreshes, and significant changes. Newest en
 
 ---
 
-## 2026-05-14 | ingest | anthropic.com | multi-product (2 products): Messages API, Managed Agents — harness design for long-running apps, planner-generator-evaluator architecture
+## 2026-05-14 | ingest | anthropic.com-harness-design-long-running-apps | multi-product (2 products): Messages API, Managed Agents — harness design for long-running apps, planner-generator-evaluator architecture
 
 - Created: wiki/sources/anthropic.com.md, wiki/sources/anthropic.com-messages.md, wiki/sources/anthropic.com-managed-agents.md
 - Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md

@@ -16,7 +16,7 @@ tags:
   - whitepaper
 related:
   - coleam00-harness-engineering-demo
-  - anthropic.com
+  - anthropic.com-harness-design-long-running-apps
   - skills.sh
   - bmad-code-org-bmad-method
   - greptile.com
@@ -129,4 +129,4 @@ Vibe coding appears cheap (low CapEx: just a subscription) but hides massive com
 
 ## Ecosystem connections
 
-This paper names and contextualizes most of the major tools in this wiki: [[skills.sh]] (Agent Skills ecosystem); Claude Code, Cursor, Codex (conductor tools); Jules, Copilot agent mode (orchestrator tools); MCP (tool protocol); A2A (inter-agent delegation); AGENTS.md / CLAUDE.md / GEMINI.md (rule files). The harness concept underpins [[coleam00-harness-engineering-demo]] (a live implementation of harness engineering). The factory model and spec-first approach connect to [[bmad-code-org-bmad-method]], [[buildermethods-agent-os]], and [[othmanadi-planning-with-files]]. The evals-in-CI recommendation aligns with [[greptile.com]] (AI code review) and [[qa.tech]] (AI E2E testing). The workflow methodology sections complement [[goOZSXmrYQ4-my-complete-agentic-coding-workflow-to-b]] (Cole Medin's complete agentic coding workflow). The context engineering framework is the conceptual grounding for skills hosted on [[skills.sh]], and the harness anatomy maps directly to [[anthropic.com]]'s harness design principles for long-running apps.
+This paper names and contextualizes most of the major tools in this wiki: [[skills.sh]] (Agent Skills ecosystem); Claude Code, Cursor, Codex (conductor tools); Jules, Copilot agent mode (orchestrator tools); MCP (tool protocol); A2A (inter-agent delegation); AGENTS.md / CLAUDE.md / GEMINI.md (rule files). The harness concept underpins [[coleam00-harness-engineering-demo]] (a live implementation of harness engineering). The factory model and spec-first approach connect to [[bmad-code-org-bmad-method]], [[buildermethods-agent-os]], and [[othmanadi-planning-with-files]]. The evals-in-CI recommendation aligns with [[greptile.com]] (AI code review) and [[qa.tech]] (AI E2E testing). The workflow methodology sections complement [[goOZSXmrYQ4-my-complete-agentic-coding-workflow-to-b]] (Cole Medin's complete agentic coding workflow). The context engineering framework is the conceptual grounding for skills hosted on [[skills.sh]], and the harness anatomy maps directly to [[anthropic.com-harness-design-long-running-apps]]'s harness design principles for long-running apps.

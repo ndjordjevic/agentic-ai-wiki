@@ -8,7 +8,7 @@ related:
   - langchain.com-langgraph
   - x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes
   - how-to-master-dynamic-workflows-claude-code-6-patterns-14-steps
-  - anthropic.com
+  - anthropic.com-harness-design-long-running-apps
   - anthropic.com-managed-agents
   - goOZSXmrYQ4-my-complete-agentic-coding-workflow-to-b
 product: harness-design
