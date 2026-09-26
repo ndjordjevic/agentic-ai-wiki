@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-09-19
+updated: 2026-09-26
 ---
 
 # Agentic AI Frameworks — by category
@@ -22,7 +22,7 @@ updated: 2026-09-19
 - [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (38)
 - [[#Browser & web automation|Browser & web automation]] (10)
 - [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (10)
-- [[#Model infra, ML & providers|Model infra, ML & providers]] (15)
+- [[#Model infra, ML & providers|Model infra, ML & providers]] (16)
 - [[#Workflow automation & no-code platforms|Workflow automation & no-code platforms]] (10)
 - [[#Design & UI generation|Design & UI generation]] (12)
 - [[#Media, voice & content|Media, voice & content]] (8)
@@ -265,6 +265,7 @@ updated: 2026-09-19
 - [[ollama-ollama]] — documents Ollama (`ollama/ollama`, 175k+ stars, MIT, Go) — the default local LLM runtime for running open-weight models on macOS, Windows, and Linux.
 - [[openrouter.ai]] — introduces OpenRouter, a hosted API gateway that gives developers and agentic applications unified access to 400+ AI models from 60+ providers through a single OpenAI-compatible endpoint.
 - [[pytorch.org]] — documents PyTorch, the dominant open-source deep learning framework (~100k GitHub stars, v2.12.0, BSD-style license, Linux Foundation). PyTorch provides GPU-accelerated tensor computation and a dyn…
+- [[rohitg00-ai-engineering-from-scratch]] — takes a different tack from this wiki's other learning resources: rather than a static book like [[fastai-fastbook]] or a curated skill for teaching Claude Code's harness internals like [[shareai-l…
 - [[router-for-me-CLIProxyAPI]] — is a Go proxy server (45,200+ stars) that exposes OAuth-authenticated CLI subscriptions — Claude Code, ChatGPT Codex, Antigravity, Grok Build, Kimi — as OpenAI/Gemini/Claude/Codex-compatible API en…
 - [[router.com]] — is Ramp Router, an LLM gateway from Ramp that routes each inference request to the cheapest approved model still clearing your quality bar — cutting inference costs by 40% on average based on Ramp'…
 - [[x.ai]] — is xAI's platform covering frontier Grok models and two agentic products built on them.
@@ -343,4 +344,4 @@ updated: 2026-09-19
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_265 sources across 16 categories._
+_266 sources across 16 categories._

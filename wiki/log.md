@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-09-26 | ingest | rohitg00-ai-engineering-from-scratch | 523-lesson, 20-phase "build it from scratch, then use the framework" curriculum from linear algebra to multi-agent swarms, installable as a self-teaching Agent Skill
+
+- Created: wiki/sources/rohitg00-ai-engineering-from-scratch.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-09-19 | ingest | affaan-m-ECC | "Everything Claude Code": 68 agents, 292 skills, hooks, and a cross-harness Memory Vault packaging a plan-test-implement-review-verify-remember-improve engineering process, with adapters for Codex, Cursor, OpenCode, Copilot, and more
 
 - Created: wiki/sources/affaan-m-ECC.md
