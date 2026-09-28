@@ -180,3 +180,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/zenbu-labs-terminal-browser.md | zenbu-labs/terminal-browser | 3114 | main | v0.11.1 | 2026-09-19 | |
 | raw/github/affaan-m-ECC.md | affaan-m/ECC | 262260 | main | v2.2.1 | 2026-09-19 | |
 | raw/github/rohitg00-ai-engineering-from-scratch.md | rohitg00/ai-engineering-from-scratch | 57698 | main | v2026.09 | 2026-09-26 | |
+| raw/github/coleam00-skills.md | coleam00/skills | 635 | main | none | 2026-09-28 | |

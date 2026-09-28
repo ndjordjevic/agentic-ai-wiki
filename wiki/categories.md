@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-09-26
+updated: 2026-09-28
 ---
 
 # Agentic AI Frameworks — by category
@@ -15,7 +15,7 @@ updated: 2026-09-26
 
 - [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (29)
 - [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (36)
-- [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (19)
+- [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (20)
 - [[#MCP servers & integrations|MCP servers & integrations]] (15)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (15)
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (22)
@@ -107,6 +107,7 @@ updated: 2026-09-26
 - [[aaravkashyap12-advise-project-approach]] — is an evidence-driven agent skill that enforces a grounded methodology for project decisions before teams commit to stacks, architectures, vendors, or refactors — rather than handing back generic "…
 - [[anthropics-skills]] — is Anthropic's official reference repository for the Agent Skills pattern — 17 SKILL.md-based capability modules for Claude spanning document processing (xlsx, docx, pptx, pdf), creative design, MC…
 - [[claudemarketplaces.com]] — documents Cross AI Tools (claudemarketplaces.com → crossaitools.com), an independent editor-curated directory of Claude Code skills (21,600+), plugin marketplaces (2,500+), and MCP servers (12,500+…
+- [[coleam00-skills]] — is one practitioner's own opinionated Agent Skills set, published as a Claude Code plugin: 35 skills built around a single **plan → implement → validate → review → commit → PR** (PIV) loop, plus pr…
 - [[coreyhaines31-makerskills]] — is a 20-skill Claude Code plugin targeting the **personal operator** — founders and indie builders who want agentic AI woven into their weekly operating cadence rather than their code review pipeline.
 - [[cursor-plugins]] — is the official Cursor plugin marketplace repo: a two-level manifest spec (`marketplace.json` + per-plugin `plugin.json`) bundling 13 plugins and 75 agent skills for CI, code review, PR workflows,…
 - [[davidondrej-skills]] — is David Ondrej's personal Agent Skills repository (1.5k+ stars, MIT) — 31 skills across agent-orchestration, skill-authoring, research-and-web, thinking-and-docs, and ops-and-setup categories.
@@ -344,4 +345,4 @@ updated: 2026-09-26
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_266 sources across 16 categories._
+_267 sources across 16 categories._

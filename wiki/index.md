@@ -282,5 +282,6 @@ _250 sources ingested._
 | [[zenbu-labs-terminal-browser]] | github | standard | 2026-09-19 | Real Chromium browser rendered as live pixels inside the terminal via the kitty graphics protocol, with an agent-browser-compatible CLI and a Claude Code plugin for opening pages in a split pane |
 | [[affaan-m-ECC]] | github | standard | 2026-09-19 | "Everything Claude Code" — 68 agents, 292 skills, hooks, and a cross-harness Memory Vault packaging a plan→test→implement→review→verify→remember→improve engineering process, with adapters for Codex, Cursor, OpenCode, Copilot, and more |
 | [[rohitg00-ai-engineering-from-scratch]] | github | standard | 2026-09-26 | 523-lesson, 20-phase "build it from scratch, then use the framework" curriculum from linear algebra to multi-agent swarms, installable as a self-teaching Agent Skill with dedicated MCP and Agent Skills learning paths |
+| [[coleam00-skills]] | github | standard | 2026-09-28 | Cole Medin's 35-skill Claude Code plugin — the PIV loop (plan/implement/validate/review/commit/PR), priming, worktrees, and meta-skills for building an AI Layer, plus six copy-in lifecycle hooks |
 
-_266 sources ingested._
+_267 sources ingested._

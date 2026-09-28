@@ -284,3 +284,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/zenbu-labs/terminal-browser <!-- ingested 2026-09-19 -->
 - [x] https://github.com/affaan-m/ECC <!-- ingested 2026-09-19 -->
 - [x] https://github.com/rohitg00/ai-engineering-from-scratch <!-- ingested 2026-09-26 -->
+- [x] https://github.com/coleam00/skills <!-- ingested 2026-09-28 -->
