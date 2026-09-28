@@ -36,6 +36,7 @@ related:
   - frankbria-ralph-claude-code
   - Yeachan-Heo-oh-my-claudecode
   - coleam00-skills
+  - coleam00-ai-native-starter-pack
 product: gsd
 detail_level: standard
 created: 2026-05-14

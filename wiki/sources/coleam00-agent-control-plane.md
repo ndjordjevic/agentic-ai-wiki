@@ -21,6 +21,7 @@ related:
   - sentry.io
   - karpathy-autoresearch
   - coleam00-skills
+  - coleam00-ai-native-starter-pack
 product: agent-control-plane
 detail_level: standard
 created: 2026-06-30

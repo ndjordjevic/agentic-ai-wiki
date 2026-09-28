@@ -15,6 +15,7 @@ related:
   - obra-superpowers
   - gsd-build-get-shit-done
   - coleam00-agent-control-plane
+  - coleam00-ai-native-starter-pack
 product: skills
 detail_level: standard
 created: 2026-09-28

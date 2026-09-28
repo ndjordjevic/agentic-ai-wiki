@@ -57,6 +57,7 @@ related: [mukul975-anthropic-cybersecurity-skills]
   - Nutlope-hallmark
   - x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10
   - coleam00-skills
+  - coleam00-ai-native-starter-pack
 product: skills
 detail_level: standard
 created: 2026-05-11

@@ -52,6 +52,7 @@ related: [mukul975-anthropic-cybersecurity-skills, affaan-m-ECC]
   - davila7-claude-code-templates
   - dietrichgebert-ponytail
   - coleam00-skills
+  - coleam00-ai-native-starter-pack
 product: superpowers
 detail_level: standard
 created: 2026-05-14
