@@ -22,6 +22,7 @@ related: [mukul975-anthropic-cybersecurity-skills]
   - github-spec-kit
   - forrestchang-andrej-karpathy-skills
   - coreyhaines31-makerskills
+  - github-awesome-copilot
   - davidondrej-skills
   - anombyte93-prd-taskmaster
   - mattpocock-skills
@@ -61,7 +62,7 @@ related: [mukul975-anthropic-cybersecurity-skills]
 product: skills
 detail_level: standard
 created: 2026-05-11
-updated: 2026-09-28
+updated: 2026-10-01
 ---
 
 Anthropic's official `skills` repository is the canonical reference implementation of the Agent Skills pattern for Claude — a collection of 17 self-contained SKILL.md-based modules spanning document processing, creative design, developer tooling, enterprise communications, and a meta skill-creator that teaches Claude to build and evaluate new skills. With 132,000+ stars, it is the highest-starred skills repository in the ecosystem and serves as the primary example library for anyone learning to write skills for Claude Code, Claude.ai, or the Claude API.

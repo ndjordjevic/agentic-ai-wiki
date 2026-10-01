@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-09-28
+updated: 2026-10-01
 ---
 
 # Agentic AI Frameworks — by category
@@ -15,7 +15,7 @@ updated: 2026-09-28
 
 - [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (29)
 - [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (36)
-- [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (21)
+- [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (22)
 - [[#MCP servers & integrations|MCP servers & integrations]] (15)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (15)
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (22)
@@ -113,6 +113,7 @@ updated: 2026-09-28
 - [[cursor-plugins]] — is the official Cursor plugin marketplace repo: a two-level manifest spec (`marketplace.json` + per-plugin `plugin.json`) bundling 13 plugins and 75 agent skills for CI, code review, PR workflows,…
 - [[davidondrej-skills]] — is David Ondrej's personal Agent Skills repository (1.5k+ stars, MIT) — 31 skills across agent-orchestration, skill-authoring, research-and-web, thinking-and-docs, and ops-and-setup categories.
 - [[davila7-claude-code-templates]] — is a large, actively maintained CLI (`npx claude-code-templates`) and catalog for Claude Code — 600+ agents, 200+ commands, 55+ MCP integrations, plus hooks, settings, skills, and autonomous "loops…
+- [[github-awesome-copilot]] — is GitHub's official, community-maintained catalog for customizing GitHub Copilot — 222 custom agents, 194 path-scoped instructions, 426 Agent Skills, 8 session hooks, 8 Agentic Workflows, and 100…
 - [[googleworkspace-cli]] — is `gws`, a Rust CLI that exposes the whole Google Workspace API surface (Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin) by reading Google's own Discovery Service at runtime instead of shipping…
 - [[kepano-obsidian-skills]] — is Steph Ango's official Agent Skills pack for Obsidian (39k+ stars, MIT) — five SKILL.md modules that teach coding agents to work with Obsidian Flavored Markdown (wikilinks, embeds, callouts, prop…
 - [[mattpocock-skills]] — is Matt Pocock's opinionated engineering skills collection (126,065 stars, MIT), distributed via [[skills.sh]] under `mattpocock/skills` and built around four diagnosed failure modes of AI-assisted…
@@ -346,4 +347,4 @@ updated: 2026-09-28
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_268 sources across 16 categories._
+_269 sources across 16 categories._

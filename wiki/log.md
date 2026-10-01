@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-01 | ingest | github-awesome-copilot | GitHub's official community catalog of agents, instructions, skills, hooks, workflows, and plugins for customizing GitHub Copilot
+
+- Created: wiki/sources/github-awesome-copilot.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-09-28 | ingest | coleam00-ai-native-starter-pack | Cole Medin's copy-in, generic 22-skill AI Layer starter pack for a 2-hour workshop — codebase-derived rules, PIV loop, Atlassian MCP, two baseline hooks
 
 - Created: wiki/sources/coleam00-ai-native-starter-pack.md

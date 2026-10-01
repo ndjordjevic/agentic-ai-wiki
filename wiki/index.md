@@ -284,5 +284,6 @@ _250 sources ingested._
 | [[rohitg00-ai-engineering-from-scratch]] | github | standard | 2026-09-26 | 523-lesson, 20-phase "build it from scratch, then use the framework" curriculum from linear algebra to multi-agent swarms, installable as a self-teaching Agent Skill with dedicated MCP and Agent Skills learning paths |
 | [[coleam00-skills]] | github | standard | 2026-09-28 | Cole Medin's 35-skill Claude Code plugin — the PIV loop (plan/implement/validate/review/commit/PR), priming, worktrees, and meta-skills for building an AI Layer, plus six copy-in lifecycle hooks |
 | [[coleam00-ai-native-starter-pack]] | github | standard | 2026-09-28 | Cole Medin's copy-in, generic 22-skill "AI Layer" starter pack — codebase-derived rules via `/create-rules`, the PIV loop, an Atlassian MCP wiring, and two baseline hooks — built for a 2-hour workshop as an on-ramp to the fuller course |
+| [[github-awesome-copilot]] | github | standard | 2026-10-01 | GitHub's official community catalog of 222 custom agents, 194 instructions, 426 Agent Skills, 8 hooks, 8 Agentic Workflows, and 100 plugins for customizing GitHub Copilot, with a default plugin marketplace and a machine-readable `llms.txt` |
 
-_268 sources ingested._
+_269 sources ingested._
