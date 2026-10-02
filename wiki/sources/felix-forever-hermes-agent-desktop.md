@@ -15,10 +15,11 @@ related:
   - hermes-agent.nousresearch.com
   - garrytan-gbrain
   - 0xnyk-awesome-hermes-agent
+  - composio-community-open-dot
 product: hermes-agent-desktop
 detail_level: standard
 created: 2026-06-10
-updated: 2026-07-07
+updated: 2026-10-02
 ---
 
 Hermes Agent Desktop is an open-source, native desktop client (Python 3.11 + pywebview, MIT License, v1.0.0) that extends the Hermes Agent CLI into a full multi-agent collaboration environment. Where the original Hermes Agent provides a single terminal-based agent, this desktop application adds a **20-specialist AI team** orchestrated by a Project Manager agent: the PM automatically decomposes user requirements, delegates sub-tasks to domain specialists (UI Designer, Frontend/Backend/Full-stack Engineers, QA, Architect, DevOps, DBA, and more), and synthesizes integrated deliverables. The entire frontend is a single-file HTML/CSS/JS application served by a lightweight aiohttp backend with no Electron dependency.

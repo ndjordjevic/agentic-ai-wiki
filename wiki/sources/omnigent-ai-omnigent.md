@@ -16,10 +16,11 @@ related:
   - aaif-goose-goose
   - microsoft-agent-framework
   - njbrake-agent-of-empires
+  - composio-community-open-dot
 product: omnigent
 detail_level: standard
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-10-02
 ---
 
 Omnigent (2,073 stars, Apache-2.0) is an open-source meta-harness that sits above coding-agent CLIs — Claude Code, Codex, Cursor, Pi, and custom agents you write yourself — rather than replacing them. It is most relevant to the wiki's coverage of agent orchestration and governance: instead of building one more agent runtime, Omnigent standardizes how multiple existing harnesses are launched, supervised, sandboxed, and policed, and makes a single session follow the user across terminal, browser, and phone.

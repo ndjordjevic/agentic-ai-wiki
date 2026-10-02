@@ -28,6 +28,7 @@ related:
   - playwright.dev-agent-cli
   - Tencent-BrowserSkill
   - docker-sandboxes
+  - composio-community-open-dot
 product: browserbase
 detail_level: standard
 created: 2026-06-10

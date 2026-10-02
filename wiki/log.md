@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-02 | ingest | composio-community-open-dot | Open-source, self-hosted reimplementation of OpenAI's "Dots" personal agents, as an Electron desktop app
+
+- Created: wiki/sources/composio-community-open-dot.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-10-02 | ingest | tapkit.ai | Turns a real, bring-your-own iPhone connected to a Mac into an MCP/REST-controllable API for AI agents
 
 - Created: wiki/sources/tapkit.ai.md
