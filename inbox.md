@@ -287,3 +287,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/coleam00/skills <!-- ingested 2026-09-28 -->
 - [x] https://github.com/coleam00/ai-native-starter-pack <!-- ingested 2026-09-28 -->
 - [x] https://github.com/github/awesome-copilot <!-- ingested 2026-10-01 -->
+- [x] https://www.tapkit.ai/ <!-- ingested 2026-10-02 -->

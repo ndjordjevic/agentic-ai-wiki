@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-02 | ingest | tapkit.ai | Turns a real, bring-your-own iPhone connected to a Mac into an MCP/REST-controllable API for AI agents
+
+- Created: wiki/sources/tapkit.ai.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-10-01 | ingest | github-awesome-copilot | GitHub's official community catalog of agents, instructions, skills, hooks, workflows, and plugins for customizing GitHub Copilot
 
 - Created: wiki/sources/github-awesome-copilot.md

@@ -285,5 +285,6 @@ _250 sources ingested._
 | [[coleam00-skills]] | github | standard | 2026-09-28 | Cole Medin's 35-skill Claude Code plugin — the PIV loop (plan/implement/validate/review/commit/PR), priming, worktrees, and meta-skills for building an AI Layer, plus six copy-in lifecycle hooks |
 | [[coleam00-ai-native-starter-pack]] | github | standard | 2026-09-28 | Cole Medin's copy-in, generic 22-skill "AI Layer" starter pack — codebase-derived rules via `/create-rules`, the PIV loop, an Atlassian MCP wiring, and two baseline hooks — built for a 2-hour workshop as an on-ramp to the fuller course |
 | [[github-awesome-copilot]] | github | standard | 2026-10-01 | GitHub's official community catalog of 222 custom agents, 194 instructions, 426 Agent Skills, 8 hooks, 8 Agentic Workflows, and 100 plugins for customizing GitHub Copilot, with a default plugin marketplace and a machine-readable `llms.txt` |
+| [[tapkit.ai]] | web | standard | 2026-10-02 | Turns a real, bring-your-own iPhone connected to a Mac into an MCP/REST-controllable API for AI agents, via Apple's accessibility features — tap/swipe/type/screenshot actions for agents that need a real App Store app, not a simulator |
 
-_269 sources ingested._
+_270 sources ingested._

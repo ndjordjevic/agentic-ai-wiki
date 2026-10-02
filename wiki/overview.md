@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 
@@ -548,3 +548,5 @@ updated: 2026-10-01
 [[coleam00-ai-native-starter-pack]] is the same author's smaller, generic sibling to [[coleam00-skills]]: a 22-skill "AI Layer" meant to be copied wholesale (`.claude/` + `.mcp.json`) into any codebase and then customized *from* that codebase, via a `create-rules` skill that derives `CLAUDE.md` and `.claude/context/` from the consumer's own code rather than shipping generic rules. Built as the material for a 2-hour workshop and explicitly framed as an on-ramp to a fuller paid course, it ships only two hooks — a secrets/`rm -rf` guard and an audit log — deliberately fewer than [[coleam00-skills]]'s six, with its README teaching three named hook *shapes* (react, gate, baton) for a consumer to describe to their own agent rather than copy as files. Its `.mcp.json` is pre-wired to the Atlassian MCP so its `prime` skill can pull Jira tickets and Confluence pages before planning, a default this wiki's other AI-Layer collections don't share.
 
 [[github-awesome-copilot]] is GitHub's official, community-maintained catalog for customizing GitHub Copilot — 222 custom agents, 194 path-scoped instructions, 426 Agent Skills, 8 session hooks, 8 Agentic Workflows, and 100 curated plugins, all registered by default in the Copilot CLI/VS Code plugin marketplace and exposed as a machine-readable `llms.txt` for agent consumption. It plays the same cataloging role for the Copilot ecosystem that [[voltagent-awesome-agent-skills]] and [[anthropics-skills]] play more broadly, but is distinguished by first-party maintenance, built-in install affordances (VS Code badges, `gh skills install`, `copilot plugin install`), and automated contributor quality gates vetting external PRs before merge.
+
+[[tapkit.ai]] extends this wiki's agent-UI-control cluster from the browser into the physical device: where [[browser-use.com]] and [[browserbase.com]] give agents a screenshot → vision-model → action loop against a headless or cloud browser, TapKit gives the same loop against a real, bring-your-own iPhone connected to a Mac, driven through Apple's accessibility features rather than the DOM/CDP stack Chromium-based tools rely on. It explicitly targets the gap a simulator or a posting API leaves open — real App Store apps, already-signed-in accounts, notifications, and cross-app flows — and exposes that control through a hosted MCP server, a REST API with a Python SDK, and first-party Claude/Codex plugins, with human takeover available at any point.
