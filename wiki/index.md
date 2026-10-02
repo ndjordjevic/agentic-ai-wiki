@@ -261,11 +261,7 @@ created: 2026-04-28
 | [[impeccable.style]] | web | standard | 2026-08-04 | companion: pbakaus/impeccable — Impeccable's documentation site: design context, Live Mode, and the Slop anti-pattern catalog |
 | [[block-buzz]] | github | standard | 2026-08-05 | Self-hosted Nostr-based team workspace where humans and AI agents are first-class members with their own keys, channels, and audit trail — agent-first CLI + ACP/MCP harness |
 | [[markitdown.tech]] | web | standard | 2026-08-07 | Online document-to-Markdown converter (PDF, DOCX, XLSX, PPTX, HTML, CSV, JSON, images, audio) built on Microsoft's MarkItDown library, with MCP server and Claude integration |
-
-| [[aaravkashyap12-advise-project-approach]] | github | standard | 2026-08-12 | Evidence-driven agent skill for project planning, course correction, and architecture/vendor decisions before committing to code
-
-
-_250 sources ingested._
+| [[aaravkashyap12-advise-project-approach]] | github | standard | 2026-08-12 | Evidence-driven agent skill for project planning, course correction, and architecture/vendor decisions before committing to code |
 | [[uditakhourii-neuroarxiv]] | github | standard | 2026-08-12 | Agent skill that fetches real arXiv prior art, reads each paper in isolation, and converges to ONE cited architecture recommendation |
 | [[anthropics-claude-agent-sdk-python]] | github | standard | 2026-08-17 | Official Python SDK for Claude Agent — programmatic async interface to Claude Code with in-process MCP servers, hooks, and bidirectional sessions |
 | [[x74353-amphetamine]] | github | standard | 2026-08-20 | |
@@ -288,5 +284,6 @@ _250 sources ingested._
 | [[tapkit.ai]] | web | standard | 2026-10-02 | Turns a real, bring-your-own iPhone connected to a Mac into an MCP/REST-controllable API for AI agents, via Apple's accessibility features — tap/swipe/type/screenshot actions for agents that need a real App Store app, not a simulator |
 | [[composio-community-open-dot]] | github | standard | 2026-10-02 | Open-source, self-hosted reimplementation of OpenAI's "Dots" — Electron desktop app running persistent personal agents with takeover-able browsers, Composio app integrations, rule-based action approval, voice calls, scheduling, and triggers |
 | [[pstack]] | web | standard | 2026-10-02 | Lauren "poteto" Tan's large Cursor plugin: a sticky `/poteto-mode` entry point routing tasks to 23 playbooks, 23 auto-applying engineering-discipline principles, and multi-model (Grok/Opus) subagent workflows |
+| [[michael-denyer-pstack-claude]] | github | standard | 2026-10-02 | Community port of [[pstack]] to Claude Code, Codex, OpenCode, Gemini CLI, and Prime Agent, tracking upstream pstack revisions plus named policy forks |
 
-_272 sources ingested._
+_273 sources ingested._

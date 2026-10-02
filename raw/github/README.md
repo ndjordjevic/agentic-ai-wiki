@@ -184,3 +184,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/coleam00-ai-native-starter-pack.md | coleam00/ai-native-starter-pack | 76 | main | none | 2026-09-28 | |
 | raw/github/github-awesome-copilot.md | github/awesome-copilot | 39568 | main | none | 2026-10-01 | |
 | raw/github/composio-community-open-dot.md | composio-community/open-dot | 396 | main | none | 2026-10-02 | |
+| raw/github/michael-denyer-pstack-claude.md | michael-denyer/pstack-claude | 747 | main | v0.9.57 | 2026-10-02 | |

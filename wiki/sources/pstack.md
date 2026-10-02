@@ -11,6 +11,7 @@ tags:
   - cursor-plugin
 related:
   - cursor-plugins
+  - michael-denyer-pstack-claude
 product: pstack
 detail_level: standard
 created: 2026-10-02

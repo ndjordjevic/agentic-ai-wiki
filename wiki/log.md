@@ -6,6 +6,12 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-02 | ingest | michael-denyer-pstack-claude | Community port of pstack to Claude Code, Codex, OpenCode, Gemini CLI, and Prime Agent
+
+- Created: wiki/sources/michael-denyer-pstack-claude.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md, wiki/sources/pstack.md
+- Companion: raw/github/michael-denyer-pstack-claude.md
+
 ## 2026-10-02 | ingest | pstack | Lauren "poteto" Tan's large Cursor plugin for disciplined, verifiable AI coding via playbooks and auto-applying engineering principles
 
 - Created: wiki/sources/pstack.md
