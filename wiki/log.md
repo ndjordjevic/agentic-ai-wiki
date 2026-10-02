@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-02 | ingest | pstack | Lauren "poteto" Tan's large Cursor plugin for disciplined, verifiable AI coding via playbooks and auto-applying engineering principles
+
+- Created: wiki/sources/pstack.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md, wiki/sources/cursor-plugins.md
+
 ## 2026-10-02 | ingest | composio-community-open-dot | Open-source, self-hosted reimplementation of OpenAI's "Dots" personal agents, as an Electron desktop app
 
 - Created: wiki/sources/composio-community-open-dot.md

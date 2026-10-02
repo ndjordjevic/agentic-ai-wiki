@@ -14,7 +14,7 @@ updated: 2026-10-02
 ## Categories
 
 - [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (30)
-- [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (36)
+- [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (37)
 - [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (22)
 - [[#MCP servers & integrations|MCP servers & integrations]] (15)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (15)
@@ -93,6 +93,7 @@ updated: 2026-10-02
 - [[openai-symphony]] — is OpenAI's open-source orchestration pattern for autonomous coding-agent execution at the issue-tracker level: a long-running service polls work, maps each issue to an isolated workspace, runs Cod…
 - [[paperclip.ing]] — introduces Paperclip, an open-source control plane for running autonomous AI-agent companies.
 - [[paperclipai-paperclip]] — is the GitHub source for Paperclip (72k+ stars, MIT, TypeScript): an open-source control plane for autonomous AI-agent companies — org charts, heartbeat execution, atomic task checkout, per-agent b…
+- [[pstack]] — is a deep dive into one entry of the [[cursor-plugins]] marketplace: Lauren "poteto" Tan's large single-author plugin for disciplined, verifiable AI coding.
 - [[ruvnet-ruflo]] — introduces Ruflo (formerly Claude Flow) — an open-source agent meta-harness for Claude Code and Codex (62k+ stars, MIT, TypeScript, v3.16.3). Where [[paperclipai-paperclip]] is the organizational c…
 - [[shareai-lab-learn-claude-code]] — is a 12-session open-source curriculum (58,143 stars, MIT) that reverse-engineers Claude Code by building its full architecture from scratch in Python, one harness mechanism per session.
 - [[snarktank-ralph]] — introduces Ralph, an open-source autonomous AI agent loop (19,297 stars, MIT, TypeScript) that runs AI coding tools — Amp or Claude Code — iteratively against a `prd.json` task list until every use…
@@ -349,4 +350,4 @@ updated: 2026-10-02
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_271 sources across 16 categories._
+_272 sources across 16 categories._

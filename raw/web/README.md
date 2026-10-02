@@ -144,3 +144,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/coderabbit.ai.md | coderabbit.ai | 9 | 2026-08-25 | |
 | raw/web/monid.ai.md | monid.ai | 7 | 2026-09-01 | |
 | raw/web/tapkit.ai.md | tapkit.ai | 7 | 2026-10-02 | |
+| raw/web/pstack.md | pstack | 1 | 2026-10-02 | |

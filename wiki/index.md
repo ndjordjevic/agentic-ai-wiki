@@ -287,5 +287,6 @@ _250 sources ingested._
 | [[github-awesome-copilot]] | github | standard | 2026-10-01 | GitHub's official community catalog of 222 custom agents, 194 instructions, 426 Agent Skills, 8 hooks, 8 Agentic Workflows, and 100 plugins for customizing GitHub Copilot, with a default plugin marketplace and a machine-readable `llms.txt` |
 | [[tapkit.ai]] | web | standard | 2026-10-02 | Turns a real, bring-your-own iPhone connected to a Mac into an MCP/REST-controllable API for AI agents, via Apple's accessibility features — tap/swipe/type/screenshot actions for agents that need a real App Store app, not a simulator |
 | [[composio-community-open-dot]] | github | standard | 2026-10-02 | Open-source, self-hosted reimplementation of OpenAI's "Dots" — Electron desktop app running persistent personal agents with takeover-able browsers, Composio app integrations, rule-based action approval, voice calls, scheduling, and triggers |
+| [[pstack]] | web | standard | 2026-10-02 | Lauren "poteto" Tan's large Cursor plugin: a sticky `/poteto-mode` entry point routing tasks to 23 playbooks, 23 auto-applying engineering-discipline principles, and multi-model (Grok/Opus) subagent workflows |
 
-_271 sources ingested._
+_272 sources ingested._

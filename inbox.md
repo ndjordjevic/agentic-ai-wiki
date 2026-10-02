@@ -289,3 +289,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/github/awesome-copilot <!-- ingested 2026-10-01 -->
 - [x] https://www.tapkit.ai/ <!-- ingested 2026-10-02 -->
 - [x] https://github.com/composio-community/open-dot <!-- ingested 2026-10-02 -->
+- [x] https://github.com/cursor/plugins/tree/main/pstack <!-- ingested 2026-10-02 -->
