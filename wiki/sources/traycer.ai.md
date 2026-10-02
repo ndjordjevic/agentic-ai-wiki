@@ -11,7 +11,9 @@ tags:
   - multi-agent-orchestration
   - ide-extension
   - yolo-automation
-related: [agiloop.ai, coderabbit.ai]
+related:
+  - agiloop.ai
+  - coderabbit.ai
   - openspec.dev
   - github-spec-kit
   - factory.ai

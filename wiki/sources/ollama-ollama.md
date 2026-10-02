@@ -11,7 +11,8 @@ tags:
   - agent-backend
   - mlx-engine
   - coding-agent-integration
-related: [router.com]
+related:
+  - router.com
   - litellm.ai
   - strandsagents.com
   - pydantic.dev

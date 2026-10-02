@@ -11,7 +11,9 @@ tags:
   - coding-agent-harness
   - auto-triggering-skills
   - multi-harness
-related: [mukul975-anthropic-cybersecurity-skills, affaan-m-ECC]
+related:
+  - mukul975-anthropic-cybersecurity-skills
+  - affaan-m-ECC
   - coleam00-harness-engineering-demo
   - coleam00-helpline
   - gsd-build-get-shit-done

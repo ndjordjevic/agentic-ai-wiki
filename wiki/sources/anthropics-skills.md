@@ -11,7 +11,8 @@ tags:
   - skill-ecosystem
   - anthropic
   - plugin-marketplace
-related: [mukul975-anthropic-cybersecurity-skills]
+related:
+  - mukul975-anthropic-cybersecurity-skills
   - rohitg00-ai-engineering-from-scratch
   - anthropics-claude-agent-sdk-python
   - skills.sh

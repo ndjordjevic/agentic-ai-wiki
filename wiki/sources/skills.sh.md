@@ -16,7 +16,8 @@ tags:
   - procedural-knowledge
   - multi-agent-compatibility
   - vercel
-related: [mukul975-anthropic-cybersecurity-skills]
+related:
+  - mukul975-anthropic-cybersecurity-skills
   - paperclip.ing
   - paperclipai-paperclip
   - shareai-lab-learn-claude-code

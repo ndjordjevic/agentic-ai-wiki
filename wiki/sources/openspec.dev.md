@@ -16,7 +16,8 @@ tags:
   - brownfield-development
   - specification-first
   - agent-instructions
-related: [agiloop.ai]
+related:
+  - agiloop.ai
   - github-spec-kit
   - gsd-build-get-shit-done
   - traycer.ai

@@ -16,7 +16,8 @@ tags:
   - computer-use
   - skills-system
   - self-hosted
-related: [router.com]
+related:
+  - router.com
   - hermes-agent.nousresearch.com
   - app.sauna.ai
   - joinoasis.com

@@ -15,7 +15,7 @@ related:
   - openrouter.ai
   - litellm.ai
   - huggingface.co
-  - brave.com
+  - brave-search
 product: kie
 detail_level: standard
 created: 2026-07-02

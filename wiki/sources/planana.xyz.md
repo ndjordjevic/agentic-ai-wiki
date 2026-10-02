@@ -9,7 +9,8 @@ tags:
   - study-roadmap
   - goal-based-learning
   - self-paced-learning
-related: [agiloop.ai]
+related:
+  - agiloop.ai
   - producthunt.com
 product: planana
 detail_level: standard

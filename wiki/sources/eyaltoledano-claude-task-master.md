@@ -11,7 +11,8 @@ tags:
   - multi-model
   - cli-tool
   - agent-workflow
-related: [agiloop.ai]
+related:
+  - agiloop.ai
   - coleam00-harness-engineering-demo
   - www.taskmaster.one
   - anombyte93-prd-taskmaster

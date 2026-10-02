@@ -11,7 +11,8 @@ tags:
   - awesome-list
   - official-skills
   - community-skills
-related: [mukul975-anthropic-cybersecurity-skills]
+related:
+  - mukul975-anthropic-cybersecurity-skills
   - anthropics-skills
   - skills.sh
   - obra-superpowers

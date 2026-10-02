@@ -100,7 +100,7 @@ Prefer [[skills.sh]] when you need the full unfiltered leaderboard, security aud
 Cross AI Tools sits in the Claude Code extension discovery layer alongside:
 
 - [[skills.sh]] — primary upstream for skill install counts and the `npx skills` CLI; Cross AI Tools crawls skills.sh as its main skill source
-- Official Anthropic marketplaces — [[anthropics-skills]], [[anthropics/claude-code]] plugins (both heavily featured)
+- Official Anthropic marketplaces — [[anthropics-skills]], `anthropics/claude-code` plugins (both heavily featured)
 - Community methodology marketplaces — [[obra-superpowers]], affaan-m/everything-claude-code, gsd-build/get-shit-done (all top marketplaces)
 - MCP ecosystem — overlaps with servers listed in modelcontextprotocol/servers and community registries; featured entries include Context7, GitHub MCP, Supabase MCP, Linear MCP
 - Vendor agent infrastructure — [[vercel.com]], [[render.com]] publish their own Agent Skills discoverable in broader catalogs

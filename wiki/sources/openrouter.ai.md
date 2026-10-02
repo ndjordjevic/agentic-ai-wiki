@@ -10,7 +10,8 @@ tags:
   - agent-sdk
   - multi-provider
   - cost-optimization
-related: [router.com]
+related:
+  - router.com
   - abacus.ai
   - agent-field-pr-af
   - karpathy-llm-council

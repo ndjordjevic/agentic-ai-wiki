@@ -16,7 +16,8 @@ tags:
   - spend-tracking
   - load-balancing
   - guardrails
-related: [router.com]
+related:
+  - router.com
   - abacus.ai
   - langchain.com
   - huggingface.co

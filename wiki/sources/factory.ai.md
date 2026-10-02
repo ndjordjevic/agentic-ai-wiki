@@ -11,7 +11,9 @@ tags:
   - skills
   - hooks
   - multi-agent-orchestration
-related: [agiloop.ai, coderabbit.ai]
+related:
+  - agiloop.ai
+  - coderabbit.ai
   - traycer.ai
   - crewai.com
   - strandsagents.com

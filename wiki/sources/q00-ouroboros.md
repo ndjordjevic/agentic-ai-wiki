@@ -3,7 +3,7 @@ type: source
 category: "Spec-driven dev, planning & tasks"
 source_url: https://github.com/Q00/ouroboros
 tags: [agent-os, specification-first, socratic-interview, evolutionary-loop, mcp, python, multi-runtime, ambiguity-scoring]
-related: [buildermethods-agent-os, obra-superpowers, snarktank-ralph, github-spec-kit, seangeng.com, frankbria-ralph-claude-code]
+related: [buildermethods-agent-os, obra-superpowers, snarktank-ralph, github-spec-kit, seangeng.com-plan-optimizer, frankbria-ralph-claude-code]
 product: ouroboros
 detail_level: standard
 created: 2026-06-12
