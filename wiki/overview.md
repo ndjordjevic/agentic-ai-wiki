@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 
@@ -556,3 +556,5 @@ updated: 2026-10-02
 [[pstack]] is a deep dive into one entry of the [[cursor-plugins]] marketplace: Lauren "poteto" Tan's large single-author plugin for disciplined, verifiable AI coding. Its sticky `/poteto-mode` skill routes any task to one of 23 named playbooks (bug fix, perf, hillclimb, feature, refactoring, shipping, autonomous run, orchestrate, and more) and auto-applies 23 standalone "principle" skills grouped as core, architecture, verification, and delegation/meta — never explicitly invoked, unlike most skills in this wiki's collections. It multiplexes work across models by role (Grok for code delegates, Opus 5.5 for judgment and prose) and ships parallel-worker utility skills (`/arena`, `/swarm`, `/interrogate`) plus a dedicated `poteto-agent` subagent that re-reads the full principle index before acting, extending the pattern of subagent-style delegation also seen in [[coleam00-skills]] and [[affaan-m-ECC]].
 
 [[michael-denyer-pstack-claude]] carries that same `/poteto-mode` skill tree to runtimes other than Cursor: Claude Code, Codex, OpenCode, Gemini CLI, and Prime Agent. Claude Code and Codex get native plugin packaging plus a shared automatic SessionStart routing hook; other runtimes rely on documented shared-skills-directory discovery. The port tracks a pinned upstream [[pstack]] revision while declaring its own named policy forks (`tools/forks.json`), and bundles seven ported `cursor-team-kit` skills plus an independently authored `babysit` PR-monitoring skill — a concrete example of the wiki's broader pattern of community ports that adapt an upstream agent-skill bundle's tool names and model defaults per harness.
+
+[[tamaratran-fast-jev-compaction]] takes a different angle on this wiki's context-budget cluster: instead of compressing or summarizing history like [[chopratejas-headroom]] or enforcing token discipline through CLAUDE.md/.claudeignore conventions like [[nadimtuhin-claude-token-optimizer]], it replaces Claude Code's LLM-summarized `/compact` entirely with a per-tool-call keep/drop vote from an auxiliary scoring model ("Jev"). User and assistant text is never touched or rewritten — only tool calls and their results are pruned or truncated, and a staged token-budget fitting pipeline degrades the conversation state sent to the scorer only as far as needed. Shipped as both a standalone npm library and an early-access Claude Code function-hook plugin that falls back to built-in compaction on failure or insufficient reduction, it shares the context-window-optimization space with [[mksglu-context-mode]] while trading reversible compression for an explicit, auditable per-item decision log.

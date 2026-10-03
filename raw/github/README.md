@@ -185,3 +185,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/github-awesome-copilot.md | github/awesome-copilot | 39568 | main | none | 2026-10-01 | |
 | raw/github/composio-community-open-dot.md | composio-community/open-dot | 396 | main | none | 2026-10-02 | |
 | raw/github/michael-denyer-pstack-claude.md | michael-denyer/pstack-claude | 747 | main | v0.9.57 | 2026-10-02 | |
+| raw/github/tamaratran-fast-jev-compaction.md | tamaratran/fast-jev-compaction | 7341 | main | none | 2026-10-03 | |

@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Agentic AI Frameworks — by category
@@ -19,7 +19,7 @@ updated: 2026-10-02
 - [[#MCP servers & integrations|MCP servers & integrations]] (15)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (15)
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (22)
-- [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (38)
+- [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (39)
 - [[#Browser & web automation|Browser & web automation]] (11)
 - [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (10)
 - [[#Model infra, ML & providers|Model infra, ML & providers]] (16)
@@ -224,6 +224,7 @@ updated: 2026-10-02
 - [[rtk-ai-rtk]] — is a single-binary Rust CLI proxy that filters and compresses everyday shell-command output (git, cargo, test runners, docker, aws, and 100+ others) before it reaches an AI coding agent's context,…
 - [[runcabinet.com]] — introduces Cabinet, a free and open-source self-hosted AI-first startup OS where all knowledge lives as markdown files on disk.
 - [[supermemory.ai]] — introduces Supermemory, a research and product lab building the memory and context infrastructure layer for AI agents.
+- [[tamaratran-fast-jev-compaction]] — takes a different angle on this wiki's context-budget cluster: instead of compressing or summarizing history like [[chopratejas-headroom]] or enforcing token discipline through CLAUDE.md/.claudeign…
 - [[teamchong-pxpipe]] — is a TypeScript proxy that compresses AI-agent request context by rendering high-volume text blocks as images before forwarding to model APIs, with an explicit emphasis on measurement discipline an…
 - [[teng-lin-notebooklm-py]] — documents notebooklm-py, the dominant unofficial Python/CLI/MCP bridge to Google NotebookLM (17k+ stars, MIT). Where [[notebooklm.google]] is a closed SaaS with no public API, this repo reverse-eng…
 - [[tolaria.md]] — introduces Tolaria, a free, open-source, local-first desktop knowledge base for macOS, Windows, and Linux that stores all notes as plain Markdown files on disk, integrates Git as a first-class hist…
@@ -351,4 +352,4 @@ updated: 2026-10-02
 - [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_273 sources across 16 categories._
+_274 sources across 16 categories._
