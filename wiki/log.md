@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-03 | ingest | dzhng-jevgrep | TypeScript CLI (`jg`) answering repo questions with relevant files and source excerpts via the Jev relevance model
+
+- Created: wiki/sources/dzhng-jevgrep.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-10-03 | ingest | tamaratran-fast-jev-compaction | Claude Code plugin/library that replaces LLM-summarized compaction with per-tool-call Jev scoring
 
 - Created: wiki/sources/tamaratran-fast-jev-compaction.md

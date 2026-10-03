@@ -286,5 +286,6 @@ created: 2026-04-28
 | [[pstack]] | web | standard | 2026-10-02 | Lauren "poteto" Tan's large Cursor plugin: a sticky `/poteto-mode` entry point routing tasks to 23 playbooks, 23 auto-applying engineering-discipline principles, and multi-model (Grok/Opus) subagent workflows |
 | [[michael-denyer-pstack-claude]] | github | standard | 2026-10-02 | Community port of [[pstack]] to Claude Code, Codex, OpenCode, Gemini CLI, and Prime Agent, tracking upstream pstack revisions plus named policy forks |
 | [[tamaratran-fast-jev-compaction]] | github | standard | 2026-10-03 | Claude Code plugin/npm library that replaces LLM-summarized compaction with per-tool-call Jev scoring — keeps user/assistant text verbatim, only drops or truncates tool calls/results judged no longer needed |
+| [[dzhng-jevgrep]] | github | standard | 2026-10-03 | TypeScript CLI (`jg`) that answers natural-language repo questions with relevant files and verbatim source excerpts using the Jev relevance model, plus a companion agent skill; reports ~30% lower coding-agent cost at matched SWE-bench task success |
 
-_274 sources ingested._
+_275 sources ingested._
