@@ -26,6 +26,7 @@ related:
   - SnailSploit-Claude-Red
   - chaseai-yt-grill-me-codex
 product: skills
+studied: true
 detail_level: standard
 created: 2026-06-12
 updated: 2026-07-14

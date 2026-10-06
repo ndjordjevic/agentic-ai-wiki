@@ -11,6 +11,8 @@ Behavior:
   - A slug whose category is missing/unknown (not in the config list) goes to
     "Uncategorized" (rendered last) — surfaced in the report for human review.
   - One-line blurbs are pulled from the matching paragraph in wiki/overview.md.
+  - Each entry is a task checkbox: `- [x]` when the page's frontmatter has
+    `studied: true` (human-set progress marker), else `- [ ]`.
 Exit non-zero if the integrity check fails (a slug missing from index, or a source
 file that can't be resolved). Prints a short report to stdout.
 """
@@ -71,18 +73,23 @@ def resolve_file(slug):
             return p
     return None
 
-def read_category(path):
+def read_frontmatter(path):
+    """Return (category, studied) from the page's frontmatter."""
     with open(path, encoding="utf-8") as f:
         lines = f.readlines()
+    cat, studied = None, False
     if not lines or lines[0].strip() != "---":
-        return None
+        return cat, studied
     for i in range(1, len(lines)):
         if lines[i].strip() == "---":
             break
         m = re.match(r'^category:\s*"?([^"\n]+?)"?\s*$', lines[i])
         if m:
-            return m.group(1).strip()
-    return None
+            cat = m.group(1).strip()
+        m = re.match(r'^studied:\s*(\S+)\s*$', lines[i])
+        if m:
+            studied = m.group(1).lower() in ("true", "yes")
+    return cat, studied
 
 # --- one-line blurbs from overview.md ---
 # Abbreviations that end in a period but do NOT end a sentence.
@@ -127,13 +134,16 @@ if os.path.isfile(OVERVIEW):
 # --- group ---
 groups = defaultdict(list)
 unresolved, uncategorized = [], []
+studied = set()
 known = set(categories)
 for slug in index_slugs:
     p = resolve_file(slug)
     if p is None:
         unresolved.append(slug)
         continue
-    cat = read_category(p)
+    cat, is_studied = read_frontmatter(p)
+    if is_studied:
+        studied.add(slug)
     if cat not in known:
         uncategorized.append(slug)
         groups["Uncategorized"].append(slug)
@@ -149,19 +159,23 @@ today = datetime.date.today().isoformat()
 out = ["---", "type: categories", f'domain: "{domain}"', f"updated: {today}", "---", ""]
 out += [f"# {domain} — by category", "", "→ [[index]] | [[overview]] | [[log]]", ""]
 out += ["> Grouped, human-navigable view of every source. **Generated** — do not hand-edit;",
-        "> the source of truth is each page's `category:` frontmatter. Regenerated on every ingest.", ""]
+        "> the source of truth is each page's `category:` frontmatter. Regenerated on every ingest.",
+        "> Checkboxes mirror each page's `studied: true` frontmatter — set it there, not here.", ""]
 out += ["## Categories", ""]
 for name in order:
-    out.append(f"- [[#{name}|{name}]] ({len(groups[name])})")
+    n_studied = sum(1 for s in groups[name] if s in studied)
+    out.append(f"- [[#{name}|{name}]] ({n_studied}/{len(groups[name])} studied)")
 out.append("")
 for name in order:
     out.append(f"## {name}")
     out.append("")
     for slug in sorted(groups[name], key=str.lower):
         d = desc.get(slug)
-        out.append(f"- [[{slug}]] — {d}" if d else f"- [[{slug}]]")
+        box = "[x]" if slug in studied else "[ ]"
+        out.append(f"- {box} [[{slug}]] — {d}" if d else f"- {box} [[{slug}]]")
     out.append("")
-out.append(f"_{len(index_slugs)} sources across {len(categories)} categories._")
+out.append(f"_{len(index_slugs)} sources across {len(categories)} categories — "
+           f"{len(studied)} studied._")
 out.append("")
 
 with open(CATS_MD, "w", encoding="utf-8") as f:
@@ -187,6 +201,6 @@ assert sorted(placed) == sorted(index_slugs), "internal: slug set mismatch"
 assert len(placed) == len(set(placed)), "internal: duplicate slug"
 
 print(f"gen_categories: wrote wiki/categories.md — {len(index_slugs)} sources, "
-      f"{len(categories)} categories; integrity OK.")
+      f"{len(categories)} categories, {len(studied)} studied; integrity OK.")
 if uncategorized:
     print(f"gen_categories: WARN {len(uncategorized)} Uncategorized (review): {uncategorized}")

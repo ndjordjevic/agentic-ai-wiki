@@ -13,6 +13,7 @@ related:
   - pstack
   - cursor-plugins
 product: pstack-claude
+studied: true
 detail_level: standard
 created: 2026-10-02
 updated: 2026-10-02

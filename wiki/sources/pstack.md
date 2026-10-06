@@ -13,6 +13,7 @@ related:
   - cursor-plugins
   - michael-denyer-pstack-claude
 product: pstack
+studied: true
 detail_level: standard
 created: 2026-10-02
 updated: 2026-10-02
