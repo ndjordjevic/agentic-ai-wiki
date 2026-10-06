@@ -11,6 +11,12 @@ stale_threshold_days: 30
 # wiki/categories.md view. On ingest, each source is classified into exactly one
 # of these (LLM step; fall back to "Uncategorized" for human review). Order here
 # is the display order in categories.md.
+# Classify by subject, not packaging. Boundary rules:
+#   - Opinionated coding-workflow skill packs (superpowers, gstack, pstack, mattpocock,
+#     coleam00 PIV) -> "Coding-agent harnesses & methodologies". "Agent Skills & plugins
+#     ecosystem" is for catalogs/marketplaces/directories and non-coding-workflow skills.
+#   - Agent-ergonomic CLIs and dev-machine setup -> "Coding agents, IDEs & dev environments".
+#   - Observability/eval platforms -> "Infra, hosting, DB & observability".
 categories:
   - Agent frameworks & SDKs
   - Coding-agent harnesses & methodologies

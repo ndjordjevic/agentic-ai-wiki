@@ -1,6 +1,6 @@
 ---
 type: source
-category: "MCP servers & integrations"
+category: "Infra, hosting, DB & observability"
 source_url: https://ngrok.com/
 tags:
   - tunnel

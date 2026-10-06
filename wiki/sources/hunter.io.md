@@ -1,6 +1,6 @@
 ---
 type: source
-category: "MCP servers & integrations"
+category: "Business, career & learning"
 source_url: https://hunter.io/
 tags:
   - email-finder

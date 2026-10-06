@@ -1,6 +1,6 @@
 ---
 type: source
-category: "Agent Skills & plugins ecosystem"
+category: "Coding-agent harnesses & methodologies"
 source_url: https://github.com/coleam00/ai-native-starter-pack
 tags:
   - ai-layer

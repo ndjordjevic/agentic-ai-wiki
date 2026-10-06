@@ -1,6 +1,6 @@
 ---
 type: source
-category: "Agent frameworks & SDKs"
+category: "Workflow automation & no-code platforms"
 source_url: https://www.langchain.com/
 parent_slug: langchain.com
 tags:

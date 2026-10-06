@@ -1,6 +1,6 @@
 ---
 type: source
-category: "Agent Skills & plugins ecosystem"
+category: "MCP servers & integrations"
 source_url: https://github.com/googleworkspace/cli
 tags:
   - google-workspace

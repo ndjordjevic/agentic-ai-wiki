@@ -1,6 +1,6 @@
 ---
 type: source
-category: "MCP servers & integrations"
+category: "Business, career & learning"
 source_url: https://www.producthunt.com/
 companion_urls:
   - https://github.com/producthunt/producthunt-api

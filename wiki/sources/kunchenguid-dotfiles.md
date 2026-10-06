@@ -1,6 +1,6 @@
 ---
 type: source
-category: "Infra, hosting, DB & observability"
+category: "Coding agents, IDEs & dev environments"
 source_url: https://github.com/kunchenguid/dotfiles
 tags: [nix-darwin, home-manager, dotfiles, nix-flakes, agentic-engineering, macos-setup, agents-md]
 related: [determinate.systems, wezterm.org, herdr.dev]

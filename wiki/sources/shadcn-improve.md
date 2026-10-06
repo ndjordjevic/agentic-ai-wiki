@@ -1,6 +1,6 @@
 ---
 type: source
-category: "Coding agents, IDEs & dev environments"
+category: "Spec-driven dev, planning & tasks"
 source_url: https://github.com/shadcn/improve
 tags:
   - code-audit

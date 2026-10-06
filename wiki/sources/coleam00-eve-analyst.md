@@ -1,6 +1,6 @@
 ---
 type: source
-category: "Coding-agent harnesses & methodologies"
+category: "Agent frameworks & SDKs"
 source_url: https://github.com/coleam00/eve-analyst
 tags:
   - eve-framework
