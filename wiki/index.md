@@ -287,5 +287,6 @@ created: 2026-04-28
 | [[michael-denyer-pstack-claude]] | github | standard | 2026-10-02 | Community port of [[pstack]] to Claude Code, Codex, OpenCode, Gemini CLI, and Prime Agent, tracking upstream pstack revisions plus named policy forks |
 | [[tamaratran-fast-jev-compaction]] | github | standard | 2026-10-03 | Claude Code plugin/npm library that replaces LLM-summarized compaction with per-tool-call Jev scoring — keeps user/assistant text verbatim, only drops or truncates tool calls/results judged no longer needed |
 | [[dzhng-jevgrep]] | github | standard | 2026-10-03 | TypeScript CLI (`jg`) that answers natural-language repo questions with relevant files and verbatim source excerpts using the Jev relevance model, plus a companion agent skill; reports ~30% lower coding-agent cost at matched SWE-bench task success |
+| [[addyosmani-agent-skills]] | github | standard | 2026-10-06 | Addy Osmani's 25-skill pack mapping the full SDLC (Define, Plan, Build, Verify, Review, Ship) to phase-aligned slash commands, review personas, anti-rationalization tables, and an in-repo CI eval framework |
 
-_275 sources ingested._
+_276 sources ingested._

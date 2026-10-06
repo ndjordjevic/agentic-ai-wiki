@@ -15,7 +15,7 @@ updated: 2026-10-06
 ## Categories
 
 - [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (0/29 studied)
-- [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (3/39 studied)
+- [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (3/40 studied)
 - [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (0/18 studied)
 - [[#MCP servers & integrations|MCP servers & integrations]] (0/13 studied)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (0/16 studied)
@@ -66,6 +66,7 @@ updated: 2026-10-06
 ## Coding-agent harnesses & methodologies
 
 - [ ] [[9d5bzxVsocw-anthropic-just-dropped-the-new-blueprint]] — is a 17-minute breakdown by The AI Automators of Anthropic's March 2026 engineering article on harness design for long-running autonomous agents.
+- [ ] [[addyosmani-agent-skills]] — is a 25-skill pack (24 lifecycle skills plus a `using-agent-skills` meta-router) that organizes agent discipline around the *whole* SDLC — Define, Plan, Build, Verify, Review, Ship — rather than a…
 - [ ] [[affaan-m-ECC]] — takes the coding-agent-harness idea about as far as any single project in this wiki: 68 subagents, 292 skills, a full TDD-enforcement loop, a cross-harness Memory Vault, and a separately installed…
 - [ ] [[bmad-code-org-bmad-method]] — introduces the BMad Method (BMAD-METHOD), a comprehensive open-source Agile AI Driven Development framework (47,851 stars, MIT, v6.7.1) that structures the full software lifecycle as four progressi…
 - [ ] [[bytedance-deer-flow]] — adds a full-stack, production-oriented agent harness to the wiki.
@@ -354,4 +355,4 @@ updated: 2026-10-06
 - [ ] [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [ ] [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_275 sources across 16 categories — 3 studied._
+_276 sources across 16 categories — 3 studied._
