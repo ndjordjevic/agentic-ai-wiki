@@ -19,7 +19,7 @@ created: 2026-10-02
 updated: 2026-10-02
 ---
 
-pstack-claude is Michael Denyer's community port of Lauren "poteto" Tan's Cursor plugin [[pstack]] to Claude Code, Codex, OpenCode, Gemini CLI, and Prime Agent. It carries the same `/poteto-mode` entry point, playbook routing, and principle-skill catalog across harnesses other than Cursor, tracking pstack's upstream revisions plus its own named policy forks declared in `tools/forks.json`.
+pstack-claude is Michael Denyer's community port of Lauren "poteto" Tan's Cursor plugin [[pstack]] to Claude Code, Codex, OpenCode, Gemini CLI, and Prime Agent. It carries the same `/poteto-mode` entry point, playbook routing, and principle-skill catalog across harnesses other than Cursor, tracking [[pstack]]'s upstream revisions plus its own named policy forks declared in `tools/forks.json`.
 
 _All claims below are sourced from ../../raw/github/michael-denyer-pstack-claude.md unless otherwise noted._
 

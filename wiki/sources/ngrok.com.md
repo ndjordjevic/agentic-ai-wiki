@@ -55,7 +55,7 @@ The AI Gateway layer sits between AI SDK clients and upstream LLM providers. Cli
 
 ## When to use
 
-Reach for ngrok when a service running anywhere (local dev, private network, edge device) needs a public, policy-enforced, observable ingress point without infrastructure changes. It is the standard choice for webhook development and testing (inspect and replay every request), for exposing local MCP servers to AI providers, for device and IoT remote access (SSH/RDP over TCP tunnels), and for Kubernetes clusters that need a managed ingress controller. The AI Gateway tier is appropriate for teams that want multi-provider LLM routing, automatic failover, and observability without managing separate gateway infrastructure. Compare with [[webhook.site]] for the inbound inspection-only use case (webhook.site does not require an agent); use ngrok when you need live bidirectional tunneling to a running service.
+Reach for ngrok when a service running anywhere (local dev, private network, edge device) needs a public, policy-enforced, observable ingress point without infrastructure changes. It is the standard choice for webhook development and testing (inspect and replay every request), for exposing local MCP servers to AI providers, for device and IoT remote access (SSH/RDP over TCP tunnels), and for Kubernetes clusters that need a managed ingress controller. The AI Gateway tier is appropriate for teams that want multi-provider LLM routing, automatic failover, and observability without managing separate gateway infrastructure. Compare with [[webhook.site]] for the inbound inspection-only use case ([[webhook.site]] does not require an agent); use ngrok when you need live bidirectional tunneling to a running service.
 
 ## Ecosystem
 

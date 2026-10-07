@@ -18,7 +18,7 @@ created: 2026-07-14
 updated: 2026-07-14
 ---
 
-The Supabase CLI brings the Supabase Platform to the terminal: it runs the full local stack (Postgres, Auth, Realtime, Storage, Edge Functions, and the Supabase APIs), manages Postgres migrations, deploys Edge Functions, generates types from the database schema, and links a local workspace to a hosted project. It's the primary companion tool to [[supabase.com]] — the same `product:` grouping as the main platform page, since this repo backs the `supabase` command referenced throughout supabase.com's docs.
+The Supabase CLI brings the Supabase Platform to the terminal: it runs the full local stack (Postgres, Auth, Realtime, Storage, Edge Functions, and the Supabase APIs), manages Postgres migrations, deploys Edge Functions, generates types from the database schema, and links a local workspace to a hosted project. It's the primary companion tool to [[supabase.com]] — the same `product:` grouping as the main platform page, since this repo backs the `supabase` command referenced throughout [[supabase.com]]'s docs.
 
 _All claims below are sourced from ../../raw/github/supabase-cli.md unless otherwise noted._
 

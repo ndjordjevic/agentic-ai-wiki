@@ -46,7 +46,7 @@ Recommended path from any project root:
 npx impeccable install
 ```
 
-The installer detects harness folders (`~/.claude`, `~/.cursor`, `.agents`, etc.), lets you choose providers and project vs global scope, and installs both the skill payload and hook manifests. Flags: `--providers=claude,codex,cursor`, `--scope=project|global`, `--no-hooks`. Refresh with `npx impeccable update`. Alternatives: git submodule + `npx impeccable link`, Claude Code plugin marketplace (`/plugin marketplace add pbakaus/impeccable`), Grok Build plugin, ZIP download from impeccable.style, or manual `dist/` copy per provider.
+The installer detects harness folders (`~/.claude`, `~/.cursor`, `.agents`, etc.), lets you choose providers and project vs global scope, and installs both the skill payload and hook manifests. Flags: `--providers=claude,codex,cursor`, `--scope=project|global`, `--no-hooks`. Refresh with `npx impeccable update`. Alternatives: git submodule + `npx impeccable link`, Claude Code plugin marketplace (`/plugin marketplace add pbakaus/impeccable`), Grok Build plugin, ZIP download from [[impeccable.style]], or manual `dist/` copy per provider.
 
 After install, run `/impeccable init` inside your coding tool. Codex users must approve the project hook via `/hooks` after each install or update.
 

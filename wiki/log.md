@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-06 | ingest | warpdotdev-warp-factory-examples | Official example repo for Warp Factories — 8 copy-ready multi-agent SDLC pipeline configs on the Oz platform
+
+- Created: wiki/sources/warpdotdev-warp-factory-examples.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-10-06 | ingest | addyosmani-agent-skills | 25-skill pack mapping the full SDLC to phase-aligned slash commands, review personas, anti-rationalization tables, and a CI eval framework
 
 - Created: wiki/sources/addyosmani-agent-skills.md

@@ -64,7 +64,7 @@ The TUI-only build (`cargo build --release`) requires no JavaScript tooling. The
 
 ## Key features
 
-- **Multi-agent support** — auto-detects Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Cursor CLI, Copilot CLI, Pi.dev, Factory Droid, and Hermes; each runs in its own named tmux session.
+- **Multi-agent support** — auto-detects Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Cursor CLI, Copilot CLI, [[pi.dev|Pi.dev]], Factory Droid, and Hermes; each runs in its own named tmux session.
 - **TUI** — built with ratatui; session list with status column, diff viewer, settings panels, and an inline help overlay. Keybinding `?` shows all context-sensitive shortcuts.
 - **Web dashboard (Beta)** — React 19 + xterm.js v6 + Tailwind v4; renders the live agent terminal; installable as a PWA; token-based auth; launched via `aoe serve`.
 - **Remote phone access** — `R` in TUI starts HTTPS tunnel (Tailscale Funnel preferred, Cloudflare fallback) with QR code and passphrase; stable URL across restarts when using Tailscale.

@@ -101,7 +101,7 @@ Actively maintained: `vellum-ai/vellum-assistant` — 841 stars, 124 forks, Type
 
 ## Ecosystem
 
-Compares itself directly to Hermes Agent and OpenClaw on the marketing site; integrates with skills.sh for community skill installs; supports MCP servers for extended tools; multi-provider LLM support (Anthropic default, plus OpenAI, Gemini, OpenRouter, Fireworks, Ollama). OAuth providers include Google, Slack, Linear, GitHub, Notion, HubSpot, Salesforce, Twitter/X, and more via managed registry. ACP skill delegates to external coding agents. ChatGPT import skill for migration continuity.
+Compares itself directly to Hermes Agent and OpenClaw on the marketing site; integrates with [[skills.sh]] for community skill installs; supports MCP servers for extended tools; multi-provider LLM support (Anthropic default, plus OpenAI, Gemini, OpenRouter, Fireworks, Ollama). OAuth providers include Google, Slack, Linear, GitHub, Notion, HubSpot, Salesforce, Twitter/X, and more via managed registry. ACP skill delegates to external coding agents. ChatGPT import skill for migration continuity.
 
 ## Documentation
 

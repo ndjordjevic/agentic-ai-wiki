@@ -140,7 +140,7 @@ Actively developed preview: GitHub 2,118 stars, 745 forks, last push 2026-06-25,
 ## Ecosystem
 
 - **Antigravity platform** — SDK sits alongside Antigravity 2.0 (agent manager GUI), Antigravity IDE (editor), and Antigravity CLI (terminal); all share the same runtime primitives.
-- **[[agents-cli]]** — complementary Google tool for coding agents building ADK agents on GCP; agents-cli lists Antigravity CLI as a supported host.
+- **[[agents-cli]]** — complementary Google tool for coding agents building ADK agents on GCP; [[agents-cli]] lists Antigravity CLI as a supported host.
 - **MCP and skills** — first-class extension paths; platform docs cover MCP/skills for CLI/IDE; SDK loads skills via `skills_paths`.
 - **Gemini Enterprise / Vertex AI** — enterprise auth and hosting path via `vertex=True`.
 - **PyPI:** `google-antigravity` · **Docs:** [antigravity.google/docs/sdk/overview](https://antigravity.google/docs/sdk/overview)

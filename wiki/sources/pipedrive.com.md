@@ -59,7 +59,7 @@ All requests authenticate via a personal API token or OAuth 2.0. Rate limits app
 Pipedrive is a strong fit when:
 - A team needs a lightweight CRM focused on pipeline visibility rather than a full enterprise suite (Salesforce, HubSpot)
 - An agentic workflow needs to create, read, or update deals/contacts/activities from external triggers (web forms, email events, meeting outcomes)
-- Outbound sales automation pipelines (e.g., hunter.io → Pipedrive → Campaigns) need a structured data backbone
+- Outbound sales automation pipelines (e.g., [[hunter.io]] → Pipedrive → Campaigns) need a structured data backbone
 - Webhook-driven automations need CRM state to propagate to external systems (Zapier, n8n, Slack)
 
 It is less suited to complex enterprise workflows requiring custom objects, deep CPQ, or native AI-agent execution environments.

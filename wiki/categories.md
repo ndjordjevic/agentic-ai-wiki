@@ -19,7 +19,7 @@ updated: 2026-10-06
 - [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (0/18 studied)
 - [[#MCP servers & integrations|MCP servers & integrations]] (0/13 studied)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (0/16 studied)
-- [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (0/22 studied)
+- [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (0/23 studied)
 - [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (0/40 studied)
 - [[#Browser & web automation|Browser & web automation]] (0/11 studied)
 - [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (0/10 studied)
@@ -184,6 +184,7 @@ updated: 2026-10-06
 - [ ] [[openai-codex-plugin-cc]] — introduces OpenAI's official Claude Code plugin for Codex, a thin orchestration bridge that exposes Codex's code review and task-delegation capabilities as first-class slash commands and a subagent…
 - [ ] [[pi.dev]] — introduces Pi, a minimal terminal coding harness by Earendil Inc. (60,792 GitHub stars, MIT) built around the principle of "primitives, not features." Pi is a TypeScript monorepo providing four pac…
 - [ ] [[warp.dev]] — documents Warp, the open-source Agentic Development Environment (ADE) that unifies a high-performance Rust-built terminal with the Oz cloud agent orchestration platform.
+- [ ] [[warpdotdev-warp-factory-examples]] — is the official example repo for Warp Factories — [[warp.dev]]'s file-defined, multi-agent SDLC automation layer on the Oz cloud agent platform.
 - [ ] [[x.com-ericzakariasson-building-clis-for-agents]] — captures Eric Zakariasson's (@ericzakariasson) design guide for CLIs that AI agents can actually use — ten patterns addressing the gap between human-oriented command-line tools and agent execution…
 - [ ] [[zcode.z.ai]] — documents ZCode, Z.ai's (Zhipu AI) desktop Agentic Development Environment built specifically around their own GLM-5.2 model family.
 
@@ -355,4 +356,4 @@ updated: 2026-10-06
 - [ ] [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [ ] [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_276 sources across 16 categories — 3 studied._
+_277 sources across 16 categories — 3 studied._

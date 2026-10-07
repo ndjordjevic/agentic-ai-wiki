@@ -10,7 +10,7 @@ created: 2026-07-09
 updated: 2026-07-09
 ---
 
-redis-iris-agent (Cole Medin, MIT, Python) is a small reference implementation showing how a [Pydantic AI](https://ai.pydantic.dev) agent consumes [[redis.io]]'s Redis Iris context layer end to end — Context Retriever as an MCP toolset and Agent Memory as plain tools — with a full reproducible demo dataset rather than just a marketing description. It matters for this wiki as the concrete "how do you actually wire this up" counterpart to Redis's own product page: it shows the exact tool-call shape (`search_memory`, `get_customer_by_id`, `filter_order_by_customer_id`, ...) an LLM sees when both context primitives are combined in one turn.
+redis-iris-agent (Cole Medin, MIT, Python) is a small reference implementation showing how a [Pydantic AI](https://ai.pydantic.dev) ([[pydantic.dev]]) agent consumes [[redis.io]]'s Redis Iris context layer end to end — Context Retriever as an MCP toolset and Agent Memory as plain tools — with a full reproducible demo dataset rather than just a marketing description. It matters for this wiki as the concrete "how do you actually wire this up" counterpart to Redis's own product page: it shows the exact tool-call shape (`search_memory`, `get_customer_by_id`, `filter_order_by_customer_id`, ...) an LLM sees when both context primitives are combined in one turn.
 
 _All claims below are sourced from ../../raw/github/coleam00-redis-iris-agent.md unless otherwise noted._
 

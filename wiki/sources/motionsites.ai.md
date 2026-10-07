@@ -30,7 +30,7 @@ MotionSites gives designers and builders one-click access to prompt templates th
 - **Sections library** — described as "The #1 Most Powerful Sections Prompt Library," covering portfolio sections, error pages, feature blocks, cards/carousels, forms, pricing layouts, testimonials, dashboards, footers, and CTAs.
 - **Backgrounds library** — handcrafted animated background/motion video assets (e.g. "Aurora Drift," "Sunset Bloom," "Cosmic Drift," "Neon Pulse"), updated daily.
 - **Gradients library** — a curated collection of animated gradients for use in the same prompt-driven workflow.
-- Each asset is tagged **"Copy"** (free to grab) or **"Premium"** (subscription-gated), and some templates reference Bolt.new integration for direct deployment.
+- Each asset is tagged **"Copy"** (free to grab) or **"Premium"** (subscription-gated), and some templates reference [[bolt.new|Bolt.new]] integration for direct deployment.
 
 ## Architecture and concepts
 

@@ -93,4 +93,4 @@ Attach a skill at compose time with `@skill-name`; configure auth via `.env.loca
 
 ## Maintenance status
 
-Active open-source project by Hila Shmuel (former Apple EM), building in public. Latest release **v0.4.4** (2026-05-23); 2,381 stars, 235 forks; MIT license; last push 2026-07-03. Community on Discord; cloud waitlist at runcabinet.com/waitlist. Anonymous telemetry is on by default (`CABINET_TELEMETRY_DISABLED=1` or Settings → Privacy to disable). Contributing: sync with Hila on Discord before large PRs during rapid iteration.
+Active open-source project by Hila Shmuel (former Apple EM), building in public. Latest release **v0.4.4** (2026-05-23); 2,381 stars, 235 forks; MIT license; last push 2026-07-03. Community on Discord; cloud waitlist at [[runcabinet.com|runcabinet.com/waitlist]]. Anonymous telemetry is on by default (`CABINET_TELEMETRY_DISABLED=1` or Settings → Privacy to disable). Contributing: sync with Hila on Discord before large PRs during rapid iteration.

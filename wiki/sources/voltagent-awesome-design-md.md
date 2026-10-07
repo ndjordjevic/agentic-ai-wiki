@@ -51,7 +51,7 @@ Awesome DESIGN.md is a discovery and distribution layer for the `DESIGN.md` form
 
 ## Architecture
 
-The repository is a content catalog, not a runtime or SDK. Top-level structure is minimal: `README.md` (Awesome-list index), `CONTRIBUTING.md`, `LICENSE`, and `design-md/` containing 74 brand directories. Each brand folder holds a `DESIGN.md` (the primary agent artifact) and a `README.md`; preview HTML catalogs are referenced in documentation and served via getdesign.md CDN. Files follow the [Google Stitch DESIGN.md specification](https://stitch.withgoogle.com/docs/design-md/specification/) with VoltAgent's extended sections. No build step, no package manager, no API — agents consume the markdown directly. Maintained by VoltAgent (same org behind [[voltagent-awesome-agent-skills]] and the VoltAgent TypeScript agent framework).
+The repository is a content catalog, not a runtime or SDK. Top-level structure is minimal: `README.md` (Awesome-list index), `CONTRIBUTING.md`, `LICENSE`, and `design-md/` containing 74 brand directories. Each brand folder holds a `DESIGN.md` (the primary agent artifact) and a `README.md`; preview HTML catalogs are referenced in documentation and served via getdesign.md CDN. Files follow the [Google Stitch DESIGN.md specification](https://stitch.withgoogle.com/docs/design-md/specification/) (see [[stitch.withgoogle.com]]) with VoltAgent's extended sections. No build step, no package manager, no API — agents consume the markdown directly. Maintained by VoltAgent (same org behind [[voltagent-awesome-agent-skills]] and the VoltAgent TypeScript agent framework).
 
 ## Example usage
 

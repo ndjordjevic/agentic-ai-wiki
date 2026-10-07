@@ -69,7 +69,7 @@ TomeVault is the right tool when: (1) you use multiple AI coding tools and don't
 
 ## Ecosystem
 
-- **[[skills.sh]]** — complementary distribution layer for SKILL.md files; skills.sh handles install/discovery with the `npx skills` CLI while TomeVault handles index, conversion, and trust scoring across six platforms. The two are interoperable: a Tome from TomeVault can contain SKILL.md files that the skills.sh CLI can install.
+- **[[skills.sh]]** — complementary distribution layer for SKILL.md files; [[skills.sh]] handles install/discovery with the `npx skills` CLI while TomeVault handles index, conversion, and trust scoring across six platforms. The two are interoperable: a Tome from TomeVault can contain SKILL.md files that the skills.sh CLI can install.
 - **AGENTS.md open standard** — TomeVault treats AGENTS.md as the primary cross-platform format and provides the `/wtf-is/agents-md` explainer; the platform actively promotes AGENTS.md adoption over platform-specific equivalents.
 - **OWASP Agentic Skills Top 10** — TomeVault's security scanner is mapped against this draft standard; the security catalog lives at `/security` with live rule counts.
 - **`.well-known/agent-skills`** — TomeVault maintains a publisher allowlist for this emerging distribution protocol at `/standards/publishers`.

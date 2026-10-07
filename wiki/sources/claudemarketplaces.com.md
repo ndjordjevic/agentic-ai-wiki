@@ -40,7 +40,7 @@ _All claims below are sourced from ../../raw/web/claudemarketplaces.com.md unles
 
 Cross AI Tools is a three-catalog discovery hub for Claude Code builders:
 
-- **Skills** (`/skills`) — browsable index of agent skills sourced primarily from skills.sh, filtered to 500+ installs, ranked by installs and stars, organized into 34+ categories (frontend, backend, testing, security, DevOps, AI & agent building, skill development, and more).
+- **Skills** (`/skills`) — browsable index of agent skills sourced primarily from [[skills.sh]], filtered to 500+ installs, ranked by installs and stars, organized into 34+ categories (frontend, backend, testing, security, DevOps, AI & agent building, skill development, and more).
 - **MCP servers** (`/mcp`) — 12,500+ Model Context Protocol servers aggregated from community directories, categorized across 19+ domains (databases, browser automation, developer tools, communication, search, security, etc.).
 - **Plugin marketplaces** (`/marketplaces`) — 2,500+ GitHub-based plugin registries with valid marketplace schemas, browsable across 24+ categories (AI agents, LLM integration, dev tools, memory & context, MCP servers, and more).
 
