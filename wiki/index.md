@@ -290,5 +290,6 @@ created: 2026-04-28
 | [[addyosmani-agent-skills]] | github | standard | 2026-10-06 | Addy Osmani's 25-skill pack mapping the full SDLC (Define, Plan, Build, Verify, Review, Ship) to phase-aligned slash commands, review personas, anti-rationalization tables, and an in-repo CI eval framework |
 | [[warpdotdev-warp-factory-examples]] | github | standard | 2026-10-06 | Official example repo for Warp Factories — 8 copy-ready, file-defined multi-agent SDLC pipeline configs on Warp's Oz cloud agent platform, from stock agents to full issue-to-PR and multi-harness topologies |
 | [[cloudflare.com]] | web | standard | 2026-10-08 | Global edge network and developer platform — Workers serverless compute, Workers AI/Vectorize/AI Gateway/Agents SDK for AI inference and agents, plus WAF/DDoS/Zero Trust security |
+| [[storytold]] | web | standard | 2026-10-08 | GitHub org behind ArtCraft — an open-source "IDE for interactive AI image and video creation" with scene-based model orchestration — plus a family of clean-room Rust reimplementations of Adobe/Microsoft creative tools (photocraft, filmcraft, lightcraft, pdfcraft, vectorcraft, wordcraft, and more) |
 
-_278 sources ingested._
+_279 sources ingested._

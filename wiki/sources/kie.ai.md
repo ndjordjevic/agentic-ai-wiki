@@ -16,10 +16,11 @@ related:
   - litellm.ai
   - huggingface.co
   - brave-search
+  - storytold
 product: kie
 detail_level: standard
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-10-08
 ---
 
 Kie.ai is a unified multimodal API platform that gives developers access to 100+ leading video, image, audio, and LLM models through one credit-based gateway at `https://api.kie.ai`. Positioned as "the multimodel layer," it aggregates upstream providers — Veo, Kling, Seedance, Runway, GPT Image, Nano Banana, Suno, ElevenLabs, Claude, GPT, Gemini, and many more — behind consistent async task flows, webhook callbacks, and a shared `model_id` parameter schema. Pricing is typically 30–50% below official APIs (up to ~84% on selected models), with a zero-charge policy for failed generations. The platform targets production teams that need lower-cost multimodal generation without integrating each provider separately.

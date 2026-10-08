@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-08 | ingest | storytold | GitHub org behind ArtCraft (AI image/video creation IDE with scene-based model orchestration) and a family of clean-room Rust reimplementations of Adobe/Microsoft creative tools
+
+- Created: wiki/sources/storytold.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-10-08 | ingest | cloudflare.com | Global edge network and developer platform — Workers serverless compute, Workers AI/Vectorize/AI Gateway/Agents SDK, plus WAF/DDoS/Zero Trust security
 
 - Created: wiki/sources/cloudflare.com.md
