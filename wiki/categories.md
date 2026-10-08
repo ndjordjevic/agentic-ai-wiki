@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-10-06
+updated: 2026-10-08
 ---
 
 # Agentic AI Frameworks — by category
@@ -27,7 +27,7 @@ updated: 2026-10-06
 - [[#Workflow automation & no-code platforms|Workflow automation & no-code platforms]] (0/10 studied)
 - [[#Design & UI generation|Design & UI generation]] (0/12 studied)
 - [[#Media, voice & content|Media, voice & content]] (0/10 studied)
-- [[#Infra, hosting, DB & observability|Infra, hosting, DB & observability]] (0/14 studied)
+- [[#Infra, hosting, DB & observability|Infra, hosting, DB & observability]] (0/15 studied)
 - [[#Security|Security]] (0/4 studied)
 - [[#Business, career & learning|Business, career & learning]] (0/11 studied)
 
@@ -297,7 +297,7 @@ updated: 2026-10-06
 - [ ] [[duply.ai]] — is a curated library of 312+ real-world design systems, each published as a copy-paste-ready `DESIGN.md` file (structured color/typography/spacing/radius/component tokens plus a written analysis) s…
 - [ ] [[impeccable.style]] — is the documentation and marketing site for [[pbakaus-impeccable]], covering the product from the user-facing side: the Design Context workflow (`PRODUCT.md`/`DESIGN.md`), the Live Mode browser-ite…
 - [ ] [[leonxlnx-taste-skill]] — is a family of thirteen Agent Skills targeting a specific complaint about AI-built frontends — that they default to generic, boilerplate-looking layouts.
-- [ ] [[motionsites.ai]] — is a paid library of copy-paste AI design prompts — hero sections, full landing pages, animated backgrounds, and gradients — meant to be pasted into an AI website builder like Bolt.new rather than…
+- [ ] [[motionsites.ai]] — is a paid library of copy-paste AI design prompts — hero sections, full landing pages, animated backgrounds, and gradients — meant to be pasted into an AI website builder like [[bolt.new|Bolt.new]]…
 - [ ] [[Nutlope-hallmark]] — is Together AI's open-source design skill (18,900+ stars) for Claude Code, Cursor, and Codex, aimed squarely at the "every AI-generated page looks the same" problem: it picks a macrostructure per b…
 - [ ] [[open-design.ai]] — introduces Open Design (62,118 stars, Apache-2.0, v0.9.0), the open-source, local-first alternative to Claude Design — a complete agent-native design platform that turns any of 21+ supported coding…
 - [ ] [[oso95-scroll-world]] — is an Agent Skill that builds Apple-style scroll-scrubbed "fly through the world" landing pages for any brand: a camera flies into one generated diorama scene after another with no cuts, driven pur…
@@ -320,6 +320,7 @@ updated: 2026-10-06
 
 ## Infra, hosting, DB & observability
 
+- [ ] [[cloudflare.com]] — widens the wiki's edge/infra cluster with a network-first alternative to the platform-as-a-service entries: Workers runs code globally on V8 isolates with zero cold starts, rather than the containe…
 - [ ] [[determinate.systems]] — documents Determinate Nix Installer — the industry-standard, planner-based Rust tool for installing Nix and enabling flakes on macOS, Linux, WSL, Docker, and CI pipelines, with over 7 million insta…
 - [ ] [[docker-sandboxes]] — documents Docker Sandboxes, a product for running coding agents (Claude Code, Gemini CLI, Copilot CLI, Codex, OpenCode, Kiro) inside disposable, hypervisor-isolated microVMs so they can operate in…
 - [ ] [[docusaurus.io]] — documents Docusaurus (v3.10.1, 65K+ GitHub stars, MIT) — Meta's React static-site generator built specifically for documentation websites.
@@ -356,4 +357,4 @@ updated: 2026-10-06
 - [ ] [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [ ] [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_277 sources across 16 categories — 3 studied._
+_278 sources across 16 categories — 3 studied._

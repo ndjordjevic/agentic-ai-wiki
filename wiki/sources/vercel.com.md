@@ -18,6 +18,7 @@ related:
   - langchain.com
   - supabase.com
   - browserbase.com
+  - cloudflare.com
   - must-have-clis-2026
   - ollama-ollama
   - pydantic.dev
@@ -32,7 +33,7 @@ related:
 product: vercel
 detail_level: standard
 created: 2026-07-07
-updated: 2026-07-28
+updated: 2026-10-08
 ---
 
 Vercel positions itself as "Agentic Infrastructure" — the AI Cloud for building, deploying, and scaling AI-powered applications and agentic workloads. The platform combines a deployment and edge-compute layer (Fluid Compute, global CDN, serverless Functions, CI/CD) with an Agent Stack (AI SDK, AI Gateway, Sandbox, Workflows, Passport, eve) and agent-native tooling (CLI, MCP server, Vercel Plugin, Agent Skills via [[skills.sh]]). Coding agents can deploy via API/CLI/MCP, run untrusted code in isolated sandboxes, orchestrate durable workflows, and route model calls through a unified gateway — all on the same infrastructure that serves Notion, Zapier, and Mintlify at scale.

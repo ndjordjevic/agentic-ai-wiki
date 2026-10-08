@@ -289,5 +289,6 @@ created: 2026-04-28
 | [[dzhng-jevgrep]] | github | standard | 2026-10-03 | TypeScript CLI (`jg`) that answers natural-language repo questions with relevant files and verbatim source excerpts using the Jev relevance model, plus a companion agent skill; reports ~30% lower coding-agent cost at matched SWE-bench task success |
 | [[addyosmani-agent-skills]] | github | standard | 2026-10-06 | Addy Osmani's 25-skill pack mapping the full SDLC (Define, Plan, Build, Verify, Review, Ship) to phase-aligned slash commands, review personas, anti-rationalization tables, and an in-repo CI eval framework |
 | [[warpdotdev-warp-factory-examples]] | github | standard | 2026-10-06 | Official example repo for Warp Factories — 8 copy-ready, file-defined multi-agent SDLC pipeline configs on Warp's Oz cloud agent platform, from stock agents to full issue-to-PR and multi-harness topologies |
+| [[cloudflare.com]] | web | standard | 2026-10-08 | Global edge network and developer platform — Workers serverless compute, Workers AI/Vectorize/AI Gateway/Agents SDK for AI inference and agents, plus WAF/DDoS/Zero Trust security |
 
-_277 sources ingested._
+_278 sources ingested._
