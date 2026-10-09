@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-10-08
+updated: 2026-10-09
 ---
 
 # Agentic AI Frameworks — by category
@@ -29,7 +29,7 @@ updated: 2026-10-08
 - [[#Media, voice & content|Media, voice & content]] (0/11 studied)
 - [[#Infra, hosting, DB & observability|Infra, hosting, DB & observability]] (0/15 studied)
 - [[#Security|Security]] (0/4 studied)
-- [[#Business, career & learning|Business, career & learning]] (0/11 studied)
+- [[#Business, career & learning|Business, career & learning]] (0/12 studied)
 
 ## Agent frameworks & SDKs
 
@@ -351,6 +351,7 @@ updated: 2026-10-08
 - [ ] [[go.aiapply.co]] — documents AIApply, a vertical AI agent for job search — not a developer harness, but a packaged end-to-end co-pilot used by 1.16M+ users that tailors ATS-optimized resumes and cover letters per job…
 - [ ] [[hunter.io]] — introduces Hunter, an all-in-one email outreach platform (7M+ users) that solves the contact-discovery half of outbound sales pipelines.
 - [ ] [[openvibe.sh]] — introduces Open Vibe, a free MIT-licensed agent-driven web development course by the Wasp team that turns Claude Code (or any capable coding agent) into a pair-programming tutor.
+- [ ] [[parakeet-ai.com]] — is a consumer, non-developer entry in this wiki: a "real-time AI interview assistant" that transcribes a live call, detects questions as they're asked, and surfaces LLM-generated answers (including…
 - [ ] [[pipedrive.com]] — introduces Pipedrive, a web-based Sales CRM and pipeline management platform serving 100,000+ companies across 179 countries.
 - [ ] [[planana.xyz]] — introduces Planana AI, a free web application that turns an open-ended learning goal into a structured, personalized weekly study roadmap.
 - [ ] [[producthunt.com]] — documents Product Hunt, the community-driven discovery platform where makers submit new tech products daily and the audience ranks them on a public leaderboard — including Product of the Day.
@@ -358,4 +359,4 @@ updated: 2026-10-08
 - [ ] [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [ ] [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_279 sources across 16 categories — 3 studied._
+_280 sources across 16 categories — 3 studied._

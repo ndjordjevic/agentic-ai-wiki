@@ -291,5 +291,6 @@ created: 2026-04-28
 | [[warpdotdev-warp-factory-examples]] | github | standard | 2026-10-06 | Official example repo for Warp Factories — 8 copy-ready, file-defined multi-agent SDLC pipeline configs on Warp's Oz cloud agent platform, from stock agents to full issue-to-PR and multi-harness topologies |
 | [[cloudflare.com]] | web | standard | 2026-10-08 | Global edge network and developer platform — Workers serverless compute, Workers AI/Vectorize/AI Gateway/Agents SDK for AI inference and agents, plus WAF/DDoS/Zero Trust security |
 | [[storytold]] | web | standard | 2026-10-08 | GitHub org behind ArtCraft — an open-source "IDE for interactive AI image and video creation" with scene-based model orchestration — plus a family of clean-room Rust reimplementations of Adobe/Microsoft creative tools (photocraft, filmcraft, lightcraft, pdfcraft, vectorcraft, wordcraft, and more) |
+| [[parakeet-ai.com]] | web | standard | 2026-10-09 | Consumer "real-time AI interview assistant" — live call transcription, question detection, and AI-generated answers (incl. live coding support), marketed around screen-share/process-level undetectability across Zoom/Teams/Meet/Webex/Lark/Chime/CoderPad/HackerRank |
 
-_279 sources ingested._
+_280 sources ingested._

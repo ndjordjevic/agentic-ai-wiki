@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-09 | ingest | parakeet-ai.com | Consumer "real-time AI interview assistant" — live call transcription, question detection, and AI-generated answers, marketed around screen-share/process-level undetectability
+
+- Created: wiki/sources/parakeet-ai.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-10-08 | ingest | storytold | GitHub org behind ArtCraft (AI image/video creation IDE with scene-based model orchestration) and a family of clean-room Rust reimplementations of Adobe/Microsoft creative tools
 
 - Created: wiki/sources/storytold.md
