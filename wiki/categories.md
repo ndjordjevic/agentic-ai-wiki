@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-10-09
+updated: 2026-10-10
 ---
 
 # Agentic AI Frameworks — by category
@@ -17,7 +17,7 @@ updated: 2026-10-09
 - [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (0/29 studied)
 - [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (3/40 studied)
 - [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (0/18 studied)
-- [[#MCP servers & integrations|MCP servers & integrations]] (0/13 studied)
+- [[#MCP servers & integrations|MCP servers & integrations]] (0/14 studied)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (0/16 studied)
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (0/23 studied)
 - [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (0/40 studied)
@@ -136,6 +136,7 @@ updated: 2026-10-09
 - [ ] [[marketstack.com]] — documents Marketstack, an APILayer REST API for worldwide stock market data — EOD, intraday, real-time US quotes (IEX), 750+ indices, splits/dividends, exchange metadata, and V2 EDGAR SEC filings.
 - [ ] [[mcp.sentry.dev]] — documents **Sentry MCP** — Sentry's official remote Model Context Protocol server (`https://mcp.sentry.dev/mcp`) that wires coding agents (Cursor, Claude Code, VS Code, Codex, Windsurf, Zed) to liv…
 - [ ] [[monid.ai]] — applies the OpenRouter pattern to the tool layer: it is a gateway that brokers 1,000+ paid data and tool endpoints — web search, scraping, browser automation, people and company enrichment, social-…
+- [ ] [[morluto-rea]] — (REA, "Reverse Engineer Anything") brings reverse engineering into the agent tool layer: one local MCP server and matching CLI, installed into Claude Code, Codex, Cursor and a dozen other agents by…
 - [ ] [[pushover.net]] — documents Pushover, a hosted push-notification service: a three-parameter HTTP POST (`token`, `user`, `message`) delivers alerts to a user's Android, iOS, and desktop clients via native push channe…
 - [ ] [[resend.com]] — introduces Resend, an email API platform for developers that sends transactional and marketing emails at scale via a clean REST API (`api.resend.com`) with SDKs for nine languages and a full OpenAP…
 - [ ] [[sequentialthinking-mcp]] — documents the Sequential Thinking MCP Server, a focused MCP server that exposes a single `sequential_thinking` tool for structured, revisable, branching reasoning inside an MCP-aware host.
@@ -359,4 +360,4 @@ updated: 2026-10-09
 - [ ] [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [ ] [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_280 sources across 16 categories — 3 studied._
+_281 sources across 16 categories — 3 studied._

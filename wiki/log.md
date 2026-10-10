@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-10 | ingest | morluto-rea | REA — local MCP server + CLI for agent-driven reverse engineering of binaries, JS/Electron, .NET, Android, firmware, EVM and websites with evidence-backed results
+
+- Created: wiki/sources/morluto-rea.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md, wiki/sources/integuru.com.md, wiki/sources/mukul975-anthropic-cybersecurity-skills.md, wiki/sources/SnailSploit-Claude-Red.md (related backlinks)
+
 ## 2026-10-09 | ingest | parakeet-ai.com | Consumer "real-time AI interview assistant" — live call transcription, question detection, and AI-generated answers, marketed around screen-share/process-level undetectability
 
 - Created: wiki/sources/parakeet-ai.com.md

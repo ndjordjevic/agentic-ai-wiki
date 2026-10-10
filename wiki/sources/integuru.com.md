@@ -25,10 +25,11 @@ related:
   - webhook.site
   - brave-search
   - vellum.ai
+  - morluto-rea
 product: integuru
 detail_level: standard
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-10-10
 ---
 
 Integuru (YC-backed, 10M+ API calls/month) is a platform that generates fast, production-ready APIs for websites and web systems that lack usable public APIs — by reverse-engineering the private HTTP endpoints a platform's own frontend calls, then exposing them as documented, direct-HTTP integrations. It explicitly positions against browser automation and traditional RPA: no browsers, sub-3-second latency, 99.9%+ reliability, and 24/7 on-call maintenance on Production plans. The open-source companion repo `Integuru-AI/Integuru` (4.6K stars, AGPL-3.0) is the earliest public v0 agent; the current hosted product lives at integuru.com with CLI (`npm install -g integuru`) and web UI at app.integuru.com.

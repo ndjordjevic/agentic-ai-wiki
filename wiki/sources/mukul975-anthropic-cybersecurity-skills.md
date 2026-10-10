@@ -3,11 +3,11 @@ type: source
 category: "Security"
 source_url: https://github.com/mukul975/Anthropic-Cybersecurity-Skills
 tags: [cybersecurity-skills, mitre-attack, agentskills-io, agent-skills, threat-hunting, penetration-testing, mitre-atlas, nist-csf, ai-security, red-teaming]
-related: [voltagent-awesome-agent-skills, anthropics-skills, obra-superpowers, skills.sh]
+related: [voltagent-awesome-agent-skills, anthropics-skills, obra-superpowers, skills.sh, morluto-rea]
 product: anthropic-cybersecurity-skills
 detail_level: standard
 created: 2026-08-22
-updated: 2026-08-22
+updated: 2026-10-10
 ---
 
 Anthropic Cybersecurity Skills is the largest open-source cybersecurity skills library for AI agents — 817 production-grade skills across 29 security domains, each following the agentskills.io standard with YAML frontmatter for agent discovery and structured Markdown workflows for step-by-step execution. The library's defining feature is its six-framework mapping: every skill is tagged to whichever subset of MITRE ATT&CK v19.1, NIST CSF 2.0, MITRE ATLAS 2026.07, MITRE D3FEND v1.4.0, NIST AI RMF 1.0, and the MITRE Fight Fraud Framework (F3 v1.1) applies to it. With 30,556 stars and an Apache 2.0 license, it is a community project (not affiliated with Anthropic PBC) and installs with a single `npx skills add` command on any agentskills.io-compatible platform.

@@ -298,3 +298,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://www.cloudflare.com/ <!-- ingested 2026-10-08 -->
 - [x] https://github.com/storytold <!-- ingested 2026-10-08 -->
 - [x] https://www.parakeet-ai.com/ <!-- ingested 2026-10-09 -->
+- [x] https://github.com/morluto/rea <!-- ingested 2026-10-10 -->

@@ -21,10 +21,11 @@ related:
   - mattpocock-skills
   - forrestchang-andrej-karpathy-skills
   - pbakaus-impeccable
+  - morluto-rea
 product: claude-red
 detail_level: standard
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-10-10
 ---
 
 SnailSploit's `claude-red` (2,659+ stars, MIT, latest release Claude-Red-Skills V.2) is the largest domain-specific offensive-security skill library for the Claude Skills system — 58 `SKILL.md` files across 13 categories (web, wireless, AD, cloud, mobile, IoT, infrastructure/red team, exploit dev, fuzzing, recon, AI security, utility) that turn Claude into an on-demand specialist operator for authorized red team, bug bounty, CTF, and security research work.
