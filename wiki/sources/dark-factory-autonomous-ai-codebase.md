@@ -14,10 +14,11 @@ related:
   - factory.ai
   - cognition.ai
   - coleam00-archon
+  - software-factory-claude-code
 product: dark-factory-autonomous-ai-codebase
 detail_level: standard
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-10-13
 ---
 
 MindStudio's explainer on "dark factories" — a term borrowed from lights-out manufacturing and applied to fully autonomous software development, where AI agents plan, code, test, and deploy without human intervention. It's a useful conceptual framing (not a product) for the harness-design patterns already documented elsewhere in this wiki.

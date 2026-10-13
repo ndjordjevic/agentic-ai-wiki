@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-10-10
+updated: 2026-10-13
 ---
 
 # Agentic AI Frameworks — by category
@@ -15,7 +15,7 @@ updated: 2026-10-10
 ## Categories
 
 - [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (0/29 studied)
-- [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (3/40 studied)
+- [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (3/41 studied)
 - [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (0/18 studied)
 - [[#MCP servers & integrations|MCP servers & integrations]] (0/14 studied)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (0/16 studied)
@@ -101,6 +101,7 @@ updated: 2026-10-10
 - [ ] [[ruvnet-ruflo]] — introduces Ruflo (formerly Claude Flow) — an open-source agent meta-harness for Claude Code and Codex (62k+ stars, MIT, TypeScript, v3.16.3). Where [[paperclipai-paperclip]] is the organizational c…
 - [ ] [[shareai-lab-learn-claude-code]] — is a 12-session open-source curriculum (58,143 stars, MIT) that reverse-engineers Claude Code by building its full architecture from scratch in Python, one harness mechanism per session.
 - [ ] [[snarktank-ralph]] — introduces Ralph, an open-source autonomous AI agent loop (19,297 stars, MIT, TypeScript) that runs AI coding tools — Amp or Claude Code — iteratively against a `prd.json` task list until every use…
+- [ ] [[software-factory-claude-code]] — is ZazenCodes' deliberately small "software factory" built from native Claude Code parts only: one `/factory` skill turns the running session into an orchestrator that spawns seven subagents.
 - [ ] [[the-new-sdlc-with-vibe-coding]] — is the foundational whitepaper for this wiki's entire domain, authored by Addy Osmani, Shubham Saboo, and Sokratis Kartakis (May 2026, Google Agents Whitepaper Series, Day 2). It defines the spectr…
 - [ ] [[using-claude-code-unreasonable-effectiveness-html]] — is Thariq Shihipar's essay from the Claude Code team arguing that HTML—not Markdown—should be the default agent output format when humans must stay engaged in long workflows.
 - [ ] [[x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes]] — captures an empirical study by Mnimiy (@mnilax) extending [[forrestchang-andrej-karpathy-skills]]'s 4-rule template with 8 additional rules grounded in 6 weeks of testing across 30 codebases.

@@ -293,5 +293,6 @@ created: 2026-04-28
 | [[storytold]] | web | standard | 2026-10-08 | GitHub org behind ArtCraft — an open-source "IDE for interactive AI image and video creation" with scene-based model orchestration — plus a family of clean-room Rust reimplementations of Adobe/Microsoft creative tools (photocraft, filmcraft, lightcraft, pdfcraft, vectorcraft, wordcraft, and more) |
 | [[parakeet-ai.com]] | web | standard | 2026-10-09 | Consumer "real-time AI interview assistant" — live call transcription, question detection, and AI-generated answers (incl. live coding support), marketed around screen-share/process-level undetectability across Zoom/Teams/Meet/Webex/Lark/Chime/CoderPad/HackerRank |
 | [[morluto-rea]] | github | standard | 2026-10-10 | REA ("Reverse Engineer Anything") — local MCP server + CLI that lets agents reverse-engineer native binaries (Hopper/Ghidra/IDA), JS/Electron, .NET, Android, firmware, EVM and websites, returning evidence-backed findings |
+| [[software-factory-claude-code]] | web | standard | 2026-10-13 | ZazenCodes' copy-in Claude Code "software factory": one `/factory` skill plus seven subagents run spec → build → four parallel reviews (security/UX/UI/code) → approver merge-or-escalate, one git worktree per job, with a live HTML dashboard |
 
-_281 sources ingested._
+_282 sources ingested._

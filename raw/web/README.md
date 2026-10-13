@@ -148,3 +148,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/cloudflare.com.md | cloudflare.com | 7 | 2026-10-08 | |
 | raw/web/storytold.md | storytold | 1 | 2026-10-08 | |
 | raw/web/parakeet-ai.com.md | parakeet-ai.com | 1 | 2026-10-09 | |
+| raw/web/software-factory-claude-code.md | software-factory-claude-code | 1 | 2026-10-13 | |

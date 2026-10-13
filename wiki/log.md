@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-13 | ingest | software-factory-claude-code | Copy-in Claude Code software factory — /factory skill + 7 subagents running spec → build → 4 parallel reviews → approver merge/escalate, worktree per job, live dashboard
+
+- Created: wiki/sources/software-factory-claude-code.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, wiki/categories.md, raw/web/README.md, inbox.md
+
 ## 2026-10-10 | ingest | morluto-rea | REA — local MCP server + CLI for agent-driven reverse engineering of binaries, JS/Electron, .NET, Android, firmware, EVM and websites with evidence-backed results
 
 - Created: wiki/sources/morluto-rea.md

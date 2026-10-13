@@ -11,10 +11,11 @@ tags:
   - scorers-skills
 related:
   - warp.dev
+  - software-factory-claude-code
 product: warp-factory-examples
 detail_level: standard
 created: 2026-10-06
-updated: 2026-10-06
+updated: 2026-10-13
 ---
 
 `warpdotdev/warp-factory-examples` is the official example repository for Warp Factories — declarative, file-defined multi-agent SDLC pipelines on Warp's Oz cloud agent platform. Each of its eight example trees is a complete, runnable factory definition (`factory.yaml` plus `agents/`, `automations/`, `runners/`, and optional `scorers/`/`skills/` directories) that teams copy into their own repo, customize, and register with Warp. It matters for understanding how Oz factories are structured in practice — from the five stock agents Warp creates automatically, through a full issue-to-PR lifecycle with Slack/Linear/GitHub intake, to multi-harness (Warp Agent + Claude Code + Codex) and self-hosted-worker topologies. See [[warp.dev]] for the parent product.
