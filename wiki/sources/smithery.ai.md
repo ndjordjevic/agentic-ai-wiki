@@ -3,7 +3,7 @@ type: source
 category: "MCP servers & integrations"
 source_url: https://smithery.ai/
 tags: [mcp-registry, mcp-gateway, managed-oauth, agent-connections, service-tokens, mcp-triggers, mcp-tunnel, smithery-cli]
-related: [monid.ai, skills.sh]
+related: [monid.ai, skills.sh, glama.ai]
 product: smithery
 detail_level: standard
 created: 2026-10-14

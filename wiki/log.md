@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-14 | ingest | glama.ai | Glama — MCP registry (superset of the official registry) with Firecracker-sandboxed builds, behavioural audits, TDQS tool-quality scores and connector drift/prompt-injection detection, plus browser MCP Inspector, one-click MCP hosting and an MCP Gateway (call logs, per-tool ACL, managed OAuth)
+
+- Created: wiki/sources/glama.ai.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/web/README.md, inbox.md, wiki/sources/smithery.ai.md (related)
+
 ## 2026-10-14 | ingest | smithery.ai | Smithery — MCP server + skills registry with managed Connect layer (hosted OAuth, write-only credential vault, namespace MCP endpoint, scoped tokens, Uplink tunnels, webhook Triggers) and publish/analytics for server authors
 
 - Created: wiki/sources/smithery.ai.md

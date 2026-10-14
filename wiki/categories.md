@@ -17,7 +17,7 @@ updated: 2026-10-14
 - [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (0/29 studied)
 - [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (3/41 studied)
 - [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (0/18 studied)
-- [[#MCP servers & integrations|MCP servers & integrations]] (0/15 studied)
+- [[#MCP servers & integrations|MCP servers & integrations]] (0/16 studied)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (0/16 studied)
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (0/23 studied)
 - [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (0/40 studied)
@@ -132,6 +132,7 @@ updated: 2026-10-14
 
 - [ ] [[anysearch.com]] — is AnySearch, a search infrastructure platform built for AI agents, offering unified search-source access with intent-aware routing behind a single API, MCP server, and Skill integration.
 - [ ] [[brave-search]] — introduces Brave Search API, a privacy-first web search API giving AI agents access to the world's largest independent Web index — 30+ billion pages refreshed 100 million times daily — without rely…
+- [ ] [[glama.ai]] — is an MCP registry built around vetting. It mirrors the official MCP Registry and adds its own analysis, indexing about 97.6k open-source servers, 30.7k remote connectors, and nearly 1M individual…
 - [ ] [[googleworkspace-cli]] — is `gws`, a Rust CLI that exposes the whole Google Workspace API surface (Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin) by reading Google's own Discovery Service at runtime instead of shipping…
 - [ ] [[integuru.com]] — is Integuru (YC-backed, 10M+ API calls/month) — a platform that generates production-ready APIs for websites lacking usable public APIs by reverse-engineering the private HTTP endpoints a platform'…
 - [ ] [[marketstack.com]] — documents Marketstack, an APILayer REST API for worldwide stock market data — EOD, intraday, real-time US quotes (IEX), 750+ indices, splits/dividends, exchange metadata, and V2 EDGAR SEC filings.
@@ -362,4 +363,4 @@ updated: 2026-10-14
 - [ ] [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [ ] [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_283 sources across 16 categories — 3 studied._
+_284 sources across 16 categories — 3 studied._
