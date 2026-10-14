@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-14 | ingest | smithery.ai | Smithery — MCP server + skills registry with managed Connect layer (hosted OAuth, write-only credential vault, namespace MCP endpoint, scoped tokens, Uplink tunnels, webhook Triggers) and publish/analytics for server authors
+
+- Created: wiki/sources/smithery.ai.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, wiki/categories.md, raw/web/README.md, inbox.md, wiki/sources/monid.ai.md, wiki/sources/skills.sh.md (related)
+
 ## 2026-10-13 | ingest | software-factory-claude-code | Copy-in Claude Code software factory — /factory skill + 7 subagents running spec → build → 4 parallel reviews → approver merge/escalate, worktree per job, live dashboard
 
 - Created: wiki/sources/software-factory-claude-code.md

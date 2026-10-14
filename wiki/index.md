@@ -294,5 +294,6 @@ created: 2026-04-28
 | [[parakeet-ai.com]] | web | standard | 2026-10-09 | Consumer "real-time AI interview assistant" — live call transcription, question detection, and AI-generated answers (incl. live coding support), marketed around screen-share/process-level undetectability across Zoom/Teams/Meet/Webex/Lark/Chime/CoderPad/HackerRank |
 | [[morluto-rea]] | github | standard | 2026-10-10 | REA ("Reverse Engineer Anything") — local MCP server + CLI that lets agents reverse-engineer native binaries (Hopper/Ghidra/IDA), JS/Electron, .NET, Android, firmware, EVM and websites, returning evidence-backed findings |
 | [[software-factory-claude-code]] | web | standard | 2026-10-13 | ZazenCodes' copy-in Claude Code "software factory": one `/factory` skill plus seven subagents run spec → build → four parallel reviews (security/UX/UI/code) → approver merge-or-escalate, one git worktree per job, with a live HTML dashboard |
+| [[smithery.ai]] | web | standard | 2026-10-14 | MCP registry + managed-connection platform — thousands of MCP servers and skills, hosted OAuth/credential vault (agent.pw), namespace MCP endpoint, scoped service tokens, Uplink local tunnels, webhook Triggers, and publish/analytics for server authors |
 
-_282 sources ingested._
+_283 sources ingested._
