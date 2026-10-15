@@ -19,10 +19,11 @@ related:
   - the-new-sdlc-with-vibe-coding
   - sentry.io
   - coderabbit.ai
+  - openqodex-openqodex
 product: greptile
 detail_level: standard
 created: 2026-06-24
-updated: 2026-08-25
+updated: 2026-10-15
 ---
 
 Greptile is a cloud-native AI code review agent that automatically reviews every pull request using whole-repository context rather than just the diff. It integrates with GitHub and GitLab as an app/webhook, builds a graph of the entire codebase (every function, class, import, and dependency), and posts high-signal findings — logic errors, security issues, architectural inconsistencies — within approximately three minutes of a PR opening. Greptile is designed as the "central validation layer" for teams using AI coding agents (Claude Code, Codex, Cursor, Devin), complementing code generation by providing independent review. It is not an open-source project; cloud deployment requires a subscription, and self-hosting requires a commercial license from Greptile.

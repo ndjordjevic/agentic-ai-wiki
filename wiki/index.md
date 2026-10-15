@@ -296,5 +296,6 @@ created: 2026-04-28
 | [[software-factory-claude-code]] | web | standard | 2026-10-13 | ZazenCodes' copy-in Claude Code "software factory": one `/factory` skill plus seven subagents run spec → build → four parallel reviews (security/UX/UI/code) → approver merge-or-escalate, one git worktree per job, with a live HTML dashboard |
 | [[smithery.ai]] | web | standard | 2026-10-14 | MCP registry + managed-connection platform — thousands of MCP servers and skills, hosted OAuth/credential vault (agent.pw), namespace MCP endpoint, scoped service tokens, Uplink local tunnels, webhook Triggers, and publish/analytics for server authors |
 | [[glama.ai]] | web | standard | 2026-10-14 | MCP registry + control plane — ~97.6k servers / 30.7k connectors / ~1M tools, each Firecracker-sandboxed, introspected, behaviour-audited and TDQS-scored; browser MCP Inspector, one-click MCP hosting, and an MCP Gateway with call logs, per-tool access control and managed OAuth |
+| [[openqodex-openqodex]] | github | standard | 2026-10-15 | Open-source pre-push code review for coding agents — 22 pinned scanners, then a separate Claude Code/Codex reviewer on your own login that must answer every finding; push-gate hooks, SARIF/HTML reports, code-graph MCP, custom GitHub scanners |
 
-_284 sources ingested._
+_285 sources ingested._

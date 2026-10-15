@@ -18,10 +18,11 @@ related:
   - garrytan-gstack
   - openrouter.ai
   - greptile.com
+  - openqodex-openqodex
 product: pr-af
 detail_level: standard
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-10-15
 ---
 
 PR-AF is an open-source, AgentField-native pull request reviewer that builds a custom multi-agent review strategy for every PR instead of running a single LLM pass with a fixed checklist. It dynamically compiles review dimensions from the diff topology, spawns parallel reviewer agents with runtime-crafted prompts, grounds findings with programmatic AST extraction, challenges its own claims adversarially, synthesizes compound cross-file risks, and posts evidence-backed inline GitHub comments. A deep review of a ~500-line PR costs roughly $0.80 in BYOK LLM calls and typically runs 35–50 minutes — positioning it as a CI/CD gatekeeper for architectural depth rather than fast inner-loop feedback.

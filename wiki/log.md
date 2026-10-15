@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-15 | ingest | openqodex-openqodex | OpenQodex — open-source pre-push code review run from Claude Code/Codex/Cursor/Cline: 22 pinned scanners filtered to changed lines, then a separate Claude Code or Codex reviewer (own login, no API key) that must raise or drop every scanner finding; push-gate + pre-push hooks, HTML/MD/JSON/SARIF reports, code-graph MCP, approved custom GitHub scanners
+
+- Created: wiki/sources/openqodex-openqodex.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md, wiki/sources/coderabbit.ai.md, wiki/sources/agent-field-pr-af.md, wiki/sources/greptile.com.md, wiki/sources/openai-codex-plugin-cc.md (related)
+
 ## 2026-10-14 | ingest | glama.ai | Glama — MCP registry (superset of the official registry) with Firecracker-sandboxed builds, behavioural audits, TDQS tool-quality scores and connector drift/prompt-injection detection, plus browser MCP Inspector, one-click MCP hosting and an MCP Gateway (call logs, per-tool ACL, managed OAuth)
 
 - Created: wiki/sources/glama.ai.md

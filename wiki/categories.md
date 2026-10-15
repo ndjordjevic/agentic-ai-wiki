@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Agentic AI Frameworks — by category
@@ -19,7 +19,7 @@ updated: 2026-10-14
 - [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (0/18 studied)
 - [[#MCP servers & integrations|MCP servers & integrations]] (0/16 studied)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (0/16 studied)
-- [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (0/23 studied)
+- [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (0/24 studied)
 - [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (0/40 studied)
 - [[#Browser & web automation|Browser & web automation]] (0/11 studied)
 - [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (0/10 studied)
@@ -132,7 +132,7 @@ updated: 2026-10-14
 
 - [ ] [[anysearch.com]] — is AnySearch, a search infrastructure platform built for AI agents, offering unified search-source access with intent-aware routing behind a single API, MCP server, and Skill integration.
 - [ ] [[brave-search]] — introduces Brave Search API, a privacy-first web search API giving AI agents access to the world's largest independent Web index — 30+ billion pages refreshed 100 million times daily — without rely…
-- [ ] [[glama.ai]] — is an MCP registry built around vetting. It mirrors the official MCP Registry and adds its own analysis, indexing about 97.6k open-source servers, 30.7k remote connectors, and nearly 1M individual…
+- [ ] [[glama.ai]] — is an MCP registry built around vetting.
 - [ ] [[googleworkspace-cli]] — is `gws`, a Rust CLI that exposes the whole Google Workspace API surface (Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin) by reading Google's own Discovery Service at runtime instead of shipping…
 - [ ] [[integuru.com]] — is Integuru (YC-backed, 10M+ API calls/month) — a platform that generates production-ready APIs for websites lacking usable public APIs by reverse-engineering the private HTTP endpoints a platform'…
 - [ ] [[marketstack.com]] — documents Marketstack, an APILayer REST API for worldwide stock market data — EOD, intraday, real-time US quotes (IEX), 750+ indices, splits/dividends, exchange metadata, and V2 EDGAR SEC filings.
@@ -186,6 +186,7 @@ updated: 2026-10-14
 - [ ] [[lovable.dev]] — captures Lovable as a hosted full-stack AI app builder that packages many agentic-engineering patterns into one product surface: Plan mode for pre-implementation reasoning, Build mode for autonomou…
 - [ ] [[must-have-clis-2026]] — presents the case — by Prosper Otemuyiwa (unicodeveloper), published April 2026 — that CLIs have decisively surpassed MCP servers as the preferred tool-integration pattern for AI-agent workflows in…
 - [ ] [[openai-codex-plugin-cc]] — introduces OpenAI's official Claude Code plugin for Codex, a thin orchestration bridge that exposes Codex's code review and task-delegation capabilities as first-class slash commands and a subagent…
+- [ ] [[openqodex-openqodex]] — is OpenQodex, an open-source (Apache-2.0) code reviewer from Qodex.
 - [ ] [[pi.dev]] — introduces Pi, a minimal terminal coding harness by Earendil Inc. (60,792 GitHub stars, MIT) built around the principle of "primitives, not features." Pi is a TypeScript monorepo providing four pac…
 - [ ] [[warp.dev]] — documents Warp, the open-source Agentic Development Environment (ADE) that unifies a high-performance Rust-built terminal with the Oz cloud agent orchestration platform.
 - [ ] [[warpdotdev-warp-factory-examples]] — is the official example repo for Warp Factories — [[warp.dev]]'s file-defined, multi-agent SDLC automation layer on the Oz cloud agent platform.
@@ -363,4 +364,4 @@ updated: 2026-10-14
 - [ ] [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [ ] [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_284 sources across 16 categories — 3 studied._
+_285 sources across 16 categories — 3 studied._

@@ -302,3 +302,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/zazencodes/zazencodes-season-3/tree/main/src/software-factory-claude-code <!-- ingested 2026-10-13 -->
 - [x] https://smithery.ai/ <!-- ingested 2026-10-14 -->
 - [x] https://glama.ai/ <!-- ingested 2026-10-14 -->
+- [x] https://github.com/openqodex/openqodex <!-- ingested 2026-10-15 -->
