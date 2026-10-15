@@ -16,6 +16,7 @@ related:
   - agent-field-pr-af
   - greptile.com
   - openai-codex-plugin-cc
+  - sonarsource.com
 product: openqodex
 detail_level: standard
 created: 2026-10-15

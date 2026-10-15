@@ -20,6 +20,7 @@ related:
   - sentry.io
   - coderabbit.ai
   - openqodex-openqodex
+  - sonarsource.com
 product: greptile
 detail_level: standard
 created: 2026-06-24

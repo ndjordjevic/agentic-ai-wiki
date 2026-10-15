@@ -18,6 +18,7 @@ related:
   - sentry.io
   - the-new-sdlc-with-vibe-coding
   - openqodex-openqodex
+  - sonarsource.com
 product: coderabbit
 detail_level: standard
 created: 2026-08-25

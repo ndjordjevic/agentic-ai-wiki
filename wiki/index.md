@@ -299,5 +299,6 @@ created: 2026-04-28
 | [[openqodex-openqodex]] | github | standard | 2026-10-15 | Open-source pre-push code review for coding agents — 22 pinned scanners, then a separate Claude Code/Codex reviewer on your own login that must answer every finding; push-gate hooks, SARIF/HTML reports, code-graph MCP, custom GitHub scanners |
 | [[tavily.com]] | web | standard | 2026-10-15 | Web access layer for AI agents — Search, Extract, Map, Crawl and cited Research APIs returning ranked LLM-ready chunks; Python/JS SDKs, remote MCP (OAuth/keyless), `tvly` CLI + Agent Skills, x402 pay-per-request, 35+ framework integrations |
 | [[massive.com]] | web | standard | 2026-10-15 | Exchange-direct financial market data (stocks, options, futures, indices, forex, crypto) via REST, WebSocket and S3 flat files; hosted OAuth remote MCP with composable discover/describe/execute tools, multi-level llms.txt docs, x402 pay-per-request US stock data for accountless agents |
+| [[sonarsource.com]] | web | standard | 2026-10-15 | Sonar's SonarQube as a zero-trust verification layer for AI code — AC/DC (Guide/Verify/Solve) loops; Sonar Vortex in-loop context + CI-depth file analysis, SonarQube MCP Server (Cloud/Server/Docker), `sonar` CLI and one-command agent plugins, Remediation & Hunter agents, Gitar AI PR review |
 
-_287 sources ingested._
+_288 sources ingested._

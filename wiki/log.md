@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-15 | ingest | sonarsource.com | Sonar — SonarQube as a zero-trust verification layer for AI code: AC/DC Guide/Verify/Solve across agentic, CI and maintenance loops; Sonar Vortex (in-loop context injection + CI-depth per-file analysis), SonarQube MCP Server (Cloud-native, Server extension, or Docker stdio), `sonar` CLI and one-command agent plugins, Remediation Agent (sandboxed re-scan-verified fix PRs), Hunter Agent (LLM logic-flaw hunting), Gitar AI PR review
+
+- Created: wiki/sources/sonarsource.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/web/README.md, inbox.md, wiki/sources/coderabbit.ai.md, wiki/sources/greptile.com.md, wiki/sources/openqodex-openqodex.md (related)
+
 ## 2026-10-15 | ingest | massive.com | Massive — exchange-direct market data (stocks, options, futures, indices, forex, crypto) over REST, WebSocket and S3 flat files, with a hosted OAuth remote MCP server (few composable tools: endpoint search, param docs, execute any REST call), self-hosted MCP with DataFrame/SQL workspace, llms.txt at every docs level, and x402 pay-per-request US stock data in USDC
 
 - Created: wiki/sources/massive.com.md
