@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-15 | ingest | massive.com | Massive — exchange-direct market data (stocks, options, futures, indices, forex, crypto) over REST, WebSocket and S3 flat files, with a hosted OAuth remote MCP server (few composable tools: endpoint search, param docs, execute any REST call), self-hosted MCP with DataFrame/SQL workspace, llms.txt at every docs level, and x402 pay-per-request US stock data in USDC
+
+- Created: wiki/sources/massive.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/web/README.md, inbox.md, wiki/sources/marketstack.com.md, wiki/sources/monid.ai.md, wiki/sources/tavily.com.md (related)
+
 ## 2026-10-15 | ingest | tavily.com | Tavily (by Nebius) — web access layer for AI agents: Search (ultra-fast/fast/basic/advanced, chunked results), Extract, Map, Crawl and cited Research (mini/pro, streaming); Python/JS SDKs, remote MCP with OAuth or keyless header, tvly CLI + Agent Skills, x402 pay-per-request, credit pricing, 35+ integrations
 
 - Created: wiki/sources/tavily.com.md

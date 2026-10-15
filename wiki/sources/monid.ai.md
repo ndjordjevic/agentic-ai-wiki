@@ -3,11 +3,11 @@ type: source
 category: "MCP servers & integrations"
 source_url: https://monid.ai/
 tags: [tool-gateway, mcp-server, agent-tools, pay-per-call, runtime-tool-discovery, data-apis, web-search, provider-failover]
-related: [openrouter.ai, serpapi.com, serper.dev, firecrawl.dev, smithery.ai]
+related: [openrouter.ai, serpapi.com, serper.dev, firecrawl.dev, smithery.ai, massive.com]
 product: monid
 detail_level: standard
 created: 2026-09-01
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 Monid is a gateway for the tool and data calls an AI agent makes at runtime — it brands itself "the OpenRouter for agent tools." Where OpenRouter routes LLM inference across model providers behind one key and one balance, Monid does the analogous job one layer down: it brokers 1,000+ endpoints (the site also cites 1,700+ tools across 55+ providers) for web search, scraping, browser automation, people/company enrichment, contact verification, social-platform data, financial and on-chain data, maps, real estate, e-commerce pricing, jobs, SEO, news, voice/SMS, and generative media. An agent describes what it needs in natural language, Monid picks the endpoint, runs the call, normalizes the response to JSON, and meters it against one prepaid balance. It matters to this wiki as infrastructure that lets agents avoid per-vendor signup, keys, and schemas, and instead discover tools dynamically instead of hardcoding providers.

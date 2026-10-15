@@ -15,10 +15,11 @@ related:
   - browser-use.com
   - pushover.net
   - trigger.dev
+  - massive.com
 product: marketstack
 detail_level: standard
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-10-15
 ---
 
 Marketstack is an APILayer-hosted REST API for worldwide stock market data — end-of-day, intraday, real-time US quotes (IEX), 750+ market indices, splits/dividends, exchange metadata, currencies, and (on V2) SEC EDGAR filings. A free tier offers 100 requests/month with EOD data and 1-year history; paid plans from $9.99/month unlock intraday, real-time intervals down to 1 minute, commodities, and company fundamentals. For agentic AI workflows it is a straightforward external-data primitive: HTTP GET + JSON + `access_key`, suitable for wrapping as an agent tool or MCP function when agents need live or historical market context.
