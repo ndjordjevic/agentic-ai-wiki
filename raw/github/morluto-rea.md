@@ -1,15 +1,15 @@
 # morluto/rea
 
 ## Metadata
-- Stars: 58387
-- Forks: 11518
+- Stars: 254870
+- Forks: 64040
 - Primary language: TypeScript
 - Default branch: main
-- Latest release: rea-agents-6.3.0 (2026-10-09)
+- Latest release: rea-agents-6.5.0 (2026-10-14)
 - License: MIT
 - Homepage: https://rea.tools
-- Last pushed: 2026-10-10
-- Fetched: 2026-10-10
+- Last pushed: 2026-10-15
+- Fetched: 2026-10-15
 - Final URL: https://github.com/morluto/rea
 
 ## Description
@@ -18,7 +18,8 @@ Reverse engineer anything with agents, from app behavior down to native binaries
 ## README
 <div align="center">
 
-**English** · [简体中文](README_zh.md) · [繁體中文](README_zh-TW.md) · [日本語](README_ja.md) · [한국어](README_ko.md) · [Türkçe](README_tr.md) · [Русский](README_ru.md) · [Tiếng Việt](README_vi.md) · [ไทย](README_th.md) · [Deutsch](README_de.md) · [Español](README_es.md) · [Français](README_fr.md) · [Українська](README_uk.md) · [Polski](README_pl.md) · [Português (Brasil)](README_pt-BR.md) · [العربية](README_ar.md) · [فارسی](README_fa.md) · [Bahasa Indonesia](README_id.md)
+**English** · [简体中文](docs/readme/README_zh.md) · [繁體中文](docs/readme/README_zh-TW.md) · [日本語](docs/readme/README_ja.md) · [한국어](docs/readme/README_ko.md) · [Türkçe](docs/readme/README_tr.md) · [Русский](docs/readme/README_ru.md) · [Tiếng Việt](docs/readme/README_vi.md) · [ไทย](docs/readme/README_th.md) · [Deutsch](docs/readme/README_de.md) · [Español](docs/readme/README_es.md) · [Français](docs/readme/README_fr.md) · [Українська](docs/readme/README_uk.md) · [Polski](docs/readme/README_pl.md) · [Português (Brasil)](docs/readme/README_pt-BR.md) · [العربية](docs/readme/README_ar.md) · [فارسی](docs/readme/README_fa.md) · [Bahasa Indonesia](docs/readme/README_id.md) · [Italiano](docs/readme/README_it.md)
+· [Ελληνικά](docs/readme/README_el.md)
 
 # REA: Reverse Engineer Anything
 
@@ -27,7 +28,6 @@ Reverse engineer anything with agents, from app behavior down to native binaries
 **See a feature you like. Understand how it works, down to the binary level.**
 
 [![npm version](https://img.shields.io/npm/v/rea-agents?style=flat-square&color=cb3837)](https://www.npmjs.com/package/rea-agents)
-[![CI](https://img.shields.io/github/actions/workflow/status/morluto/rea/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/morluto/rea/actions/workflows/ci.yml)
 [![MCP tool catalog](https://img.shields.io/badge/MCP-tool_catalog-5c4ee5?style=flat-square)](docs/mcp-contracts.md#generated-catalog)
 [![Node.js requirements](https://img.shields.io/badge/Node.js-requirements-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#what-you-can-analyze)
 [![skills.sh](https://skills.sh/b/morluto/rea?style=flat-square)](https://skills.sh/morluto/rea/reverse-engineer-anything)
@@ -41,6 +41,16 @@ Reverse engineer anything with agents, from app behavior down to native binaries
 [Quick start](#quick-start) · [How REA works](#how-rea-works) · [What you can analyze](#what-you-can-analyze) · [Showcases](#showcases) · [FAQ](#faq) · [Documentation](#documentation)
 
 <code>npx rea-agents setup</code>
+
+</div>
+
+> [!IMPORTANT]
+> Get REA from [morluto/rea](https://github.com/morluto/rea),
+> [rea.tools](https://rea.tools/), or the [rea-agents npm package](https://www.npmjs.com/package/rea-agents).
+> Follow the installation and release links from these official sources. A similar
+> repository name or copied README does not establish that a download is official.
+
+<div align="center">
 
 <br />
 
@@ -75,6 +85,11 @@ Setup registers REA with your agent and installs matching workflow instructions.
 > **[Visit the REA website](https://rea.tools/)** for setup instructions, illustrated guides, and real case studies.
 
 ## Quick start
+
+On Linux, Ghidra, JADX, firmware tool launches and static JavaScript/Electron
+analysis require a procps-compatible `ps` on REA's `PATH` for process ownership
+checks. Recovery steps are in `docs/installation.md` under
+"Linux owned-process prerequisite".
 
 ### Set up your agent
 
@@ -129,11 +144,14 @@ snapshots and scripting.
 REA changes quickly, and new releases include frequent bug fixes. Keep your
 installation up to date.
 
-For an npm-installed CLI:
+For a CLI installed with `npm install --global` or `bun add --global`:
 
 ```bash
 rea update
 ```
+
+Bun global updates require Bun 1.2.17 or later. With an older Bun release,
+upgrade Bun manually before running `rea update`.
 
 To refresh your agent registrations and skill, run the setup command printed
 by the update.
@@ -145,7 +163,8 @@ npx rea-agents@latest setup
 ```
 
 Review the setup changes and restart your agent. For one-off CLI commands,
-use `npx rea-agents@latest` followed by the command.
+use `npx rea-agents@latest` followed by the command. With Bun, use
+`bunx rea-agents@latest` in place of `npx rea-agents@latest`.
 
 ## How REA works
 
@@ -167,16 +186,27 @@ Additional tools and host support depend on the target:
 
 | Target                 | What REA returns                                                                     | Requirements and guide                                                                                                                |
 | ---------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Native binaries        | Pseudocode, assembly, strings, symbols, calls and references                         | Hopper, Ghidra or IDA; [native analysis](https://rea.tools/guides/native/)                                                            |
+| Native binaries        | Pseudocode, assembly, strings, symbols, calls and references                         | Hopper, Ghidra or IDA; [native analysis](docs/native-investigation.md)                                                                |
 | Offline ELF layout     | Sections, segments, original symbols/relocations and static mitigation candidates    | Caller-supplied pwntools on Linux x64; [binary diagnostics](docs/binary-diagnostics.md)                                               |
-| EVM bytecode           | Dispatch selectors, byte offsets, inferred arguments and mutability                  | Local raw/hex carrier; [offline EVM guide](docs/evm-bytecode.md)                                                                      |
-| Recorded Linux crashes | Raw notes, every recorded thread's registers/signals and optional mapping candidates | Caller-supplied pwntools; optional GDB/pwndbg; [recorded crashes](docs/recorded-crashes.md)                                           |
-| JavaScript / Electron  | Modules, imports, source maps, routes, IPC and native add-on relationships           | Node.js and npm; [application analysis](https://rea.tools/guides/javascript/)                                                         |
-| Websites               | Page structure, scripts, network observations and requested screenshots              | A Chrome-family browser; [browser analysis](https://rea.tools/guides/browser/)                                                        |
-| Saved network captures | Requests, responses, exposed payloads and source locations                           | HAR; mitmdump on Linux for native mitmproxy captures; [capture guide](docs/web-network-captures.md)                                   |
+| Go binaries            | Embedded compiler version, modules, replacements and build settings                  | Built-in static ELF/PE/thin Mach-O inspection; no Go installation required                                                            |
+| Rust binaries          | Embedded cargo-auditable crate names, versions, sources and dependency edges         | Built-in static ELF/PE/thin Mach-O inspection; [Rust binaries](docs/rust-binaries.md)                                                 |
+| WASM artifact          | Validation, sections, exact import/export WAT forms and decoded WAT                  | Caller-supplied WABT 1.0.42; `inspect_wasm_artifact`                                                                                  |
+| EVM bytecode           | Dispatch selectors, byte offsets, inferred arguments and mutability                  | Local raw/hex carrier on Linux x64; [offline EVM guide](docs/evm-bytecode.md)                                                         |
+| SQLite databases       | Tables, columns, indexes, views, triggers and selected ordinary-table rows           | Local database/WAL snapshot; Node.js 24.x >=24.15 or 26+ with native SQLite limits                                                    |
+| Recorded Linux crashes | Raw notes, every recorded thread's registers/signals and optional mapping candidates | Caller-supplied pwntools on Linux x64; optional GDB/pwndbg; [recorded crashes](docs/recorded-crashes.md)                              |
+| JavaScript / Electron  | Modules, imports, source maps, routes, IPC and native add-on relationships           | Node.js and npm; Linux: procps-compatible `ps`; [application analysis](docs/javascript-application-workflows.md)                      |
+| Websites               | Page structure, scripts, network observations and requested screenshots              | A Chrome-family browser; [browser analysis](docs/browser-observation.md)                                                              |
+| Saved network captures | Requests, responses, exposed payloads and source locations                           | HAR or Fiddler Everywhere SAZ; mitmdump on Linux for native mitmproxy; [capture guide](docs/web-network-captures.md)                  |
 | .NET assemblies        | Metadata, CIL instructions, declared native dependencies and build comparisons       | None (static only); [managed-code guide](docs/managed-code-analysis.md)                                                               |
 | Android APKs           | Manifest declarations, classes, decompiled methods and references                    | Headless JADX and a full JDK on Linux/macOS/Windows x64; [Android guide](docs/android-analysis.md)                                    |
+| Android devices        | Devices, packages, processes, logs, dumps, screen captures, and APK/file transfers   | Caller-supplied adb (emulator or hardware); [ADB guide](docs/adb-device-analysis.md)                                                  |
+| JEB projects           | Engine-backed project units, artifact digests and type/method pseudo-code            | A caller-started JEB client serving MCP, selected with REA_JEB_MCP_URL; [JEB guide](docs/jeb-analysis.md)                             |
+| Android resources      | Decoded manifest, string tables, locales and version facts                           | Caller-supplied Apktool launcher; [resource guide](docs/apktool-resource-analysis.md)                                                 |
+| Flutter apps           | Dart snapshot hash, per-ABI library digests and engine build provenance              | None (static APK parsing); [Flutter guide](docs/flutter-analysis.md)                                                                  |
 | Firmware               | Regions, extraction results and native-analysis handoffs                             | Binwalk / Unblob on Linux; [firmware guide](docs/firmware-analysis.md)                                                                |
+| Recorded packets       | Selected fields, repeated values, filters and decode-as rules                        | Linux: TShark 4.x + prlimit; [capture guide](docs/packet-captures.md)                                                                 |
+| Packet summaries       | Endpoints, DNS, TLS SNI, protocol distribution and HTTP requests                     | Caller-supplied tshark and capinfos (Linux-verified); [pcap guide](docs/pcap-analysis.md)                                             |
+| Recorded logic signals | Decoder annotations, sample ranges and diagnostics                                   | Linux: sigrok-cli 0.7.2 + prlimit; [signal recordings](docs/signal-recordings.md)                                                     |
 | Packages and resources | File inventories, digests, plists, Apple bundle anatomy and extracted resources      | [Artifact and JavaScript guide](docs/javascript-artifact-reconstruction.md), [Apple applications](docs/apple-application-analysis.md) |
 | Process behavior       | Terminal output, interactions, exit and filesystem observations, and run comparisons | Linux/macOS with a native PTY; [process capture](docs/process-capture.md)                                                             |
 
@@ -184,15 +214,21 @@ Static JavaScript and .NET inspection read the supplied files without running
 the application. Runtime capture runs or interacts with the selected target
 using your user permissions; each runtime guide describes its effects.
 
+For offline native-binary inspection, REA also supports caller-supplied GNU
+objdump and Rizin. See the [reverse-engineering tools guide](docs/reverse-engineering-tools.md)
+for provider setup, CLI commands, and Evidence limitations. REA does not install
+or update either provider.
+
 <a id="choosing-a-deep-analysis-provider"></a>
 
 Native formats and host support vary by provider. See
 [Hopper and Ghidra setup](docs/installation.md#hopper), the
-[IDA guide](docs/ida-provider.md), and
+[IDA guide](docs/ida-provider.md) (including an optional native MCP bridge), the
+[Kuna decompiler guide](docs/kuna-provider.md), and
 [experimental Windows Ghidra support](docs/windows-ghidra-p0.md).
 Ghidra also supports [16-bit DOS analysis](docs/ghidra-dos.md).
-For large binaries, raise its startup deadline with
-`REA_GHIDRA_STARTUP_TIMEOUT_MS`.
+For large binaries, raise the provider's startup deadline with
+`REA_GHIDRA_STARTUP_TIMEOUT_MS` or `REA_HOPPER_STARTUP_TIMEOUT_MS`.
 For provider selection, see the [CLI guide](docs/cli.md#choose-a-provider).
 Check [release availability](docs/installation.md#released-package-and-main)
 for features added since the latest npm release.
@@ -255,7 +291,9 @@ Ghidra and IDA use your existing installations. See [provider setup](docs/instal
 <summary><strong>Do I need to start Hopper first?</strong></summary>
 
 REA starts Hopper when an operation needs it. On macOS, a first-run dialog may
-ask you to choose demo mode or activate your license. See
+ask you to choose demo mode or activate your license. Complete that prompt in the
+same user session before your first CLI/MCP operation or unattended job. Open
+Hopper manually if needed. See
 [Hopper startup and troubleshooting](docs/installation.md#launcher-paths-and-troubleshooting).
 
 </details>
@@ -291,7 +329,7 @@ model provider has its own data policy.
 
 Update first; a recent release may already fix it.
 
-For an npm-installed CLI:
+For a CLI installed with `npm install --global` or `bun add --global`:
 
 ```bash
 rea update
@@ -325,7 +363,7 @@ Report vulnerabilities through [SECURITY.md](SECURITY.md).
 
 ## Star history
 
-🎉 **50,000 GitHub stars — thank you!**
+🎉 **250,000 GitHub stars — thank you!**
 
 Thanks to everyone using REA, reporting bugs, requesting features, testing builds, and contributing fixes.
 
@@ -339,9 +377,13 @@ Thanks to everyone using REA, reporting bugs, requesting features, testing build
 
 ## Disclaimer
 
-REA provides tools for lawful reverse-engineering research, analysis, and reconstruction. You are responsible for obtaining any required authorization and complying with applicable laws. The project does not endorse illegal or unauthorized use.
+See [DISCLAIMER.md](DISCLAIMER.md) for responsible-use guidance.
 
-REA is an open-source software project. We have not issued or endorsed any cryptocurrency or token. Tokens using the REA name are not affiliated with the project.
+The project's position on illegal or unauthorized use covers all REA versions,
+distribution channels, and platforms; each copy retains its applicable licenses.
+
+REA is for lawful research, education, interoperability, software preservation,
+and analysis of software you own or are authorized to examine.
 
 ## Contributing
 
@@ -357,9 +399,23 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for development setup and checks,
 
 [MIT](LICENSE)
 
+REA-authored code is licensed under MIT. Third-party material retains its own
+licenses and copyright notices; see
+[Third-party notices](THIRD_PARTY_NOTICES.md) for the dependency inventory,
+preserved license texts, and external-tool terms.
+
+**You must legally obtain and be authorized to use commercial tools**, including
+IDA Pro / Hex-Rays decompilers, Hopper, and JEB, under their applicable
+licenses. REA grants no tool license, key, or activation entitlement. Trials and
+demos remain subject to vendor terms, including user, feature, automation, and
+output sharing restrictions. Cracked copies, stolen keys, unauthorized key
+sharing, and bypassing license restrictions are not authorized. This guidance
+does not amend MIT or third-party licenses.
+
 ## Docs
 
 ### docs/index.md
+
 ---
 layout: home
 
@@ -405,151 +461,32 @@ npx -y rea-agents@latest analyze-javascript-application /absolute/path/to/app --
 
 See [installation and setup](./installation.md) for requirements and configuration.
 
+For runtime instrumentation, see the [Frida guide](./frida-instrumentation.md).
+
+## Choose a guide
+
+| Task                                                | Guides                                                                                                                                                                                                                                                                                                                      |
+| --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Inspect native functions, references, or types      | [Native binaries](native-investigation.md), [Go metadata](go-binaries.md), [Rust dependencies](rust-binaries.md), [offline ELF layout](binary-diagnostics.md), [recorded crashes](recorded-crashes.md)                                                                                                                      |
+| Select a native provider or import format           | [Ghidra semantics](ghidra-provider.md), [Windows](windows-ghidra-p0.md), [DOS](ghidra-dos.md), [raw bytes](raw-binary.md), [MIPS](ghidra-mips.md), [PSP](ghidra-psp.md), [NativeAOT](ghidra-nativeaot.md), [IDA](ida-provider.md), [Kuna](kuna-provider.md), [JEB](jeb-analysis.md)                                         |
+| Analyze JavaScript or Electron artifacts            | [Static analysis](javascript-artifact-reconstruction.md), [tracing and comparisons](javascript-application-workflows.md), [application graph](javascript-application-graph.md), [source recovery](javascript-recovery.md)                                                                                                   |
+| Compare static JavaScript with runtime observations | [Runtime attribution](javascript-runtime-observation.md), [reconciliation](javascript-runtime-reconciliation.md), [Electron observation](electron-observation.md), [Electron fuses](electron-fuses.md)                                                                                                                      |
+| Inspect assemblies, packages, or firmware           | [.NET](managed-code-analysis.md), [Android](android-analysis.md), [Apktool resources](apktool-resource-analysis.md), [ADB acquisition](adb-device-analysis.md), [Apple](apple-application-analysis.md), [Harmony](harmony-analysis.md), [firmware](firmware-analysis.md), [WASM](wasm-artifacts.md), [EVM](evm-bytecode.md) |
+| Observe or compare a browser scenario               | [CDP observation](browser-observation.md), [scenarios](browser-scenario-contract.md), [runtime evidence](web-runtime.md), [historical captures](web-network-captures.md)                                                                                                                                                    |
+| Trace captured website source                       | [Source locations](web-source-location.md), [module traces](website-module-trace.md), [script export](website-script-export.md)                                                                                                                                                                                             |
+| Capture and compare a command                       | [Process capture](process-capture.md)                                                                                                                                                                                                                                                                                       |
+| Use CLI/MCP and retain evidence                     | [CLI](cli.md), [MCP contracts](mcp-contracts.md), [agent prompts](mcp-prompts.md), [obligation ledgers](reconstruction-obligation-ledgers.md)                                                                                                                                                                               |
+
+For development, use [testing](testing.md), [client verification](client-verification.md),
+[tool design](tool-design.md), and [releasing](releasing.md).
+[Reconstruction readiness](reconstruction-readiness.md) describes a development
+conformance verifier. [The 6.2 migration](migration-6.2.md) records that release's
+compatibility changes; [the roadmap](roadmap.md) tracks future work.
+
 ![REA inspecting a native binary in Hopper](./assets/rea-hopper-analysis.png)
 
-### docs/installation.md (excerpt: start setup, release availability, skill-only install, supported agents)
-# Installation and setup
-
-REA separates installing its CLI from configuring external software and agents.
-
-## Start setup
-
-Start setup with:
-
-```bash
-npx rea-agents setup
-```
-
-If npm asks to download and run REA, that approval applies only to downloading
-the package. REA shows its own plan and asks before changing agent configuration
-or installing Hopper.
-
-The short command can use a REA version installed in the current project. To
-request the latest release explicitly, use:
-
-```bash
-npx rea-agents@latest setup
-```
-
-REA runs the version npm selects. To update older agent registrations, run the
-latest-version command and review its setup plan. For unattended package
-downloads, add `--yes` before the package name; this does not approve REA's
-setup changes.
-
-For an intentional rollback, make the package request explicit:
-
-```bash
-npm exec --yes --package=rea-agents@2.4.0 -- rea setup
-```
-
-Setup continues to pin persistent MCP registrations to the exact version that
-performed setup. Running current setup later migrates unversioned or older
-managed registrations through the normal reviewed setup transaction.
-
-REA supports Node.js 22.x (>=22.19), 24.x (>=24.11), and 26+. Node.js 23, 25, and prereleases are unsupported. It uses the npm already paired with that runtime and never upgrades Node.js, npm, or Homebrew.
-
-Running `npm install rea-agents` without `--global` installs the executable only
-in the current project's `node_modules/.bin`; it does not make `rea` available
-on the shell `PATH`. Use the setup command above for the guided setup
-journey, `npx -y rea-agents@latest` for unattended one-off commands, or install globally
-with `npm install --global rea-agents` for a shell-visible `rea` command.
-
-The optional curl wrapper installs only the global npm package:
-
-```bash
-curl -fsSL https://raw.githubusercontent.com/morluto/rea/main/install.sh | bash
-```
-
-It prints the version, runtime, npm command, and destination before installing. When a controlling terminal exists it starts `rea setup`; otherwise it prints the command to run later.
-
-Pass options with `bash -s --`:
-
-```bash
-curl -fsSL https://raw.githubusercontent.com/morluto/rea/main/install.sh |
-  bash -s -- --dry-run
-```
-
-Supported options are `--version <semver>`, `--dry-run`, `--no-setup`, `--no-prompt`, and `--verbose`. Neither `--no-prompt` nor a non-interactive shell grants permission to install external dependencies.
-
-## Released package and main
-
-Repository main documents its current code and generated catalog. `@latest`
-selects the npm release, and persistent MCP registrations are pinned to the
-version that performed setup. Installing newer instructions does not update a
-running server or its registration.
-
-The release checked on **2026-10-07** was **5.0.0** (133 MCP tools), published
-from the fixed checkpoint
-[`b33236ec`](https://github.com/morluto/rea/releases/tag/rea-agents-5.0.0).
-The public CLI, MCP catalog and target-free session, and isolated update from
-4.1.0 to 5.0.0 were verified through npm. The artifact includes Windows native
-controls, Android/JADX and firmware tools, Ghidra function annotations, and
-retained application-Evidence references.
-
-Main's catalog describes the current code. A source build or a subsequent
-release containing changes after this checkpoint is required for newer
-functionality. Package startup alone does not verify a provider's real
-platform workflow.
-
-To check the published version, run `npm view rea-agents dist-tags.latest`.
-Use the connected server's actual tool list and advertised input schemas for
-feature selection. The same package version string in a development checkout
-does not establish that its bytes match the npm tarball. Update a registration
-through a reviewed, scoped setup plan, then restart/reconnect the agent.
-
-## Skill-only installation
-
-```bash
-npx skills add morluto/rea --skill reverse-engineer-anything
-```
-
-This installs agent instructions and bundled references, not REA MCP
-registration or analysis engines. Follow the skill's
-[conditional connection guide](https://github.com/morluto/rea/blob/main/.agents/skills/reverse-engineer-anything/SKILL.md#connect-only-when-needed).
-Working tools can be used immediately. If tools are missing, inspect the current
-client's registration with `doctor --client codex --json` (substitute its client
-ID), then plan repairs with `setup --client codex --dry-run --json`. Show and
-approve the exact changes before applying that scope. An aligned registration
-with tools absent from the active session needs a restart/reconnection;
-`doctor` checks files and prerequisites, not the live agent connection.
-
-Guided setup installs the package's matching skill by default. The skills.sh
-route can select newer repository instructions, so follow actual server schemas
-and the release boundary above. Static JavaScript CLI inspection can proceed
-while MCP is unavailable:
-
-```bash
-npx -y rea-agents@latest analyze-javascript-application /absolute/path/to/app --json
-```
-
-It returns the complete Evidence record directly and requires no native engine.
-Provider failures in doctor do not prevent unrelated target-free tools. To check
-readiness for one task instead of auditing every integration, see
-[Check readiness for your task](#check-readiness-for-your-task).
-
-## Supported agents
-
-Setup can configure these clients for REA's local MCP server. Grok Bot is
-listed after the table because its connector is not one of these files:
-
-| Client             | `--client` value |
-| ------------------ | ---------------- |
-| Claude Code        | `claude_code`    |
-| Claude Desktop     | `claude_desktop` |
-| Codex              | `codex`          |
-| Cursor             | `cursor`         |
-| Gemini CLI         | `gemini_cli`     |
-| Windsurf           | `windsurf`       |
-| Devin              | `devin`          |
-| OpenCode           | `opencode`       |
-| Antigravity        | `antigravity`    |
-| GitHub Copilot CLI | `copilot_cli`    |
-| Command Code       | `commandcode`    |
-| Qwen Code          | `qwen_code`      |
-| VS Code            | `vscode`         |
-| Grok Build         | `grok_build`     |
-
 ### docs/cli.md
+
 # CLI and Evidence
 
 Use the CLI for a direct inspection or a script. It uses the same application
@@ -589,10 +526,67 @@ module page. See
 [JavaScript application workflows](javascript-application-workflows.md) for
 views, feature traces and comparisons that take the same saved Evidence.
 
+## Managed assemblies (.NET)
+
+For a .NET PE/CLI assembly, inspect its identity and deployment form before
+inspecting members. These commands read metadata and Common Intermediate
+Language (CIL) without loading or executing the assembly and require no native
+analysis engine:
+
+```bash
+rea inspect-managed-artifact /absolute/path/Assembly.dll --json
+rea inspect-managed-members /absolute/path/Assembly.dll --json
+rea inspect-managed-members /absolute/path/Assembly.dll --type Example.Parser --json
+```
+
+Replace `Example.Parser` with an exact `full_name` from the member inspection,
+or a declaring type name you already know. Omit `--type` to inspect all members,
+or repeat it to select several types.
+Selection limits decoding to the selected types; member references remain an
+assembly-wide inventory, so the output can still be large.
+
+Choose the workflow from the artifact's contents rather than its `.exe` or
+`.dll` extension. The managed parser requires PE/CLI metadata; it does not
+unpack .NET single-file hosts or decode IL2CPP metadata. NativeAOT method bodies
+require native analysis. See the [managed-code guide](managed-code-analysis.md)
+for supported deployment forms, selection semantics, and coverage limits.
+
+## SQLite snapshots
+
+For a local database snapshot, use `rea inspect-sqlite-database PATH --json`.
+Add `--table NAME --row-limit 20` to read a bounded sample from an ordinary
+table. This command does not require a native analysis provider. See
+[SQLite database snapshots](sqlite-databases.md) for database/WAL identity,
+source-file handling and row-value semantics.
+
 ## Native analysis
 
-Configure [Hopper or Ghidra](installation.md#hopper), or the
-[IDA adapter](ida-provider.md), before analyzing a native target. Substitute
+Inspect embedded Go build metadata without installing Go or configuring a
+disassembler:
+
+```bash
+rea inspect-go-binary /absolute/path/to/program --json
+```
+
+The shared CLI/MCP workflow reports compiler version, modules, replacements,
+build settings, original bytes and SHA-256. See [Go binaries](go-binaries.md)
+for supported containers and absent or malformed metadata.
+
+Inspect an embedded cargo-auditable Rust dependency list without installing
+Rust or configuring a disassembler:
+
+```bash
+rea inspect-rust-binary /absolute/path/to/program --json
+```
+
+The same workflow reports package names, versions, sources, the root package,
+dependency edges, and the section's file range. A missing `.dep-v0` section is
+null metadata, not proof that the binary has no dependencies. See
+[Rust binaries](rust-binaries.md).
+
+Configure [Hopper or Ghidra](installation.md#hopper), the
+[IDA adapter](ida-provider.md), or [Kuna](kuna-provider.md) before analyzing a
+native target. Substitute
 your target, search text and function name or address in these examples:
 
 ```bash
@@ -609,9 +603,10 @@ a function dossier; `decompile` returns pseudocode. For assembly instructions
 alone, use `rea instructions`. A macOS `.app` bundle can be supplied directly.
 
 Run `rea --help` or a command's `--help` for arguments and output options.
-The [generated catalog](product-catalog.json) lists all CLI commands and MCP
+The [generated catalog](mcp-contracts.md#generated-catalog) lists all CLI commands and MCP
 tools. Provider-specific target support is described in the
-[native guide](native-investigation.md), [DOS guide](ghidra-dos.md), and
+[native guide](native-investigation.md), [DOS guide](ghidra-dos.md),
+[raw binary guide](raw-binary.md), and
 [Windows Ghidra guide](windows-ghidra-p0.md).
 
 ## Choose a provider
@@ -647,9 +642,13 @@ overrides it. In MCP, pass `provider_id` to `open_binary`:
 The selected provider remains bound to the session until an explicit switch
 or close. Provider failures are returned with their original reason. For an
 `ambiguous` selection error, choose from `details.candidate_ids`; for
-`provider_unavailable`, run `rea doctor --provider ID --json` to diagnose the
-selected engine. See [task readiness](installation.md#check-readiness-for-your-task)
-and [provider selection](mcp-contracts.md#identity-and-discovery).
+`provider_unavailable`, follow `message`, `remediation.action`, and the original
+reasons in `details.rejections`. For Hopper, Ghidra, IDA, and JADX, run
+`rea doctor --provider ID --json` to diagnose the selected engine. Other adapters,
+such as `pwntools-elf`, report their configuration requirements directly and are
+not accepted by `doctor --provider`. See
+[task readiness](installation.md#check-readiness-for-your-task) and
+[provider selection](mcp-contracts.md#identity-and-discovery).
 
 The session reports work still in progress through `analysis_activity`.
 A client timeout can end its wait while the provider continues analyzing.
@@ -665,6 +664,10 @@ an exact result when the target bytes, operation, parameters, provider and
 settings match. Mutations and cursor-dependent calls are excluded from the
 cache. Snapshot files are local and use owner-only permissions.
 
+Dispatching a metadata write invalidates the active session's snapshot cache,
+even if its reply fails: the provider may already have applied the write.
+Close and reopen the target before importing or saving another snapshot.
+
 Snapshots retain eligible target-scoped question histories in full, including
 mutation Evidence recorded while another target was active. Observations and
 related questions must still belong to the saved target. If those dependencies
@@ -677,7 +680,9 @@ rea analyze /absolute/path/to/program --provider ghidra --snapshot /absolute/pat
 rea analyze /absolute/path/to/program --provider ghidra --snapshot /absolute/path/to/analysis/program.json
 ```
 
-An exact CLI cache hit is read before starting a provider process.
+An exact CLI cache hit is normally read before starting a provider process.
+On Windows, Ghidra first admits the selected source through its native snapshot
+owner, so replay can start that provider.
 In MCP, `open_binary` accepts `snapshot_path` to import a snapshot atomically
 for its matching target; an MCP provider may still start before returning a
 cached result. `close_binary` accepts `snapshot_path` and optional
@@ -715,12 +720,54 @@ Import an older source tree to compare with the current artifact:
 
 ```bash
 rea import-reference-source /absolute/path/to/source
+rea import-reference-source /absolute/path/to/source --detail summary --outline-depth 2 --json
 ```
 
+The default (`--detail full`) returns the complete `HistoricalSourceGraph`.
+Choose `--detail summary` for a `HistoricalSourceSummary` of that same committed
+inventory: its `HistoricalSourceManifest` contains the full graph and root
+digests, with provenance, VCS facts, languages, manifest paths, entry and
+relationship counts, parse-failure counts, file/directory states, exclusions
+and limitations. The summary is a presentation view, not a graph accepted by
+source-to-bundle comparison; keep the full output for that workflow.
+
+`--outline-depth` requires `--detail summary` and accepts a nonnegative safe
+integer. Depth 1 shows root children, depth 2 (the default) also shows their
+children, and depth 0 omits all outline entries. Paths retain canonical Unicode
+code-point order. `outline.omitted_entry_count` counts only inventoried entries
+hidden by the chosen depth; it does not count unexamined children of excluded or
+unreadable directories, or change `inventory_state`. Exclusions and source
+limitations remain separate from this presentation omission.
+
+`file_sizes.known_bytes` is the exact sum of known inventoried file sizes as
+decimal text, so large sums cannot lose integer precision. Unknown sizes count
+in `file_sizes.unknown_file_count`; excluded or unexamined paths are not included
+in that total. A zero known-byte sum therefore does not establish an empty source
+tree. Full output retains individual file hashes, relationships and parse-failure
+diagnostics. Summary mode performs the same import and cleanup, then projects
+the committed result without rereading source files. It reduces the selected
+output, not the amount of source examined. A shallow tree or many exclusions can
+still produce a large summary; depth 0 removes the outline but preserves the
+other facts. No fixed output-size or runtime improvement is promised.
+
 The import records hashes and metadata for the supplied files, separately
-from observations of the current app. File names do not automatically exclude
-files. Set `REA_REFERENCE_SECRET_PATTERNS_JSON` to a JSON array of ignore
-patterns when you want to exclude selected paths.
+from observations of the current app. For a directory inside a Git checkout,
+it records the HEAD of the nearest enclosing repository; whether the working
+tree matches that commit remains unknown. It honors the source tree's `.gitignore`
+and applies default exclusions for common generated and dependency paths such
+as `node_modules/`, `dist/`, and `*.log`. Pattern-based exclusions record the
+matched pattern and whether it came from project, default, caller, or sensitive
+path policy. Links into excluded paths retain their internal target metadata;
+the exclusion explains why the target has no inventory entry, and the inventory
+remains partial. Exclusions record `entry_kind` when the importer observed it;
+older saved exclusions without that field have unknown kind. An excluded
+ancestor proves an internal descendant only when its kind is `directory`.
+Set `REA_REFERENCE_SECRET_PATTERNS_JSON` to a JSON array of ignore
+patterns when you want to mark selected paths as sensitive; those patterns are
+reported separately as configured-secret exclusions.
+
+Re-import saved graphs whose pattern-based exclusions lack `pattern` before
+using them in source-to-bundle comparisons.
 
 JavaScript and TypeScript import parsing requires valid UTF-8. Malformed source
 bytes retain their original hashes and sizes with a decoding diagnostic; REA
@@ -739,6 +786,7 @@ Choose the guide for the target and intended interaction:
 - [Browser observation](browser-observation.md): inspect a selected page through CDP.
 - [Browser scenarios](browser-scenario-contract.md): run declared interactions and capture their results.
 - [Electron observation](electron-observation.md): inspect an Electron renderer or capture an application scenario.
+- [Electron fuses](electron-fuses.md): read packaged fuse bytes before expecting `--inspect` to reach an Electron main process.
 - [Node/Electron Inspector](javascript-runtime-observation.md): record script locations and execution contexts.
 - [Process capture](process-capture.md): run an executable and compare terminal, exit and filesystem observations.
 
@@ -747,17 +795,65 @@ user permissions; consult the chosen guide for host requirements and effects.
 
 ## Output and exit status
 
+`rea mcp doctor --json` checks production MCP startup and reports child logs in
+`diagnostics`. It drains stderr while retaining at most its first 64 KiB of raw
+bytes as text, omitting a final UTF-8 code point if it crosses that byte limit.
+`stderr_bytes` counts all observed bytes, including omitted output;
+`stderr_truncated` indicates that output exceeded the retention limit. The same
+diagnostics appear inside the report when `--full-output` is selected. Log
+truncation alone does not change the diagnostic health or exit status.
+
 The default terminal format is TOON. Use `--json` when saving results for a
-JSON consumer. `--json` is indented on a terminal and compact when piped or
+JSON consumer. Valued output flags (`--format`, `--filter-output`,
+`--token-limit`, `--token-offset`) accept `--flag value` or `--flag=value`; a
+missing value fails with `MISSING_OUTPUT_VALUE` before the command runs. `--json` is indented on a terminal and compact when piped or
 redirected, which keeps large results smaller for agents and scripts; pipe
 through `jq .` for indented files. Output selection and formatting do not change
 operation status.
 
-| Status    | Meaning                                                                                                                                              |
-| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `0`       | The operation completed. Its result may include partial evidence, warnings or unresolved questions.                                                  |
-| `1`       | The operation could not complete. Structured output identifies invalid input, permissions, cancellation, timeouts or another failure when available. |
-| `128 + N` | Signal `N` ended the process, where the shell or runtime preserves the conventional signal-derived status.                                           |
+For `cutter-command`, `--json-output` requests command-specific JSON from
+Cutter when available. This is separate from `--format json`, which selects the
+CLI result representation; the global `--json` flag selects that same CLI
+representation.
+
+Cutter still accepts deprecated `--json=true` and `--json=false` compatibility
+values. When both forms are present, `--json-output` takes precedence in either
+argument order. Bare `--json` retains its global meaning of selecting JSON CLI
+output formatting.
+
+| Status    | Meaning                                                                                                                                                                                                                                                                                                                                                                                |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `0`       | The operation completed. Its result may include partial evidence, warnings or unresolved questions.                                                                                                                                                                                                                                                                                    |
+| `1`       | The operation could not complete. Structured output identifies invalid input, permissions, cancellation, timeouts or another failure when available.                                                                                                                                                                                                                                   |
+| `128 + N` | Signal-derived status. An unhandled signal may have ended the process, with the shell or runtime preserving the conventional status; a command may instead have handled the signal, waited for its operation and cleanup to settle, and assigned the same status (`130` for SIGINT, `143` for SIGTERM). In the handled case, it may also have printed a structured `cancelled` result. |
+
+A `cancelled` result does not by itself determine the exit status; it depends on
+the command's signal handling. Commands routed through the shared
+`withCommandCancellation` handler in the CLI set status `130` for SIGINT or
+`143` for SIGTERM after their operation settles. Current source registrations
+use that handler for process capture and comparison (`capture-process`,
+`compare-process-captures`), JavaScript application analysis (`analyze` when it
+selects the JavaScript lane, and `analyze-javascript-application`), selected
+browser, web and Electron commands (including `analyze-web-bundle`,
+`observe-web-execution`, `capture-browser-scenario` and
+`capture-electron-scenario`), and the platform and provider command families
+for Android/ADB, Apktool/JEB/Flutter, firmware, PCAP and signal analysis,
+WASM/EVM, Go/Rust and binary diagnostics, Frida instrumentation, the Cutter
+command, objdump, Rizin and GDB. In these paths, a returned structured
+`cancelled` result can be printed before the wrapper assigns the
+signal-derived status. This describes the current source routing; it is not a
+claim that every command or provider runtime has been independently exercised.
+
+When the reader of piped output closes early, as `rea ... | head` does, the
+CLI stops writing, prints no error and exits `141` (`128 + 13`, the status of a
+SIGPIPE-terminated writer). The operation itself may have completed; only its
+output was declined.
+
+`inspect-artifact` also returns a structured cancelled result, but its direct
+analysis cancellation path does not set a signal-derived exit status, so it
+exits `1`. Setup has its own contract: cancellation exits `0`. Treat the
+structured result and process status as separate signals when scripting
+cancellation.
 
 `setup --dry-run` returns `planned` and exits `0`; a cancelled setup also exits
 `0`. Setup returns `1` for `needs_confirmation` or `needs_human`.
@@ -773,6 +869,7 @@ rea inspect-artifact ./app.asar --json | jq . > inspection.json
 ```
 
 ### docs/mcp-prompts.md
+
 # Guided MCP prompts and completion
 
 REA exposes six provider-neutral investigation workflows through the MCP
@@ -866,6 +963,12 @@ identifiers only; they do not retrieve or replace the inline Evidence result.
 
 Completion sources are live projections of the current session:
 
+Document and procedure completion in a binary session reads an already-ready
+provider; it does not start analysis. A cold provider, a target transition, or
+unavailable inventory can return no suggestions. Run an analysis query first
+when you need inventory from a provider that supplies it. An empty completion
+list does not establish that the target has no procedures.
+
 | Argument family     | Source and filtering                                                                                                                                 |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Document            | Current provider `list_documents` result.                                                                                                            |
@@ -897,6 +1000,7 @@ operation, and lifecycle fields in its own request; selecting a suggestion does
 not execute it or broaden those fields.
 
 ### docs/tool-design.md
+
 # MCP tool design
 
 ## Decide whether to add a tool
@@ -947,13 +1051,20 @@ satisfy. A plan without execution does not establish runtime behavior.
 - Use strict inputs with explicit target identity and required fields. Preserve
   meaningful target, action, capture, and output choices; remove ignored options
   and repeated permission declarations.
-- Return complete evidence inline, with artifact/provider identity, source
-  locations, Evidence references, and relevant confidence and limitations.
-  Missing coverage is unknown, not absence. Avoid extra lookups solely to
-  understand the answer or its provenance.
+- Return the requested facts inline with artifact/provider identity, source
+  locations, Evidence references, coverage, and relevant confidence and
+  limitations. Use supported selection, summaries or views when they answer
+  the question; preserve access to complete source Evidence and honor existing
+  contracts and requested detail. Missing coverage is unknown, not absence.
+  Avoid extra lookups solely to understand the answer or its provenance.
 - Keep observed, derived, and inferred relationships distinct. Preserve
   unresolved edges and partial provider facts instead of requiring every
   provider to supply the same metadata.
+- For caller/callee reads, `relationship_coverage` describes only the
+  provider-observed direct relationship set. `complete` means that set was
+  returned without a known read limit; it does not claim every possible runtime
+  edge. Provider and execution caveats stay in `limitations` and do not imply
+  incomplete relationship coverage. Missing coverage remains `unknown`.
 - Declare process, filesystem, network, UI, and mutation effects truthfully;
   enforce the requested target and lifecycle.
 - Add limits only for real format, protocol, authority, or measured resource
@@ -979,6 +1090,12 @@ malformed, unavailable, cancellation, and partial outcomes through affected
 consumers. Real-engine claims require the matching provider lane; see
 [testing.md](testing.md).
 
+For fixed tuples in public contracts, use `src/domain/fixedTupleSchema.ts`:
+Zod's tuple projection omits implicit length bounds and Draft 2020-12 `items`,
+which some clients require even alongside `prefixItems`. Tuples with a rest
+schema also need explicit minimum lengths. Check parser/schema parity for empty,
+short, overlong, and malformed values in both input and output projections.
+
 When discoverability changes, evaluate representative broad, direct, and negative
 tasks on the intended host. Record host/model/catalog, selected tools, arguments,
 errors, retries, and task outcomes. Schema validity and keyword heuristics do not
@@ -986,6 +1103,7 @@ establish successful tool selection. See [mcp-contracts.md](mcp-contracts.md) fo
 shipped runtime behavior.
 
 ### docs/roadmap.md
+
 # REA roadmap
 
 The [platform tracker](https://github.com/morluto/rea/issues/32),
@@ -1023,7 +1141,7 @@ an implemented toolchain and explicit scope; setup does not install or upgrade
 unrelated runtimes or dependencies.
 
 ### docs/architecture.mermaid
-```mermaid
+
 graph TD
     subgraph "Entry Points"
         CLI["src/cli.ts + src/cli/<br/>One-shot CLI adapter<br/>setup, diagnostics, analysis, decompilation"]
@@ -1032,7 +1150,7 @@ graph TD
     end
 
     subgraph "Production Composition"
-        COMPOSITION["src/composition/<br/>fresh typed provider and session factories<br/>one-shot binding and independent optional loading"]
+        COMPOSITION["src/composition/<br/>fresh typed provider and session factories<br/>one-shot binding and independent optional loading<br/>static WASM/EVM descriptors: named contracts, factories, retryable lifetimes"]
     end
 
     subgraph "Adapters"
@@ -1053,6 +1171,7 @@ graph TD
 
     subgraph "Provider Layers"
         PWNTOOLS["src/native/pwntools/ + src/native/pwndbg/<br/>BYO offline ELF/core adapters<br/>owned snapshots/Python and optional core-only GDB<br/>unchanged upstream parsers, ABI structures and mapping API"]
+        WASM["src/wasm/<br/>caller-supplied WABT; immutable artifact inspection<br/>owned process supervision and retryable workspace cleanup"]
         EVM["src/evm/<br/>unchanged EVMole/WASM in bounded owned worker<br/>explicit carrier parsing and inferred interface adapter"]
         HOPPER["src/hopper/<br/>Hopper launch & Unix-socket protocol<br/>BridgeLauncher, HopperClient, protocol"]
         GHIDRA["src/ghidra/<br/>Ghidra discovery, profile & function analysis<br/>snapshot, Unix/Windows transport, bounded lifecycle"]
@@ -1063,6 +1182,10 @@ graph TD
         JS_CODEC["src/javascript/sourceMaps/<br/>pinned upstream map codec<br/>owned heap-limited Node process, complete point evidence"]
         INSPECTOR["src/inspector/<br/>passive V8 Inspector discovery and capture<br/>script and target locations"]
         DOTNET["src/dotnet/<br/>Managed static metadata provider<br/>PE/CLI metadata inventory, members, IL"]
+        OBJDUMP["src/objdump/<br/>GNU objdump command profile"]
+        RIZIN["src/rizin/<br/>Static command profile and persistent debugger sessions"]
+        GDB["src/gdb/<br/>Persistent GDB/MI sessions<br/>owned process lifecycle and target state"]
+
         FIRMWARE["src/firmware/<br/>Binwalk / Unblob adapters<br/>owned processes, report normalization, private extraction"]
         ANDROID["src/android/<br/>Static APK adapter<br/>owned SDK stdio, pinned headless JADX, normalization"]
         REFERENCE["src/reference/<br/>Filesystem reference-source reader<br/>bounded traversal, validation, errors"]
@@ -1075,7 +1198,7 @@ graph TD
     end
 
     subgraph "Contracts Layer"
-        CONTRACTS["src/contracts/<br/>Caller-visible schemas for analysis, managed, browser, Electron, application, and session tools"]
+        CONTRACTS["src/contracts/<br/>Caller-visible schemas for analysis, reverse engineering, managed, browser, Electron, application, and session tools"]
         ERRORS["src/contracts/errorSchemas.ts<br/>Shared analysis error schemas<br/>CLI diagnostics, generated error catalog"]
     end
 
@@ -1120,6 +1243,9 @@ graph TD
     APP -->|record callbacks| RECORDS
     SERVER -->|narrow record ports| RECORDS
     RECORDS --> DOMAIN
+    COMPOSITION --> WASM
+    WASM --> PROCESS
+    WASM --> DOMAIN
     COMPOSITION --> PWNTOOLS
     PWNTOOLS --> PROCESS
     PWNTOOLS --> DOMAIN
@@ -1144,6 +1270,14 @@ graph TD
     INSPECTOR --> DOMAIN
     APP --> DOTNET
     DOTNET --> DOMAIN
+    COMPOSITION --> OBJDUMP
+    OBJDUMP --> DOMAIN
+    COMPOSITION --> RIZIN
+    RIZIN --> DOMAIN
+    CLI --> GDB
+    SERVER --> GDB
+    GDB --> PROCESS
+    GDB --> DOMAIN
     HOPPER --> HOPPER_BRIDGE
     GHIDRA --> GHIDRA_BRIDGE
     HOPPER --> PROCESS
@@ -1176,76 +1310,91 @@ graph TD
     APP -->|EVM interface port| EVM
     EVM --> PROCESS
     EVM --> DOMAIN
-```
 
-### third_party/README.md
-# Upstream analysis engines
+### docs/ (directory listing)
 
-REA integrates existing tools through provider adapters. Upstream source remains
-unmodified and retains its own license; it is not copied into REA's domain or
-application code.
-
-## jadx-headless-mcp
-
-- Source: <https://github.com/1013503897/jadx-headless-mcp>
-- Submodule: `third_party/jadx-headless-mcp`
-- Release: `v0.7.1`
-- Commit: `5844800a486d2248fa949b74c9896285f5b54de2`
-- License: Apache-2.0; see the submodule's `LICENSE`.
-- Release identity: `src/android/JadxRelease.ts`.
-- REA integration: `src/android/`; no upstream patches in this version.
-
-Fetch source for inspection with:
-
-```sh
-git submodule update --init third_party/jadx-headless-mcp
-```
-
-Normal REA builds and installed npm packages do not require this submodule or a
-Gradle build. Supply a separately obtained JAR with `REA_JADX_MCP_JAR`; REA never
-downloads engines during an analysis operation. The audited release JAR is
-identified by SHA-256. A caller-supplied build reporting the supported protocol
-version retains its actual digest and an unknown source revision unless its
-bytes match the audited release.
-
-When updating: review upstream protocol and license changes, update the gitlink
-and release identity together, exercise the adapter's producer regressions, and
-run the real APK CLI/MCP lane. Never attribute modified engine bytes to the
-audited source revision.
-
-## Public APK fixture
-
-`scripts/fetch-android-fixtures.mjs` explicitly downloads the audited engine and
-Appium ApiDemos v6.0.18 into ignored `_reference/apk-integration/`. Both downloads
-are checked against fixed SHA-256 values. Fixture provenance is recorded in
-`scripts/fixtures/android-apidemos.json`; the source uses Apache-2.0. This is a
-static analysis fixture: no emulator, device, SDK installation or app execution
-is needed. APKs and JARs are neither tracked nor included in npm packages.
-
-## Firmware engines
-
-| Engine | Source | Release | Pinned commit | License |
-| --- | --- | --- | --- | --- |
-| Binwalk | <https://github.com/ReFirmLabs/binwalk> | v3.1.0 | `4fdab3d464d97b68e0af9088df3f9e2e1545b21c` | MIT, upstream `LICENSE` |
-| Unblob | <https://github.com/onekey-sec/unblob> | 26.6.4 | `1fcc7a0a584a70a96c31f5a276c20944d199a089` | MIT, upstream `LICENSE` |
-
-Source remains unmodified in `third_party/binwalk` and `third_party/unblob`.
-Release records live in `src/firmware/FirmwareRelease.ts`; REA adapters own the
-CLI/report interpretation and lifecycle in `src/firmware/`. Caller-supplied
-executables retain their actual launcher digest and unknown source revision;
-version output alone does not establish source identity. REA does not bundle
-extractors or download/install firmware engines during analysis.
-
-On updates: inspect actual pinned CLI and report producers, preserve licenses,
-update gitlinks/release records, run report regressions and the real firmware
-lane. See [firmware setup and coverage](../docs/firmware-analysis.md).
+- .vitepress
+- adb-device-analysis.md
+- android-analysis.md
+- apktool-resource-analysis.md
+- apple-application-analysis.md
+- architecture.mermaid
+- assets
+- binary-diagnostics.md
+- browser-observation.md
+- browser-scenario-contract.md
+- cli.md
+- client-configuration.md
+- client-verification.md
+- electron-fuses.md
+- electron-observation.md
+- error-contract.schema.json
+- evm-bytecode.md
+- firmware-analysis.md
+- flutter-analysis.md
+- frida-instrumentation.md
+- ghidra-dos.md
+- ghidra-mips.md
+- ghidra-nativeaot.md
+- ghidra-ppc.md
+- ghidra-provider.md
+- ghidra-psp.md
+- ghidra-riscv.md
+- go-binaries.md
+- harmony-analysis.md
+- http3-capture-lab.md
+- ida-provider.md
+- index.md
+- installation.md
+- javascript-application-graph.md
+- javascript-application-workflows.md
+- javascript-artifact-reconstruction.md
+- javascript-recovery.md
+- javascript-runtime-observation.md
+- javascript-runtime-reconciliation.md
+- jeb-analysis.md
+- kuna-provider.md
+- managed-code-analysis.md
+- mcp-contracts.md
+- mcp-prompts.md
+- migration-6.2.md
+- native-investigation.md
+- packet-captures.md
+- pcap-analysis.md
+- process-capture.md
+- raw-binary.md
+- readme
+- reconstruction-obligation-ledgers.md
+- reconstruction-readiness.md
+- recorded-crashes.md
+- releases
+- releasing.md
+- reverse-engineering-tools.md
+- roadmap.md
+- rust-binaries.md
+- signal-recordings.md
+- specs
+- sqlite-databases.md
+- testing.md
+- tool-design.md
+- user-visible-errors.csv
+- wasm-artifacts.md
+- web-network-captures.md
+- web-runtime.md
+- web-source-location.md
+- website-module-trace.md
+- website-script-export.md
+- windows-ghidra-p0.md
 
 ### AGENTS.md (repo agent instructions)
+
 # Repository Guidelines
 
 ## Product and Authority
 
 REA is a local-only reverse-engineering tool with shared CLI/MCP workflows. Distinguish observations, derivations, inferences, and unknowns; preserve Evidence provenance and session semantics through both adapters. Provider support and setup live in [README.md](README.md#choosing-a-deep-analysis-provider) and its linked guides.
+
+Follow the [contribution scope and fail-closed integration rule](CONTRIBUTING.md#contribution-scope). Do not integrate capabilities while material scope, authority, side-effect, or required verification questions remain unresolved. For new providers or capabilities involving target execution, injection, mutation, or protection recovery, seek the required maintainer scope decision before substantial implementation for integration. Welcome early proposals, small exploratory prototypes, and draft PRs that help resolve questions; they do not authorize integration.
 
 Ghidra uses ephemeral databases without modifying executable bytes or controlling a GUI; Windows Ghidra P0 has no mutation authority. IDA analysis is read-only; never save or close an attached GUI database.
 
@@ -1257,13 +1406,44 @@ Preserve caller-selected inputs and local evidence, including output, URLs, path
 
 Dependencies flow inward: domain semantics and contracts, provider adapters, shared application workflows, then CLI/MCP adapters. Keep engine protocols and provider-specific code out of domain/application layers. See [docs/architecture.mermaid](docs/architecture.mermaid) when changing composition.
 
-Give each interpretation and resource a clear owner. Preserve identity, omission, uncertainty, and source evidence across boundaries. Retain ownership of resources whose cleanup failed. Reuse `src/process/` supervision and identity primitives; a PID and executable path alone do not establish ownership after exit or reuse.
+Give each interpretation and resource a clear owner. Consumers must use that owner's parsed facts rather than reinterpret raw source. Preserve identity, omission, uncertainty, and source evidence across boundaries. Retain ownership of resources whose cleanup failed. Reuse `src/process/` supervision and identity primitives; a PID and executable path alone do not establish ownership after exit or reuse.
+
+Keep proof of ownership separate from validity, editability, and readiness. Malformed owned data may still be safely removable. Unresolved identity or applicability must remain unknown rather than be treated as absent, foreign, or aligned.
 
 Assess brittleness in touched code during implementation, debugging, review, and maintenance. Fix the producing representation or ownership rule before adding downstream repairs. Normalize once at the owning boundary using format-aware parsers. Remove superseded representations, aliases, wrappers, and redundant tests after verifying affected consumers. Introduce abstractions only when they remove observed complexity.
+
+When fixing a bug, inspect the producing boundary and affected consumers for duplicated interpretation or unclear ownership. Complete any directly related refactor in the same change and remove superseded code. Passing regression tests alone does not establish that the brittleness is resolved. If related cleanup remains, explain what remains and why.
+
+When addressing a review thread, inspect the producing boundary and affected consumers for brittleness. Complete directly related refactoring in the same change. Before resolving the thread, explain the root cause, structural fix, validation, and any remaining cleanup.
 
 Parse unknown boundary values and model expected failures with the tagged error algebra and `Result`. Preserve partial facts and meaningful failure reasons. Keep identity and lookup values separate from display formatting; preserve source values and explicit unknowns when normalization loses information. Absolute paths, file URLs, and HTTP paths have different semantics.
 
 Validate advertised JSON Schemas after SDK conversion against their declared dialect and actual clients. Bind handlers to named contracts with exact types; catalog ordering must never select an operation or schema.
+
+## Performance
+
+Design analysis workflows and agent interfaces for efficiency from the first
+implementation. Correctness, useful answers, Evidence provenance, caller choices,
+compatibility and safe resource bounds remain required.
+
+Optimize in this order:
+
+1. Agent tokens and context. Return the smallest sufficient answer with
+   necessary provenance, coverage and limitations. Use task selection,
+   summaries, paging and retained Evidence where supported; honor requested
+   detail and keep complete Evidence accessible. Count the whole task,
+   including schemas, extra calls and retries.
+2. Analysis time. Reuse validated results and shared work. Cache keys must
+   cover result-affecting inputs; define invalidation and lifetime. Validate
+   freshness before reporting cached live state as current.
+3. CPU and memory. Avoid unnecessary work and copies; bound concurrency,
+   retained state and serialization growth.
+
+For changes affecting these costs, measure representative completed tasks and
+compare equivalent workflows before and after where available. Report token
+usage, elapsed time, CPU time and peak process-family memory. Separate cold
+and warm runs, label estimates, and state unmeasured costs. Fewer bytes alone
+do not establish fewer tokens or faster analysis.
 
 ## Development
 
@@ -1288,6 +1468,37 @@ For test changes or provider claims, use [docs/testing.md](docs/testing.md). Pre
 
 Use Conventional Commit subjects and PR titles. Mark breaking changes with `!` or a `BREAKING CHANGE:` footer. Describe behavior changes, relevant validation, and real-provider verification scope.
 
+## Issue Reports
+
+Follow [issue reporting guidance](CONTRIBUTING.md#reporting-issues) and the matching
+issue form. Keep reports concise and cite the smallest useful evidence.
+Distinguish observed results, source-derived reasoning, hypotheses, and proposed
+checks. Never claim runtime reproduction or measurements you did not perform.
+Use `NOT_ENOUGH_INFO` with an explanation for missing narrative answers or evidence.
+Incomplete reports, source-only findings, and early feature or design ideas are
+welcome when their limitations are explicit; a completed diagnosis or fix is not
+required to open an issue.
+
+## Pull Request Readiness
+
+Follow [human ownership and readiness](CONTRIBUTING.md#pull-request-ownership-and-readiness)
+when preparing a PR. AI-assisted contributions are welcome; a human must review
+and own the final diff, check the validation evidence and its limitations, and
+explicitly declare the PR ready for initial maintainer review.
+
+Keep the PR body concise and current, with the concrete problem, observable
+outcome, approach, and evidence. Report only checks that actually ran as executed;
+distinguish source-derived conclusions, proposed checks, and unavailable coverage.
+Address actionable automated review findings and explain disagreements.
+
+Leave the template's **Author readiness** declarations unchecked for the human
+owner to complete. Never attest to human review on their behalf. Keep the PR in
+draft until the human declares the PR initially ready. Later pushes do not
+invalidate that declaration or require another human sign-off. Keep the PR body
+and affected validation current as work changes. The readiness check validates
+the filled declaration; CI and automated review results do not establish that
+human review occurred, maintainer scope approval, or merge permission.
+
 <!-- BEGIN:turborepo-agent-rules -->
 
 # This is NOT the Turborepo you know
@@ -1300,14 +1511,15 @@ This block is written and re-added by `turbo` before repository-scoped commands 
 <!-- END:turborepo-agent-rules -->
 
 ## Top-level structure
-- `src/` — TypeScript runtime: CLI adapter (`cli.ts`, `cli/`), MCP stdio server (`main.ts`, `server/`), shared workflows (`application/`), `composition/`, `contracts/`, `domain/`, `config/`, and provider adapters: `hopper/`, `ghidra/`, `ida/`, `native/`, `dotnet/`, `android/`, `firmware/`, `evm/`, `browser/`, `inspector/`, `javascript/`, `artifacts/`, `process/`, `windows/`, `reference/`, `evaluation/`
-- `bridge/` — engine-side bridges: `hopper_bridge.py`, `ghidra/`, `android/`, `mitmproxy/`, `native/`, `process/`, `pwndbg/`, `pwntools/`
-- `native/windows/` — Node-API Windows host implementation (job objects, DACLs)
-- `docs/` — guides and contracts (installation, cli, mcp-contracts, mcp-prompts, tool-design, testing, roadmap, architecture.mermaid, per-target guides: android, apple, browser, electron, evm, firmware, ghidra, ida, javascript, managed-code, native, process-capture, web-network-captures), plus a `.vitepress/` site config
-- `.agents/skills/` — agent skills source: `reverse-engineer-anything/`, `rea-tool-design/` (packaged skill published to skills.sh)
-- `website/` — rea.tools site source (README, style guide, figures, evidence, wrangler.toml for Cloudflare)
-- `tests/` — Vitest suites: acceptance, boundary, composition, conformance, evaluation, fixtures, process-global
-- `scripts/` — build/verify/generate scripts (`rea.mjs` dispatcher, MCP tool catalog, skill metadata, conformance fixtures)
-- `third_party/` — unmodified upstream engines as submodules: binwalk, unblob, jadx-headless-mcp, evmole, pwndbg, pwntools, wakaru, ghidra-nativeaot, web-network-captures
-- `AGENTS.md`, `CONTRIBUTING.md`, `SECURITY.md`, `CHANGELOG.md` (~285 KB), 18 translated `README_*.md` files
-- Root config: `package.json`, `turbo.json`, `vitest.config.ts`, `server.json` (MCP Registry manifest), `install.sh`, `release-please-config.json`
+- `src/` — TypeScript runtime: CLI adapter, MCP stdio server, shared workflows, composition, contracts, domain, config and provider adapters
+- `bridge/` — engine-side bridges (Hopper, Ghidra, Android, mitmproxy, native, process, pwndbg, pwntools)
+- `native/` — native host implementation (Windows Node-API host)
+- `docs/` — guides and contracts (see listing above), `readme/` translations (19 languages), `releases/`, `specs/`, `.vitepress/` site config
+- `.agents/` — agent skills source (packaged REA investigation skill)
+- `website/` — rea.tools site source
+- `experiments/` — experimental work
+- `tests/` — Vitest suites
+- `scripts/` — build/verify/generate scripts (`rea.mjs` dispatcher)
+- `third_party/` — upstream engines as submodules
+- `licenses/`, `LICENSE`, `THIRD_PARTY_NOTICES.md`, `DISCLAIMER.md`, `SECURITY.md`, `CONTRIBUTING.md`, `CHANGELOG.md`, `AGENTS.md`
+- Root config: `package.json`, `turbo.json`, `vitest*.config.ts`, `stryker*.config.mjs` (mutation testing), `knip.json`, `server.json` (MCP Registry manifest), `install.sh`, `release-please-config.json`

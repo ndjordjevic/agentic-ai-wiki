@@ -22,10 +22,11 @@ related:
   - vercel.com
   - langchain.com
   - trigger.dev
+  - databricks.com
 product: neon
 detail_level: standard
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-10-15
 ---
 
 Neon is a serverless Postgres backend platform (22.5K+ GitHub stars, Apache 2.0, Databricks-owned since May 2025) designed explicitly for apps and agents — separating compute and storage to deliver autoscaling, git-like database branching, scale-to-zero, instant point-in-time restore, and fleet APIs that spin up databases in ~120ms. Beyond core Postgres it bundles managed Neon Auth (Better Auth, users in `neon_auth` schema), Data API (Supabase-compatible REST), early-access Functions, Object Storage, and AI Gateway — all agent-ready via `npx neon@latest init`, MCP server (`mcp.neon.tech`), Agent Skills, and editor plugins for Cursor, Claude Code, Codex, and GitHub Copilot. It competes as the agent-native Postgres layer behind codegen platforms — compare integrated backends [[supabase.com]], PaaS hosts [[render.com]]/[[vercel.com]], and AI framework persistence patterns [[langchain.com]].

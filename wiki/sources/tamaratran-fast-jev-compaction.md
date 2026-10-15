@@ -13,10 +13,11 @@ related:
   - chopratejas-headroom
   - mksglu-context-mode
   - nadimtuhin-claude-token-optimizer
+  - typesafe.ai
 product: fast-jev-compaction
 detail_level: standard
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 fast-jev-compaction is a Claude Code plugin and npm library that replaces LLM-summarized context compaction with a scoring-and-pruning approach: an auxiliary model ("Jev", served by TypeSafe's System One API) judges, per tool call, whether the call and its result still matter, and the library deletes what it says is no longer needed rather than rewriting anything. User and assistant text is always kept verbatim and in order — only tool calls and tool results are candidates for removal or truncation. It ships both as a reusable TypeScript library (`src/`) and as an early-access Claude Code function-hook plugin (`hooks/`, `.claude-plugin/`) that intercepts `session.compact` and falls back to Claude Code's built-in summary when Jev fails or the estimated reduction is too small.

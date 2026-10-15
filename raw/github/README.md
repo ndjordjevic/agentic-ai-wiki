@@ -189,6 +189,6 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/dzhng-jevgrep.md | dzhng/jevgrep | 2092 | main | v0.8.0 | 2026-10-03 | |
 | raw/github/addyosmani-agent-skills.md | addyosmani/agent-skills | 101686 | main | 0.6.12 | 2026-10-06 | |
 | raw/github/warpdotdev-warp-factory-examples.md | warpdotdev/warp-factory-examples | 31 | main | none | 2026-10-06 | |
-| raw/github/morluto-rea.md | morluto/rea | 58387 | main | rea-agents-6.3.0 | 2026-10-10 | |
+| raw/github/morluto-rea.md | morluto/rea | 254870 | main | rea-agents-6.5.0 | 2026-10-15 | |
 | raw/github/openqodex-openqodex.md | openqodex/openqodex | 706 | main | openqodex@0.12.0 | 2026-10-15 | |
 | raw/github/tavily-ai-tavily-python.md | tavily-ai/tavily-python | 1424 | master | none | 2026-10-15 | |

@@ -6,6 +6,22 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-15 | ingest | rea.tools | REA website — one-prompt `npx rea-agents setup` for 17+ coding agents, first Electron Notes investigation, native/Electron/browser guides with the actual REA output and checks, five case studies, and a blog on models, retrieval and RL oracles for compiler-matching reconstruction; companion GitHub repo morluto/rea refreshed (v6.5.0, ~255K stars)
+
+- Created: wiki/sources/rea.tools.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md, wiki/sources/morluto-rea.md, wiki/sources/integuru.com.md, wiki/sources/mukul975-anthropic-cybersecurity-skills.md, wiki/sources/SnailSploit-Claude-Red.md
+- Companion: raw/github/morluto-rea.md
+
+## 2026-10-15 | ingest | typesafe.ai | TypeSafe AI — System One Models: Jev returns typed decisions (Choice/Score/Noul, experimental Box) with calibrated probabilities and confidence instead of generated text; RLCD training, parallel sampler, 70–500 ms, $42 per billion input tokens with free output; `POST /v1/systemone`, Python/JS SDKs, Claude Code / skills.sh agent skill; danger-zone headers for images and 262k long context (Jev 1.14)
+
+- Created: wiki/sources/typesafe.ai.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/web/README.md, inbox.md, wiki/sources/tamaratran-fast-jev-compaction.md, wiki/sources/dzhng-jevgrep.md (related)
+
+## 2026-10-15 | ingest | databricks.com | Databricks — data + AI lakehouse platform as an enterprise agent stack: Agent Bricks (any-framework agents via `agentbricks` CLI on a managed agent runtime; `DurableAgentServer` sync/stream/background invocations, idempotency, crash recovery), Lakebase-backed managed memory (BM25 recall) and sessions, Databricks Sandbox, MLflow tracing/eval, Unity Gateway (model/MCP/skill governance, budgets, `ug` CLI for coding agents), managed Omnigent, official Agent Skills
+
+- Created: wiki/sources/databricks.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/web/README.md, inbox.md, wiki/sources/gemini-enterprise-agent-platform.md, wiki/sources/omnigent-ai-omnigent.md, wiki/sources/neon.com.md, wiki/sources/litellm.ai.md (related)
+
 ## 2026-10-15 | ingest | sonarsource.com | Sonar — SonarQube as a zero-trust verification layer for AI code: AC/DC Guide/Verify/Solve across agentic, CI and maintenance loops; Sonar Vortex (in-loop context injection + CI-depth per-file analysis), SonarQube MCP Server (Cloud-native, Server extension, or Docker stdio), `sonar` CLI and one-command agent plugins, Remediation Agent (sandboxed re-scan-verified fix PRs), Hunter Agent (LLM logic-flaw hunting), Gitar AI PR review
 
 - Created: wiki/sources/sonarsource.com.md

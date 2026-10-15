@@ -15,10 +15,11 @@ related:
   - antigravity.google
   - google-adk-go
   - adk.dev
+  - databricks.com
 product: gemini-enterprise-agent-platform
 detail_level: standard
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-10-15
 ---
 
 Gemini Enterprise Agent Platform is Google Cloud's rebrand and expansion of Vertex AI into a full-stack platform for building, scaling, governing, and optimizing enterprise AI agents. It's Google's answer to the same "agent platform" category as AWS Bedrock AgentCore or Azure AI Foundry — a single console spanning model access, agent-building tools, ML training/serving infrastructure, and governance, positioned as the technical foundation underneath the separate Gemini Enterprise app (which handles agent registration and org-wide governance).

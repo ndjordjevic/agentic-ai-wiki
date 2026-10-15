@@ -154,3 +154,6 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/tavily.com.md | tavily.com | 11 | 2026-10-15 | |
 | raw/web/massive.com.md | massive.com | 10 | 2026-10-15 | |
 | raw/web/sonarsource.com.md | sonarsource.com | 11 | 2026-10-15 | |
+| raw/web/databricks.com.md | databricks.com | 11 | 2026-10-15 | |
+| raw/web/typesafe.ai.md | typesafe.ai | 16 | 2026-10-15 | |
+| raw/web/rea.tools.md | rea.tools | 11 | 2026-10-15 | |

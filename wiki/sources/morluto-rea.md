@@ -15,13 +15,14 @@ related:
   - integuru.com
   - mukul975-anthropic-cybersecurity-skills
   - SnailSploit-Claude-Red
+  - rea.tools
 product: rea
 detail_level: standard
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
-REA ("Reverse Engineer Anything", `rea-agents` on npm) is an MIT-licensed TypeScript MCP server and matching CLI (58K+ stars, v6.3.0) that lets a coding agent reverse-engineer software it has no source for — native binaries, JavaScript/Electron apps, .NET assemblies, Android APKs, firmware, EVM bytecode, websites and live process behavior — and return findings together with the evidence, limitations and unknowns behind each conclusion. Its pitch is feature-level: "see a feature you like, understand how it works, down to the binary level," then have the agent build a similar version in your own project. It matters for this wiki as a large, agent-first example of wrapping heavyweight expert tooling (Hopper, Ghidra, IDA, JADX, Binwalk) behind one provider-neutral MCP surface with strict evidence contracts.
+REA ("Reverse Engineer Anything", `rea-agents` on npm) is an MIT-licensed TypeScript MCP server and matching CLI (250K+ stars, v6.5.0) that lets a coding agent reverse-engineer software it has no source for — native binaries, JavaScript/Electron apps, .NET assemblies, Android APKs, firmware, EVM bytecode, websites and live process behavior — and return findings together with the evidence, limitations and unknowns behind each conclusion. Its pitch is feature-level: "see a feature you like, understand how it works, down to the binary level," then have the agent build a similar version in your own project. It matters for this wiki as a large, agent-first example of wrapping heavyweight expert tooling (Hopper, Ghidra, IDA, JADX, Binwalk) behind one provider-neutral MCP surface with strict evidence contracts.
 
 _All claims below are sourced from ../../raw/github/morluto-rea.md unless otherwise noted._
 
@@ -42,6 +43,8 @@ What it returns depends on the target:
 | Android APKs | Manifest, classes, decompiled methods, references | Headless JADX + JDK |
 | Firmware | Regions, extraction results, handoffs to native analysis | Binwalk / Unblob on Linux |
 | Process behavior | Terminal output, interactions, exit/filesystem observations, run comparisons | Linux/macOS native PTY |
+| Go / Rust binaries | Embedded Go build info and modules; cargo-auditable crate graph | Built-in static ELF/PE/Mach-O inspection |
+| WASM, SQLite, Android devices/resources, JEB, Flutter, packets, logic signals | Sections and WAT; schema and rows; adb device data; decoded manifests; JEB pseudo-code; Dart snapshot provenance; TShark fields; sigrok decodes | WABT, Node 24.15+/26+, adb, Apktool, JEB MCP, TShark, sigrok-cli (caller-supplied) |
 
 Static JavaScript and .NET inspection never run the target; runtime capture runs or interacts with it under the user's permissions.
 
@@ -98,4 +101,4 @@ Published showcases include reconstructing DX-Ball's sound-pan calculation into 
 
 ## Maintenance status
 
-Very active: 58,387 stars, 11,518 forks, latest release `rea-agents-6.3.0` (2026-10-09), last push 2026-10-10, MIT license, release-please-driven releases with a ~285 KB changelog, README in 18 languages, and a Discord community. Roadmap priorities: broader native architecture/type/indirect-call verification, linking static findings with runtime observations, obfuscated managed-code comparisons, and extended process/protocol coverage; new capabilities must pass real-provider verification lanes. The project disclaims illegal or unauthorized use and states it has issued no cryptocurrency token.
+Very active: 254,870 stars, 64,040 forks (up from 58,387 / 11,518 on 2026-10-10), latest release `rea-agents-6.5.0` (2026-10-14), last push 2026-10-15, MIT license, release-please-driven releases with a ~285 KB changelog, README in 18 languages, and a Discord community. Roadmap priorities: broader native architecture/type/indirect-call verification, linking static findings with runtime observations, obfuscated managed-code comparisons, and extended process/protocol coverage; new capabilities must pass real-provider verification lanes. The project disclaims illegal or unauthorized use and states it has issued no cryptocurrency token. Since 6.3.0 the README adds caller-supplied GNU objdump/Rizin and a Kuna decompiler provider, Bun support, a warning to obtain REA only from official sources, and a statement that commercial tools (IDA, Hopper, JEB) must be legally licensed. The companion website is covered in [[rea.tools]].
