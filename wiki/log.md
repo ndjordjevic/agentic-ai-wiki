@@ -6,6 +6,12 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-15 | ingest | tavily.com | Tavily (by Nebius) — web access layer for AI agents: Search (ultra-fast/fast/basic/advanced, chunked results), Extract, Map, Crawl and cited Research (mini/pro, streaming); Python/JS SDKs, remote MCP with OAuth or keyless header, tvly CLI + Agent Skills, x402 pay-per-request, credit pricing, 35+ integrations
+
+- Created: wiki/sources/tavily.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md, wiki/sources/brave-search.md, wiki/sources/serper.dev.md, wiki/sources/serpapi.com.md, wiki/sources/anysearch.com.md, wiki/sources/firecrawl.dev.md (related)
+- Companion: raw/github/tavily-ai-tavily-python.md
+
 ## 2026-10-15 | ingest | openqodex-openqodex | OpenQodex — open-source pre-push code review run from Claude Code/Codex/Cursor/Cline: 22 pinned scanners filtered to changed lines, then a separate Claude Code or Codex reviewer (own login, no API key) that must raise or drop every scanner finding; push-gate + pre-push hooks, HTML/MD/JSON/SARIF reports, code-graph MCP, approved custom GitHub scanners
 
 - Created: wiki/sources/openqodex-openqodex.md

@@ -303,3 +303,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://smithery.ai/ <!-- ingested 2026-10-14 -->
 - [x] https://glama.ai/ <!-- ingested 2026-10-14 -->
 - [x] https://github.com/openqodex/openqodex <!-- ingested 2026-10-15 -->
+- [x] https://www.tavily.com/ <!-- ingested 2026-10-15 -->

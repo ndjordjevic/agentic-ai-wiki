@@ -17,7 +17,7 @@ updated: 2026-10-15
 - [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (0/29 studied)
 - [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (3/41 studied)
 - [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (0/18 studied)
-- [[#MCP servers & integrations|MCP servers & integrations]] (0/16 studied)
+- [[#MCP servers & integrations|MCP servers & integrations]] (0/17 studied)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (0/16 studied)
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (0/24 studied)
 - [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (0/40 studied)
@@ -145,6 +145,7 @@ updated: 2026-10-15
 - [ ] [[serpapi.com]] — is the largest and most enterprise-oriented entry in this wiki's search-API cluster: a single REST endpoint fronting 100+ named search-engine endpoints (Google's dozens of verticals plus Bing, Amaz…
 - [ ] [[serper.dev]] — is a Google Search API for agents spanning ten search verticals (web, images, news, maps, video, shopping, Scholar, patents, autocomplete) at credit-based pricing starting at $0.30/1,000 queries, w…
 - [ ] [[smithery.ai]] — is the registry-and-broker layer for MCP: a public catalog of thousands of MCP servers plus a skills registry, and a hosted Connect service that turns any registry server or custom MCP URL into a l…
+- [ ] [[tavily.com]] — is Tavily (now part of Nebius), which pitches itself as "the web access layer for AI agents." One API covers five capabilities.
 - [ ] [[webhook.site]] — introduces Webhook.site, a webhook testing and workflow-automation service that hands every visitor an instantly-usable unique URL, e-mail address, and DNS name (DNSHook), displaying everything sen…
 
 ## Spec-driven dev, planning & tasks
@@ -364,4 +365,4 @@ updated: 2026-10-15
 - [ ] [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [ ] [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_285 sources across 16 categories — 3 studied._
+_286 sources across 16 categories — 3 studied._

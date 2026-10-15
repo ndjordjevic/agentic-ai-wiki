@@ -297,5 +297,6 @@ created: 2026-04-28
 | [[smithery.ai]] | web | standard | 2026-10-14 | MCP registry + managed-connection platform — thousands of MCP servers and skills, hosted OAuth/credential vault (agent.pw), namespace MCP endpoint, scoped service tokens, Uplink local tunnels, webhook Triggers, and publish/analytics for server authors |
 | [[glama.ai]] | web | standard | 2026-10-14 | MCP registry + control plane — ~97.6k servers / 30.7k connectors / ~1M tools, each Firecracker-sandboxed, introspected, behaviour-audited and TDQS-scored; browser MCP Inspector, one-click MCP hosting, and an MCP Gateway with call logs, per-tool access control and managed OAuth |
 | [[openqodex-openqodex]] | github | standard | 2026-10-15 | Open-source pre-push code review for coding agents — 22 pinned scanners, then a separate Claude Code/Codex reviewer on your own login that must answer every finding; push-gate hooks, SARIF/HTML reports, code-graph MCP, custom GitHub scanners |
+| [[tavily.com]] | web | standard | 2026-10-15 | Web access layer for AI agents — Search, Extract, Map, Crawl and cited Research APIs returning ranked LLM-ready chunks; Python/JS SDKs, remote MCP (OAuth/keyless), `tvly` CLI + Agent Skills, x402 pay-per-request, 35+ framework integrations |
 
-_285 sources ingested._
+_286 sources ingested._

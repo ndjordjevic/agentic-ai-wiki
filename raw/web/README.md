@@ -151,3 +151,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/software-factory-claude-code.md | software-factory-claude-code | 1 | 2026-10-13 | |
 | raw/web/smithery.ai.md | smithery.ai | 12 | 2026-10-14 | |
 | raw/web/glama.ai.md | glama.ai | 9 | 2026-10-14 | |
+| raw/web/tavily.com.md | tavily.com | 11 | 2026-10-15 | |
