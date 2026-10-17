@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-17 | ingest | vunote.so | Vunote — YouTube-to-notes AI for students and researchers: timestamped notes, transcripts, cross-video project workspaces, mindmaps/quizzes/reports, Chrome extension, Free/Pro/Plus/Ultra credit plans
+
+- Created: wiki/sources/vunote.so.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/web/README.md, inbox.md, wiki/sources/meetclaras.com.md, wiki/sources/notebooklm.google.md, wiki/sources/supadata.ai.md
+
 ## 2026-10-15 | ingest | rea.tools | REA website — one-prompt `npx rea-agents setup` for 17+ coding agents, first Electron Notes investigation, native/Electron/browser guides with the actual REA output and checks, five case studies, and a blog on models, retrieval and RL oracles for compiler-matching reconstruction; companion GitHub repo morluto/rea refreshed (v6.5.0, ~255K stars)
 
 - Created: wiki/sources/rea.tools.md

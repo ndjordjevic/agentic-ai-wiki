@@ -157,3 +157,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/databricks.com.md | databricks.com | 11 | 2026-10-15 | |
 | raw/web/typesafe.ai.md | typesafe.ai | 16 | 2026-10-15 | |
 | raw/web/rea.tools.md | rea.tools | 11 | 2026-10-15 | |
+| raw/web/vunote.so.md | vunote.so | 16 | 2026-10-17 | |

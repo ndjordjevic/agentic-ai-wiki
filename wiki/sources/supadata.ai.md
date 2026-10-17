@@ -19,10 +19,11 @@ related:
   - meetclaras.com
   - firecrawl.dev
   - coleam00-cole-medin-knowledge-base
+  - vunote.so
 product: supadata
 detail_level: standard
 created: 2026-07-30
-updated: 2026-07-30
+updated: 2026-10-17
 ---
 
 Supadata is a "web media to text" REST API for developers that turns YouTube, TikTok, Instagram, X (Twitter), and Facebook videos into transcripts, metadata, and AI-extracted structured data, alongside general-purpose web scrape/map/crawl endpoints — plus an official MCP server (`supadata-ai/mcp`, 61 stars, MIT, TypeScript) that exposes the same nine tools to Claude, Cursor, and other MCP clients. It occupies a narrower, more developer-facing niche than [[meetclaras.com]]'s end-user YouTube knowledge-extraction product, and overlaps [[firecrawl.dev]] on the web scrape/map/crawl surface while adding video/social-platform transcript and metadata extraction that Firecrawl doesn't cover.

@@ -309,3 +309,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://www.databricks.com/ <!-- ingested 2026-10-15 -->
 - [x] https://typesafe.ai/ <!-- ingested 2026-10-15 -->
 - [x] https://rea.tools/ <!-- ingested 2026-10-15 -->
+- [x] https://www.vunote.so/ <!-- ingested 2026-10-17 -->
