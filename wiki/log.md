@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-20 | ingest | seed.bytedance.com | ByteDance Seed — Seedance 2.5 audio-video joint generation (30s storytelling, omni reference, ModelArk API)
+
+- Created: wiki/sources/seed.bytedance.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/web/README.md, inbox.md, wiki/sources/higgsfield.ai.md, wiki/sources/kie.ai.md, wiki/sources/elevenlabs.io.md, wiki/sources/storytold.md (related)
+
 ## 2026-10-17 | ingest | vunote.so | Vunote — YouTube-to-notes AI for students and researchers: timestamped notes, transcripts, cross-video project workspaces, mindmaps/quizzes/reports, Chrome extension, Free/Pro/Plus/Ultra credit plans
 
 - Created: wiki/sources/vunote.so.md

@@ -16,8 +16,9 @@ related:
   - higgsfield.ai
   - kie.ai
   - open-design.ai
+  - seed.bytedance.com
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-20
 ---
 
 Storytold is the GitHub organization behind **ArtCraft**, an open-source "IDE for interactive AI image and video creation," plus a growing family of standalone open-source "Crafting Apps" — clean-room Rust reimplementations of well-known Adobe and Microsoft creative/productivity tools (Photoshop, Premiere, Lightroom, Acrobat, Illustrator, Word, PowerPoint, Excel, AutoCAD, Pro Tools), several tagged `ai` on GitHub. The org has 41 public repos, 9,466 followers, and two breakout projects by stars: **photocraft** (19.5k★, Photoshop clone) and **artcraft** itself (5.3k★). For this wiki, it's notable as a model-orchestration IDE for creatives — letting users choose and combine AI image/video models inside a visual, scene-based workflow — rather than a single-purpose generation API.

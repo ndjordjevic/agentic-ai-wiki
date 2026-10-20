@@ -304,5 +304,6 @@ created: 2026-04-28
 | [[typesafe.ai]] | web | standard | 2026-10-15 | TypeSafe AI's System One Models — Jev returns typed decisions (Choice/Score/Noul, experimental Box) with calibrated probabilities and confidence instead of text; RLCD training, parallel sampler, 70–500 ms, $42/B input tokens with free output; `POST /v1/systemone`, Python/JS SDKs, agent skill; a "smart if-statement" primitive for routing, guardrails and relevance inside agents |
 | [[rea.tools]] | web | standard | 2026-10-15 | REA's website (companion: morluto/rea) — one-prompt `npx rea-agents setup` for 17+ coding agents, a first Electron investigation, worked native/Electron/browser guides with the actual REA output and checks, five case studies (Aegis, CTF, DX-Ball, Notion, TH04), and a blog on model capability, retrieval and RL oracles for compiler-matching reconstruction |
 | [[vunote.so]] | web | standard | 2026-10-17 | YouTube-to-notes AI for students and researchers — timestamped notes, transcripts, cross-video project workspaces, mindmaps/quizzes/reports, Chrome extension, credit-based AI features |
+| [[seed.bytedance.com]] | web | standard | 2026-10-20 | |
 
-_292 sources ingested._
+_293 sources ingested._

@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-10-15
+updated: 2026-10-20
 ---
 
 # Agentic AI Frameworks — by category
@@ -26,7 +26,7 @@ updated: 2026-10-15
 - [[#Model infra, ML & providers|Model infra, ML & providers]] (0/17 studied)
 - [[#Workflow automation & no-code platforms|Workflow automation & no-code platforms]] (0/10 studied)
 - [[#Design & UI generation|Design & UI generation]] (0/12 studied)
-- [[#Media, voice & content|Media, voice & content]] (0/11 studied)
+- [[#Media, voice & content|Media, voice & content]] (0/13 studied)
 - [[#Infra, hosting, DB & observability|Infra, hosting, DB & observability]] (0/15 studied)
 - [[#Security|Security]] (0/4 studied)
 - [[#Business, career & learning|Business, career & learning]] (0/12 studied)
@@ -325,6 +325,7 @@ updated: 2026-10-15
 - [ ] [[mainframe.app]] — introduces Mainframe, a video generation platform designed for AI agent workflows: it converts agent work sessions into shareable, watchable videos for teams that need to stay current without runni…
 - [ ] [[meetclaras.com]] — introduces Claras, an AI-powered YouTube transcript and knowledge-extraction tool that turns any YouTube video into an interactive knowledge base.
 - [ ] [[postiz.com]] — documents Postiz, an open-source, self-hostable social media scheduling platform explicitly positioned as "agentic" — built so AI agents (Claude, ChatGPT, OpenClaw, Codex) can drive posting through…
+- [ ] [[seed.bytedance.com]] — covers ByteDance Seed's Seedance 2.5 audio-video joint generation model (30-second storytelling, omni multimodal reference, clay-render control, ModelArk API `dreamina-seedance-2-5-260628`).
 - [ ] [[Starmel-OpenSuperWhisper]] — is an open-source (MIT, 1,959+ stars) macOS dictation app that runs real-time transcription fully locally via whisper.cpp or Parakeet, offering system-wide keyboard/mouse-triggered recording withou…
 - [ ] [[storytold]] — is the GitHub org behind ArtCraft, an open-source "IDE for interactive AI image and video creation" that differentiates on scene-based model orchestration — compose a 2D/3D scene (actors, props, ca…
 - [ ] [[supadata.ai]] — is a "web media to text" API that turns YouTube, TikTok, Instagram, X, and Facebook videos into transcripts, metadata, and AI-extracted structured data, plus general web scrape/map/crawl endpoints,…
