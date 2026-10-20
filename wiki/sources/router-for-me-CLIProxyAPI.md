@@ -14,10 +14,11 @@ related:
   - litellm.ai
   - openrouter.ai
   - mozilla-ai-any-llm
+  - diegosouzapw-OmniRoute
 product: CLIProxyAPI
 detail_level: standard
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-10-20
 ---
 
 CLIProxyAPI is a Go proxy server (45,200+ stars) that turns OAuth-authenticated CLI subscriptions — Claude Code, ChatGPT Codex, Antigravity (Gemini), Grok Build, and Kimi — into OpenAI/Gemini/Claude/Codex-compatible API endpoints, so any existing OpenAI/Gemini/Claude-compatible client or SDK can call those models locally without separate API keys. It differs from provider-abstraction gateways like [[litellm.ai]] or [[openrouter.ai]] in mechanism, not just API surface: rather than routing paid API-key traffic across providers, it authenticates via each provider's own CLI OAuth flow and load-balances requests across multiple logged-in accounts per provider. See [[router-for-me-CLIProxyAPI]].

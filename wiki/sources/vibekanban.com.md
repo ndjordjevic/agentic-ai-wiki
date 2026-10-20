@@ -22,10 +22,11 @@ related:
   - eyaltoledano-claude-task-master
   - www.taskmaster.one
   - phasr.sh
+  - stablyai-orca
 product: vibekanban
 detail_level: standard
 created: 2026-05-25
-updated: 2026-07-08
+updated: 2026-10-20
 ---
 
 Vibe Kanban is an open-source project management tool designed to accelerate the human planning and review work that AI coding agents depend on. Built by bloop (now sunsetting as a company but continuing as a community-maintained open-source project), it addresses the emerging bottleneck in AI-assisted development: while coding agents can work on infinite tasks in parallel, humans still need to plan and review that work — making planning and review the new speed limit for shipping software.

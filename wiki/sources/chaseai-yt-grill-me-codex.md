@@ -16,10 +16,11 @@ related:
   - shadcn-improve
   - seangeng.com-plan-optimizer
   - othmanadi-planning-with-files
+  - chaseai-yt-claudex-loop
 product: grill-me-codex
 detail_level: standard
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-10-20
 ---
 
 `grill-me-codex` (666 stars, MIT) is a three-act Claude Code skill family built on top of Matt Pocock's `grill-me`/`grill-with-docs` skills that adds cross-model adversarial review: after Claude interrogates the human to lock a plan (Act 1, Pocock's original work), the plan is handed to OpenAI Codex — a rival, different-provider model — which tears it apart over several read-only review rounds until both models sign off (Act 2, this repo's addition). An optional Act 3 flips the roles entirely: Codex writes the code from the frozen plan with full write access, while Claude reads the diff like a contributor PR and re-verifies independently. The core thesis is explicit: a model that plans and writes the build can't be trusted to grade its own work, so a second provider does the grading.

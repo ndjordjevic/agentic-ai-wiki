@@ -192,3 +192,12 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/morluto-rea.md | morluto/rea | 254870 | main | rea-agents-6.5.0 | 2026-10-15 | |
 | raw/github/openqodex-openqodex.md | openqodex/openqodex | 706 | main | openqodex@0.12.0 | 2026-10-15 | |
 | raw/github/tavily-ai-tavily-python.md | tavily-ai/tavily-python | 1424 | master | none | 2026-10-15 | |
+| raw/github/omacom-omarchy.md | omacom/omarchy | 45279 | quattro | v4.0.6 | 2026-10-20 | |
+| raw/github/firecrawl-anydoc.md | firecrawl/anydoc | 22980 | main | v0.2.4 | 2026-10-20 | |
+| raw/github/herdrdev-herdr.md | herdrdev/herdr | 44870 | master | v0.9.5 | 2026-10-20 | |
+| raw/github/stablyai-orca.md | stablyai/orca | 98679 | main | v1.4.232 | 2026-10-20 | |
+| raw/github/chaseai-yt-claudex-loop.md | chaseai-yt/claudex-loop | 3141 | main | none | 2026-10-20 | |
+| raw/github/calesthio-OpenMontage.md | calesthio/OpenMontage | 70064 | main | none | 2026-10-20 | |
+| raw/github/diegosouzapw-OmniRoute.md | diegosouzapw/OmniRoute | 78636 | release/v3.8.53 | v3.8.52 | 2026-10-20 | |
+| raw/github/tt-a1i-archify.md | tt-a1i/archify | 85989 | main | v3.2.0 | 2026-10-20 | |
+| raw/github/Kevin-Liu-01-Claude-of-Tanks.md | Kevin-Liu-01/Claude-of-Tanks | 489 | main | none | 2026-10-20 | |

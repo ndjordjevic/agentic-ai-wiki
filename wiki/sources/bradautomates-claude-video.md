@@ -15,10 +15,11 @@ related:
   - Starmel-OpenSuperWhisper
   - skills.sh
   - davila7-claude-code-templates
+  - calesthio-OpenMontage
 product: claude-video
 detail_level: standard
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-10-20
 ---
 
 `claude-video` (8,256+ stars, MIT) is an Agent Skill (`/watch`) that gives Claude the ability to genuinely watch a video — not guess from a title or a partial transcript — by downloading it, extracting scene-aware frames, pulling a timestamped transcript (free captions first, Whisper as fallback), and handing both to Claude's multimodal `Read` tool. It's a focused, single-purpose skill (one video comprehension pipeline, ~8 Python scripts) rather than a broad toolkit, and ships with measured token/latency numbers for each fidelity tier rather than vague claims.

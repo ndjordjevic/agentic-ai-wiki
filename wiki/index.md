@@ -305,5 +305,13 @@ created: 2026-04-28
 | [[rea.tools]] | web | standard | 2026-10-15 | REA's website (companion: morluto/rea) — one-prompt `npx rea-agents setup` for 17+ coding agents, a first Electron investigation, worked native/Electron/browser guides with the actual REA output and checks, five case studies (Aegis, CTF, DX-Ball, Notion, TH04), and a blog on model capability, retrieval and RL oracles for compiler-matching reconstruction |
 | [[vunote.so]] | web | standard | 2026-10-17 | YouTube-to-notes AI for students and researchers — timestamped notes, transcripts, cross-video project workspaces, mindmaps/quizzes/reports, Chrome extension, credit-based AI features |
 | [[seed.bytedance.com]] | web | standard | 2026-10-20 | |
-
-_293 sources ingested._
+| [[omacom-omarchy]] | github | standard | 2026-10-20 | Opinionated agentic Arch Linux distro by DHH (Hyprland + Quickshell) with coding-agent mise wrappers and multi-agent skill symlinks (~45k★, MIT v4.0.6) |
+| [[firecrawl-anydoc]] | github | standard | 2026-10-20 | Firecrawl's Rust library converting Word/PPT/Excel/ODF/RTF/EPUB/CSV/PDF to clean Markdown; Node/Python/WASM + Agent Skill (~23k★, MIT v0.2.4) |
+| [[herdrdev-herdr]] | github | standard | 2026-10-20 | Official herdrdev/herdr Rust agent multiplexer — persistent panes, working/blocked/idle state, CLI/socket API for coding agents (~45k★, Apache-2.0 v0.9.5) |
+| [[stablyai-orca]] | github | standard | 2026-10-20 | Orca ADE — desktop/mobile orchestrator for fleets of coding agents with parallel git worktrees, terminals, design mode (~99k★, MIT v1.4.232) |
+| [[chaseai-yt-claudex-loop]] | github | standard | 2026-10-20 | Claudex Loop/Route skills — cross-model Claude↔Codex plan review, build, and independent inspection (~3k★, MIT) |
+| [[calesthio-OpenMontage]] | github | standard | 2026-10-20 | OpenMontage — open-source agentic video production system (12 pipelines, 100+ tools, 700+ skills; AGPLv3, ~70k★) |
+| [[diegosouzapw-OmniRoute]] | github | standard | 2026-10-20 | OmniRoute — free MIT local AI gateway (375 providers / 150+ free, 1400+ models, quota-aware fallback, MCP/A2A, Desktop/PWA; ~79k★) |
+| [[tt-a1i-archify]] | github | standard | 2026-10-20 | Archify — agent skill turning ideas/plans/codebases into interactive HTML diagrams for Claude Code/Codex/Cursor/OpenCode (~86k★, MIT v3.2.0) |
+| [[Kevin-Liu-01-Claude-of-Tanks]] | github | standard | 2026-10-20 | Claude of Tanks — Three.js/Vite armored combat sim built end-to-end by a multi-agent Claude/Codex pipeline (~489★, MIT) |
+_302 sources ingested._

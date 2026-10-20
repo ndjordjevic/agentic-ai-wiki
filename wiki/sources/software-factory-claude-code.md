@@ -14,10 +14,12 @@ related:
   - coleam00-archon
   - coleam00-harness-engineering-demo
   - dark-factory-autonomous-ai-codebase
+  - chaseai-yt-claudex-loop
+  - Kevin-Liu-01-Claude-of-Tanks
 product: software-factory-claude-code
 detail_level: standard
 created: 2026-10-13
-updated: 2026-10-13
+updated: 2026-10-20
 ---
 
 ZazenCodes' "Software Factory for Claude Code" is a small, copy-in template that turns a Claude Code session into an autonomous feature pipeline built from just one skill (`/factory`), seven subagents, and plain markdown files. You type `/factory <feature>`; agents write a spec, build it on its own branch in its own git worktree, review it from four angles (security, UX, UI, code) in parallel, and either merge it to `main` or hand it to a human. It matters for this wiki as a deliberately minimal, readable reference for the "software factory" / dark-factory pattern using only native Claude Code primitives, with no external framework or runtime, plus a live HTML dashboard so you can watch jobs move through the stages.

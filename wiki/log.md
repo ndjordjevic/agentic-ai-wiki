@@ -6,6 +6,51 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-20 | ingest | Kevin-Liu-01-Claude-of-Tanks | Claude of Tanks — Three.js armored combat sim built by multi-agent Claude/Codex pipeline (~489★, MIT); multi-agent production case study
+
+- Created: wiki/sources/Kevin-Liu-01-Claude-of-Tanks.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-20 | ingest | tt-a1i-archify | Archify — agent skill for interactive HTML diagrams from ideas/plans/repos (~86k★, MIT v3.2.0)
+
+- Created: wiki/sources/tt-a1i-archify.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-20 | ingest | diegosouzapw-OmniRoute | OmniRoute — free MIT AI gateway (375 providers, 1400+ models, quota-aware fallback, MCP/A2A; ~79k★, v3.8.52)
+
+- Created: wiki/sources/diegosouzapw-OmniRoute.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-20 | ingest | calesthio-OpenMontage | OpenMontage — agentic video production system (12 pipelines, 100+ tools, 700+ skills; ~70k★, AGPLv3)
+
+- Created: wiki/sources/calesthio-OpenMontage.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-20 | ingest | chaseai-yt-claudex-loop | claudex-loop — Chase AI Claude↔Codex skills for adversarial plan review, cross-model build, and independent inspection (~3k★, MIT)
+
+- Created: wiki/sources/chaseai-yt-claudex-loop.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-20 | ingest | stablyai-orca | Orca — Stably's ADE for fleets of coding agents (parallel worktrees, mobile companion, design mode; ~99k★, MIT v1.4.232)
+
+- Created: wiki/sources/stablyai-orca.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-20 | ingest | herdrdev-herdr | herdr (herdrdev/herdr) — official Rust agent multiplexer runtime for coding agents (~45k★, Apache-2.0 v0.9.5); product-grouped with herdr.dev
+
+- Created: wiki/sources/herdrdev-herdr.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-20 | ingest | firecrawl-anydoc | anydoc — Firecrawl Rust doc→Markdown converter (office/PDF, Node/Python/WASM, Agent Skill; ~23k★, MIT v0.2.4)
+
+- Created: wiki/sources/firecrawl-anydoc.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-20 | ingest | omacom-omarchy | Omarchy — DHH's opinionated agentic Arch Linux distro (Hyprland/Quickshell, coding-agent mise wrappers, ~45k★, MIT v4.0.6)
+
+- Created: wiki/sources/omacom-omarchy.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-10-20 | ingest | seed.bytedance.com | ByteDance Seed — Seedance 2.5 audio-video joint generation (30s storytelling, omni reference, ModelArk API)
 
 - Created: wiki/sources/seed.bytedance.com.md

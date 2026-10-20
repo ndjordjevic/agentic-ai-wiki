@@ -312,3 +312,12 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://rea.tools/ <!-- ingested 2026-10-15 -->
 - [x] https://www.vunote.so/ <!-- ingested 2026-10-17 -->
 - [x] https://seed.bytedance.com/en/seedance2_5 <!-- ingested 2026-10-20 -->
+- [x] https://github.com/omacom/omarchy <!-- ingested 2026-10-20 -->
+- [x] https://github.com/firecrawl/anydoc <!-- ingested 2026-10-20 -->
+- [x] https://github.com/herdrdev/herdr <!-- ingested 2026-10-20 -->
+- [x] https://github.com/stablyai/orca <!-- ingested 2026-10-20 -->
+- [x] https://github.com/chaseai-yt/claudex-loop <!-- ingested 2026-10-20 -->
+- [x] https://github.com/calesthio/OpenMontage <!-- ingested 2026-10-20 -->
+- [x] https://github.com/diegosouzapw/OmniRoute <!-- ingested 2026-10-20 -->
+- [x] https://github.com/tt-a1i/archify <!-- ingested 2026-10-20 -->
+- [x] https://github.com/Kevin-Liu-01/Claude-of-Tanks <!-- ingested 2026-10-20 -->

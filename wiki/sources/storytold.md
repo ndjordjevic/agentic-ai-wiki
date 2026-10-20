@@ -17,6 +17,7 @@ related:
   - kie.ai
   - open-design.ai
   - seed.bytedance.com
+  - calesthio-OpenMontage
 created: 2026-10-08
 updated: 2026-10-20
 ---
