@@ -15,10 +15,11 @@ related:
   - coderabbit.ai
   - greptile.com
   - openqodex-openqodex
+  - The-PR-Agent-pr-agent
 product: sonarsource
 detail_level: standard
 created: 2026-10-15
-updated: 2026-10-15
+updated: 2026-10-26
 ---
 
 Sonar (SonarSource) is the company behind SonarQube, a long-established static-analysis and code-quality platform that it now positions as an independent, "zero-trust" verification layer for AI-written code. Its framework for this is the **Agent Centric Development Cycle (AC/DC)**: **Guide** agents with project context and constraints, **Verify** their output, and **Solve** findings with verified fixes. These stages run across three loops: inside the agent's session, in CI, and as background tech-debt cleanup. Several agent-facing products sit on top of the SonarQube engine: Sonar Vortex for in-loop context and verification, the SonarQube MCP Server, the SonarQube CLI, one-command agent plugins for Claude Code, Codex, Copilot CLI, Cursor and Antigravity, the Remediation and Hunter agents, and Gitar for AI PR review. For this wiki, Sonar is the deterministic-analysis counterpart to LLM-based code reviewers. It is a way to put quality gates inside the coding agent's own loop instead of only at the pull request.

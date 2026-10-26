@@ -314,4 +314,5 @@ created: 2026-04-28
 | [[diegosouzapw-OmniRoute]] | github | standard | 2026-10-20 | OmniRoute — free MIT local AI gateway (375 providers / 150+ free, 1400+ models, quota-aware fallback, MCP/A2A, Desktop/PWA; ~79k★) |
 | [[tt-a1i-archify]] | github | standard | 2026-10-20 | Archify — agent skill turning ideas/plans/codebases into interactive HTML diagrams for Claude Code/Codex/Cursor/OpenCode (~86k★, MIT v3.2.0) |
 | [[Kevin-Liu-01-Claude-of-Tanks]] | github | standard | 2026-10-20 | Claude of Tanks — Three.js/Vite armored combat sim built end-to-end by a multi-agent Claude/Codex pipeline (~489★, MIT) |
-_302 sources ingested._
+| [[The-PR-Agent-pr-agent]] | github | standard | 2026-10-26 | |
+_303 sources ingested._

@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-26 | ingest | The-PR-Agent-pr-agent | Open-source multi-forge AI PR reviewer (describe/review/improve/ask; MIT, v0.49.0, ~13.6k★)
+
+- Created: wiki/sources/The-PR-Agent-pr-agent.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md, wiki/sources/coderabbit.ai.md, wiki/sources/greptile.com.md, wiki/sources/agent-field-pr-af.md, wiki/sources/openqodex-openqodex.md, wiki/sources/sonarsource.com.md, wiki/sources/litellm.ai.md (related)
+
 ## 2026-10-20 | ingest | Kevin-Liu-01-Claude-of-Tanks | Claude of Tanks — Three.js armored combat sim built by multi-agent Claude/Codex pipeline (~489★, MIT); multi-agent production case study
 
 - Created: wiki/sources/Kevin-Liu-01-Claude-of-Tanks.md
