@@ -336,3 +336,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/jackwener/opencli <!-- note: from youtu.be/jyLKRN36-Dc --> <!-- ingested 2026-10-27 -->
 - [x] https://github.com/Nutlope/variate <!-- note: from youtu.be/jyLKRN36-Dc --> <!-- ingested 2026-10-27 -->
 - [x] https://github.com/slavingia/skills <!-- note: from youtu.be/jyLKRN36-Dc --> <!-- ingested 2026-10-27 -->
+- [x] https://trailhq.com/trail-code <!-- ingested 2026-10-27 -->

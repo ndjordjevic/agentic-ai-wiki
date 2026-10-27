@@ -25,10 +25,11 @@ related:
   - happy.engineering
   - using-claude-code-unreasonable-effectiveness-html
   - how-to-master-dynamic-workflows-claude-code-6-patterns-14-steps
+  - trailhq.com
 product: claude-code
 detail_level: standard
 created: 2026-07-01
-updated: 2026-07-08
+updated: 2026-10-27
 updated: 2026-07-07
 ---
 

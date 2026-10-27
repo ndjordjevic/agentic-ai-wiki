@@ -6,6 +6,12 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-27 | ingest | trailhq.com | Trail-code (ex-Graft) — self-learning context layer for coding agents; unified with trailhq/Trail-Code (~10.8k★, MIT, npm 0.26.0)
+
+- Created: wiki/sources/trailhq.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/trailhq-Trail-Code.md
+
 ## 2026-10-27 | ingest | slavingia-skills | Minimalist Entrepreneur Claude Code skills — 10 founder-journey skills from Sahil Lavingia (~11k★)
 
 - Created: wiki/sources/slavingia-skills.md

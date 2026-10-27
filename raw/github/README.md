@@ -216,3 +216,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/jackwener-opencli.md | jackwener/OpenCLI | 30698 | main | v2.0.2 | 2026-10-27 | |
 | raw/github/Nutlope-variate.md | Nutlope/variate | 214 | master | none | 2026-10-27 | |
 | raw/github/slavingia-skills.md | slavingia/skills | 11001 | main | none | 2026-10-27 | |
+| raw/github/trailhq-Trail-Code.md | trailhq/Trail-Code | 10809 | main | none (npm 0.26.0) | 2026-10-27 | |

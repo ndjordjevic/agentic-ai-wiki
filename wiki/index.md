@@ -329,4 +329,5 @@ created: 2026-04-28
 | [[jackwener-opencli]] | github | standard | 2026-10-27 | OpenCLI — website→CLI + logged-in Chrome for agents (~31k★, Apache-2.0) |
 | [[Nutlope-variate]] | github | standard | 2026-10-27 | Variate — four localhost design variants with arrow-key switcher (~214★) |
 | [[slavingia-skills]] | github | standard | 2026-10-27 | Minimalist Entrepreneur Claude Code skills (Sahil Lavingia; ~11k★) |
-_317 sources ingested._
+| [[trailhq.com]] | web | standard | 2026-10-27 | Trail-code (ex-Graft) — local code map + git-synced agent learnings; companion trailhq/Trail-Code |
+_318 sources ingested._

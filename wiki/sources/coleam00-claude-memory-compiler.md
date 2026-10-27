@@ -22,10 +22,11 @@ related:
   - supermemory.ai
   - kepano-obsidian-skills
   - shareai-lab-learn-claude-code
+  - trailhq.com
 product: claude-memory-compiler
 detail_level: standard
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-10-27
 ---
 
 `coleam00/claude-memory-compiler` (1.2k+ stars, Python) turns your own Claude Code conversations into a self-maintaining personal knowledge base — adapted from Andrej Karpathy's LLM Knowledge Base pattern but sourcing raw material from session transcripts instead of clipped web articles. Claude Code hooks capture conversations on session end and before auto-compaction; a background `flush.py` uses the Claude Agent SDK to extract decisions and lessons into daily logs; `compile.py` compiles those logs into cross-referenced `knowledge/` articles; and `session-start.py` injects the index back into every new session. Retrieval is index-guided markdown lookup — no vector DB, no embeddings — at personal scale (50–500 articles).

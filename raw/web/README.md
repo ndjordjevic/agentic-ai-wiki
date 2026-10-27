@@ -159,3 +159,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/rea.tools.md | rea.tools | 11 | 2026-10-15 | |
 | raw/web/vunote.so.md | vunote.so | 16 | 2026-10-17 | |
 | raw/web/seed.bytedance.com.md | seed.bytedance.com | 7 | 2026-10-20 | |
+| raw/web/trailhq.com.md | trailhq.com | 4 | 2026-10-27 | |
