@@ -21,6 +21,7 @@ related:
   - emilkowalski-skills
   - ConardLi-garden-skills
   - codeswithroh-tastemaker
+  - ibelick-ui-skills
 product: designer-skills
 detail_level: standard
 created: 2026-10-27

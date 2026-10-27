@@ -21,6 +21,9 @@ related:
   - MengTo-Skills
   - Owl-Listener-designer-skills
   - Nutlope-variate
+  - img2threejs-img2threejs
+  - ibelick-ui-skills
+  - FloWritesCode-fwc-swiftui-skills
 product: skills
 detail_level: standard
 created: 2026-10-27

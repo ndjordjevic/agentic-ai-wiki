@@ -16,10 +16,11 @@ related:
   - mksglu-context-mode
   - Houseofmvps-codesight
   - teamchong-pxpipe
+  - JayPokale-Chisle
 product: rtk
 detail_level: standard
 created: 2026-07-21
-updated: 2026-07-21
+updated: 2026-10-27
 ---
 
 rtk (Rust Token Killer) is a single-binary Rust CLI proxy that sits between an AI coding agent and everyday dev commands (git, cargo, npm/pnpm, pytest, docker, aws, and 100+ others), filtering and compressing each command's stdout/stderr before it reaches the LLM's context — reporting 60-90% token savings on common operations. Unlike context-management tools that restructure project docs or sandbox MCP tool output, rtk targets raw shell-command noise specifically, via a PreToolUse hook that rewrites Bash calls transparently (`git status` → `rtk git status`) across 15+ supported AI coding tools.

@@ -330,4 +330,11 @@ created: 2026-04-28
 | [[Nutlope-variate]] | github | standard | 2026-10-27 | Variate — four localhost design variants with arrow-key switcher (~214★) |
 | [[slavingia-skills]] | github | standard | 2026-10-27 | Minimalist Entrepreneur Claude Code skills (Sahil Lavingia; ~11k★) |
 | [[trailhq.com]] | web | standard | 2026-10-27 | Trail-code (ex-Graft) — local code map + git-synced agent learnings; companion trailhq/Trail-Code |
-_318 sources ingested._
+| [[img2threejs-img2threejs]] | github | standard | 2026-10-27 | img2threejs — image→procedural Three.js models for agents (~19.5k★, Apache-2.0 v2.0.0) |
+| [[reticlehq-reticle]] | github | standard | 2026-10-27 | Reticle — Jev-style runtime perception; pass/fail/cannot-tell on real apps (~1.3k★, v3.8.2) |
+| [[JayPokale-Chisle]] | github | standard | 2026-10-27 | Chisle — terse prose + YAGNI + tool-output compression for coding agents |
+| [[ibelick-ui-skills]] | github | standard | 2026-10-27 | ui-skills — design-engineer skill registry + MCP (~10k★, MIT) |
+| [[FloWritesCode-fwc-swiftui-skills]] | github | standard | 2026-10-27 | FWC SwiftUI skills — Liquid Glass + iPhone Duo for iOS 26+ (~445★) |
+| [[edonadei-caliper]] | github | standard | 2026-10-27 | Caliper — A/B eval skills/MCPs/rules with real agents + token cost (~223★, v0.21.0) |
+| [[dmmulroy-anti-slop]] | github | standard | 2026-10-27 | anti-slop — opinionated Oxlint rules for low-evidence TS/JS patterns (~5.7k★) |
+_325 sources ingested._

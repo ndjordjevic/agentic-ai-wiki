@@ -6,6 +6,41 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-27 | ingest | dmmulroy-anti-slop | anti-slop — opinionated Oxlint rules for low-evidence TS/JS patterns (~5.7k★)
+
+- Created: wiki/sources/dmmulroy-anti-slop.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-27 | ingest | edonadei-caliper | Caliper — A/B eval skills/MCPs/rules with real agents + token cost (~223★, v0.21.0)
+
+- Created: wiki/sources/edonadei-caliper.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-27 | ingest | FloWritesCode-fwc-swiftui-skills | FWC SwiftUI skills — Liquid Glass + iPhone Duo for iOS 26+ (~445★)
+
+- Created: wiki/sources/FloWritesCode-fwc-swiftui-skills.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-27 | ingest | ibelick-ui-skills | ui-skills — design-engineer skill registry + MCP (~10k★, MIT)
+
+- Created: wiki/sources/ibelick-ui-skills.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-27 | ingest | JayPokale-Chisle | Chisle — terse prose + YAGNI + tool-output compression for coding agents
+
+- Created: wiki/sources/JayPokale-Chisle.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-27 | ingest | reticlehq-reticle | Reticle — Jev-style runtime perception; pass/fail/cannot-tell on real apps (~1.3k★, v3.8.2)
+
+- Created: wiki/sources/reticlehq-reticle.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-27 | ingest | img2threejs-img2threejs | img2threejs — image→procedural Three.js models for agents (~19.5k★, Apache-2.0 v2.0.0)
+
+- Created: wiki/sources/img2threejs-img2threejs.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-10-27 | ingest | trailhq.com | Trail-code (ex-Graft) — self-learning context layer for coding agents; unified with trailhq/Trail-Code (~10.8k★, MIT, npm 0.26.0)
 
 - Created: wiki/sources/trailhq.com.md

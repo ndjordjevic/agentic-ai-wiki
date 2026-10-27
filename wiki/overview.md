@@ -642,3 +642,17 @@ updated: 2026-10-27
 [[slavingia-skills]] packages Sahil Lavingia's *The Minimalist Entrepreneur* as ten Claude Code skills (~11k★) — find community, validate, processize, first customers, pricing, and more — before writing product code. It pairs with founder/operator packs [[coreyhaines31-makerskills]] and [[coreyhaines31-marketingskills]].
 
 [[trailhq.com]] covers Trail-code (formerly Graft; ~10.8k★, MIT) — Trail's open-source self-learning context layer for coding agents: a local tree-sitter graft map plus git-synced `.trail/` learnings, with deep Claude Code hooks and MCP/instruction wiring for Cursor, Codex, and others (unified with github.com/trailhq/Trail-Code). It sits with code-graph / agent-memory tools like [[graphify.net]] and [[coleam00-claude-memory-compiler]]; the enterprise Trail company-brain product on the same domain is adjacent but separate.
+
+[[img2threejs-img2threejs]] is img2threejs (~19.5k★, Apache-2.0, v2.0.0) — rebuild a reference image as a code-only, quality-gated, animation-ready Three.js model (procedural reconstruction, not photogrammetry), aimed at coding agents and live browser demos (img2threejs.io).
+
+[[reticlehq-reticle]] is Reticle (~1.3k★, v3.8.2) — Jev-style machine-native runtime perception that drives a real web/desktop app and returns pass / fail / cannot-tell with file:line fix hints, so agents stop declaring done when the UI isn't. Related to [[typesafe.ai]]'s Jev line and browser automation stacks like [[microsoft-playwright-mcp]].
+
+[[JayPokale-Chisle]] is Chisle — a multi-harness (Claude Code, Pi, Cursor, Codex, Gemini, …) pack that cuts agent token spend via terse prose, YAGNI-first code, and tool-output compression, with published benchmarks. Sits with token-saving proxies like [[rtk-ai-rtk]] and [[teamchong-pxpipe]].
+
+[[ibelick-ui-skills]] is ui-skills (~10k★, MIT) — a design-engineer skill registry with CLI (`npx ui-skills`) and MCP (ui-skills.com/mcp) so agents can discover and pull the right UI/design skills without installing each pack by hand. Complements [[skills.sh]] and packs like [[emilkowalski-skills]].
+
+[[FloWritesCode-fwc-swiftui-skills]] is FloWritesCode's SwiftUI Agent Skills pack (~445★, MIT) for iOS 26+: Liquid Glass APIs and iPhone Duo (foldable) layout/hinge patterns, installable via `npx skills`.
+
+[[edonadei-caliper]] is Caliper (~223★, MIT, v0.21.0, PyPI `caliper-eval`) — runs your real agent with and without skills/MCPs/rules to measure whether they help and what they cost in tokens, across Claude Code, Codex, Pi, and Hermes. Pairs with skill security tooling like [[nvidia-skillspector]].
+
+[[dmmulroy-anti-slop]] is anti-slop (~5.7k★, MIT) — opinionated Oxlint rules that reject low-evidence TypeScript/JavaScript patterns; meant to be vendored into a repo (via an install skill), distinct from design-aesthetic anti-slop packs like [[leonxlnx-taste-skill]].

@@ -60,6 +60,8 @@ related:
   - Leonxlnx-unlazy
   - multica-ai-andrej-karpathy-skills
   - rebelytics-one-skill-to-rule-them-all
+  - JayPokale-Chisle
+  - edonadei-caliper
 product: superpowers
 detail_level: standard
 created: 2026-05-14

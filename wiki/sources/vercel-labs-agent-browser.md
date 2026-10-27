@@ -24,6 +24,7 @@ related:
   - zenbu-labs-terminal-browser
   - composio-community-open-dot
   - jackwener-opencli
+  - reticlehq-reticle
 product: agent-browser
 detail_level: standard
 created: 2026-05-25

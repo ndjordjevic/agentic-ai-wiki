@@ -14,10 +14,11 @@ related:
   - skills.sh
   - davila7-claude-code-templates
   - nvidia.com
+  - edonadei-caliper
 product: skillspector
 detail_level: standard
 created: 2026-07-20
-updated: 2026-07-28
+updated: 2026-10-27
 ---
 
 SkillSpector is NVIDIA's open-source security scanner for AI agent skills, focused on evaluating whether a skill is safe to install before it reaches an agent runtime. It combines static pattern checks, optional LLM semantic analysis, and live supply-chain vulnerability lookups to produce a risk score and an install recommendation (`SAFE`, `CAUTION`, or `DO_NOT_INSTALL`) that can be used in local workflows, CI gates, or MCP-mediated install pipelines.

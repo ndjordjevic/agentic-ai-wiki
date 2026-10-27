@@ -76,6 +76,12 @@ related:
   - rebelytics-one-skill-to-rule-them-all
   - coreyhaines31-marketingskills
   - Nutlope-variate
+  - img2threejs-img2threejs
+  - ibelick-ui-skills
+  - FloWritesCode-fwc-swiftui-skills
+  - edonadei-caliper
+  - dmmulroy-anti-slop
+  - JayPokale-Chisle
 product: skills
 detail_level: standard
 created: 2026-04-30

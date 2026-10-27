@@ -217,3 +217,10 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/Nutlope-variate.md | Nutlope/variate | 214 | master | none | 2026-10-27 | |
 | raw/github/slavingia-skills.md | slavingia/skills | 11001 | main | none | 2026-10-27 | |
 | raw/github/trailhq-Trail-Code.md | trailhq/Trail-Code | 10809 | main | none (npm 0.26.0) | 2026-10-27 | |
+| raw/github/img2threejs-img2threejs.md | img2threejs/img2threejs | 19511 | main | v2.0.0 | 2026-10-27 | |
+| raw/github/reticlehq-reticle.md | reticlehq/reticle | 1275 | main | v3.8.2 | 2026-10-27 | |
+| raw/github/JayPokale-Chisle.md | JayPokale/Chisle | 719 | main | v3.8.1 | 2026-10-27 | |
+| raw/github/ibelick-ui-skills.md | ibelick/ui-skills | 10241 | main | v0.2.3 | 2026-10-27 | |
+| raw/github/FloWritesCode-fwc-swiftui-skills.md | FloWritesCode/fwc-swiftui-skills | 445 | main | none | 2026-10-27 | |
+| raw/github/edonadei-caliper.md | edonadei/caliper | 223 | main | v0.21.0 | 2026-10-27 | |
+| raw/github/dmmulroy-anti-slop.md | dmmulroy/anti-slop | 5709 | main | none | 2026-10-27 | |

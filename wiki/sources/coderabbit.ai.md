@@ -20,10 +20,11 @@ related:
   - openqodex-openqodex
   - sonarsource.com
   - The-PR-Agent-pr-agent
+  - dmmulroy-anti-slop
 product: coderabbit
 detail_level: standard
 created: 2026-08-25
-updated: 2026-10-26
+updated: 2026-10-27
 ---
 
 CodeRabbit is an AI-driven "Agentic Change Management" platform that reviews, triages, explains, and secures pull requests at the volume produced by coding agents. It raised a $143M Series C (at a $1.5B valuation) to build what it calls "the control layer for software change," positioning itself as the independent validation layer that sits between AI-generated code and merge. The platform serves 17,000+ customers across 6M+ repositories and is billed as the most-installed AI app on GitHub and GitLab, with enterprise adopters including NVIDIA, Indeed, Adyen, JFrog, BMW, and Swiggy.

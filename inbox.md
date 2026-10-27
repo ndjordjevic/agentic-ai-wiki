@@ -337,3 +337,10 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/Nutlope/variate <!-- note: from youtu.be/jyLKRN36-Dc --> <!-- ingested 2026-10-27 -->
 - [x] https://github.com/slavingia/skills <!-- note: from youtu.be/jyLKRN36-Dc --> <!-- ingested 2026-10-27 -->
 - [x] https://trailhq.com/trail-code <!-- ingested 2026-10-27 -->
+- [x] https://github.com/img2threejs/img2threejs <!-- note: from youtu.be/Ua0APTMVcb8 --> <!-- ingested 2026-10-27 -->
+- [x] https://github.com/reticlehq/reticle <!-- note: from youtu.be/Ua0APTMVcb8 --> <!-- ingested 2026-10-27 -->
+- [x] https://github.com/JayPokale/Chisle <!-- note: from youtu.be/Ua0APTMVcb8 --> <!-- ingested 2026-10-27 -->
+- [x] https://github.com/ibelick/ui-skills <!-- note: from youtu.be/Ua0APTMVcb8 --> <!-- ingested 2026-10-27 -->
+- [x] https://github.com/FloWritesCode/fwc-swiftui-skills <!-- note: from youtu.be/Ua0APTMVcb8 --> <!-- ingested 2026-10-27 -->
+- [x] https://github.com/edonadei/caliper <!-- note: from youtu.be/Ua0APTMVcb8 --> <!-- ingested 2026-10-27 -->
+- [x] https://github.com/dmmulroy/anti-slop <!-- note: from youtu.be/Ua0APTMVcb8 --> <!-- ingested 2026-10-27 -->

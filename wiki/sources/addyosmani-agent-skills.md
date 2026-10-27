@@ -15,10 +15,11 @@ related:
   - obra-superpowers
   - mattpocock-skills
   - voltagent-awesome-agent-skills
+  - edonadei-caliper
 product: agent-skills
 detail_level: standard
 created: 2026-10-06
-updated: 2026-10-06
+updated: 2026-10-27
 ---
 
 Agent Skills, created by Addy Osmani, is a pack of 25 production-grade engineering skills (24 lifecycle skills plus a `using-agent-skills` meta-skill) that encode the workflows, quality gates, and best practices senior engineers use, organized around the full software development lifecycle — Define, Plan, Build, Verify, Review, Ship.

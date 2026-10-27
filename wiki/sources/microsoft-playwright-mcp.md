@@ -28,6 +28,7 @@ related:
   - integuru.com
   - playwright.dev-agent-cli
   - jackwener-opencli
+  - reticlehq-reticle
 product: playwright-mcp
 detail_level: standard
 created: 2026-05-25

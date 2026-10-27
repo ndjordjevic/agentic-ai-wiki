@@ -64,6 +64,9 @@ related:
   - Owl-Listener-designer-skills
   - rebelytics-one-skill-to-rule-them-all
   - coreyhaines31-marketingskills
+  - ibelick-ui-skills
+  - FloWritesCode-fwc-swiftui-skills
+  - edonadei-caliper
 product: skills
 detail_level: standard
 created: 2026-05-11

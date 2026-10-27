@@ -17,10 +17,11 @@ related:
   - stitch.withgoogle.com
   - davila7-claude-code-templates
   - leonxlnx-taste-skill
+  - img2threejs-img2threejs
 product: scroll-world
 detail_level: standard
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-10-27
 ---
 
 `scroll-world` (1,757 stars, MIT) is an Agent Skill that builds Apple-style scroll-scrubbed "fly through the world" landing pages for any brand or industry: a camera flies from outside each generated scene into its interior, then continues into the next scene with no cuts, driven entirely by scroll position. It's a thin orchestration layer over the Higgsfield generative-media API — the skill contributes the interview flow, prompt templates, seam-matching procedure, and a portable vanilla-JS scrub engine, not a custom rendering or generation model.

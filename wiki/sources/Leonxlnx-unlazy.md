@@ -20,6 +20,7 @@ related:
   - skills.sh
   - coleam00-skills
   - garrytan-gstack
+  - JayPokale-Chisle
 product: unlazy
 detail_level: standard
 created: 2026-10-27

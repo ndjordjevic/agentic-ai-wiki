@@ -16,6 +16,7 @@ related:
   - open-design.ai
   - anthropics-skills
   - Nutlope-variate
+  - dmmulroy-anti-slop
 product: hallmark
 detail_level: standard
 created: 2026-07-28

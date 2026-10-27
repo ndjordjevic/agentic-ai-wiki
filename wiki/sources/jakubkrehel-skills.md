@@ -20,6 +20,7 @@ related:
   - codeswithroh-tastemaker
   - ConardLi-garden-skills
   - MengTo-Skills
+  - ibelick-ui-skills
 product: skills
 detail_level: standard
 created: 2026-10-27

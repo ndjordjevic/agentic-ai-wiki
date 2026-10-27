@@ -26,6 +26,9 @@ related:
   - codeswithroh-tastemaker
   - Owl-Listener-designer-skills
   - Nutlope-variate
+  - img2threejs-img2threejs
+  - ibelick-ui-skills
+  - dmmulroy-anti-slop
 product: taste-skill
 detail_level: standard
 created: 2026-07-14

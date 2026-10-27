@@ -18,6 +18,7 @@ related:
   - browserbase.com
   - producthunt.com
   - jackwener-opencli
+  - reticlehq-reticle
 product: browse
 detail_level: standard
 created: 2026-05-20
