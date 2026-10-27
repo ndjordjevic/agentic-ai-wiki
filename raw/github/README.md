@@ -203,3 +203,10 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/Kevin-Liu-01-Claude-of-Tanks.md | Kevin-Liu-01/Claude-of-Tanks | 489 | main | none | 2026-10-20 | |
 | raw/github/The-PR-Agent-pr-agent.md | The-PR-Agent/pr-agent | 13611 | main | v0.49.0 | 2026-10-26 | |
 | raw/github/Leonxlnx-unlazy.md | Leonxlnx/unlazy | 4140 | main | none | 2026-10-27 | |
+| raw/github/emilkowalski-skills.md | emilkowalski/skills | 50398 | main | none | 2026-10-27 | |
+| raw/github/ConardLi-garden-skills.md | ConardLi/garden-skills | 13323 | main | motion-showreel v0.1.0 | 2026-10-27 | |
+| raw/github/elayadesign-ai-design-skills.md | elayadesign/ai-design-skills | 8362 | main | none | 2026-10-27 | |
+| raw/github/MengTo-Skills.md | MengTo/Skills | 7059 | main | none | 2026-10-27 | |
+| raw/github/jakubkrehel-skills.md | jakubkrehel/skills | 8750 | main | none | 2026-10-27 | |
+| raw/github/codeswithroh-tastemaker.md | codeswithroh/tastemaker | 501 | main | none | 2026-10-27 | |
+| raw/github/Owl-Listener-designer-skills.md | Owl-Listener/designer-skills | 3124 | main | none | 2026-10-27 | |

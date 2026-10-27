@@ -6,6 +6,41 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-27 | ingest | emilkowalski-skills | Emil Kowalski design/animation Agent Skills pack (~50k★, MIT) — emil-design-eng, animate, review, Expo/Swift, anti-slop UI craft
+
+- Created: wiki/sources/emilkowalski-skills.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-27 | ingest | ConardLi-garden-skills | Garden Skills — 6 production Agent Skills (motion-showreel, web-video-presentation, web-design-engineer, gpt-image-2, beautiful-article, kb-retriever; ~13k★, MIT)
+
+- Created: wiki/sources/ConardLi-garden-skills.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-27 | ingest | elayadesign-ai-design-skills | AI Design Skills — landing-page-design + design-to-motion for Claude/Cursor/Codex (~8.4k★, MIT)
+
+- Created: wiki/sources/elayadesign-ai-design-skills.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-27 | ingest | MengTo-Skills | Meng To Agent Skills library — web design, 3D, illustration, game combat/dev, capture→super-prompt workflows (~7k★, MIT)
+
+- Created: wiki/sources/MengTo-Skills.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-27 | ingest | jakubkrehel-skills | Jakub Krehel interface Agent Skills — better-interface/a11y/type/color + Claude plugin interfaces (~8.8k★, MIT)
+
+- Created: wiki/sources/jakubkrehel-skills.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-27 | ingest | codeswithroh-tastemaker | Tastemaker — Claude Code skill with runnable palette/contrast scripts + persistent local taste memory (~501★, MIT)
+
+- Created: wiki/sources/codeswithroh-tastemaker.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-27 | ingest | Owl-Listener-designer-skills | Designer Skills Pack marketplace — 273 skills / 76 commands / 33 plugins across 5 design collections (~3.1k★, MIT)
+
+- Created: wiki/sources/Owl-Listener-designer-skills.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-10-27 | ingest | Leonxlnx-unlazy | Anti-laziness Agent Skill — Depth Tree + runnable gates, scoped dispatch, optional Stop hook (~4.1k★, MIT, source 2.1.0)
 
 - Created: wiki/sources/Leonxlnx-unlazy.md

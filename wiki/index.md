@@ -316,4 +316,11 @@ created: 2026-04-28
 | [[Kevin-Liu-01-Claude-of-Tanks]] | github | standard | 2026-10-20 | Claude of Tanks — Three.js/Vite armored combat sim built end-to-end by a multi-agent Claude/Codex pipeline (~489★, MIT) |
 | [[The-PR-Agent-pr-agent]] | github | standard | 2026-10-26 | |
 | [[Leonxlnx-unlazy]] | github | standard | 2026-10-27 | Anti-laziness Agent Skill — Depth Tree + runnable acceptance gates (`gate-check.mjs`), scoped parallel dispatch, optional Claude Code Stop hook (~4.1k★, MIT, source 2.1.0) |
-_304 sources ingested._
+| [[emilkowalski-skills]] | github | standard | 2026-10-27 | |
+| [[ConardLi-garden-skills]] | github | standard | 2026-10-27 | |
+| [[elayadesign-ai-design-skills]] | github | standard | 2026-10-27 | |
+| [[MengTo-Skills]] | github | standard | 2026-10-27 | |
+| [[jakubkrehel-skills]] | github | standard | 2026-10-27 | |
+| [[codeswithroh-tastemaker]] | github | standard | 2026-10-27 | |
+| [[Owl-Listener-designer-skills]] | github | standard | 2026-10-27 | |
+_311 sources ingested._

@@ -66,6 +66,13 @@ related:
   - smithery.ai
   - tt-a1i-archify
   - Leonxlnx-unlazy
+  - emilkowalski-skills
+  - ConardLi-garden-skills
+  - elayadesign-ai-design-skills
+  - MengTo-Skills
+  - jakubkrehel-skills
+  - codeswithroh-tastemaker
+  - Owl-Listener-designer-skills
 product: skills
 detail_level: standard
 created: 2026-04-30
