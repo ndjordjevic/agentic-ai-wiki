@@ -330,3 +330,9 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/jakubkrehel/skills <!-- note: from youtube.com/watch?v=Ysr7oNDajJI --> <!-- ingested 2026-10-27 -->
 - [x] https://github.com/codeswithroh/tastemaker <!-- note: from youtube.com/watch?v=Ysr7oNDajJI --> <!-- ingested 2026-10-27 -->
 - [x] https://github.com/Owl-Listener/designer-skills <!-- note: from youtube.com/watch?v=Ysr7oNDajJI --> <!-- ingested 2026-10-27 -->
+- [x] https://github.com/rebelytics/one-skill-to-rule-them-all <!-- note: from youtu.be/jyLKRN36-Dc --> <!-- ingested 2026-10-27 -->
+- [x] https://github.com/coreyhaines31/marketingskills <!-- note: from youtu.be/jyLKRN36-Dc --> <!-- ingested 2026-10-27 -->
+- [x] https://github.com/multica-ai/andrej-karpathy-skills <!-- note: from youtu.be/jyLKRN36-Dc --> <!-- ingested 2026-10-27 -->
+- [x] https://github.com/jackwener/opencli <!-- note: from youtu.be/jyLKRN36-Dc --> <!-- ingested 2026-10-27 -->
+- [x] https://github.com/Nutlope/variate <!-- note: from youtu.be/jyLKRN36-Dc --> <!-- ingested 2026-10-27 -->
+- [x] https://github.com/slavingia/skills <!-- note: from youtu.be/jyLKRN36-Dc --> <!-- ingested 2026-10-27 -->

@@ -19,10 +19,13 @@ related:
   - phuryn-pm-skills
   - davila7-claude-code-templates
   - coleam00-cole-medin-knowledge-base
+  - coreyhaines31-marketingskills
+  - rebelytics-one-skill-to-rule-them-all
+  - slavingia-skills
 product: makerskills
 detail_level: standard
 created: 2026-08-20
-updated: 2026-08-20
+updated: 2026-10-27
 ---
 
 makerskills is a Claude Code plugin containing 20 agent skills purpose-built for the **personal operator** — founders, indie builders, and solo decision-makers who run multiple businesses or projects and want agentic AI integrated into their weekly operating cadence. Where most agent skill packs in this wiki target software engineering workflows (CI/CD, PR review, code generation), makerskills targets the craft of operating a business: structured decisions via 37signals' 38-question framework, a simulated board of advisor "council" (Fried, Musk, Bezos, Naval et al.), a Karpathy-style `second-brain` skill over any markdown vault, scenario-based personal and company CFO workflows, domain hunting with multi-tool availability checks, and a trifecta of meta-skills (`skillify`, `toolify`, `loopify`) for extending Claude Code itself. With 669 stars and v1.5.0 tagged in August 2026, it is one of the most comprehensive single-author skill packs in the ecosystem.

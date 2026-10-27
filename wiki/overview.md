@@ -628,3 +628,15 @@ updated: 2026-10-27
 [[codeswithroh-tastemaker]] (Tastemaker, ~501★, MIT) is a Claude Code–first skill that replaces generic AI UI defaults with runnable palette/contrast scripts, reference-pixel extraction, and persistent `.tastemaker/` + `~/.tastemaker/profile.md` memory — a script-enforced cousin of prompt-only packs like [[leonxlnx-taste-skill]].
 
 [[Owl-Listener-designer-skills]] (~3.1k★, MIT) is the Designer Skills Pack marketplace front door — 273 skills and 76 commands across 33 plugins in five collections (this repo hosts the 9-plugin design-practice suite) for Claude Code and Gemini CLI, spanning research through critique rather than only frontend anti-slop.
+
+[[rebelytics-one-skill-to-rule-them-all]] is Task Observer (`task-observer`) — a meta-skill (~3.6k★, CC BY 4.0) that watches coding sessions, logs corrections and gaps, and proposes reviewed improvements to your other Agent Skills (and itself). It installs via [[skills.sh]] and complements skill-authoring packs like [[anthropics-skills]] as a maintenance layer rather than a one-shot skill library.
+
+[[coreyhaines31-marketingskills]] is Corey Haines' marketing Agent Skills pack (~57k★, MIT, v2.13.5) — ~52 skills spanning CRO, copywriting, SEO/AEO, ads, onboarding, paywalls, churn, and growth engineering, with `product-marketing` as the shared foundation. It is the marketing sibling of [[coreyhaines31-makerskills]] and a major [[skills.sh]] listing.
+
+[[multica-ai-andrej-karpathy-skills]] is the Multica-org listing of Karpathy's four coding-agent principles (~225k★) — Think Before Coding, Simplicity First, Surgical Changes, Goal-Driven Execution — the same content family as [[forrestchang-andrej-karpathy-skills]] and the X write-up [[x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes]].
+
+[[jackwener-opencli]] is OpenCLI (~31k★, Apache-2.0, v2.0.2) — turn websites into deterministic CLI commands and drive a logged-in Chrome session via a Browser Bridge extension, with agent skills (`opencli-browser`, adapter-author, autofix). It sits with browser-agent tools like [[vercel-labs-agent-browser]], [[microsoft-playwright-mcp]], and [[browse.sh]].
+
+[[Nutlope-variate]] is Variate (~214★, MIT) — a zero-dependency design skill that writes four real variants of one file and lets you flip them on your own localhost with arrow keys; the pick stays as code. It complements [[Nutlope-hallmark]] and design packs like [[emilkowalski-skills]] and [[leonxlnx-taste-skill]].
+
+[[slavingia-skills]] packages Sahil Lavingia's *The Minimalist Entrepreneur* as ten Claude Code skills (~11k★) — find community, validate, processize, first customers, pricing, and more — before writing product code. It pairs with founder/operator packs [[coreyhaines31-makerskills]] and [[coreyhaines31-marketingskills]].

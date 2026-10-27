@@ -3,7 +3,7 @@ type: source
 category: "Browser & web automation"
 source_url: https://github.com/Tencent/BrowserSkill
 tags: [browser-automation, agent-skill, logged-in-browser, shell-cli, human-in-the-loop, chromium-extension, tab-borrowing, deepseek-harness-plugin]
-related: [browserbase.com, browser-use.com, playwright.dev-agent-cli, microsoft-playwright-mcp, zenbu-labs-terminal-browser, tapkit.ai]
+related: [browserbase.com, browser-use.com, playwright.dev-agent-cli, microsoft-playwright-mcp, zenbu-labs-terminal-browser, tapkit.ai, jackwener-opencli]
 product: browserskill
 detail_level: standard
 created: 2026-09-18

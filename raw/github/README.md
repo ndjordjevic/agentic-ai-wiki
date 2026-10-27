@@ -210,3 +210,9 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/jakubkrehel-skills.md | jakubkrehel/skills | 8750 | main | none | 2026-10-27 | |
 | raw/github/codeswithroh-tastemaker.md | codeswithroh/tastemaker | 501 | main | none | 2026-10-27 | |
 | raw/github/Owl-Listener-designer-skills.md | Owl-Listener/designer-skills | 3124 | main | none | 2026-10-27 | |
+| raw/github/rebelytics-one-skill-to-rule-them-all.md | rebelytics/one-skill-to-rule-them-all | 3584 | main | v3.8.0 | 2026-10-27 | |
+| raw/github/coreyhaines31-marketingskills.md | coreyhaines31/marketingskills | 56785 | main | v2.13.5 | 2026-10-27 | |
+| raw/github/multica-ai-andrej-karpathy-skills.md | multica-ai/andrej-karpathy-skills | 225112 | main | none | 2026-10-27 | |
+| raw/github/jackwener-opencli.md | jackwener/OpenCLI | 30698 | main | v2.0.2 | 2026-10-27 | |
+| raw/github/Nutlope-variate.md | Nutlope/variate | 214 | master | none | 2026-10-27 | |
+| raw/github/slavingia-skills.md | slavingia/skills | 11001 | main | none | 2026-10-27 | |

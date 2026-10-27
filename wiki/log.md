@@ -6,6 +6,36 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-27 | ingest | slavingia-skills | Minimalist Entrepreneur Claude Code skills — 10 founder-journey skills from Sahil Lavingia (~11k★)
+
+- Created: wiki/sources/slavingia-skills.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-27 | ingest | Nutlope-variate | Variate — four localhost design variants with arrow-key switcher for Claude/Codex/opencode (~214★, MIT)
+
+- Created: wiki/sources/Nutlope-variate.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-27 | ingest | jackwener-opencli | OpenCLI — website→CLI + logged-in Chrome Browser Bridge for AI agents (~31k★, Apache-2.0 v2.0.2)
+
+- Created: wiki/sources/jackwener-opencli.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-27 | ingest | multica-ai-andrej-karpathy-skills | Multica listing of Karpathy four-principles CLAUDE.md (~225k★); same family as forrestchang-andrej-karpathy-skills
+
+- Created: wiki/sources/multica-ai-andrej-karpathy-skills.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-27 | ingest | coreyhaines31-marketingskills | Corey Haines marketing Agent Skills — CRO/copy/SEO/growth (~57k★, MIT v2.13.5)
+
+- Created: wiki/sources/coreyhaines31-marketingskills.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-27 | ingest | rebelytics-one-skill-to-rule-them-all | Task Observer meta-skill — session observations → reviewed skill improvements (~3.6k★, CC BY 4.0, v3.8.0)
+
+- Created: wiki/sources/rebelytics-one-skill-to-rule-them-all.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-10-27 | ingest | emilkowalski-skills | Emil Kowalski design/animation Agent Skills pack (~50k★, MIT) — emil-design-eng, animate, review, Expo/Swift, anti-slop UI craft
 
 - Created: wiki/sources/emilkowalski-skills.md

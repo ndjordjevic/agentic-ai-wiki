@@ -73,6 +73,9 @@ related:
   - jakubkrehel-skills
   - codeswithroh-tastemaker
   - Owl-Listener-designer-skills
+  - rebelytics-one-skill-to-rule-them-all
+  - coreyhaines31-marketingskills
+  - Nutlope-variate
 product: skills
 detail_level: standard
 created: 2026-04-30

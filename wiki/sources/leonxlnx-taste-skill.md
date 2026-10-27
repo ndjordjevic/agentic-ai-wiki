@@ -25,6 +25,7 @@ related:
   - jakubkrehel-skills
   - codeswithroh-tastemaker
   - Owl-Listener-designer-skills
+  - Nutlope-variate
 product: taste-skill
 detail_level: standard
 created: 2026-07-14

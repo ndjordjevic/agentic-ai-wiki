@@ -62,6 +62,8 @@ related:
   - coleam00-ai-native-starter-pack
   - tt-a1i-archify
   - Owl-Listener-designer-skills
+  - rebelytics-one-skill-to-rule-them-all
+  - coreyhaines31-marketingskills
 product: skills
 detail_level: standard
 created: 2026-05-11

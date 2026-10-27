@@ -323,4 +323,10 @@ created: 2026-04-28
 | [[jakubkrehel-skills]] | github | standard | 2026-10-27 | |
 | [[codeswithroh-tastemaker]] | github | standard | 2026-10-27 | |
 | [[Owl-Listener-designer-skills]] | github | standard | 2026-10-27 | |
-_311 sources ingested._
+| [[rebelytics-one-skill-to-rule-them-all]] | github | standard | 2026-10-27 | task-observer meta-skill — watches sessions, proposes skill improvements |
+| [[coreyhaines31-marketingskills]] | github | standard | 2026-10-27 | Corey Haines marketing Agent Skills (CRO, copy, SEO, growth; ~57k★) |
+| [[multica-ai-andrej-karpathy-skills]] | github | standard | 2026-10-27 | Multica mirror of Karpathy four-principles CLAUDE.md (~225k★) |
+| [[jackwener-opencli]] | github | standard | 2026-10-27 | OpenCLI — website→CLI + logged-in Chrome for agents (~31k★, Apache-2.0) |
+| [[Nutlope-variate]] | github | standard | 2026-10-27 | Variate — four localhost design variants with arrow-key switcher (~214★) |
+| [[slavingia-skills]] | github | standard | 2026-10-27 | Minimalist Entrepreneur Claude Code skills (Sahil Lavingia; ~11k★) |
+_317 sources ingested._

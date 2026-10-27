@@ -17,10 +17,11 @@ related:
   - browserbase.com
   - vercel-labs-agent-browser
   - Tencent-BrowserSkill
+  - jackwener-opencli
 product: playwright-cli
 detail_level: standard
 created: 2026-07-14
-updated: 2026-09-18
+updated: 2026-10-27
 ---
 
 Playwright CLI is Microsoft's shell-first alternative to [[microsoft-playwright-mcp|Playwright MCP]] for coding agents: instead of an LLM calling structured MCP tools with schemas and snapshots loaded into context, the agent runs `playwright-cli` shell commands directly, gets back a concise text page-state summary, and picks up an accessibility-tree snapshot file for the next command. Both share the same underlying Playwright automation primitives (organized into the same capability groups), so this is a distribution/interface choice — command-line for large-codebase coding agents versus structured tool calls for exploratory agentic loops — not a competing automation engine.
