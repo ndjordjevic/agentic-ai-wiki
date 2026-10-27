@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-27 | ingest | Leonxlnx-unlazy | Anti-laziness Agent Skill — Depth Tree + runnable gates, scoped dispatch, optional Stop hook (~4.1k★, MIT, source 2.1.0)
+
+- Created: wiki/sources/Leonxlnx-unlazy.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md, wiki/sources/obra-superpowers.md, wiki/sources/gsd-build-get-shit-done.md, wiki/sources/snarktank-ralph.md, wiki/sources/frankbria-ralph-claude-code.md, wiki/sources/Chachamaru127-claude-code-harness.md, wiki/sources/skills.sh.md, wiki/sources/coleam00-skills.md, wiki/sources/garrytan-gstack.md (related)
+
 ## 2026-10-26 | ingest | The-PR-Agent-pr-agent | Open-source multi-forge AI PR reviewer (describe/review/improve/ask; MIT, v0.49.0, ~13.6k★)
 
 - Created: wiki/sources/The-PR-Agent-pr-agent.md

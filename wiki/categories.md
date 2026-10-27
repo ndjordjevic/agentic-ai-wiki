@@ -15,7 +15,7 @@ updated: 2026-10-26
 ## Categories
 
 - [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (0/30 studied)
-- [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (3/42 studied)
+- [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (3/43 studied)
 - [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (0/19 studied)
 - [[#MCP servers & integrations|MCP servers & integrations]] (0/19 studied)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (0/16 studied)
@@ -92,6 +92,7 @@ updated: 2026-10-26
 - [ ] [[how-claude-code-works-in-large-codebases]] — is Anthropic's official "Claude Code at scale" guidance for enterprise deployments across multi-million-line monorepos, legacy systems, and distributed multi-repo architectures.
 - [ ] [[how-to-master-dynamic-workflows-claude-code-6-patterns-14-steps]] — is an X article by @0xCodez (June 2026) distilling Claude Code Dynamic Workflows — the May 28, 2026 feature where Claude writes bespoke JavaScript harnesses to orchestrate subagents — into six comp…
 - [ ] [[karpathy-autoresearch]] — is Andrej Karpathy's minimal harness for unattended overnight ML research: a coding agent edits exactly one file (`train.py`, a single-GPU simplified nanochat implementation), trains for a fixed 5-…
+- [ ] [[Leonxlnx-unlazy]] — is unlazy (~4.1k★, MIT, JavaScript, source targeting 2.1.0), an anti-laziness Agent Skill that enforces completion discipline via acceptance gates, Depth Tree decomposition, zero-dependency `gate-check.mjs`, scoped parallel dispatch, and an optional Claude Code Stop hook.
 - [x] [[mattpocock-skills]] — is Matt Pocock's opinionated engineering skills collection (126,065 stars, MIT), distributed via [[skills.sh]] under `mattpocock/skills` and built around four diagnosed failure modes of AI-assisted…
 - [x] [[michael-denyer-pstack-claude]] — carries that same `/poteto-mode` skill tree to runtimes other than Cursor: Claude Code, Codex, OpenCode, Gemini CLI, and Prime Agent.
 - [ ] [[obra-superpowers]] — is a complete software development methodology for AI coding agents built on 14 auto-triggering composable SKILL.md skills (190,063 stars, MIT, v5.1.0). Its distinguishing characteristic is the `us…

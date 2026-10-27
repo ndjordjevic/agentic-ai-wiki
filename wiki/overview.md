@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-10-26
+updated: 2026-10-27
 ---
 
 [[paperclip.ing]] introduces Paperclip, an open-source control plane for running autonomous AI-agent companies. It sits above agent runtimes like Claude Code, Codex, Cursor, OpenClaw, bash agents, and HTTP bots and provides the organizational layer those runtimes lack: an org chart with hierarchical reporting, a heartbeat execution loop that wakes agents on schedule, an atomic ticket system with checkout locks, per-agent budget enforcement with hard stops, board-level governance and approval gates, and complete multi-company data isolation in a single Node.js + React deployment. The source also shows how Paperclip packages this operating model into both a public product site and a companion GitHub repo with a built-in heartbeat skill, plugin system, portability features, and an actively maintained roadmap.
@@ -612,3 +612,5 @@ updated: 2026-10-26
 [[Kevin-Liu-01-Claude-of-Tanks]] is Claude of Tanks (~489★, MIT), a World of Tanks-style browser combat simulator (Three.js/Vite: 220 vehicles, 33 maps, 13 modes) presented as a case study of a product built end-to-end by a multi-agent Claude/Codex pipeline. It illustrates multi-agent production outcomes alongside methodology references like [[software-factory-claude-code]] and [[coleam00-harness-engineering-demo]].
 
 [[The-PR-Agent-pr-agent]] is PR-Agent, the original open-source AI pull-request reviewer (13,611 stars, MIT, Python, v0.49.0). Qodo donated it to the community; commands such as `/describe`, `/review`, `/improve`, and `/ask` run as a PR comment, a CLI, a GitHub Action, or a self-hosted webhook on GitHub, GitLab, Bitbucket, Azure DevOps, and Gitea. Large diffs are packed with a token-aware compression strategy, dynamic enclosing-function context, and a self-reflection pass that re-scores code suggestions. Model calls go through LiteLLM, and optional host-level `SKILL.md` libraries can be injected into the review prompts. It is the self-hosted multi-forge option next to [[coderabbit.ai]], [[greptile.com]], [[agent-field-pr-af]], and [[openqodex-openqodex]].
+
+[[Leonxlnx-unlazy]] is unlazy (~4.1k★, MIT, JavaScript, source targeting 2.1.0 without a tagged release), an anti-laziness Agent Skill that forces completion discipline: write acceptance gates first, run approved `CHECK:`/`EXPECT:` oracles through zero-dependency `gate-check.mjs`, reverify returned work, and report only what evidence supports. The Depth Tree decomposes multi-part tasks into owned leaves with integration gates; scoped pipelines under `.unlazy/<scope>/` add ownership leases, rolling native-agent dispatch waves, and an optional Claude Code Stop hook. It sits with methodology harnesses like [[obra-superpowers]], [[gsd-build-get-shit-done]], and iterative completion loops such as [[snarktank-ralph]], and installs via [[skills.sh]].

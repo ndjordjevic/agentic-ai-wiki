@@ -315,4 +315,5 @@ created: 2026-04-28
 | [[tt-a1i-archify]] | github | standard | 2026-10-20 | Archify — agent skill turning ideas/plans/codebases into interactive HTML diagrams for Claude Code/Codex/Cursor/OpenCode (~86k★, MIT v3.2.0) |
 | [[Kevin-Liu-01-Claude-of-Tanks]] | github | standard | 2026-10-20 | Claude of Tanks — Three.js/Vite armored combat sim built end-to-end by a multi-agent Claude/Codex pipeline (~489★, MIT) |
 | [[The-PR-Agent-pr-agent]] | github | standard | 2026-10-26 | |
-_303 sources ingested._
+| [[Leonxlnx-unlazy]] | github | standard | 2026-10-27 | Anti-laziness Agent Skill — Depth Tree + runnable acceptance gates (`gate-check.mjs`), scoped parallel dispatch, optional Claude Code Stop hook (~4.1k★, MIT, source 2.1.0) |
+_304 sources ingested._

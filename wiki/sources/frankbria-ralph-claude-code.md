@@ -23,10 +23,11 @@ related:
   - Chachamaru127-claude-code-harness
   - karpathy-autoresearch
   - chaseai-yt-claudex-loop
+  - Leonxlnx-unlazy
 product: ralph-claude-code
 detail_level: standard
 created: 2026-06-18
-updated: 2026-10-20
+updated: 2026-10-27
 ---
 
 Ralph for Claude Code (9,380 stars, MIT, Shell) is a battle-tested autonomous development loop built specifically for the Claude Code CLI. Inspired by Geoffrey Huntley's Ralph pattern, this implementation by frankbria extends the concept well beyond a simple loop: it adds a dual-condition exit gate requiring both heuristic completion indicators and Claude's explicit EXIT_SIGNAL, a configurable circuit breaker with auto-recovery, session continuity across iterations, Docker and E2B cloud sandbox execution, GitHub issue lifecycle management, batch queue processing, and 784 BATS tests at 100% pass rate. It installs globally as a system-wide `ralph` command and can be enabled in any existing project via an interactive wizard.

@@ -202,3 +202,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/tt-a1i-archify.md | tt-a1i/archify | 85989 | main | v3.2.0 | 2026-10-20 | |
 | raw/github/Kevin-Liu-01-Claude-of-Tanks.md | Kevin-Liu-01/Claude-of-Tanks | 489 | main | none | 2026-10-20 | |
 | raw/github/The-PR-Agent-pr-agent.md | The-PR-Agent/pr-agent | 13611 | main | v0.49.0 | 2026-10-26 | |
+| raw/github/Leonxlnx-unlazy.md | Leonxlnx/unlazy | 4140 | main | none | 2026-10-27 | |

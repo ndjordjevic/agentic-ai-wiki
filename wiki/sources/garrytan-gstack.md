@@ -22,10 +22,11 @@ related:
   - everyinc-compound-engineering-plugin
   - ngrok.com
   - garrytan-gbrain
+  - Leonxlnx-unlazy
 product: gstack
 detail_level: standard
 created: 2026-05-25
-updated: 2026-06-18
+updated: 2026-10-27
 ---
 
 gstack is Garry Tan's (CEO of Y Combinator) open-source software factory — a 101,913-star MIT-licensed collection of 50+ opinionated Claude Code skills that transforms a single developer with AI into a virtual engineering team. Where other skill packs provide isolated utilities, gstack builds a complete sprint pipeline: Think → Plan → Build → Review → Test → Ship → Reflect. Each step feeds into the next; design docs written by `/office-hours` flow into `/plan-ceo-review`, test plans from `/plan-eng-review` are picked up by `/qa`, and bugs found by `/review` are re-verified by `/ship`. The result is a structured workflow, not a bag of prompts.
