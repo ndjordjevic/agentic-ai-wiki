@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-28 | ingest | AienTech-dossier | Dossier — self-hosted job search + Claude MCP (~2.7k★, AGPL)
+
+- Created: wiki/sources/AienTech-dossier.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-10-28 | lint | fix Check #4 wikilinks + clear Check #5 stale
 
 - Updated: wiki/sources/* (Check #4 bare mentions → [[wikilinks]]; orphan related bullets restored to frontmatter; bidirectional related sync; Check #5 `updated:` refreshed after URL verification), wiki/overview.md, wiki/log.md, inbox.md

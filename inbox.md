@@ -17,6 +17,7 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
+
 ## Completed
 
 <!-- Processed lines are moved here automatically.
@@ -366,3 +367,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/ParthJadhav/app-store-screenshots <!-- ingested 2026-10-28 -->
 - [x] https://github.com/latent-spaces/brag <!-- ingested 2026-10-28 -->
 - [x] https://github.com/google/elephant-goldfish-model <!-- ingested 2026-10-28 -->
+- [x] https://github.com/AienTech/dossier <!-- ingested 2026-10-28 -->

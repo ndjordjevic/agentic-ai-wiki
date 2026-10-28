@@ -360,4 +360,5 @@ created: 2026-04-28
 | [[ParthJadhav-app-store-screenshots]] | github | standard | 2026-10-28 | App Store Screenshots — agent skill + Next.js store asset editor (~7.7k★) |
 | [[latent-spaces-brag]] | github | standard | 2026-10-28 | /brag — launch video agent skill + brag-slim (~19.2k★) |
 | [[google-elephant-goldfish-model]] | github | standard | 2026-10-28 | EGM — Elephant/Goldfish SDD skills plugin (~3.9k★) |
+| [[AienTech-dossier]] | github | standard | 2026-10-28 | Dossier — self-hosted job search + Claude MCP (~2.7k★, AGPL) |
 _349 sources ingested._

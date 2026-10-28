@@ -243,3 +243,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/ParthJadhav-app-store-screenshots.md | ParthJadhav/app-store-screenshots | 7670 | main | n/a | 2026-10-28 | |
 | raw/github/latent-spaces-brag.md | latent-spaces/brag | 19163 | main | brag | 2026-10-28 | |
 | raw/github/google-elephant-goldfish-model.md | google/elephant-goldfish-model | 3880 | main | v0.1.0 | 2026-10-28 | |
+| raw/github/AienTech-dossier.md | AienTech/dossier | 2671 | main | v1.9.2 | 2026-10-28 | |

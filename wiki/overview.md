@@ -689,6 +689,8 @@ updated: 2026-10-28
 
 [[INSANE0777-Awwwards-mcp]] is awwwards-mcp (~362★, MIT) — an MCP server that feeds coding agents Awwwards-style design references (screenshots, design DNA, motion capture) and can recreate/verify pages from any URL, pairing with responsive-check tools like [[responsively-org-responsively-app]].
 
+[[responsively-org-responsively-app]] is Responsively App (~25.5k★, AGPL) — a multi-device responsive browser/devtool with a built-in MCP server (`@responsively/mcp`) so coding agents can load local sites, switch device previews, and verify layouts with per-device screenshots.
+
 [[AThevon-genjutsu]] is genjutsu (~695★) — Claude cast/paint/bunshin skills for motion and anti-slop UI, proposing an interaction thesis before code, alongside taste packs like [[leonxlnx-taste-skill]].
 
 [[dembrandt-dembrandt]] is Dembrandt (~3.9k★, MIT) — CLI/MCP that extracts W3C design tokens from a live site and gates visual drift in CI; complements DESIGN.md tooling like [[designmd.cc]].
@@ -700,3 +702,5 @@ updated: 2026-10-28
 [[latent-spaces-brag]] is `/brag` (~19.2k★, MIT) — an agent skill that turns a finished project into a ~20s launch video (Hyperframes full mode or Opus-oriented `/brag-slim`), with letsbrag.app as a hosted option.
 
 [[google-elephant-goldfish-model]] is Google's Elephant-Goldfish Model (EGM, ~3.9k★, Apache-2.0) — a multi-harness Agent Skills plugin for Spec-Driven Development: deep-context Elephant drafting plus zero-context Goldfish subagent review before code, alongside SDD toolkits like [[github-spec-kit]] and [[openspec.dev]].
+
+[[AienTech-dossier]] is Dossier (~2.7k★, AGPL-3.0, Next.js/Prisma, v1.9.2) — a self-hosted single-user job-search app that fact-guards tailored resumes/cover letters from your profile, with an optional daily job agent and Claude remote MCP connector. Privacy-first alternative to hosted auto-apply tools like [[go.aiapply.co]]; adjacent to OSS job-hunt automation in [[santifer-career-ops]].
