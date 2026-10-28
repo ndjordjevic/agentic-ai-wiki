@@ -64,6 +64,7 @@ related:
   - edonadei-caliper
   - coldteadotai-abide
   - valentynkit-jev-belay
+  - claudemod.com
 product: superpowers
 detail_level: standard
 created: 2026-05-14

@@ -350,4 +350,5 @@ created: 2026-04-28
 | [[kunchenguid-compact-adviser]] | github | standard | 2026-10-28 | compact-adviser — Jev hints when /compact is safe (~224★, v0.1.14) |
 | [[UditAkhourii-quicksilver]] | github | standard | 2026-10-28 | Quicksilver — Jev bulk judgment / file shortlist skill (~131★) |
 | [[AgriciDaniel-jev-seo]] | github | standard | 2026-10-28 | jev-seo — live SEO audit via Jev, PDF/XLSX/MD (~720★) |
-_338 sources ingested._
+| [[claudemod.com]] | web | standard | 2026-10-28 | community hub for Claude Code mods, skills, MCP, hooks (~172 listings) |
+_340 sources ingested._

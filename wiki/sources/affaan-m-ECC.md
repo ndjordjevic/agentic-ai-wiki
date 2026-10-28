@@ -3,11 +3,11 @@ type: source
 category: "Coding-agent harnesses & methodologies"
 source_url: https://github.com/affaan-m/ECC
 tags: [claude-code-plugin, multi-harness-adapter, agent-catalog, tdd-enforcement, agent-skills, instinct-based-learning, memory-vault, agentshield-security-scanner]
-related: [Yeachan-Heo-oh-my-claudecode, obra-superpowers, davila7-claude-code-templates, deepseek-ai-deepseek-harness, Chachamaru127-claude-code-harness]
+related: [Yeachan-Heo-oh-my-claudecode, obra-superpowers, davila7-claude-code-templates, deepseek-ai-deepseek-harness, Chachamaru127-claude-code-harness, claudemod.com]
 product: ecc
 detail_level: standard
 created: 2026-09-19
-updated: 2026-09-19
+updated: 2026-10-28
 ---
 
 ECC ("Everything Claude Code") is a large, actively-shipped Claude Code plugin — 68 subagents, 292 skills, 94 legacy command shims, hooks, rules, and a cross-harness memory system — packaged as a coordinated "plan → test → implement → review → verify → remember → improve" engineering process rather than a loose grab-bag of prompts. It matters to this wiki as one of the most fully-built examples of an installable, opinionated coding-agent operating layer: it is primary/stable on Claude Code, has a native Codex plugin path, and ships capability-limited adapters for Cursor, OpenCode, Gemini, Zed, GitHub Copilot, Antigravity, Qwen, Kimi Code, Hermes, OpenClaw, CodeBuddy, and JoyCode — with an explicit support-status matrix rather than a claim of full parity across harnesses.

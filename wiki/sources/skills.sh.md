@@ -82,6 +82,7 @@ related:
   - edonadei-caliper
   - dmmulroy-anti-slop
   - JayPokale-Chisle
+  - claudemod.com
 product: skills
 detail_level: standard
 created: 2026-04-30

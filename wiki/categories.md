@@ -16,7 +16,7 @@ updated: 2026-10-28
 
 - [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (0/30 studied)
 - [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (3/49 studied)
-- [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (0/22 studied)
+- [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (0/23 studied)
 - [[#MCP servers & integrations|MCP servers & integrations]] (0/19 studied)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (0/16 studied)
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (0/29 studied)
@@ -122,6 +122,7 @@ updated: 2026-10-28
 - [ ] [[aaravkashyap12-advise-project-approach]] — is an evidence-driven agent skill that enforces a grounded methodology for project decisions before teams commit to stacks, architectures, vendors, or refactors — rather than handing back generic "…
 - [ ] [[anthropics-skills]] — is Anthropic's official reference repository for the Agent Skills pattern — 17 SKILL.md-based capability modules for Claude spanning document processing (xlsx, docx, pptx, pdf), creative design, MC…
 - [ ] [[claudemarketplaces.com]] — documents Cross AI Tools (claudemarketplaces.com → crossaitools.com), an independent editor-curated directory of Claude Code skills (21,600+), plugin marketplaces (2,500+), and MCP servers (12,500+…
+- [ ] [[claudemod.com]] — is ClaudeMod, a community-maintained directory (~172 listings) for Claude Code in-process mods/plugins, skills, MCP servers, hooks, and harnesses with category browse and GitHub-linked detail pages.
 - [ ] [[coreyhaines31-makerskills]] — is a 20-skill Claude Code plugin targeting the **personal operator** — founders and indie builders who want agentic AI woven into their weekly operating cadence rather than their code review pipeline.
 - [ ] [[coreyhaines31-marketingskills]] — is Corey Haines' marketing Agent Skills pack (~57k★, MIT, v2.13.5) — ~52 skills spanning CRO, copywriting, SEO/AEO, ads, onboarding, paywalls, churn, and growth engineering, with `product-marketing…
 - [ ] [[cursor-plugins]] — is the official Cursor plugin marketplace repo: a two-level manifest spec (`marketplace.json` + per-plugin `plugin.json`) bundling 13 plugins and 75 agent skills for CI, code review, PR workflows,…

@@ -682,3 +682,5 @@ updated: 2026-10-28
 [[UditAkhourii-quicksilver]] is Quicksilver (~131★, MIT) — a Claude Code skill that offloads bulk judgment (file shortlists, log triage, classify/rank) to Jev for large token savings. Related retrieval/judgment tools: [[dzhng-jevgrep]] and [[typesafe.ai]].
 
 [[AgriciDaniel-jev-seo]] is jev-seo (~720★, MIT) — live SEO audit from one homepage URL (crawl + 52 rules + Jev + optional DataForSEO), exporting PDF, Excel, and Markdown. Uses [[typesafe.ai]] Jev for page judgments; adjacent to browser tooling like [[Ying-Kai-Liao-jev-browser]].
+
+[[claudemod.com]] is ClaudeMod — a community-maintained directory (~172 listings) for Claude Code in-process mods/plugins, skills, MCP servers, hooks, and harnesses, with category browse and GitHub-linked detail pages. Smaller and more mod-pane–centric than [[claudemarketplaces.com]]; complements [[skills.sh]] for skill discovery.

@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-28 | ingest | claudemod.com | ClaudeMod — community directory for Claude Code mods, skills, MCP & hooks (~172)
+
+- Created: wiki/sources/claudemod.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-10-28 | ingest | AgriciDaniel-jev-seo | jev-seo — live SEO audit via Jev with PDF/XLSX/MD reports (~720★)
 
 - Created: wiki/sources/AgriciDaniel-jev-seo.md
