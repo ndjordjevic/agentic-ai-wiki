@@ -226,3 +226,11 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/dmmulroy-anti-slop.md | dmmulroy/anti-slop | 5709 | main | none | 2026-10-27 | |
 | raw/github/Nutlope-inspo.md | Nutlope/inspo | 941 | main | none | 2026-10-28 | |
 | raw/github/Einsia-agent-git.md | Einsia/agent-git | 414 | main | agit-v0.2.28 | 2026-10-28 | |
+| raw/github/RiskAverseTech-toolgate.md | RiskAverseTech/toolgate | 28 | main | v0.7.0 | 2026-10-28 | |
+| raw/github/coldteadotai-abide.md | coldteadotai/abide | 613 | master | none | 2026-10-28 | |
+| raw/github/Ying-Kai-Liao-jev-browser.md | Ying-Kai-Liao/jev-browser | 126 | main | v0.2.1 | 2026-10-28 | |
+| raw/github/valentynkit-jev-belay.md | valentynkit/jev-belay | 41 | main | v0.2.0 | 2026-10-28 | |
+| raw/github/Larkspur-Wang-Jev_steer_or_queue.md | Larkspur-Wang/Jev_steer_or_queue | 17 | main | none | 2026-10-28 | |
+| raw/github/kunchenguid-compact-adviser.md | kunchenguid/compact-adviser | 224 | main | compact-adviser-v0.1.14 | 2026-10-28 | |
+| raw/github/UditAkhourii-quicksilver.md | UditAkhourii/quicksilver | 131 | main | none | 2026-10-28 | |
+| raw/github/AgriciDaniel-jev-seo.md | AgriciDaniel/jev-seo | 720 | main | none | 2026-10-28 | |

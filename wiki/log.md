@@ -6,6 +6,47 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-28 | ingest | AgriciDaniel-jev-seo | jev-seo — live SEO audit via Jev with PDF/XLSX/MD reports (~720★)
+
+- Created: wiki/sources/AgriciDaniel-jev-seo.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-28 | ingest | UditAkhourii-quicksilver | Quicksilver — Jev bulk judgment / file shortlist skill (~131★)
+
+- Created: wiki/sources/UditAkhourii-quicksilver.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-28 | ingest | kunchenguid-compact-adviser | compact-adviser — Jev hints when /compact is safe (~224★, v0.1.14)
+
+- Created: wiki/sources/kunchenguid-compact-adviser.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-28 | ingest | Larkspur-Wang-Jev_steer_or_queue | jev-steer-or-queue — mid-turn steer/queue/interrupt via Jev (~17★)
+
+- Created: wiki/sources/Larkspur-Wang-Jev_steer_or_queue.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-28 | ingest | valentynkit-jev-belay | jev-belay — Stop hook blocks unverified done via Jev (~41★, v0.2.0)
+
+- Created: wiki/sources/valentynkit-jev-belay.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-28 | ingest | Ying-Kai-Liao-jev-browser | jev-browser — LLM plans, Jev decides browser actions (~126★, v0.2.1)
+
+- Created: wiki/sources/Ying-Kai-Liao-jev-browser.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-28 | ingest | coldteadotai-abide | Abide — Jev rubric enforces project rules on every edit (~613★)
+
+- Created: wiki/sources/coldteadotai-abide.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-28 | ingest | RiskAverseTech-toolgate | toolgate — Jev tool-call firewall for agents (~28★, v0.7.0)
+
+- Created: wiki/sources/RiskAverseTech-toolgate.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+
 ## 2026-10-28 | ingest | aura.build | AI landing-page builder — Design Mode, HTML/Figma export, DESIGN.md, CMS
 
 - Created: wiki/sources/aura.build.md

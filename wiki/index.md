@@ -342,4 +342,12 @@ created: 2026-04-28
 | [[Einsia-agent-git]] | github | standard | 2026-10-28 | agit — lossless version control for agent sessions (~414★, v0.2.28) |
 | [[usehallmark.com]] | web | standard | 2026-10-28 | companion: Nutlope/hallmark — design skill product site (50 themes, sloplint) |
 | [[aura.build]] | web | standard | 2026-10-28 | AI landing-page builder — Design Mode, HTML/Figma export, DESIGN.md, CMS |
-_330 sources ingested._
+| [[RiskAverseTech-toolgate]] | github | standard | 2026-10-28 | toolgate — Jev tool-call firewall (~28★, v0.7.0) |
+| [[coldteadotai-abide]] | github | standard | 2026-10-28 | Abide — Jev rubric enforcement for AGENTS.md/CLAUDE.md (~613★) |
+| [[Ying-Kai-Liao-jev-browser]] | github | standard | 2026-10-28 | jev-browser — LLM plans, Jev decides; Playwright/MCP (~126★, v0.2.1) |
+| [[valentynkit-jev-belay]] | github | standard | 2026-10-28 | jev-belay — Stop hook blocks unverified done via Jev (~41★, v0.2.0) |
+| [[Larkspur-Wang-Jev_steer_or_queue]] | github | standard | 2026-10-28 | jev-steer-or-queue — mid-turn steer/queue/interrupt via Jev (~17★) |
+| [[kunchenguid-compact-adviser]] | github | standard | 2026-10-28 | compact-adviser — Jev hints when /compact is safe (~224★, v0.1.14) |
+| [[UditAkhourii-quicksilver]] | github | standard | 2026-10-28 | Quicksilver — Jev bulk judgment / file shortlist skill (~131★) |
+| [[AgriciDaniel-jev-seo]] | github | standard | 2026-10-28 | jev-seo — live SEO audit via Jev, PDF/XLSX/MD (~720★) |
+_338 sources ingested._

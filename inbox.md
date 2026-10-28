@@ -349,3 +349,11 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/Einsia/agent-git <!-- ingested 2026-10-28 -->
 - [x] https://www.usehallmark.com/ <!-- ingested 2026-10-28 -->
 - [x] https://www.aura.build/ <!-- ingested 2026-10-28 -->
+- [x] https://github.com/RiskAverseTech/toolgate <!-- note: Jev tool from https://www.youtube.com/watch?v=jlEMo6Dsh9E --> <!-- ingested 2026-10-28 -->
+- [x] https://github.com/coldteadotai/abide <!-- note: Jev tool from https://www.youtube.com/watch?v=jlEMo6Dsh9E --> <!-- ingested 2026-10-28 -->
+- [x] https://github.com/Ying-Kai-Liao/jev-browser <!-- note: Jev tool from https://www.youtube.com/watch?v=jlEMo6Dsh9E --> <!-- ingested 2026-10-28 -->
+- [x] https://github.com/valentynkit/jev-belay <!-- note: Jev tool from https://www.youtube.com/watch?v=jlEMo6Dsh9E --> <!-- ingested 2026-10-28 -->
+- [x] https://github.com/Larkspur-Wang/Jev_steer_or_queue <!-- note: Jev tool from https://www.youtube.com/watch?v=jlEMo6Dsh9E --> <!-- ingested 2026-10-28 -->
+- [x] https://github.com/kunchenguid/compact-adviser <!-- note: Jev tool from https://www.youtube.com/watch?v=jlEMo6Dsh9E --> <!-- ingested 2026-10-28 -->
+- [x] https://github.com/UditAkhourii/quicksilver <!-- note: Jev tool from https://www.youtube.com/watch?v=jlEMo6Dsh9E --> <!-- ingested 2026-10-28 -->
+- [x] https://github.com/AgriciDaniel/jev-seo <!-- note: Jev tool from https://www.youtube.com/watch?v=jlEMo6Dsh9E --> <!-- ingested 2026-10-28 -->

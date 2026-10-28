@@ -62,10 +62,12 @@ related:
   - rebelytics-one-skill-to-rule-them-all
   - JayPokale-Chisle
   - edonadei-caliper
+  - coldteadotai-abide
+  - valentynkit-jev-belay
 product: superpowers
 detail_level: standard
 created: 2026-05-14
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 Superpowers is a complete software development methodology for AI coding agents built on 14 composable, auto-triggering SKILL.md-based skills — 190,063 stars, MIT license, v5.1.0, maintained by Jesse Vincent and Prime Radiant. Where most agent toolkits require explicit command invocation, Superpowers installs a bootstrap skill (`using-superpowers`) that fires at session start and enforces a rule: invoke relevant skills before any response, including clarifying questions, even with a 1% chance of applicability. The methodology is opinionated: spec before code, TDD always, git worktree isolation, subagent-per-task execution with two-stage review, and human-in-the-loop checkpoints at every major transition. It is a zero-dependency plugin by design and works across Claude Code, Codex, Gemini CLI, OpenCode, Cursor, Factory Droid, and GitHub Copilot CLI.

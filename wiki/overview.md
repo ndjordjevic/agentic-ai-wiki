@@ -666,3 +666,19 @@ updated: 2026-10-28
 [[usehallmark.com]] is the product site for Hallmark — Together AI's anti-slop design skill for Claude Code / Codex / OpenCode (`npx skills add nutlope/hallmark -g`), marketing 50 themes and browser sloplint. Companion GitHub: [[Nutlope-hallmark]].
 
 [[aura.build]] is Aura — an AI landing-page / web design builder in the design-to-HTML lane (templates, @ references, Advanced Design Mode, CMS, SEO, HTML + Figma export), contrasting with full-stack builders like [[lovable.dev]].
+
+[[RiskAverseTech-toolgate]] is toolgate (~28★, MIT, v0.7.0) — a calibrated Jev-based tool-call firewall (Claude Code mod/hook + MCP proxy) that allow/ask/deny before risky actions. Part of the TypeSafe Jev tooling cluster with [[typesafe.ai]], [[coldteadotai-abide]], and [[valentynkit-jev-belay]].
+
+[[coldteadotai-abide]] is Abide (~613★, MIT) — compiles AGENTS.md/CLAUDE.md into a Jev-scored yes/no rubric and forces the agent to repair rule-breaking edits across Claude Code, Codex, OpenCode, and Pi. Complements [[RiskAverseTech-toolgate]] (pre-action gate) and [[typesafe.ai]] (Jev).
+
+[[Ying-Kai-Liao-jev-browser]] is jev-browser (~126★, MIT, v0.2.1) — browser automation where the LLM states goals and Typesafe Jev picks elements/actions via Playwright (library, CLI, MCP). Sits with [[browse.sh]], [[microsoft-playwright-mcp]], and [[typesafe.ai]].
+
+[[valentynkit-jev-belay]] is jev-belay (~41★, MIT, v0.2.0) — a Claude Code Stop hook that blocks unverified "done" claims by checking transcript evidence and asking Jev once, failing open otherwise. Pairs with [[RiskAverseTech-toolgate]] and [[coldteadotai-abide]] in the Jev Claude Code stack around [[typesafe.ai]].
+
+[[Larkspur-Wang-Jev_steer_or_queue]] is jev-steer-or-queue (~17★, MIT) — a Claude Code plugin (Codex in testing) that asks Jev whether a mid-turn message should steer, queue, or interrupt. Another TypeSafe Jev decision surface alongside [[typesafe.ai]] and [[valentynkit-jev-belay]].
+
+[[kunchenguid-compact-adviser]] is compact-adviser (~224★, MIT, v0.1.14) — multi-harness plugin that uses Jev to hint (or auto-run) `/compact` at safe session boundaries. Complements the actual compaction engine in [[tamaratran-fast-jev-compaction]] and other context tools like [[chopratejas-headroom]].
+
+[[UditAkhourii-quicksilver]] is Quicksilver (~131★, MIT) — a Claude Code skill that offloads bulk judgment (file shortlists, log triage, classify/rank) to Jev for large token savings. Related retrieval/judgment tools: [[dzhng-jevgrep]] and [[typesafe.ai]].
+
+[[AgriciDaniel-jev-seo]] is jev-seo (~720★, MIT) — live SEO audit from one homepage URL (crawl + 52 rules + Jev + optional DataForSEO), exporting PDF, Excel, and Markdown. Uses [[typesafe.ai]] Jev for page judgments; adjacent to browser tooling like [[Ying-Kai-Liao-jev-browser]].

@@ -29,10 +29,11 @@ related:
   - playwright.dev-agent-cli
   - jackwener-opencli
   - reticlehq-reticle
+  - Ying-Kai-Liao-jev-browser
 product: playwright-mcp
 detail_level: standard
 created: 2026-05-25
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 Playwright MCP is Microsoft's official Model Context Protocol server that gives LLMs structured browser automation capabilities — navigating pages, clicking elements, filling forms, taking snapshots, running scripts, and generating tests — without requiring vision models or screenshot parsing. Instead of pixel-based input, it exposes Playwright's accessibility tree as a deterministic structured representation that any LLM can reason over reliably. With 32,980 stars and active development (v0.0.75, Apache-2.0), it is the dominant MCP tool for web automation in agentic pipelines.

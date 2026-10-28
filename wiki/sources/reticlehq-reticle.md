@@ -19,10 +19,11 @@ related:
   - vercel-labs-agent-browser
   - qa.tech
   - browse.sh
+  - RiskAverseTech-toolgate
 product: reticle
 detail_level: standard
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 reticlehq/reticle (1,275 stars, TypeScript) puts a dev-only SDK inside your web or desktop app so a coding agent can look, act, observe and assert against the real running app, then returns a verdict (`yes` / `no` / `unknown`) with evidence and the `file:line` to fix. Its tagline is "Your AI agent says 'done.' Reticle finds out if that is true"; the repo describes it as bringing Jev-style machine-native runtime perception to web and desktop apps, and it positions itself as the in-app complement to outside-in tools such as [[microsoft-playwright-mcp]] and [[vercel-labs-agent-browser]].

@@ -14,10 +14,18 @@ related:
   - tamaratran-fast-jev-compaction
   - dzhng-jevgrep
   - reticlehq-reticle
+  - RiskAverseTech-toolgate
+  - coldteadotai-abide
+  - Ying-Kai-Liao-jev-browser
+  - valentynkit-jev-belay
+  - Larkspur-Wang-Jev_steer_or_queue
+  - kunchenguid-compact-adviser
+  - UditAkhourii-quicksilver
+  - AgriciDaniel-jev-seo
 product: typesafe
 detail_level: standard
 created: 2026-10-15
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 TypeSafe AI is a San Francisco model lab founded by Diogo Almeida, who previously worked at OpenAI on the instruction-following research behind ChatGPT. After two years in stealth it launched a new class of models it calls **System One Models**, which are built to be called by software rather than chatted with. Its first public model, **Jev** (early access since September 15, 2026), does not generate text. Each call takes a *state* (text or JSON) plus a set of typed *questions* (Choice, Score, Noul, and the experimental Box). Jev evaluates every question in parallel and returns typed answers with calibrated probabilities and, for some types, a confidence value. It is trained with a method TypeSafe calls Reinforcement Learning for Calibrated Decisions (RLCD) and uses a parallel sampler instead of token-by-token generation. TypeSafe claims 70–500 ms responses, $42 per billion input tokens with free output, and no type errors or hallucinated outputs, because the answer schema is fixed in advance. For this wiki, Jev is a cheap, fast decision primitive ("smart if-statements") for routing, scoring, guardrails, and relevance checks inside agents and pipelines. It does not replace the LLM that drives an agent. Two sources already in the wiki use it: [[tamaratran-fast-jev-compaction]] and [[dzhng-jevgrep]].
