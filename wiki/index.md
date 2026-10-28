@@ -359,4 +359,5 @@ created: 2026-04-28
 | [[dembrandt-dembrandt-skills]] | github | standard | 2026-10-28 | dembrandt-skills — UX Agent Skills for dembrandt (~173★) |
 | [[ParthJadhav-app-store-screenshots]] | github | standard | 2026-10-28 | App Store Screenshots — agent skill + Next.js store asset editor (~7.7k★) |
 | [[latent-spaces-brag]] | github | standard | 2026-10-28 | /brag — launch video agent skill + brag-slim (~19.2k★) |
-_348 sources ingested._
+| [[google-elephant-goldfish-model]] | github | standard | 2026-10-28 | EGM — Elephant/Goldfish SDD skills plugin (~3.9k★) |
+_349 sources ingested._

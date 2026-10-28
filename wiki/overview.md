@@ -698,3 +698,5 @@ updated: 2026-10-28
 [[ParthJadhav-app-store-screenshots]] is an Agent Skill (~7.7k★) that scaffolds a Next.js connected-canvas editor for App Store / Play marketing screenshots with store-exact export zips.
 
 [[latent-spaces-brag]] is `/brag` (~19.2k★, MIT) — an agent skill that turns a finished project into a ~20s launch video (Hyperframes full mode or Opus-oriented `/brag-slim`), with letsbrag.app as a hosted option.
+
+[[google-elephant-goldfish-model]] is Google's Elephant-Goldfish Model (EGM, ~3.9k★, Apache-2.0) — a multi-harness Agent Skills plugin for Spec-Driven Development: deep-context Elephant drafting plus zero-context Goldfish subagent review before code, alongside SDD toolkits like [[github-spec-kit]] and [[openspec.dev]].

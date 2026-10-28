@@ -66,6 +66,7 @@ related:
   - valentynkit-jev-belay
   - claudemod.com
   - AThevon-genjutsu
+  - google-elephant-goldfish-model
 product: superpowers
 detail_level: standard
 created: 2026-05-14

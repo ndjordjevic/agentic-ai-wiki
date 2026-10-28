@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-28 | ingest | google-elephant-goldfish-model | EGM — Elephant/Goldfish SDD skills plugin (~3.9k★)
+
+- Created: wiki/sources/google-elephant-goldfish-model.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-10-28 | ingest | latent-spaces-brag | /brag — launch video agent skill + brag-slim (~19.2k★)
 
 - Created: wiki/sources/latent-spaces-brag.md

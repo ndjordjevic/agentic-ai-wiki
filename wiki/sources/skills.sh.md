@@ -87,6 +87,7 @@ related:
   - dembrandt-dembrandt-skills
   - ParthJadhav-app-store-screenshots
   - latent-spaces-brag
+  - google-elephant-goldfish-model
 product: skills
 detail_level: standard
 created: 2026-04-30
