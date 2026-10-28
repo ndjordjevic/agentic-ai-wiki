@@ -75,3 +75,5 @@ Typical agent flow: call `recommend` with a brief (optional macrostructure/pageT
 
 941 stars, 62 forks, MIT (Together AI and contributors), TypeScript, default branch `main`, no GitHub Releases listed; npm/MCP registry version **0.1.15**; last push 2026-10-27. Homepage: https://inspomcp.dev. Roadmap (README): side-by-side desktop/mobile on screen pages, backfill component crops, paginate list tools, retina mobile re-shoot; accounts/paywalls intentionally skipped. Screenshots remain designers' work; DMCA at /dmca.
   - ui-skills.com
+  - usehallmark.com
+  - aura.build

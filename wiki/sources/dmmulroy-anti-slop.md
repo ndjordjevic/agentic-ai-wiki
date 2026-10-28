@@ -21,7 +21,7 @@ related:
 product: anti-slop
 detail_level: standard
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 dmmulroy/anti-slop (5,709 stars, MIT) is a set of opinionated Oxlint rules that reject low-evidence and low-signal TypeScript and JavaScript patterns, plus an agent skill that vendors them into your repo. It is a code-pattern linter, not a visual or aesthetic "anti-slop" pack like [[leonxlnx-taste-skill]]. The author calls it "first and foremost the ruleset I use with my work, projects, and team", reflecting taste rather than a universal standard.
@@ -68,3 +68,4 @@ Rejected: `const user = input as object as User;`. Accepted with justification: 
 ## Maintenance status
 
 5,709 stars, 155 forks, MIT License, primary language TypeScript, default branch `main`, most recent push 2026-10-14, no tagged releases. Because the project is vendored, upgrades are your responsibility; community forks and packages are welcome but have their own lifecycles. Has a skills.sh badge.
+  - usehallmark.com

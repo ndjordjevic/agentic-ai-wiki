@@ -84,3 +84,5 @@ Companion repo: ~10k★, MIT, TypeScript, latest release v0.2.3, MCP server card
 ## Ecosystem
 
 Overlaps the Agent Skills directory [[skills.sh]] and individual design packs already in this wiki ([[emilkowalski-skills]], [[Owl-Listener-designer-skills]], [[open-design.ai]], [[designmd.cc]]). The `/design-md` gallery curates public DESIGN.md files in the same spirit as [[voltagent-awesome-design-md]] / [[designmd.cc]].
+  - usehallmark.com
+  - aura.build

@@ -340,4 +340,6 @@ created: 2026-04-28
 | [[Nutlope-inspo]] | github | standard | 2026-10-28 | Inspo — real-site design archive for agents over MCP (~941★, MIT) |
 | [[ui-skills.com]] | web | standard | 2026-10-28 | companion: ibelick/ui-skills — 439 design-engineering skills via CLI + MCP |
 | [[Einsia-agent-git]] | github | standard | 2026-10-28 | agit — lossless version control for agent sessions (~414★, v0.2.28) |
-_328 sources ingested._
+| [[usehallmark.com]] | web | standard | 2026-10-28 | companion: Nutlope/hallmark — design skill product site (50 themes, sloplint) |
+| [[aura.build]] | web | standard | 2026-10-28 | AI landing-page builder — Design Mode, HTML/Figma export, DESIGN.md, CMS |
+_330 sources ingested._

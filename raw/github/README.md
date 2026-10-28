@@ -163,7 +163,7 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/vercel-ai.md | vercel/ai | 25844 | main | @ai-sdk/workflow-harness@1.0.46 | 2026-07-28 | |
 | raw/github/docker-sbx-releases.md | docker/sbx-releases | 252 | main | v0.37.0 | 2026-07-28 | |
 | raw/github/uditakhourii-adhd.md | uditakhourii/adhd | 2450 | main | v0.1.4 | 2026-07-28 | |
-| raw/github/Nutlope-hallmark.md | Nutlope/hallmark | 18952 | main | none | 2026-07-28 | |
+| raw/github/Nutlope-hallmark.md | Nutlope/hallmark | 18952 | main | none | 2026-10-28 | |
 | raw/github/router-for-me-CLIProxyAPI.md | router-for-me/CLIProxyAPI | 45243 | main | v7.2.103 | 2026-07-28 | |
 | raw/github/supadata-ai-mcp.md | supadata-ai/mcp | 61 | main | none | 2026-07-30 | |
 | raw/github/coleam00-cole-medin-knowledge-base.md | coleam00/cole-medin-knowledge-base | 25 | main | none | 2026-07-30 | |

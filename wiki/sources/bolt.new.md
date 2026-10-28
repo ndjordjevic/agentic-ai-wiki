@@ -26,7 +26,7 @@ related:
 product: bolt
 detail_level: standard
 created: 2026-07-01
-updated: 2026-07-07
+updated: 2026-10-28
 ---
 
 Bolt is StackBlitz's hosted AI-powered full-stack app builder and browser-native development environment. It turns natural-language prompts into websites, web apps, and mobile-oriented projects, then keeps planning, coding, infrastructure setup, GitHub backup, collaboration, and publishing inside one surface. For this wiki it matters as a concrete commercial implementation of agentic app building that also exposes its underlying WebContainers-based open-source harness through a companion GitHub repo.
@@ -94,3 +94,4 @@ The design-system support also gives Bolt an interesting overlap with other sour
 ## Documentation
 
 Bolt's Help Center is unusually comprehensive for a consumer-facing app builder. The docs index is organized around getting started, working in Bolt, design systems, Bolt Cloud, best practices, integrations, settings, troubleshooting, and reference material. The most relevant operator-facing guides captured at `standard` detail cover intro / first-project setup, Plan Mode, agent selection, MCP connectors, GitHub workflows, Bolt Cloud, databases, publishing, and design-system usage.
+  - aura.build

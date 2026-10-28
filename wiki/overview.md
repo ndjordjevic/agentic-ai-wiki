@@ -662,3 +662,7 @@ updated: 2026-10-28
 [[ui-skills.com]] is the web catalog for UI Skills (439 design-engineering Agent Skills) with CLI (`npx ui-skills`) and MCP (`list_skills` / `get_skill` at ui-skills.com/mcp), plus Playbook lessons and topic/collection browsing. Companion GitHub source: [[ibelick-ui-skills]]; sits beside [[skills.sh]] as a design-focused skills directory.
 
 [[Einsia-agent-git]] is agit (~414★, MIT, Rust v0.2.28) — lossless git-style version control for Claude Code / Codex / OpenCode / Cursor sessions (import → commit → push → resume/run), with hub publish at agent-git.com. Complements [[xhluca-session-migrate]] (cross-harness session moves) rather than replacing it.
+
+[[usehallmark.com]] is the product site for Hallmark — Together AI's anti-slop design skill for Claude Code / Codex / OpenCode (`npx skills add nutlope/hallmark -g`), marketing 50 themes and browser sloplint. Companion GitHub: [[Nutlope-hallmark]].
+
+[[aura.build]] is Aura — an AI landing-page / web design builder in the design-to-HTML lane (templates, @ references, Advanced Design Mode, CMS, SEO, HTML + Figma export), contrasting with full-stack builders like [[lovable.dev]].

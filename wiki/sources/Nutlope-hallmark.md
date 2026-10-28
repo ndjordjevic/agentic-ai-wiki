@@ -18,7 +18,8 @@ related:
   - Nutlope-variate
   - dmmulroy-anti-slop
   - Nutlope-inspo
-product: hallmark
+  - usehallmark.com
+product: usehallmark.com
 detail_level: standard
 created: 2026-07-28
 updated: 2026-10-28

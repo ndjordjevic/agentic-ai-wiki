@@ -19,7 +19,7 @@ related:
 product: duply
 detail_level: standard
 created: 2026-07-10
-updated: 2026-07-10
+updated: 2026-10-28
 ---
 
 Duply is a curated library of 312+ real-world design systems, each published as a copy-paste-ready `DESIGN.md` file — structured color/typography/spacing/radius/component tokens plus a written analysis — so a coding agent (Claude Code, Cursor, v0, Lovable, Bolt) can reproduce a specific brand's visual language accurately instead of defaulting to a generic AI-template look.
@@ -53,3 +53,4 @@ Reach for Duply when a coding agent needs to build in a specific, real brand's v
 ## Ecosystem
 
 Duply sits in the same `DESIGN.md`-as-project-context niche as [[voltagent-awesome-design-md]] (a smaller, GitHub-hosted curated catalog of 73+ brands) and [[open-design.ai]] (a full local design engine with 150+ bundled DESIGN.md systems, a daemon, and an MCP server) — all three distribute pre-made, brand-specific token files rather than measuring a URL live like [[designmd.cc]]. The `DESIGN.md` convention itself traces back to Google Stitch ([[stitch.withgoogle.com]]), and [[pbakaus-impeccable]] documents a related design-language skill for agents evolved from Anthropic's `frontend-design` skill. Duply differentiates on library size (312+ vs. 73+ for Awesome DESIGN.md) and on shipping both a per-brand raw export and a single-fetch full-corpus file.
+  - aura.build

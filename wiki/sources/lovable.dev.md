@@ -22,7 +22,7 @@ related:
 product: lovable
 detail_level: standard
 created: 2026-07-01
-updated: 2026-07-07
+updated: 2026-10-28
 ---
 
 Lovable is a hosted full-stack AI app builder that turns natural-language prompts into editable web applications, then keeps the whole delivery loop inside one product: planning, autonomous implementation, manual code inspection, GitHub sync, testing, publishing, and a managed backend runtime. It matters for this wiki because it productizes several agentic-engineering patterns in a mainstream SaaS surface — Build mode as an execution agent, Plan mode as a pre-implementation reasoning mode, reusable skills, read-only subagents, and a Supabase-backed cloud layer that lets the agent provision database/auth/storage infrastructure without leaving the workspace.
@@ -73,3 +73,4 @@ Lovable is fundamentally a workspace product rather than an API-first developer 
 ## Ecosystem
 
 Lovable sits on top of several adjacent ecosystems rather than trying to replace them. GitHub is the escape hatch and collaboration substrate; Supabase provides the open-source backend foundation behind Lovable Cloud; external connectors and MCP-style tools expand what Lovable-built apps can do; and workspace skills give teams a portable way to encode procedures across projects. The product also fits naturally beside other agentic-development references in this wiki: [[retool.com]] covers the enterprise internal-tooling side of AI app builders, [[open-design.ai]] covers agent-native design generation, and [[the-new-sdlc-with-vibe-coding]] supplies the conceptual frame for why tools like Lovable are becoming central to modern AI-assisted software delivery.
+  - aura.build

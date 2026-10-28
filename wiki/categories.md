@@ -25,7 +25,7 @@ updated: 2026-10-28
 - [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (0/12 studied)
 - [[#Model infra, ML & providers|Model infra, ML & providers]] (0/18 studied)
 - [[#Workflow automation & no-code platforms|Workflow automation & no-code platforms]] (0/10 studied)
-- [[#Design & UI generation|Design & UI generation]] (0/24 studied)
+- [[#Design & UI generation|Design & UI generation]] (0/26 studied)
 - [[#Media, voice & content|Media, voice & content]] (0/14 studied)
 - [[#Infra, hosting, DB & observability|Infra, hosting, DB & observability]] (0/15 studied)
 - [[#Security|Security]] (0/4 studied)
@@ -323,6 +323,7 @@ updated: 2026-10-28
 
 ## Design & UI generation
 
+- [ ] [[aura.build]] — is Aura — AI landing-page / web design builder (Design Mode, @ references, CMS, HTML/Figma export) in the design-to-HTML lane vs full-stack builders.
 - [ ] [[canva.com]] — documents Canva as an AI-powered visual design platform with a developer layer directly relevant to agentic AI workflows.
 - [ ] [[codeswithroh-tastemaker]] — (Tastemaker, ~501★, MIT) is a Claude Code–first skill that replaces generic AI UI defaults with runnable palette/contrast scripts, reference-pixel extraction, and persistent `.tastemaker/` + `~/.ta…
 - [ ] [[ConardLi-garden-skills]] — (Garden Skills, ~13k★, MIT) ships six production Agent Skills — motion-showreel, web-video-presentation, web-design-engineer (25 style recipes), gpt-image-2, beautiful-article, and kb-retriever — i…
@@ -346,6 +347,7 @@ updated: 2026-10-28
 - [ ] [[pbakaus-impeccable]] — is Impeccable (44K+ stars, Apache 2.0, Skill 3.9.1) — Paul Bakaus's design language for AI coding agents, evolved from Anthropic's `frontend-design` skill in [[anthropics-skills]]. One `/impeccable…
 - [ ] [[stitch.withgoogle.com]] — documents Stitch, Google Labs' Gemini 2.5 Pro–powered vibe-design experiment that turns natural-language prompts, sketches, and mood adjectives into UI layouts, Figma-ready exports, and HTML/CSS fr…
 - [ ] [[ui-skills.com]] — is the web catalog for UI Skills (439 design-engineering Agent Skills) with CLI (`npx ui-skills`) and MCP (`list_skills` / `get_skill`), plus Playbook lessons; companion [[ibelick-ui-skills]].
+- [ ] [[usehallmark.com]] — is the product site for Hallmark (Together AI) — anti-slop design skill for Claude Code / Codex / OpenCode with 50 themes and sloplint; companion [[Nutlope-hallmark]].
 - [ ] [[voltagent-awesome-design-md]] — is VoltAgent's curated catalog of 73+ agent-readable brand design systems (95k+ stars, MIT) — plain-text `DESIGN.md` files reverse-engineered from real websites so coding agents generate UI matchin…
 
 ## Media, voice & content

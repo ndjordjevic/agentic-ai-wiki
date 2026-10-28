@@ -161,3 +161,5 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/seed.bytedance.com.md | seed.bytedance.com | 7 | 2026-10-20 | |
 | raw/web/trailhq.com.md | trailhq.com | 4 | 2026-10-27 | |
 | raw/web/ui-skills.com.md | ui-skills.com | 9 | 2026-10-28 | |
+| raw/web/usehallmark.com.md | usehallmark.com | 1 | 2026-10-28 | |
+| raw/web/aura.build.md | aura.build | 7 | 2026-10-28 | |

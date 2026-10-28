@@ -6,6 +6,17 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-28 | ingest | aura.build | AI landing-page builder — Design Mode, HTML/Figma export, DESIGN.md, CMS
+
+- Created: wiki/sources/aura.build.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/web/README.md, inbox.md
+
+## 2026-10-28 | ingest | usehallmark.com | Hallmark product site — companion Nutlope/hallmark
+
+- Created: wiki/sources/usehallmark.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/Nutlope-hallmark.md
+
 ## 2026-10-28 | ingest | Einsia-agent-git | agit — lossless version control for agent sessions (~414★, v0.2.28)
 
 - Created: wiki/sources/Einsia-agent-git.md
