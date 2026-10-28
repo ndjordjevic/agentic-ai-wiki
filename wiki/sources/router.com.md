@@ -7,7 +7,7 @@ related: [openrouter.ai, litellm.ai, ollama-ollama, vellum.ai]
 product: router
 detail_level: standard
 created: 2026-08-22
-updated: 2026-08-22
+updated: 2026-10-28
 ---
 
 Ramp Router is an LLM gateway from Ramp (the corporate-spend platform) that cuts inference costs by routing each request to the cheapest approved model that still clears your quality bar. It exposes a single OpenAI- and Anthropic-compatible endpoint so existing SDKs and frameworks need only a one-line base-URL swap to switch. Router is built on the same routing technology Ramp uses internally across its own production AI workloads, where it reduced Ramp's AI inference spend by 40%. Free to use through 2026 (you pay list price for tokens only); no Ramp account required.

@@ -28,6 +28,7 @@ related:
   - Yeachan-Heo-oh-my-claudecode
   - xhluca-session-migrate
   - herdrdev-herdr
+  - Einsia-agent-git
 product: tmuxai
 detail_level: standard
 created: 2026-05-02
@@ -112,4 +113,3 @@ TmuxAI is part of a growing layer of AI tooling built on [[tmux-tmux]]:
 - [[njbrake-agent-of-empires]] — session manager for running multiple AI coding agents in parallel tmux sessions; complementary at the session-orchestration layer.
 - [tmux Plugin Manager (TPM)](https://github.com/tmux-plugins/tpm) — no direct integration, but TmuxAI works alongside any existing tmux config and plugins.
 - The [[skills.sh]] ecosystem provides the SKILL.md format that TmuxAI's own Skills feature implements natively.
-  - Einsia-agent-git

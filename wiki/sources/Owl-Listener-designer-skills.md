@@ -22,6 +22,7 @@ related:
   - ConardLi-garden-skills
   - codeswithroh-tastemaker
   - ibelick-ui-skills
+  - ui-skills.com
 product: designer-skills
 detail_level: standard
 created: 2026-10-27
@@ -75,4 +76,3 @@ Top-level plugin dirs: `design-research/`, `design-systems/`, `ux-strategy/`, `u
 ## Maintenance status
 
 3,124 GitHub stars, 423 forks, MIT licensed, default branch `main`, most recent push 2026-09-05, no tagged releases on this capture. Primary language Markdown. Substantial multi-collection suite with CHANGELOG and CONTRIBUTING; credited as an upstream by [[elayadesign-ai-design-skills]].
-  - ui-skills.com

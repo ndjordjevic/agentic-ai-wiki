@@ -21,7 +21,7 @@ related:
 product: awesome-llm-apps
 detail_level: standard
 created: 2026-07-17
-updated: 2026-07-17
+updated: 2026-10-28
 ---
 
 Awesome LLM Apps is a large curated collection (123,196 stars, Apache-2.0) of 100+ hand-built, runnable AI agent, RAG, and LLM applications, maintained by Unwind AI. Unlike a links-only awesome-list, every entry is a working, cloneable project — single-file starter agents, production-style multi-agent teams, RAG pipelines, voice agents, MCP-connected agents, generative UI agents, and installable agent skills — spanning Claude, GPT, Gemini, DeepSeek, Llama, and Qwen. It functions as both a hands-on gallery of agent-building patterns across major frameworks and a weekly-updated on-ramp for developers evaluating an approach before committing to it.

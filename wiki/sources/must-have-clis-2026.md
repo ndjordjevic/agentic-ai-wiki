@@ -24,7 +24,7 @@ related:
 product: must-have-clis-2026
 detail_level: standard
 created: 2026-05-30
-updated: 2026-07-07
+updated: 2026-10-28
 ---
 
 A 2026 guide by Prosper Otemuyiwa (unicodeveloper) arguing that CLI tools have surpassed MCP servers as the preferred agent-tool integration pattern for most developer use cases — citing 10–32× token-cost advantages, ~100% vs 72% reliability benchmarks, and Anthropic's own finding that shell-script-based tool use cuts token usage by 98.7% versus MCP tool calls. The article profiles ten first-class CLIs — from GitHub's `gh` and Stripe's payment tunnel to ElevenLabs voice generation and the Valyu proprietary data CLI — that remove specific developer friction points in an AI-assisted terminal workflow.

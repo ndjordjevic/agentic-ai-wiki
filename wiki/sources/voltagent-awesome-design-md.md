@@ -28,6 +28,7 @@ related:
   - Nutlope-inspo
   - stitch.google.com
   - dembrandt-dembrandt
+  - aura.build
 product: awesome-design-md
 detail_level: standard
 created: 2026-07-02
@@ -89,4 +90,3 @@ Not a substitute for [[open-design.ai]] when you need a full local design platfo
 - [[lovable.dev]] and [[bolt.new]] — AI app builders where dropping a DESIGN.md into the project context directly improves generated UI consistency.
 - [[skills.sh]] — Vercel's skill distribution layer; DESIGN.md files serve a parallel role for visual instructions rather than behavioral skills.
 - Google Stitch ([[stitch.withgoogle.com]]) — originated the DESIGN.md concept and specification this repo implements and extends.
-  - aura.build

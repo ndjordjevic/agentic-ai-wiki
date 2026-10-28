@@ -7,7 +7,7 @@ related: [supermemory.ai, zilliztech-claude-context, HKUDS-RAG-Anything, cocoind
 product: redis
 detail_level: standard
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-10-28
 ---
 
 Redis Iris is Redis's unified, real-time context engine for AI agents, bundling four previously separate Redis capabilities — Data Integration (RDI), Context Retriever, Agent Memory, and LangCache — under one positioning aimed at fixing why "unreliable agents fail in production": data that is fragmented, stale, and slow to reach. It matters for this wiki as a concrete example of an incumbent infrastructure vendor (Redis) repackaging existing primitives (CDC pipelines, vector/schema retrieval, semantic caching) specifically as agent-context plumbing rather than as generic database features.

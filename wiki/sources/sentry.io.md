@@ -27,7 +27,7 @@ related:
 product: sentry
 detail_level: standard
 created: 2026-06-30
-updated: 2026-08-25
+updated: 2026-10-28
 ---
 
 Sentry is a developer-first application monitoring platform used by millions of developers and teams including Anthropic, Disney+, and Instacart. It unifies error monitoring, distributed tracing, session replay, logs, profiling, cron/uptime monitoring, and AI-native debugging (Seer) into one trace-connected observability stack. For agentic AI workflows, Sentry is especially relevant as an **observability and verification layer**: it instruments LLM agents and MCP servers (OpenAI Agents, Vercel AI SDK), exposes production context to coding agents via an MCP server ([[mcp.sentry.dev]]) and agent skills, and uses Seer to auto-investigate issues, draft merge-ready fixes, and review PRs against real production failure patterns.

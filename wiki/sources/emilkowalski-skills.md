@@ -24,6 +24,7 @@ related:
   - img2threejs-img2threejs
   - ibelick-ui-skills
   - FloWritesCode-fwc-swiftui-skills
+  - ui-skills.com
 product: skills
 detail_level: standard
 created: 2026-10-27
@@ -44,7 +45,7 @@ The repo ships fifteen portable skills under `skills/`. The flagship `emil-desig
 npx skills@latest add emilkowalski/skills
 ```
 
-Skills are also listed on skills.sh at `skills.sh/emilkowalski/skills`. Newsletter signup for updates is at aiforui.dev/skills.
+Skills are also listed on [[skills.sh]] at the emilkowalski/skills path. Newsletter signup for updates is at aiforui.dev/skills.
 
 ## Key features
 
@@ -57,7 +58,7 @@ Skills are also listed on skills.sh at `skills.sh/emilkowalski/skills`. Newslett
 
 ## Architecture
 
-Top-level content is a `skills/` tree of self-contained skill folders (each with `SKILL.md`), plus `performance-cheatsheet.md`, license, and README. No runtime package — distribution is the Agent Skills / skills.sh convention. Homepage: https://emilkowal.ski/skill.
+Top-level content is a `skills/` tree of self-contained skill folders (each with `SKILL.md`), plus `performance-cheatsheet.md`, license, and README. No runtime package — distribution is the Agent Skills / [[skills.sh]] convention. Homepage: https://emilkowal.ski/skill.
 
 ## Example usage
 
@@ -68,5 +69,4 @@ npx skills@latest add emilkowalski/skills
 
 ## Maintenance status
 
-50,398 GitHub stars, 2,935 forks, MIT licensed, default branch `main`, most recent push 2026-10-11, no tagged releases. Primary language Markdown. Active public skill pack with a skills.sh badge and newsletter channel.
-  - ui-skills.com
+50,398 GitHub stars, 2,935 forks, MIT licensed, default branch `main`, most recent push 2026-10-11, no tagged releases. Primary language Markdown. Active public skill pack with a [[skills.sh]] badge and newsletter channel.

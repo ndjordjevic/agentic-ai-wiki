@@ -26,6 +26,8 @@ related:
   - how-claude-code-works-in-large-codebases
   - pi.dev
   - Larkspur-Wang-Jev_steer_or_queue
+  - Einsia-agent-git
+  - anthropic.com-managed-agents
 product: agent-of-empires
 detail_level: standard
 created: 2026-05-02
@@ -140,11 +142,10 @@ AoE is a session manager, not an agent framework — it does not route messages 
 
 ## Ecosystem
 
-- **Supported agents**: Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Cursor CLI, Copilot CLI, Pi.dev, Factory Droid, Hermes — auto-detected at runtime.
+- **Supported agents**: Claude Code, OpenCode, Mistral Vibe, Codex CLI, Gemini CLI, Cursor CLI, Copilot CLI, [[pi.dev|Pi.dev]], Factory Droid, Hermes — auto-detected at runtime.
 - **Community integrations**: `contrib/` hosts an OpenClaw skill; community-contributed and checked by CI.
 - **Website**: https://www.agent-of-empires.com/ — Astro static site with full documentation and guides.
 - **YouTube channel**: https://www.youtube.com/@agent-of-empires — getting-started videos.
 - **ClawHub**: https://clawhub.ai/njbrake/aoe
 - **Developer**: Nate Brake (@natebrake), Machine Learning Engineer at Mozilla.ai.
 - For multi-agent control-plane concerns not covered by AoE (org charts, budgets, governance), see [[paperclip.ing]].
-  - Einsia-agent-git

@@ -20,7 +20,7 @@ related:
 product: cole-medin-ai-coding
 detail_level: standard
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-10-28
 ---
 
 `coleam00/cole-medin-ai-coding` is an **Open Knowledge Format (OKF) bundle** — a portable, agent-readable knowledge base of Cole Medin's best AI-coding videos, transcript-verified and organized into five concept pages and five video summary pages. It is designed to be cloned directly into any AI second brain (Claude Code, Cursor, Codex, Gemini CLI) so agents can search Cole's teaching on principled agentic engineering without going to YouTube. The bundle ships a zero-dependency Python CLI (`okf-cli.py`) for index, keyword search, and page reading, and uses the OKF v0.1 format pioneered by [[GoogleCloudPlatform-knowledge-catalog]].

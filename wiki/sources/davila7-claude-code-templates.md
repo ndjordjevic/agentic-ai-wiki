@@ -26,6 +26,7 @@ related:
   - ibelick-ui-skills
   - FloWritesCode-fwc-swiftui-skills
   - claudemod.com
+  - coreyhaines31-marketingskills
 product: claude-code-templates
 detail_level: standard
 created: 2026-07-14

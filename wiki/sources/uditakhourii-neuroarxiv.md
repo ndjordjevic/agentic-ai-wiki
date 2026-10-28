@@ -7,7 +7,7 @@ related: [uditakhourii-adhd, aaravkashyap12-advise-project-approach, karpathy-au
 product: neuroarxiv
 detail_level: standard
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-10-28
 ---
 
 `neuroarxiv` is an agent skill that forces Claude to consult real arXiv prior art before designing any non-trivial architecture, algorithm, or systems technique — producing one grounded recommendation with citations, a concrete first step, and documented failure modes pulled from the literature rather than invented from training data. Its defining discipline is isolate-then-converge: each paper is read by a parallel Agent call that sees only that one abstract, preventing any source from anchoring the reading of another, before a final convergence pass commits to a single recommended path and explains why the alternatives lost.

@@ -17,6 +17,7 @@ related:
   - leonxlnx-taste-skill
   - Nutlope-hallmark
   - anthropics-skills
+  - ParthJadhav-app-store-screenshots
 product: dembrandt
 detail_level: standard
 created: 2026-10-28

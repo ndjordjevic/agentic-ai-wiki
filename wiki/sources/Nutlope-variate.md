@@ -19,6 +19,7 @@ related:
   - skills.sh
   - codeswithroh-tastemaker
   - Nutlope-inspo
+  - usehallmark.com
 product: variate
 detail_level: standard
 created: 2026-10-27
@@ -69,4 +70,3 @@ In an empty folder the flow is `up`, then `add index.html --new --n 4`, write fo
 ## Maintenance status
 
 214 GitHub stars, 11 forks, MIT licensed, primary language JavaScript, default branch `master`, no tagged releases, most recent push 2026-08-20. `SKILL.md` metadata shows version 3.2.0. Small, recently active project with a landing page on Vercel.
-  - usehallmark.com

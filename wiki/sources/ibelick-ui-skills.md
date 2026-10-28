@@ -27,13 +27,13 @@ created: 2026-10-27
 updated: 2026-10-28
 ---
 
-ibelick/ui-skills (10,241 stars, MIT) is "Skills for Design Engineers": a registry of UI-focused agent skills at ui-skills.com that can be browsed and fetched from the terminal (`npx ui-skills`) or by agents over a Model Context Protocol endpoint. It works as a curated discovery layer over design-skill packs comparable to [[emilkowalski-skills]] and [[leonxlnx-taste-skill]], with a distilled "Playbook" of lessons from them.
+ibelick/ui-skills (10,241 stars, MIT) is "Skills for Design Engineers": a registry of UI-focused agent skills at [[ui-skills.com]] that can be browsed and fetched from the terminal (`npx ui-skills`) or by agents over a Model Context Protocol endpoint. It works as a curated discovery layer over design-skill packs comparable to [[emilkowalski-skills]] and [[leonxlnx-taste-skill]], with a distilled "Playbook" of lessons from them.
 
 _All claims below are sourced from ../../raw/github/ibelick-ui-skills.md unless otherwise noted._
 
 ## What it does
 
-The README is short. It describes three surfaces over the same skills registry: a CLI to browse and fetch skills from your terminal, an MCP server so agents can connect to the registry, and a Playbook of "distilled UI lessons from the best design engineering skills" at ui-skills.com/playbook. The repo does not list individual skills in the README; the catalog lives in the `skills/` directory and on the website. The sample command `npx ui-skills get baseline-ui` and the `--category motion` filter show that skills are organized by category, but the README does not enumerate the categories or skills.
+The README is short. It describes three surfaces over the same skills registry: a CLI to browse and fetch skills from your terminal, an MCP server so agents can connect to the registry, and a Playbook of "distilled UI lessons from the best design engineering skills" at [[ui-skills.com]]/playbook. The repo does not list individual skills in the README; the catalog lives in the `skills/` directory and on the website. The sample command `npx ui-skills get baseline-ui` and the `--category motion` filter show that skills are organized by category, but the README does not enumerate the categories or skills.
 
 ## Installation
 
@@ -56,7 +56,7 @@ The README gives no client-specific MCP configuration snippets.
 - **Terminal discovery** — `start`, `categories`, `list --category <name>`, and `get <skill>` commands (README examples: `npx ui-skills categories`, `npx ui-skills list --category motion`, `npx ui-skills get baseline-ui`).
 - **MCP registry** — remote server at `https://www.ui-skills.com/mcp` exposing two tools, `list_skills` and `get_skill`.
 - **Playbook** — distilled lessons from top design-engineering skills, published on the site.
-- **Website** — ui-skills.com is the main browsing surface; the repo's OG image is `public/UI-OG.png`.
+- **Website** — [[ui-skills.com]] is the main browsing surface; the repo's OG image is `public/UI-OG.png`.
 
 ## Architecture
 

@@ -22,7 +22,7 @@ related:
 product: one-skill-to-rule-them-all
 detail_level: standard
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 rebelytics/one-skill-to-rule-them-all (3,584 stars, CC BY 4.0) is Eoghan Henn's `task-observer` meta-skill — a skill that watches your work sessions, logs corrections, gaps and judgement calls as observations, and turns them into reviewed improvements to your other skills (and to itself). It is a practical application of the Augmented Expertise methodology, installs through `npx skills` / [[skills.sh]], and sits alongside skill-authoring packs like [[anthropics-skills]] as the maintenance layer: skills that learn from use instead of staying frozen.
@@ -41,7 +41,7 @@ The observer never edits installed skills directly: in interactive review you ap
 npx skills add rebelytics/one-skill-to-rule-them-all --skill task-observer   # add -g for all projects
 ```
 
-This is the most-used route (the skills.sh listing reports 13,000+ installs). In the Claude apps (web, desktop, mobile, Cowork) upload the `.skill` bundle from the latest release via Settings → Customize; in Claude Code place the folder at `.claude/skills/task-observer/`. Installing alone is not enough: add the activation instruction from `references/environments.md` to `CLAUDE.md` (or a session-start hook), because description matching under-triggers. Verify in a *new* session by checking that `skill-observations/observation-log/` appears after real work. Installing only `SKILL.md` works but runs degraded.
+This is the most-used route (the [[skills.sh]] listing reports 13,000+ installs). In the Claude apps (web, desktop, mobile, Cowork) upload the `.skill` bundle from the latest release via Settings → Customize; in Claude Code place the folder at `.claude/skills/task-observer/`. Installing alone is not enough: add the activation instruction from `references/environments.md` to `CLAUDE.md` (or a session-start hook), because description matching under-triggers. Verify in a *new* session by checking that `skill-observations/observation-log/` appears after real work. Installing only `SKILL.md` works but runs degraded.
 
 ## Key features
 
@@ -69,4 +69,4 @@ The author also recommends kickstarting with a personal writing-style skill buil
 
 ## Maintenance status
 
-3,584 GitHub stars, 351 forks, CC BY 4.0 (credit Eoghan Henn / rebelytics.com), default branch `main`, latest release v3.8.0 (2026-10-23), most recent push 2026-10-26. Primary content is Markdown. Actively maintained and listed in several skill directories and awesome-lists; independent security audits (Gen Agent Trust Hub, Socket, Snyk) are reported on the skills.sh listing, plus an Oathe Security badge.
+3,584 GitHub stars, 351 forks, CC BY 4.0 (credit Eoghan Henn / rebelytics.com), default branch `main`, latest release v3.8.0 (2026-10-23), most recent push 2026-10-26. Primary content is Markdown. Actively maintained and listed in several skill directories and awesome-lists; independent security audits (Gen Agent Trust Hub, Socket, Snyk) are reported on the [[skills.sh]] listing, plus an Oathe Security badge.

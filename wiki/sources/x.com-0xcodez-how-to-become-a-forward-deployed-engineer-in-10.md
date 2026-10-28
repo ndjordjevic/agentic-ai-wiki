@@ -2,12 +2,23 @@
 type: source
 category: "Business, career & learning"
 source_url: https://x.com/0xCodez/status/2082468167935308098
-tags: [forward-deployed-engineer, applied-ai-engineer, enterprise-ai-deployment, mcp-servers, agent-skills, customer-discovery, ai-career-path, claude-code]
-related: [santifer-career-ops, anthropics-skills]
+tags:
+  - forward-deployed-engineer
+  - applied-ai-engineer
+  - enterprise-ai-deployment
+  - mcp-servers
+  - agent-skills
+  - customer-discovery
+  - ai-career-path
+  - claude-code
+related:
+  - santifer-career-ops
+  - anthropics-skills
+  - slavingia-skills
 product: x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10
 detail_level: standard
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-10-28
 ---
 
 An X Article by @0xCodez laying out a 10-step roadmap into the Forward Deployed Engineer (FDE) role — the customer-embedded engineering job the author frames as the highest-paid non-research track in AI (up to $785K/year at frontier labs), driven by an MIT NANDA finding that 95% of 300 enterprise AI projects showed little measurable impact because deployments, not models, failed. It is the only career-path/job-role source in this wiki that maps directly onto the tooling the wiki already documents — MCP servers, agent skills, subagents, and Claude Code — as literal job deliverables rather than developer conveniences.

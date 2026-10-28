@@ -24,10 +24,11 @@ related:
   - using-claude-code-unreasonable-effectiveness-html
   - duply.ai
   - impeccable.style
+  - Nutlope-variate
 product: impeccable.style
 detail_level: standard
 created: 2026-07-08
-updated: 2026-08-04
+updated: 2026-10-28
 ---
 
 Impeccable (54K+ stars, Apache 2.0, latest release Extension 1.3.1) is Paul Bakaus's design language for AI coding agents — one skill with 23 slash commands, live browser iteration, 59 deterministic anti-pattern detector rules, and provider-native design hooks for Cursor, Claude Code, Codex, and GitHub Copilot. The product's own documentation site is covered separately in [[impeccable.style]]. It evolved from Anthropic's `frontend-design` skill into a full harness-agnostic design system: `/impeccable init` writes `PRODUCT.md` and `DESIGN.md`, commands like `audit`, `polish`, `critique`, and `live` give agents a shared design vocabulary, and `npx impeccable detect` runs the same rules in CI without an LLM.
@@ -63,7 +64,7 @@ After install, run `/impeccable init` inside your coding tool. Codex users must 
 
 ## Architecture
 
-Source-first monorepo (Bun, ESM, Astro site). `skill/` holds `SKILL.src.md` plus `reference/` (23 command docs), `scripts/`, and `agents/` (including Codex asset-producer subagent). `scripts/lib/transformers/providers.js` defines one config entry per harness; `bun run build` generates `dist/` without syncing tracked harness folders, `bun run build:release` syncs `.claude/`, `.cursor/`, `.agents/`, etc. The anti-pattern engine (`cli/engine/detect-antipatterns.mjs`) feeds three consumers: CLI, browser overlay (`detect-antipatterns-browser.js`), and Chrome extension — all regenerated together on rule changes. Marketing site at `site/` deploys to Cloudflare Pages (impeccable.style). Tests span Bun unit tests, Node jsdom fixture suite, opt-in live-e2e against framework dev servers, and LLM-backed skill-behavior tests for the Setup flow.
+Source-first monorepo (Bun, ESM, Astro site). `skill/` holds `SKILL.src.md` plus `reference/` (23 command docs), `scripts/`, and `agents/` (including Codex asset-producer subagent). `scripts/lib/transformers/providers.js` defines one config entry per harness; `bun run build` generates `dist/` without syncing tracked harness folders, `bun run build:release` syncs `.claude/`, `.cursor/`, `.agents/`, etc. The anti-pattern engine (`cli/engine/detect-antipatterns.mjs`) feeds three consumers: CLI, browser overlay (`detect-antipatterns-browser.js`), and Chrome extension — all regenerated together on rule changes. Marketing site at `site/` deploys to Cloudflare Pages ([[impeccable.style]]). Tests span Bun unit tests, Node jsdom fixture suite, opt-in live-e2e against framework dev servers, and LLM-backed skill-behavior tests for the Setup flow.
 
 ## Example usage
 
@@ -85,4 +86,4 @@ Pin frequently used commands: `/impeccable pin audit` → `/audit`.
 
 ## Maintenance status
 
-54,629 stars, 3,286 forks, pushed 2026-08-04, default branch `main`, latest release Extension 1.3.1 (2026-07-30), Apache 2.0, homepage impeccable.style, npm package `impeccable`. Issue-first contribution policy for outside contributors. `.github/workflows/sync-generated-output.yml` auto-commits generated harness output after source changes land on `main`.
+54,629 stars, 3,286 forks, pushed 2026-08-04, default branch `main`, latest release Extension 1.3.1 (2026-07-30), Apache 2.0, homepage [[impeccable.style]], npm package `impeccable`. Issue-first contribution policy for outside contributors. `.github/workflows/sync-generated-output.yml` auto-commits generated harness output after source changes land on `main`.

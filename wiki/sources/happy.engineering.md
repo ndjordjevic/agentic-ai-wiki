@@ -30,7 +30,7 @@ related:
 product: happy
 detail_level: standard
 created: 2026-07-03
-updated: 2026-07-07
+updated: 2026-10-28
 ---
 
 Happy Coder is an MIT-licensed, open-source mobile and web client for Claude Code and Codex that runs agents on hardware you own — laptop, desktop, server, or Raspberry Pi — and extends the same terminal session to iOS, Android, and the browser with real-time sync, push notifications, voice-to-action, and end-to-end encryption. With 22k+ GitHub stars and no subscription, it occupies the "lightweight reach extension" niche distinct from cloud VM mobile agents (Cursor Mobile, Terragon) and subscription remote clients (Omnara, CodeRemote).

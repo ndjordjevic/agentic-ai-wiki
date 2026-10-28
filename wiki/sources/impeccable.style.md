@@ -24,7 +24,7 @@ related:
 product: impeccable.style
 detail_level: standard
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-10-28
 ---
 
 Impeccable's public site (impeccable.style) is the documentation and marketing front for [[pbakaus-impeccable]], Paul Bakaus's design vocabulary skill for AI coding agents. Where the GitHub repo captures source code and build internals, the site is the day-to-day reference: command docs, the Slop catalog of AI-generated UI anti-patterns, the Live Mode workflow, and tutorials for getting a project set up end to end.

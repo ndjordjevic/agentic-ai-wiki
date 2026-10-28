@@ -20,7 +20,7 @@ related:
 product: summio
 detail_level: standard
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-10-28
 ---
 
 Summio is an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, long articles, and PDFs into structured editorial summaries at four depth levels — then lets users chat with the full source text, listen to audio editions, and retain ideas via spaced-repetition flashcards. Unlike catalogue-locked apps like Blinkist, it accepts any source the user points at (100,000+ book catalogue plus arbitrary URLs and uploads), grounds every claim in cited passages using RAG, and ships in 27 interface languages with Premium ($39.99/year) and Max ($79.99/year) tiers billed through Apple's App Store.

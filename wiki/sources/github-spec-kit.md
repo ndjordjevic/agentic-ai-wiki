@@ -24,6 +24,7 @@ related:
   - phuryn-pm-skills
   - Chachamaru127-claude-code-harness
   - google-elephant-goldfish-model
+  - traycer.ai
 product: spec-kit
 detail_level: standard
 created: 2026-05-19

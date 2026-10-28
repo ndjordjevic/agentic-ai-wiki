@@ -2,11 +2,19 @@
 type: source
 category: "Terminal, session & parallel-agent runners"
 source_url: https://github.com/xhluca/session-migrate
-tags: [session-portability, native-transcript-format, harness-migration, content-free-manifest, catalog-search, lossless-conversion, python-cli]
+tags:
+  - session-portability
+  - native-transcript-format
+  - harness-migration
+  - content-free-manifest
+  - catalog-search
+  - lossless-conversion
+  - python-cli
 related:
   - max-sixty-worktrunk
   - tmuxai.dev
   - pi.dev
+  - Einsia-agent-git
 product: session-migrate
 detail_level: standard
 created: 2026-08-26
@@ -75,4 +83,3 @@ Reach for session-migrate when a long-running, tool-heavy conversation needs to 
 ## Ecosystem
 
 session-migrate's data-and-credential boundary is notable: it never reads login stores, cookies, API keys, MCP connections, or workspace files, and performs no redaction or secret scanning — a secret already embedded in a migrated message or tool result is copied verbatim into the target. It complements this wiki's other terminal/session tooling — [[max-sixty-worktrunk]] and [[tmuxai.dev]] manage *where* an agent session runs (parallel worktrees, tmux panes), while session-migrate manages *which agent* a given session's history can resume inside, including [[pi.dev]] as one of its twelve supported targets. Antigravity and Cursor's reverse-engineered formats are published as separate companion research repos (`xhluca/antigravity-session-interoperability`, `xhluca/cursor-session-interoperability`).
-  - Einsia-agent-git

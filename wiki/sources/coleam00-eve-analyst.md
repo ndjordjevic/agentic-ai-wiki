@@ -20,7 +20,7 @@ related:
 product: eve-analyst
 detail_level: standard
 created: 2026-07-21
-updated: 2026-07-21
+updated: 2026-10-28
 ---
 
 `coleam00/eve-analyst` is a compact but production-shaped Eve reference app for building a data analyst agent: the user asks business questions in plain English, the agent answers with auditable read-only SQL, enforces domain-specific revenue definitions, routes expensive scans through approval gates, runs deeper numeric work in a sandbox, and delegates open-ended diagnosis to a specialized subagent. It is designed as a full-stack teaching artifact that exercises the complete Eve primitive set in one coherent workflow.

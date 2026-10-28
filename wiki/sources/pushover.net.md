@@ -7,7 +7,7 @@ related: [happy.engineering, marketstack.com]
 product: pushover
 detail_level: standard
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-10-28
 ---
 
 Pushover is a hosted push-notification service: any script, server, or third-party integration sends a simple HTTP request and Pushover fans it out to a user's registered Android, iOS, and desktop clients. For agentic workflows it is a lightweight way to alert a human when a long-running agent needs input, hits an error, or finishes a task — the same "ping me on my phone" pattern seen in [[happy.engineering]], but as a standalone, single-purpose notification backend rather than a full mobile Claude Code client.

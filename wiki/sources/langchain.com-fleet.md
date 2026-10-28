@@ -16,7 +16,7 @@ related:
 product: fleet
 detail_level: deep
 created: 2026-04-29
-updated: 2026-06-06
+updated: 2026-10-28
 ---
 
 Fleet is the no-code agent product inside the [[langchain.com]] platform. It packages AI agents as configurable business tools rather than developer libraries, combining templates, integrations, channels, memory, approvals, and LangSmith-backed traces so teams can automate recurring work without building every agent in code.

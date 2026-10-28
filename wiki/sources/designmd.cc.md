@@ -26,6 +26,8 @@ related:
   - stitch.google.com
   - INSANE0777-Awwwards-mcp
   - dembrandt-dembrandt
+  - ui-skills.com
+  - aura.build
 product: designmd.cc
 detail_level: standard
 created: 2026-07-08
@@ -85,5 +87,3 @@ Companion repo `adityarajdigital/designmd`: 49 stars, 5 forks, MIT license (repo
 ## Ecosystem
 
 DesignMD's output format sits in the same `DESIGN.md`-as-project-context niche popularized by Google Stitch and cataloged by [[voltagent-awesome-design-md]] and [[open-design.ai]] — where those two focus on distributing pre-made brand `DESIGN.md` files, DesignMD is a live, on-demand extractor: point it at any URL and get a measured spec in ~12 seconds rather than picking from a curated library. The README explicitly targets the same coding-agent audience (Claude Code, Cursor, Windsurf, Aider, Copilot, Cline, Continue) and documents per-tool integration patterns for each.
-  - ui-skills.com
-  - aura.build

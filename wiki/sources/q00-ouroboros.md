@@ -7,7 +7,7 @@ related: [buildermethods-agent-os, obra-superpowers, snarktank-ralph, github-spe
 product: ouroboros
 detail_level: standard
 created: 2026-06-12
-updated: 2026-06-18
+updated: 2026-10-28
 ---
 
 Ouroboros (Q00/ouroboros, 4,555 stars, MIT, Python, v0.41.0) is an Agent OS and specification-first workflow engine that replaces ad-hoc AI prompting with a structured interview → crystallize → execute → evaluate → evolve cycle. Its central claim is that most AI coding fails at the input: vague prompts produce architecture drift and rework. Ouroboros fixes this by enforcing a Socratic interview that mathematically gates on ambiguity before generating an immutable Seed spec, then evaluates output through a three-stage verification pipeline. It runs across Claude Code, Codex CLI, OpenCode, Hermes, Gemini, Kiro, Copilot, and Pi — making it the most multi-runtime specification-first system in this wiki.

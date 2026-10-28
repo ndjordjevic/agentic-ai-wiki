@@ -31,7 +31,7 @@ created: 2026-10-28
 updated: 2026-10-28
 ---
 
-Stitch's developer surface (docs at `stitch.google.com` / `stitch.withgoogle.com/docs`, inbox URL: CLI overview) adds a terminal + coding-agent workflow on top of the Google Labs UI generator covered by [[stitch.withgoogle.com]]: the `@google/stitch` CLI, Agent Skills (`/stitch`), MCP server, and `@google/stitch-sdk` for programmatic screen generation. Official docs pages are a JS SPA that did not yield extractable body text at ingest time; CLI/docs detail below is grounded in official `llms.txt`, Google announcements, and a third-party mirror that attributes Original URLs under `stitch.withgoogle.com/docs/`.
+Stitch's developer surface (docs at `stitch.google.com` / [[stitch.withgoogle.com]] docs, inbox URL: CLI overview) adds a terminal + coding-agent workflow on top of the Google Labs UI generator covered by [[stitch.withgoogle.com]]: the `@google/stitch` CLI, Agent Skills (`/stitch`), MCP server, and `@google/stitch-sdk` for programmatic screen generation. Official docs pages are a JS SPA that did not yield extractable body text at ingest time; CLI/docs detail below is grounded in official `llms.txt`, Google announcements, and a third-party mirror that attributes Original URLs under [[stitch.withgoogle.com]] docs.
 
 _All claims below are sourced from ../../raw/web/stitch.google.com.md unless otherwise noted._
 
@@ -64,7 +64,7 @@ Developer architecture adds layered surfaces:
 
 | Surface | Role |
 |---|---|
-| Canvas web app | Hosted generation UI (`stitch.withgoogle.com`) |
+| Canvas web app | Hosted generation UI ([[stitch.withgoogle.com]]) |
 | Docs SPA | `stitch.google.com/docs/*` (Nemo / appcompanion shell; content not SSR-extractable at ingest) |
 | CLI `@google/stitch` | Resource verbs (`find`/`get`/`create`/`edit`/`delete`/`generate`) + serve/capture/upload/config/login + MCP/agent-skills |
 | MCP + Skills | Agent-native tool/skill layer for the same workflows |
@@ -93,7 +93,7 @@ npm install @google/stitch-sdk
 
 ## Example usage
 
-CLI (from mirrored CLI overview attributed to `stitch.withgoogle.com/docs/cli/overview/`):
+CLI (from mirrored CLI overview attributed to [[stitch.withgoogle.com]] docs CLI overview):
 
 ```bash
 stitch create project --title "Checkout Redesign"
@@ -133,4 +133,4 @@ Pairs with [[stitch.withgoogle.com]] (same `product: stitch`), DESIGN.md tooling
 
 ## Documentation
 
-Official docs live under `https://stitch.google.com/docs/…` (also linked as `stitch.withgoogle.com/docs/…`). At ingest, those routes required a client-rendered SPA and returned no extractable article body; use the in-product docs UI, npm READMEs, `stitch.google.com/llms.txt`, and the attributed mirror at `stitchprompt.com/docs/` (pages end with `Original: https://stitch.withgoogle.com/docs/…`) for offline capture. Key mirrored topics: CLI overview & command reference, MCP setup, skills get-started, learn/prompting, device types, DESIGN.md overview.
+Official docs live under `https://stitch.google.com/docs/…` (also linked as [[stitch.withgoogle.com]] docs). At ingest, those routes required a client-rendered SPA and returned no extractable article body; use the in-product docs UI, npm READMEs, `stitch.google.com/llms.txt`, and the attributed mirror at `stitchprompt.com/docs/` (pages end with an Original URL under [[stitch.withgoogle.com]] docs) for offline capture. Key mirrored topics: CLI overview & command reference, MCP setup, skills get-started, learn/prompting, device types, DESIGN.md overview.

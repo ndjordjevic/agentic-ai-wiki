@@ -14,7 +14,7 @@ tags:
 product: abacus
 detail_level: standard
 created: 2026-07-06
-updated: 2026-07-08
+updated: 2026-10-28
 related:
   - openrouter.ai
   - browser-use.com

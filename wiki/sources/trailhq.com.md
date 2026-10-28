@@ -25,6 +25,7 @@ related:
   - mksglu-context-mode
   - HKUDS-LightRAG
   - how-claude-code-works-in-large-codebases
+  - Einsia-agent-git
 product: trail-code
 detail_level: standard
 created: 2026-10-27
@@ -87,4 +88,3 @@ GitHub `trailhq/Trail-Code`: 10,809 stars, 960 forks, MIT, TypeScript, default b
 ## Ecosystem
 
 Trail-code is the developer OSS half of Trail's "nobody learns alone" thesis; the paid Trail product is a governed context graph / company brain for enterprise agents (MCP, LangChain, Copilot, Bedrock, etc.). Competes and compares with code-graph tools covered in Trail's own blog (Graphify, Codegraph, Graft). Works beside [[skills.sh]] / agent skills and instruction files without rewriting CLAUDE.md.
-  - Einsia-agent-git

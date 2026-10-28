@@ -67,6 +67,9 @@ related:
   - claudemod.com
   - AThevon-genjutsu
   - google-elephant-goldfish-model
+  - x.com-mnilax-karpathys-4-claude-md-rules-cut-claude-mistakes
+  - 0xnyk-awesome-hermes-agent
+  - nidhinjs-prompt-master
 product: superpowers
 detail_level: standard
 created: 2026-05-14

@@ -23,6 +23,9 @@ related:
   - producthunt.com
   - voltagent-awesome-design-md
   - supabase.com
+  - aura.build
+  - motionsites.ai
+  - stitch.withgoogle.com
 product: bolt
 detail_level: standard
 created: 2026-07-01
@@ -94,4 +97,3 @@ The design-system support also gives Bolt an interesting overlap with other sour
 ## Documentation
 
 Bolt's Help Center is unusually comprehensive for a consumer-facing app builder. The docs index is organized around getting started, working in Bolt, design systems, Bolt Cloud, best practices, integrations, settings, troubleshooting, and reference material. The most relevant operator-facing guides captured at `standard` detail cover intro / first-project setup, Plan Mode, agent selection, MCP connectors, GitHub workflows, Bolt Cloud, databases, publishing, and design-system usage.
-  - aura.build

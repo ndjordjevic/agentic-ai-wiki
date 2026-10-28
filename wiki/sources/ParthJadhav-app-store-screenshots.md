@@ -31,7 +31,7 @@ Turns raw app captures into ad-style slides with big copy; supports iPhone/Duo/i
 
 ## Installation
 
-Install via skills.sh / `npx skills` for `parthjadhav/app-store-screenshots` (README cites skills.sh install badges). The skill scaffolds the Next.js editor into your project.
+Install via [[skills.sh]] / `npx skills` for `parthjadhav/app-store-screenshots` (README cites [[skills.sh]] install badges). The skill scaffolds the Next.js editor into your project.
 
 ## Key features
 
@@ -51,4 +51,4 @@ Install the skill, feed it screenshots, edit on the canvas, export store-sized P
 
 ## Maintenance status
 
-~7,670 stars, 554 forks, MIT, `main`, homepage product page on parthjadhav.com; strong skills.sh install traction per README badges.
+~7,670 stars, 554 forks, MIT, `main`, homepage product page on parthjadhav.com; strong [[skills.sh]] install traction per README badges.

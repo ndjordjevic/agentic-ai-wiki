@@ -19,7 +19,7 @@ related:
 product: seedance
 detail_level: standard
 created: 2026-10-20
-updated: 2026-10-20
+updated: 2026-10-28
 ---
 
 ByteDance Seed's Seedance 2.5 product page covers a next-generation audio-video joint generation model aimed at 30-second storytelling with multimodal reference control and professional editing. For this wiki it matters as the primary vendor surface for a model already appearing in aggregator catalogs ([[higgsfield.ai]], [[kie.ai]]): Jimeng / Doubao product access plus BytePlus ModelArk API (`dreamina-seedance-2-5-260628`) for agent and app builders who need controllable long-form video generation.
@@ -59,4 +59,4 @@ Seedance sits in ByteDance Seed's GenMedia line on `seed.bytedance.com`, with co
 
 ## Ecosystem
 
-Distributed via Jimeng AI, Doubao Pro, Dreamina creative workspace, CapCut-adjacent Seed products, and BytePlus ModelArk / AI Playground. Third-party platforms (e.g. Higgsfield model IDs like `bytedance/seedance/v1/pro/image-to-video`, Kie.ai Seedance listings) already expose earlier Seedance versions to agent builders. No public companion GitHub repo was linked from the Seedance 2.5 pages at ingest. Contact: `seed.feedback@bytedance.com`.
+Distributed via Jimeng AI, Doubao Pro, Dreamina creative workspace, CapCut-adjacent Seed products, and BytePlus ModelArk / AI Playground. Third-party platforms (e.g. Higgsfield model IDs like `bytedance/seedance/v1/pro/image-to-video`, [[kie.ai|Kie.ai]] Seedance listings) already expose earlier Seedance versions to agent builders. No public companion GitHub repo was linked from the Seedance 2.5 pages at ingest. Contact: `seed.feedback@bytedance.com`.

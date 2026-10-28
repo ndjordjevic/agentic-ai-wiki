@@ -21,7 +21,7 @@ related:
 product: knowledge-catalog
 detail_level: standard
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-10-28
 ---
 
 `GoogleCloudPlatform/knowledge-catalog` is the official Google Cloud sample and tooling repository for **Knowledge Catalog** (formerly Dataplex) — an AI-powered data catalog and metadata management platform. Its primary contribution is the **Open Knowledge Format (OKF)**, a vendor-neutral specification for representing any knowledge as plain markdown files with YAML frontmatter that any agent, human, or tool can read and produce without bespoke SDKs. The repo also ships a reference enrichment agent, a metadata-as-code toolbox, and discovery/enrichment samples that show how to build agent context management pipelines on top of the catalog.

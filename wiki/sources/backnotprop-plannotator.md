@@ -23,7 +23,7 @@ related:
 product: plannotator
 detail_level: standard
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-10-28
 ---
 
 Plannotator is an open-source visual plan-and-code-review UI for AI coding agents, most prominently Claude Code. It intercepts the agent's `ExitPlanMode` hook and opens an interactive browser UI where humans can annotate, approve, request changes, or ask AI follow-up questions before the agent proceeds — turning an opaque plan-then-execute loop into a collaborative, human-in-the-loop workflow. With 5,580 stars and v0.19.22 as of May 2026, it is one of the most widely adopted Claude Code plugins and supports seven runtimes: Claude Code, Copilot CLI, Gemini CLI, OpenCode, Pi, Codex, and Droid.

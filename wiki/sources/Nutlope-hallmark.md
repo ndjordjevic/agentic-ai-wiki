@@ -53,7 +53,7 @@ Re-runnable to update. Alternatively, copy `SKILL.md` + `references/` directly i
 
 ## Architecture
 
-The rule-set and verb logic live in `skills/hallmark/SKILL.md` plus a `references/` directory (including `structure.md` for macrostructure rules, `custom-theme.md` for the from-scratch branch protocol, and `microinteractions.md` for motion timing tables). The live demo and example gallery (`site/`, including `site/_tests/`) are a separate Next.js/Vercel-deployed site at usehallmark.com used both as a showcase and as a working reference for the theme catalog.
+The rule-set and verb logic live in `skills/hallmark/SKILL.md` plus a `references/` directory (including `structure.md` for macrostructure rules, `custom-theme.md` for the from-scratch branch protocol, and `microinteractions.md` for motion timing tables). The live demo and example gallery (`site/`, including `site/_tests/`) are a separate Next.js/Vercel-deployed site at [[usehallmark.com]] used both as a showcase and as a working reference for the theme catalog.
 
 ## Example usage
 

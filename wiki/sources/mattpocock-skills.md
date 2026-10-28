@@ -26,14 +26,15 @@ related:
   - claudemarketplaces.com
   - SnailSploit-Claude-Red
   - chaseai-yt-grill-me-codex
+  - multica-ai-andrej-karpathy-skills
 product: skills
-studied: true
 detail_level: standard
 created: 2026-06-12
-updated: 2026-10-06
+updated: 2026-10-28
+studied: True
 ---
 
-Matt Pocock's opinionated skill collection for real-world engineering with AI coding agents, distributed via [skills.sh](https://skills.sh/mattpocock/skills) ([[skills.sh]]) with 126k+ stars. Built around four diagnosed failure modes of AI-assisted development — misalignment, verbosity, broken code, and software entropy — each addressed by a concrete, composable skill that can be installed with `npx skills@latest add mattpocock/skills`. The philosophy explicitly rejects "process-owning" frameworks (GSD, BMAD, Spec-Kit) in favour of small, hackable skills that keep the developer in control.
+Matt Pocock's opinionated skill collection for real-world engineering with AI coding agents, distributed via [[skills.sh]] with 126k+ stars. Built around four diagnosed failure modes of AI-assisted development — misalignment, verbosity, broken code, and software entropy — each addressed by a concrete, composable skill that can be installed with `npx skills@latest add mattpocock/skills`. The philosophy explicitly rejects "process-owning" frameworks (GSD, BMAD, Spec-Kit) in favour of small, hackable skills that keep the developer in control.
 
 _All claims below are sourced from ../../raw/github/mattpocock-skills.md unless otherwise noted._
 
@@ -94,4 +95,4 @@ Typical session flow per the README:
 
 ## Ecosystem
 
-Distributed via [skills.sh](https://skills.sh/mattpocock/skills) — the same platform used by `[[anthropics-skills]]`. Works with Claude Code, Codex, and other coding agents. Referenced alongside `[[obra-superpowers]]` and `[[gsd-build-get-shit-done]]` as alternatives that differ in approach: GSD/BMAD/Spec-Kit own the process end-to-end, while these skills stay small and composable.
+Distributed via [[skills.sh]] — the same platform used by `[[anthropics-skills]]`. Works with Claude Code, Codex, and other coding agents. Referenced alongside `[[obra-superpowers]]` and `[[gsd-build-get-shit-done]]` as alternatives that differ in approach: GSD/BMAD/Spec-Kit own the process end-to-end, while these skills stay small and composable.

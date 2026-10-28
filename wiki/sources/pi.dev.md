@@ -13,7 +13,6 @@ tags:
   - rpc
   - open-source
   - mcp
-companion_github: earendil-works/pi
 related:
   - wisprflow.ai
   - strandsagents.com
@@ -23,10 +22,12 @@ related:
   - antigravity.google
   - davidondrej-skills
   - xhluca-session-migrate
+  - njbrake-agent-of-empires
 product: pi-coding-agent
 detail_level: standard
 created: 2026-06-08
-updated: 2026-08-26
+updated: 2026-10-28
+companion_github: earendil-works/pi
 ---
 
 Pi is a minimal terminal coding harness (CLI) by Earendil Inc. that prioritizes "primitives, not features" — a lightweight, MIT-licensed agent that stays small by design while supporting deep customization via TypeScript extensions and the SKILL.md ecosystem. The monorepo (60,792 GitHub stars) also provides a unified multi-provider LLM API, a terminal UI library, and an embeddable Node.js SDK.

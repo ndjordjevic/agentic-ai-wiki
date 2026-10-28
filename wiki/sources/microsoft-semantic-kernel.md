@@ -19,7 +19,7 @@ related:
 product: semantic-kernel
 detail_level: standard
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-10-28
 ---
 
 Semantic Kernel (SK) is Microsoft's model-agnostic SDK for building, orchestrating, and deploying AI agents and multi-agent systems in .NET, Python, and Java, built around a "kernel" that composes native code functions and natural-language prompt templates ("plugins") into pipelines. As of this ingest, the project's README marks it deprecated in favor of [[microsoft-agent-framework]] (MAF), positioned as SK's enterprise-ready 1.0 successor — SK remains relevant to this wiki chiefly as the historical/architectural precursor to MAF and for teams still on its stable APIs during migration.

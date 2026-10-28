@@ -22,7 +22,7 @@ related:
 product: tolaria
 detail_level: standard
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-10-28
 ---
 
 Tolaria is a free, open-source, local-first desktop knowledge base for macOS, Windows, and Linux that stores all notes as plain Markdown files on disk, integrates Git as a first-class history and sync layer, and wires AI coding agents (Claude Code, Codex, OpenCode, Pi, Gemini) directly into the vault workflow. Built by Luca Rossi from five years of managing 10,000+ notes for the Refactoring newsletter, Tolaria fills the gap between plain Markdown editors and cloud-locked note apps, offering rich editing, typed relationships, spreadsheets, and AI chat — all without accounts, subscriptions, or proprietary formats.

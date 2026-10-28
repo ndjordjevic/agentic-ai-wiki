@@ -20,10 +20,11 @@ related:
   - elayadesign-ai-design-skills
   - Owl-Listener-designer-skills
   - MengTo-Skills
+  - Nutlope-variate
 product: tastemaker
 detail_level: standard
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 Tastemaker (501 stars, MIT) is a Claude Code–first Agent Skill (also Windsurf / Gemini CLI) that grounds AI UI in real reference pixels, a contrast-checked generated palette, and persistent local taste memory — so agents stop defaulting to indigo-gradient "AI slop." Unlike prompt-only taste packs, it ships Python scripts (`generate_palette.py`, `check_contrast.py`, `extract_palette.py`, `anti_slop_scan.py`, `audit_motion.py`, …) that enforce legibility contracts and write project locks under `.tastemaker/` plus a durable `~/.tastemaker/profile.md`. Live demo: https://tastemaker-skill.online.

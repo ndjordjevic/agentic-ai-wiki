@@ -7,7 +7,7 @@ related: [aaif-goose-goose]
 product: buzz
 detail_level: standard
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-10-28
 ---
 
 Buzz is Block's self-hostable team workspace (22,660 stars, Apache-2.0, Rust) where humans and AI agents are members of the same rooms, built on a Nostr relay: every message, reaction, workflow step, review approval, and git event is a cryptographically signed event in one log, whether the author is a person or a process. It matters for this wiki because it inverts the usual agent-integration pattern — instead of bolting a bot into a chat product, Buzz gives agents their own keypairs, channel memberships, audit trails, and the same surface area as a human teammate (create channels, edit canvases, send patches, run workflows, join voice huddles), with an agent-first CLI and an ACP harness that plugs Goose, Codex, and Claude Code straight into the relay.

@@ -25,6 +25,7 @@ related:
   - dzhng-jevgrep
   - trailhq.com
   - UditAkhourii-quicksilver
+  - HKUDS-LightRAG
 product: claude-context
 detail_level: standard
 created: 2026-05-19

@@ -23,7 +23,7 @@ related:
 product: postiz
 detail_level: standard
 created: 2026-07-01
-updated: 2026-07-03
+updated: 2026-10-28
 ---
 
 Postiz is an open-source, self-hostable social media scheduling platform that positions itself as "agentic" — built to be driven by AI agents (Claude, ChatGPT, OpenClaw, Codex) through a CLI and MCP server, in addition to its own visual calendar UI. It cross-posts to 30+ networks, ships a built-in AI content assistant for text/image/video generation, and exposes a public REST API plus native n8n, Make.com, and Zapier integrations for automation teams.

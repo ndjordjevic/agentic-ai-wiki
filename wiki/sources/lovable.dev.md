@@ -19,6 +19,9 @@ related:
   - producthunt.com
   - voltagent-awesome-design-md
   - supabase.com
+  - aura.build
+  - streamlit.io
+  - stitch.withgoogle.com
 product: lovable
 detail_level: standard
 created: 2026-07-01
@@ -73,4 +76,3 @@ Lovable is fundamentally a workspace product rather than an API-first developer 
 ## Ecosystem
 
 Lovable sits on top of several adjacent ecosystems rather than trying to replace them. GitHub is the escape hatch and collaboration substrate; Supabase provides the open-source backend foundation behind Lovable Cloud; external connectors and MCP-style tools expand what Lovable-built apps can do; and workspace skills give teams a portable way to encode procedures across projects. The product also fits naturally beside other agentic-development references in this wiki: [[retool.com]] covers the enterprise internal-tooling side of AI app builders, [[open-design.ai]] covers agent-native design generation, and [[the-new-sdlc-with-vibe-coding]] supplies the conceptual frame for why tools like Lovable are becoming central to modern AI-assisted software delivery.
-  - aura.build

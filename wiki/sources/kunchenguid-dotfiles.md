@@ -7,7 +7,7 @@ related: [determinate.systems, wezterm.org, herdr.dev]
 product: dotfiles
 detail_level: standard
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-10-28
 ---
 
 `kunchenguid/dotfiles` is a complete, reproducible macOS developer environment managed with nix-darwin, home-manager, and nix-homebrew — designed specifically for agentic engineering workflows. A single `./bootstrap.sh` command brings a fresh Apple Silicon Mac to a fully configured state: macOS system preferences, Homebrew casks, Nix user packages, zsh shell with aliases, Neovim with Lua config, WezTerm, and — notably — a shared `AGENTS.md` symlinked into Claude, Codex, and opencode simultaneously. The repo is a readable, forkable reference implementation of the "one repo, one command" dotfiles pattern using Nix flakes.

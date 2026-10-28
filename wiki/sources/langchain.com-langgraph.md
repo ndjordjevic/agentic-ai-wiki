@@ -24,10 +24,13 @@ related:
   - langflow-ai-langflow
   - agno.com
   - mastra.ai
+  - langchain.com-fleet
+  - anthropic.com-managed-agents
+  - langchain.com-langsmith
 product: langgraph
 detail_level: deep
 created: 2026-04-29
-updated: 2026-07-28
+updated: 2026-10-28
 ---
 
 LangGraph is the lower-level orchestration framework and runtime in the LangChain stack. It is designed for long-running, stateful agents that need durable execution, human-in-the-loop pauses, memory, streaming, and explicit control over workflow shape rather than a single high-level agent abstraction.

@@ -17,7 +17,7 @@ related:
 product: opendeepwiki
 detail_level: standard
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-10-28
 ---
 
 `AIDotNet/OpenDeepWiki` (~3.4k stars, MIT) is a full-stack, self-hosted platform that mirrors [[deepwiki.com]]'s product shape: import repos (Git URL, ZIP, or **local directory**), auto-generate structured wikis with mind maps and optional Graphify artifacts, publish SEO-friendly public doc routes, and expose the same knowledge via built-in chat, embed APIs, and **repository-scoped MCP endpoints**. Built on ASP.NET Core (.NET 10) + Next.js 16 with SQLite/PostgreSQL — heavier than [[he-yufeng-RepoWiki]] but closest to a complete private DeepWiki replacement with admin console, multi-user RBAC, and incremental background workers.

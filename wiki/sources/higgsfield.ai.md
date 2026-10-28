@@ -20,6 +20,7 @@ related:
   - storytold
   - seed.bytedance.com
   - latent-spaces-brag
+  - img2threejs-img2threejs
 product: higgsfield
 detail_level: standard
 created: 2026-07-08

@@ -49,7 +49,7 @@ Each listing has a detail page with an editor-written summary, install command (
 
 ## Key features
 
-- **Quality curation** — automated crawlers sweep skills.sh, GitHub, and MCP registries; skills below 500 installs are excluded; abandoned and test entries are filtered; an editor reviews borderline listings and writes summaries; recurring content-policy sweeps remove spam and off-topic entries.
+- **Quality curation** — automated crawlers sweep [[skills.sh]], GitHub, and MCP registries; skills below 500 installs are excluded; abandoned and test entries are filtered; an editor reviews borderline listings and writes summaries; recurring content-policy sweeps remove spam and off-topic entries.
 - **Rich metadata** — install counts, GitHub stars, category tags, and featured picks on the homepage surface adoption signals before install.
 - **One-command install snippets** — detail pages expose copy-paste install commands for skills (via the skills CLI) and marketplace subscription commands.
 - **Category taxonomy** — deep browse paths for skills (34+ categories), MCP servers (19+), and marketplaces (24+) so operators can narrow by domain (e.g. AI & Agent Building, Web & Browser Automation, Memory & Context).
@@ -63,7 +63,7 @@ The platform separates three extension types that Claude Code users encounter:
 
 | Type | What it is | Discovery source | Quality signal |
 |---|---|---|---|
-| **Skill** | Single SKILL.md instruction set | skills.sh crawl | 500+ installs minimum |
+| **Skill** | Single SKILL.md instruction set | [[skills.sh]] crawl | 500+ installs minimum |
 | **Plugin** | Bundle of skills, MCP servers, commands, hooks, or agents | GitHub marketplace schemas | Stars, plugin count, active repo |
 | **Marketplace** | GitHub repo distributing multiple plugins | GitHub discovery | Stars, plugin count, schema validity |
 | **MCP server** | Model Context Protocol tool server | Community MCP directories | Stars, registry signals |
@@ -82,7 +82,7 @@ Cross AI Tools is a browse-and-install directory, not a programmatic API platfor
 - `https://crossaitools.com/pricing.md` — structured ad pricing
 - `robots.txt` — allows all major AI crawlers
 
-Install actions delegate to upstream tools: skills install via `npx skills add` (skills.sh / vercel-labs/skills CLI); marketplaces via `/plugin marketplace add <owner/repo>` in Claude Code.
+Install actions delegate to upstream tools: skills install via `npx skills add` ([[skills.sh]] / vercel-labs/skills CLI); marketplaces via `/plugin marketplace add <owner/repo>` in Claude Code.
 
 ## When to use
 
@@ -100,7 +100,7 @@ Prefer [[skills.sh]] when you need the full unfiltered leaderboard, security aud
 
 Cross AI Tools sits in the Claude Code extension discovery layer alongside:
 
-- [[skills.sh]] — primary upstream for skill install counts and the `npx skills` CLI; Cross AI Tools crawls skills.sh as its main skill source
+- [[skills.sh]] — primary upstream for skill install counts and the `npx skills` CLI; Cross AI Tools crawls [[skills.sh]] as its main skill source
 - Official Anthropic marketplaces — [[anthropics-skills]], `anthropics/claude-code` plugins (both heavily featured)
 - Community methodology marketplaces — [[obra-superpowers]], affaan-m/everything-claude-code, gsd-build/get-shit-done (all top marketplaces)
 - MCP ecosystem — overlaps with servers listed in modelcontextprotocol/servers and community registries; featured entries include Context7, GitHub MCP, Supabase MCP, Linear MCP

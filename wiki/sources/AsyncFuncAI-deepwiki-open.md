@@ -14,10 +14,11 @@ related:
   - AIDotNet-OpenDeepWiki
   - he-yufeng-RepoWiki
   - langchain-ai-openwiki
+  - bb-boy680-open-zread
 product: deepwiki-open
 detail_level: standard
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-10-28
 ---
 
 `AsyncFuncAI/deepwiki-open` (~17k stars, MIT) is the most popular community reimplementation of [[deepwiki.com]] — a self-hosted stack (Python API + Next.js UI) that ingests GitHub, GitLab, or Bitbucket repositories and produces interactive wikis with architecture diagrams and Q&A. It runs via Docker Compose, supports OpenAI, Google, OpenRouter, Azure OpenAI, and **Ollama** for local models, and persists indexes under `~/.adalflow`. Note: upstream branding has shifted toward a commercial "Grok Wiki 2.0" download at grok-wiki.com, but the OSS repo and Docker deployment remain the canonical self-host path.

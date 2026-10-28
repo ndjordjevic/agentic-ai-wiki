@@ -21,7 +21,7 @@ related:
 product: taskmaster
 detail_level: standard
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-10-28
 ---
 
 TaskMaster AI (taskmaster.one) is a commercial SaaS product by TaskMaster AI LLC that acts as a "project manager for AI coding agents" — it ingests Product Requirements Documents, breaks them into structured dependency-aware tasks, and synchronises those tasks across a CLI, MCP server, and web dashboard. It targets developer teams using AI-powered editors (Cursor, Windsurf, VS Code) and provides hosted API key management so teams can adopt multi-model AI without managing `.env` files per engineer.

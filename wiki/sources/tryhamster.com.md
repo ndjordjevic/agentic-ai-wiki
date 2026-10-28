@@ -18,7 +18,7 @@ related:
 product: tryhamster
 detail_level: standard
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-10-28
 ---
 
 Hamster is an AI-native product planning platform built for teams where AI agents do the implementation work. It addresses the "velocity gap" — individual developers ship 10× faster with AI, but teams stall on alignment, unclear requirements, and context loss. Hamster closes that gap with two interconnected products: **Hamster Studio** (a collaborative brief-and-plan workspace for the whole product team) and **Taskmaster** (a CLI/MCP task-management tool for individual developers and AI agents). Together they implement an AI-native SDLC: Brief → Align → Plan → Execute → Ship. The platform is backed by 25K+ GitHub stars (via the open-source Taskmaster core) and used by teams at NVIDIA, Google, Vercel, Shopify, Lenovo, SAP, and other enterprises.

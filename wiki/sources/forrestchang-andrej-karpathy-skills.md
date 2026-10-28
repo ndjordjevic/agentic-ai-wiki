@@ -34,6 +34,7 @@ related:
   - dietrichgebert-ponytail
   - multica-ai-andrej-karpathy-skills
   - claudemod.com
+  - 6eanut-llm-wiki
 product: andrej-karpathy-skills
 detail_level: standard
 created: 2026-05-11

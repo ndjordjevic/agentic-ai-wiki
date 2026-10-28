@@ -18,7 +18,7 @@ related:
 product: crafterq
 detail_level: standard
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-10-28
 ---
 
 CrafterQ is a no-code SaaS platform for deploying website AI agents — conversational assistants trained on an organization's own content (website pages, docs, FAQs, PDFs, Word files, and custom Q&A pairs) and embedded on any site via a single script. Unlike scripted chatbots, CrafterQ agents use natural-language understanding and retrieval over private knowledge to answer visitor questions, recommend products or resources, qualify leads, and guide outcomes such as demo bookings, quotes, or purchases. The platform targets marketing, sales, support, and e-commerce use cases with SOC 2 Type II compliance, a free tier, and enterprise options including private AWS hosting and LLM choice.

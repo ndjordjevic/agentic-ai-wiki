@@ -12,7 +12,7 @@ related: [abacus.ai, strandsagents.com, crewai.com, langchain.com-langgraph, adk
 product: openai-agents-sdk
 detail_level: standard
 created: 2026-07-03
-updated: 2026-08-24
+updated: 2026-10-28
 ---
 
 OpenAI's Agents SDK is the vendor's code-first framework for building multi-agent applications in TypeScript or Python. It sits alongside the Responses API: use Responses when one model call plus tools and app-owned logic suffices; use the SDK when your server owns orchestration, tool execution, approvals, and conversation state. The SDK provides agents (model + instructions + tools), a runtime loop with streaming, handoffs and agents-as-tools orchestration patterns, guardrails and human-in-the-loop approvals, sessions and server-managed continuation, sandbox agents for containerized filesystem work, MCP integration, built-in tracing, and voice/realtime agent pipelines.

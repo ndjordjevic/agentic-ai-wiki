@@ -7,7 +7,7 @@ related: [anthropics-skills, shareai-lab-learn-claude-code, forrestchang-andrej-
 product: llm-wiki
 detail_level: standard
 created: 2026-05-13
-updated: 2026-07-30
+updated: 2026-10-28
 ---
 
 # 6eanut/llm-wiki

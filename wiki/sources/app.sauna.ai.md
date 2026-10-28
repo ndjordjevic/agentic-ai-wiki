@@ -24,7 +24,7 @@ related:
 product: sauna
 detail_level: standard
 created: 2026-07-07
-updated: 2026-07-07
+updated: 2026-10-28
 ---
 
 Sauna is a hosted, multiplayer AI coworker and workspace — marketed as "the first multiplayer AI" — that connects to 3,000+ tools (Linear, GitHub, Notion, Gmail, Slack, Stripe, HubSpot, custom MCP servers), learns how individuals and teams work, remembers context across sessions, and acts autonomously in the cloud on scheduled timers or on demand from the web app, iOS, iMessage, Slack, email, or Superhuman. YC- and Spark Capital-backed; SOC 2 compliant. A newer "Apps" layer lets operators vibe-code just-in-time personal SaaS UIs (CRM, email client, mission-control dashboards) orchestrated by the same agent that already holds their business context.

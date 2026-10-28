@@ -7,7 +7,7 @@ related: [eyaltoledano-claude-task-master, factory.ai, kiro.dev, traycer.ai, pla
 product: agiloop
 detail_level: standard
 created: 2026-08-22
-updated: 2026-08-22
+updated: 2026-10-28
 ---
 
 Agiloop is an AI-native platform that closes the full software product lifecycle in a single loop: from idea to specification to generated code to live analytics to AI-driven iteration. It targets founders, product teams, agencies, and engineering organisations who want structured, spec-first development rather than raw prompt-to-code vibe-coding. Its four phases — INVENT, IMPLEMENT, INSPECT, ITERATE — are designed to keep context connected across the entire build cycle, so feedback from a live product flows back directly into the next planning step rather than requiring teams to start from scratch each time.

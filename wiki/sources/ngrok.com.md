@@ -17,7 +17,7 @@ related:
 product: ngrok
 detail_level: standard
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-10-28
 ---
 
 ngrok is a globally distributed cloud networking platform that secures, transforms, and routes traffic to services running anywhere — local machines, Kubernetes clusters, IoT devices, or cloud instances — without firewall changes or open inbound ports. Originally known for developer tunnels ("share localhost with a public URL"), ngrok has evolved into an enterprise-grade unified ingress platform consolidating reverse proxy, API gateway, AI gateway, firewall, DDoS protection, and Kubernetes operator capabilities into a single system trusted by millions of developers at GitHub, Microsoft, OpenAI, Databricks, and Zoom.

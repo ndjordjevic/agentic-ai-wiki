@@ -7,7 +7,7 @@ related: [uditakhourii-neuroarxiv]
 product: advise-project-approach
 detail_level: standard
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-10-28
 ---
 
 `advise-project-approach` is an evidence-driven agent skill that researches comparable projects, analyzes tradeoffs, and provides grounded advice before teams commit to architecture, stack, vendor, or refactor decisions. It operates in three modes—pre-build (planning), mid-build (course correction), and post-build (launch review)—each tied to actual project constraints and real-world comparable implementations rather than generic recommendations.

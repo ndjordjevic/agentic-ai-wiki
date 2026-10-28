@@ -7,7 +7,7 @@ related: [warp.dev, factory.ai, codeyai.space]
 product: zcode
 detail_level: standard
 created: 2026-07-03
-updated: 2026-07-04
+updated: 2026-10-28
 ---
 
 ZCode is Z.ai's (Zhipu AI) desktop and CLI-adjacent "Agentic Development Environment" (ADE), built specifically around Zhipu's own GLM-5.2 model family rather than a model-agnostic design. It packages an agent-driven coding workflow — plan, code, review, deploy — with long-running task automation ("Goal Mode"), remote steering via chat bots, and MCP server integration, competing in the same space as other agentic coding CLIs/IDEs like [[warp.dev]] and [[factory.ai]] but tied to a single model vendor's ecosystem.

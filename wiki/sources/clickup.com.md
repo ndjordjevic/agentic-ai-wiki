@@ -21,7 +21,7 @@ related:
 product: clickup
 detail_level: standard
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-10-28
 ---
 
 ClickUp is an enterprise work-management platform positioning itself as "software to replace all software" — unifying projects, docs, goals, chat, calendar, whiteboards, automations, and AI in one workspace. Its agentic layer centers on **ClickUp Brain²** (multi-model AI with workspace context, memory, and connected-app search), **Super Agents** (human-like teammates that can be @mentioned, assigned tasks, and messaged with 500+ skills and infinite memory), and **Ambient Agents** (background monitors that answer questions and surface intelligence proactively). For developer and coding-agent integration, ClickUp ships a first-class **MCP server** at `https://mcp.clickup.com/mcp` (public beta, all plans) exposing task management, docs, chat, time tracking, and workspace hierarchy tools to Cursor, Claude Code, VS Code, Copilot Studio, and other MCP clients — making it a production target for agents that need to orchestrate real work, not just generate code.

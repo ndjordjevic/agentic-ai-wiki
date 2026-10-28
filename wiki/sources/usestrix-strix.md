@@ -17,7 +17,7 @@ related:
 product: strix
 detail_level: standard
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-10-28
 ---
 
 Strix is an open-source AI penetration testing framework that deploys autonomous AI agents to find and validate security vulnerabilities through real proof-of-concept exploits — not static analysis false positives. At 27k+ GitHub stars, it sits at the intersection of agentic AI orchestration and application security, making it directly relevant to the Agentic AI Frameworks wiki as a production example of multi-agent coordination applied to offensive security.

@@ -20,7 +20,7 @@ related:
 product: joinoasis
 detail_level: standard
 created: 2026-06-18
-updated: 2026-07-07
+updated: 2026-10-28
 ---
 
 Oasis (joinoasis.com, formerly teamoffsite.ai, operated by Mercury Intelligence Inc.) is a no-code workspace for composing and operating coordinated AI agent teams. It positions itself as the production-ready runtime layer for teams that need to deploy multi-agent workflows in 30 seconds without writing orchestration code — shipping policies, approval gates, and Slack + iMessage hand-off as first-class features. The product is notable for publishing a rich developer-facing glossary under the `mercury.build` brand (which now redirects to joinoasis.com), covering foundational multi-agent concepts: agent guardrails, agent memory, computer use AI, multi-agent orchestration, reliable long-running agents, and the Model Context Protocol.

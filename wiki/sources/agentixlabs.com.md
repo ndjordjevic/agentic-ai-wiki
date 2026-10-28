@@ -17,7 +17,7 @@ related:
 product: agentixlabs
 detail_level: standard
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-10-28
 ---
 
 Agentix Labs is an AI implementation studio and consultancy that designs, builds, and deploys custom AI agents, voice agents, automation workflows, and data intelligence systems for enterprise clients. As a Claude Preferred Services Partner (Anthropic) and certified partner of Vapi and Botpress, the firm specializes in taking real business workflows from concept through governed production pilots, connecting AI systems to existing stacks rather than stopping at demos.

@@ -26,7 +26,7 @@ related:
 product: docker-sandboxes
 detail_level: standard
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-10-28
 ---
 
 Docker Sandboxes is Docker's product for running coding agents (Claude Code, Gemini CLI, Copilot CLI, Codex, OpenCode, Kiro) inside disposable, isolated microVMs, giving each agent its own Docker daemon, filesystem, and network so it can operate in permissive "YOLO mode" (`--dangerously-skip-permissions`) without risking the host machine. It's Docker's answer to the same "give agents autonomy safely" problem this wiki has seen from Vercel Sandbox ([[vercel.com]]) and browser-focused sandboxing tools like [[browserbase.com]], applied specifically to full local dev environments with real Docker access inside the sandbox itself.

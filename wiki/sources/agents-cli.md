@@ -30,7 +30,7 @@ related:
 product: agents-cli
 detail_level: standard
 created: 2026-06-30
-updated: 2026-07-02
+updated: 2026-10-28
 ---
 
 Google's **agents-cli** is a CLI and skills package for the Gemini Enterprise Agent Platform. It is explicitly a tool *for* coding agents (Claude Code, Codex, Antigravity CLI, and others), not a coding agent itself: it installs seven lifecycle skills plus terminal commands so your agent can scaffold, build, evaluate, deploy, publish, and observe ADK-based agents on Google Cloud without you mastering every underlying service. The docs site and companion GitHub repo (`google/agents-cli`, 3.7k+ stars, Apache 2.0, Python) present the same product from operator-facing documentation and implementation detail respectively. (../../raw/github/google-agents-cli.md)

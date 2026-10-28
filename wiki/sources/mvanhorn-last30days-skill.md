@@ -18,7 +18,7 @@ related:
 product: last30days-skill
 detail_level: standard
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-10-28
 ---
 
 `/last30days` is an Agent Skill that searches Reddit, X, YouTube, TikTok, Hacker News, Polymarket, GitHub, arXiv, Techmeme, Digg, and a dozen other platforms in parallel for a given topic, then has an AI agent synthesize the results into one cited brief — scored by real engagement (upvotes, likes, prediction-market odds) rather than editorial ranking. It's a large (2,700+ test), actively community-maintained skill distributed across the Claude Code marketplace, Grok Build, Codex/Cursor/Copilot/Gemini CLI via [Agent Skills](https://agentskills.io), claude.ai, Claude Desktop (as an MCP server), and OpenClaw.

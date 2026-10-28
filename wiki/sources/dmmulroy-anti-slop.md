@@ -18,6 +18,7 @@ related:
   - sonarsource.com
   - coderabbit.ai
   - skills.sh
+  - usehallmark.com
 product: anti-slop
 detail_level: standard
 created: 2026-10-27
@@ -67,5 +68,4 @@ Rejected: `const user = input as object as User;`. Accepted with justification: 
 
 ## Maintenance status
 
-5,709 stars, 155 forks, MIT License, primary language TypeScript, default branch `main`, most recent push 2026-10-14, no tagged releases. Because the project is vendored, upgrades are your responsibility; community forks and packages are welcome but have their own lifecycles. Has a skills.sh badge.
-  - usehallmark.com
+5,709 stars, 155 forks, MIT License, primary language TypeScript, default branch `main`, most recent push 2026-10-14, no tagged releases. Because the project is vendored, upgrades are your responsibility; community forks and packages are welcome but have their own lifecycles. Has a [[skills.sh]] badge.

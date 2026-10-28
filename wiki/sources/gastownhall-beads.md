@@ -16,7 +16,7 @@ related:
 product: beads
 detail_level: standard
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-10-28
 ---
 
 Beads (`bd`) is a distributed, graph-based issue tracker designed as a persistent memory upgrade for AI coding agents. With 23,795 stars and an MIT license, it solves a core problem of long-horizon agent work: coding agents forget context across sessions and resort to lossy markdown task lists. Beads replaces markdown plans with a dependency-aware Dolt-powered SQL database, giving agents a structured, versioned, conflict-free task graph that persists across sessions, branches, and even across multiple concurrent agents. The project includes native integration recipes for Claude Code, GitHub Copilot CLI, Codex, Gemini CLI, [[factory.ai]], and more.

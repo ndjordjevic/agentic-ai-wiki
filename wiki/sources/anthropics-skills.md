@@ -69,6 +69,9 @@ related:
   - edonadei-caliper
   - claudemod.com
   - dembrandt-dembrandt-skills
+  - uditakhourii-neuroarxiv
+  - 6eanut-llm-wiki
+  - agricidaniel-claude-obsidian
 product: skills
 detail_level: standard
 created: 2026-05-11

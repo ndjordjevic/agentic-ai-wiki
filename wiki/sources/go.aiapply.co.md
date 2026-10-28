@@ -11,11 +11,12 @@ tags:
   - ats-optimization
   - vertical-ai-agent
   - gpt-4
-related: []
+related:
+  - slavingia-skills
 product: aiapply
 detail_level: standard
 created: 2026-07-04
-updated: 2026-07-04
+updated: 2026-10-28
 ---
 
 AIApply is an AI-powered job-search co-pilot that automates the full application pipeline — from resume and cover-letter generation through high-volume Auto-Apply submissions to live interview coaching. Claiming 1.16M+ users and a 61% interview rate within the first 10 days, the platform uses GPT-4 and Azure AI to tailor every document to each job description, beat ATS filters, and submit applications at scale so candidates focus on strategy and interviews rather than repetitive form-filling.

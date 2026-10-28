@@ -24,7 +24,7 @@ related:
 product: skills
 detail_level: standard
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 jakubkrehel/skills (8,750 stars, MIT) is Jakub Krehel's Agent Skills pack for building and reviewing interfaces — accessibility, layout, writing, typography, color, and UI polish — drawn from his writing on jakub.kr and the Interfaces magazine (interfaces.dev). Installable via `npx skills` / [[skills.sh]] and as a Claude Code plugin (`interfaces@interfaces`), it pairs broad review skills (`better-interface`, `interface-review`) with focused craft skills and user-invoked exploration tools (break, variant, state-machine, teardown).
@@ -48,7 +48,7 @@ npx skills add jakubkrehel/skills
 /plugin install interfaces@interfaces
 ```
 
-Also listed on skills.sh (`skills.sh/jakubkrehel/skills`). Repo includes `AGENTS.md`, `CLAUDE.md`, `.claude-plugin/`, and `opencode.json`.
+Also listed on [[skills.sh]] (jakubkrehel/skills path). Repo includes `AGENTS.md`, `CLAUDE.md`, `.claude-plugin/`, and `opencode.json`.
 
 ## Key features
 
@@ -71,4 +71,4 @@ npx skills add jakubkrehel/skills
 
 ## Maintenance status
 
-8,750 GitHub stars, 332 forks, MIT licensed, default branch `main`, most recent push 2026-10-25, no tagged releases. Primary language Markdown. Active skills.sh-listed pack with Claude plugin install path.
+8,750 GitHub stars, 332 forks, MIT licensed, default branch `main`, most recent push 2026-10-25, no tagged releases. Primary language Markdown. Active [[skills.sh]]-listed pack with Claude plugin install path.

@@ -2,12 +2,25 @@
 type: source
 category: "Browser & web automation"
 source_url: https://github.com/zenbu-labs/terminal-browser
-tags: [kitty-graphics-protocol, electron-offscreen-rendering, terminal-embedded-browser, agent-browser-cli, claude-code-plugin, ssh-proxy, rust-graphics-engine, chromium-embed]
-related: [vercel-labs-agent-browser, herdr.dev, Tencent-BrowserSkill, herdrdev-herdr]
+tags:
+  - kitty-graphics-protocol
+  - electron-offscreen-rendering
+  - terminal-embedded-browser
+  - agent-browser-cli
+  - claude-code-plugin
+  - ssh-proxy
+  - rust-graphics-engine
+  - chromium-embed
+related:
+  - vercel-labs-agent-browser
+  - herdr.dev
+  - Tencent-BrowserSkill
+  - herdrdev-herdr
+  - jackwener-opencli
 product: terminal-browser
 detail_level: standard
 created: 2026-09-19
-updated: 2026-10-20
+updated: 2026-10-28
 ---
 
 terminal-browser (zenbu-labs, 3.1k+ stars, MIT) is a real Chromium-based browser that renders inside the terminal itself, using the kitty graphics protocol to display live pixels rather than a text/DOM approximation. It matters to this wiki as a way to give a terminal-bound coding agent direct, visual access to the web in the same tab or pane the agent is already running in — the agent can drive open terminal-browsers through a CLI (`terminal-browser action`) that is explicitly compatible with the [[vercel-labs-agent-browser]] interface, letting an agent open plans rendered as HTML, preview locally-running sites over SSH, or hand a human a live browser window to interact with mid-task.

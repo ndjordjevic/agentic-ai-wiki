@@ -16,7 +16,7 @@ related:
 product: pumadb
 detail_level: standard
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-10-28
 ---
 
 pumaDB is a hosted agent memory API for small server-side apps and agents. It combines durable JSON tables, a REST API, and a hosted Streamable HTTP MCP server so agents can store notes, preferences, research clippings, task state, and app records without running their own database.

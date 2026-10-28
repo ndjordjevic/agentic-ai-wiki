@@ -18,10 +18,11 @@ related:
   - coleam00-ai-native-starter-pack
   - Leonxlnx-unlazy
   - edonadei-caliper
+  - rebelytics-one-skill-to-rule-them-all
 product: skills
 detail_level: standard
 created: 2026-09-28
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 Cole Medin's personal collection of 35 Claude Code Agent Skills, published straight out of his own `.claude/skills/` folder and distributed as a Claude Code plugin. Where [[anthropics-skills]] is Anthropic's own reference set and [[skills.sh]] is a general skills registry, this repo is one practitioner's opinionated, end-to-end coding-agent workflow — the PIV loop (plan, implement, validate) plus the priming, planning, worktree, and meta-skills that surround it — making it a concrete worked example of an "AI Layer" built skill-by-skill rather than as a monolithic rules file.

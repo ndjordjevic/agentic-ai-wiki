@@ -39,6 +39,9 @@ related:
   - coleam00-ai-native-starter-pack
   - Leonxlnx-unlazy
   - google-elephant-goldfish-model
+  - www.taskmaster.one
+  - multica-ai-andrej-karpathy-skills
+  - openspec.dev
 product: gsd
 detail_level: standard
 created: 2026-05-14

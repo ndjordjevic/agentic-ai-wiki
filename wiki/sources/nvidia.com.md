@@ -21,7 +21,7 @@ related:
 product: nemo
 detail_level: standard
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-10-28
 ---
 
 NVIDIA NeMo is an "agent-first" open suite of libraries, microservices, and foundation models for building, deploying, and optimizing AI agents at GPU scale across cloud, on-premises, or hybrid environments. Rather than a single agent-authoring SDK like [[langchain.com-langgraph]] or [[crewai.com]], NeMo is best understood as an end-to-end agent lifecycle platform spanning data prep, model fine-tuning, guardrails, deployment, and observability — positioning it alongside [[huggingface.co]] and [[pytorch.org]] in this wiki's model-infrastructure category rather than the agent-framework category.

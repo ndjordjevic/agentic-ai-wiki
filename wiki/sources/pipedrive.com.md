@@ -7,7 +7,7 @@ related: [hunter.io, zapier.com]
 product: pipedrive
 detail_level: standard
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-10-28
 ---
 
 Pipedrive is a web-based Sales CRM and pipeline management platform serving 100,000+ companies across 179 countries. Built around activity-based selling — "you can't control results, but you can control the actions that close deals" — it provides a kanban-style deal pipeline, AI-assisted selling, email marketing, and project management under one subscription. For agentic AI workflows, Pipedrive matters primarily as a data source and automation target: its REST API exposes the full CRM surface (deals, contacts, activities, leads, organizations, products, webhooks) and an official developer portal enables app integrations distributed through the Pipedrive Marketplace.

@@ -24,7 +24,7 @@ related:
 product: rea
 detail_level: standard
 created: 2026-10-15
-updated: 2026-10-15
+updated: 2026-10-28
 ---
 
 rea.tools is the website for REA ("Reverse Engineering for Your Coding Agent"), the open-source MCP server and CLI captured in [[morluto-rea]]. The repo documents the tool surface; the site teaches the workflow. It sends a beginner from a pasted setup prompt to a first investigation, then through worked guides (native binary, Electron app, browser request) and case studies (Aegis APK, a CTF flag checker, DX-Ball, Notion, Touhou TH04) in which an agent reads a program's code and rebuilds one feature with a verifiable check. It also runs a research blog about model capability for agentic reverse engineering. For this wiki it is a clear example of an agent-tool project built around *show, then verify*: each claim on the site comes with the REA output, the recovered code, and the check that confirmed it.
@@ -64,7 +64,7 @@ npx -y rea-agents@latest doctor --client codex --json   # expect "healthy": true
 npm install --global rea-agents             # optional permanent `rea` command; update with `rea update`
 ```
 
-Native providers are checked with `doctor --provider hopper|ghidra|ida`. For Ghidra, set `GHIDRA_INSTALL_DIR` and `JAVA_HOME`, then rerun setup. Installing only the skill from skills.sh is not enough, because setup must register the MCP server. On Linux, Ghidra, JADX, firmware launches and static JS/Electron analysis need a procps-compatible `ps` on `PATH`. The README also warns users to get REA only from the official repo, rea.tools, or the `rea-agents` npm package, because look-alike repositories exist. (../../raw/github/morluto-rea.md)
+Native providers are checked with `doctor --provider hopper|ghidra|ida`. For Ghidra, set `GHIDRA_INSTALL_DIR` and `JAVA_HOME`, then rerun setup. Installing only the skill from [[skills.sh]] is not enough, because setup must register the MCP server. On Linux, Ghidra, JADX, firmware launches and static JS/Electron analysis need a procps-compatible `ps` on `PATH`. The README also warns users to get REA only from the official repo, rea.tools, or the `rea-agents` npm package, because look-alike repositories exist. (../../raw/github/morluto-rea.md)
 
 ## Example usage
 

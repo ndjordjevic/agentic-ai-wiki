@@ -22,7 +22,7 @@ related:
 product: anthropic.com-harness-design-long-running-apps
 detail_level: deep
 created: 2026-05-14
-updated: 2026-06-30
+updated: 2026-10-28
 ---
 
 Anthropic is an AI safety company that offers the Claude model family and a two-surface developer platform: the **Messages API** for custom agent loops with direct model access, and **Claude Managed Agents** for fully managed, long-running agentic infrastructure. The engineering blog documents first-party harness research, most notably a GAN-inspired multi-agent architecture (planner + generator + evaluator) for building complex applications autonomously over multi-hour sessions.

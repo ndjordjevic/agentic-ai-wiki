@@ -21,7 +21,7 @@ related:
 product: caliper
 detail_level: standard
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 edonadei/caliper (223 stars, MIT) is a Python eval tool, published as `caliper-eval` on PyPI, that runs your real agent with and without your skills, MCPs, and rules to show which ones actually help and what they cost in tokens. Tagline: "Know if your agent skill actually works." It supports Claude Code, Codex, Pi, and Hermes, and is a measurement companion to skill packs like [[anthropics-skills]], [[obra-superpowers]] and [[addyosmani-agent-skills]].
@@ -68,4 +68,4 @@ Inside an agent, `/grill-skill ./inbox-triage/SKILL.md` interviews you, writes t
 
 ## Maintenance status
 
-223 stars, 24 forks, MIT License (© Emrick Donadei), primary language Python, default branch `main`, latest release v0.21.0 (2026-10-27), most recent push the same day. Pre-1.0 and fast-moving: spec key `skill:` became `skills:` in v0.10. Listed on skills.sh; has CONTRIBUTING guidance and pre-commit setup.
+223 stars, 24 forks, MIT License (© Emrick Donadei), primary language Python, default branch `main`, latest release v0.21.0 (2026-10-27), most recent push the same day. Pre-1.0 and fast-moving: spec key `skill:` became `skills:` in v0.10. Listed on [[skills.sh]]; has CONTRIBUTING guidance and pre-commit setup.

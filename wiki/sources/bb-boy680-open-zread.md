@@ -14,10 +14,11 @@ related:
   - he-yufeng-RepoWiki
   - langchain-ai-openwiki
   - AsyncFuncAI-deepwiki-open
+  - 6eanut-llm-wiki
 product: open-zread
 detail_level: standard
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-10-28
 ---
 
 `bb-boy680/open-zread` is an MIT-licensed, TypeScript CLI that turns any local codebase into a structured `Wiki/` folder with Mermaid diagrams — positioned as the open-source successor to zread.ai and an alternative to [[deepwiki.com]] for **local, private** repos. It uses web-tree-sitter AST parsing (14 languages), a three-layer repo map for token-efficient analysis, parallel page agents with 32 built-in tools, symbol-level incremental cache, and diff-aware wiki sync so re-runs after code changes only regenerate affected pages.

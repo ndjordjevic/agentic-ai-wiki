@@ -27,7 +27,7 @@ related:
 product: mastra
 detail_level: standard
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-10-28
 ---
 
 Mastra is a Y Combinator-backed, open-source TypeScript framework (26,600+ GitHub stars, dual Apache-2.0/Enterprise license) for building AI agents and applications, distinguishing itself in this wiki's largely Python-centric agent-framework landscape as a purpose-built TypeScript-native stack with agents, graph-based workflows, durable memory, and a local visual "Studio" UI built in from the start.

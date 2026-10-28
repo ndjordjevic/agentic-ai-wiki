@@ -20,7 +20,7 @@ related:
 product: herdr.dev
 detail_level: standard
 created: 2026-10-20
-updated: 2026-10-20
+updated: 2026-10-28
 ---
 
 herdr (~45k stars, Apache-2.0, v0.9.5) is a Rust agent multiplexer / terminal runtime — "the runtime your coding agents live on" — that keeps coding-agent panes running in a background server across detach and SSH drops, marks each pane working/blocked/idle, and lets agents drive panes via CLI and socket API without wrapping Claude Code, Codex, Cursor, OpenCode, Grok, or other tools they already use.
@@ -29,7 +29,7 @@ _All claims below are sourced from ../../raw/github/herdrdev-herdr.md unless oth
 
 ## What it does
 
-herdr owns the terminals your agents run in. Closing the client or losing SSH does not stop work: a background server keeps panes alive; after a server/machine restart it restores saved layout and can resume supported agent sessions (original processes do not survive). Local work and saved SSH machines share one window with a combined agent list and independent reconnects. Every pane is marked working, blocked, or idle so you do not hunt for the stuck agent. Agents can spawn panes, prompt each other, and wait until another agent is genuinely blocked. Keyboard (tmux-style prefix) and mouse (click, drag, split) are both first-class; plugins extend panes/workflows. One Rust binary, no Electron — runs in whatever terminal you already use. Docs: [herdr.dev/docs](https://herdr.dev/docs/).
+herdr owns the terminals your agents run in. Closing the client or losing SSH does not stop work: a background server keeps panes alive; after a server/machine restart it restores saved layout and can resume supported agent sessions (original processes do not survive). Local work and saved SSH machines share one window with a combined agent list and independent reconnects. Every pane is marked working, blocked, or idle so you do not hunt for the stuck agent. Agents can spawn panes, prompt each other, and wait until another agent is genuinely blocked. Keyboard (tmux-style prefix) and mouse (click, drag, split) are both first-class; plugins extend panes/workflows. One Rust binary, no Electron — runs in whatever terminal you already use. Docs: [[herdr.dev]] ([docs](https://herdr.dev/docs/)).
 
 ## Installation
 

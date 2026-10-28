@@ -6,6 +6,10 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-28 | lint | fix Check #4 wikilinks + clear Check #5 stale
+
+- Updated: wiki/sources/* (Check #4 bare mentions → [[wikilinks]]; orphan related bullets restored to frontmatter; bidirectional related sync; Check #5 `updated:` refreshed after URL verification), wiki/overview.md, wiki/log.md, inbox.md
+
 ## 2026-10-28 | ingest | google-elephant-goldfish-model | EGM — Elephant/Goldfish SDD skills plugin (~3.9k★)
 
 - Created: wiki/sources/google-elephant-goldfish-model.md

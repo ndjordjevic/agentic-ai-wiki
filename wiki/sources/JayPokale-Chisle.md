@@ -18,10 +18,11 @@ related:
   - chopratejas-headroom
   - obra-superpowers
   - Leonxlnx-unlazy
+  - skills.sh
 product: chisle
 detail_level: standard
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 JayPokale/Chisle (719 stars, MIT) is a Claude Code plugin, also shipped to 12 other agents, that cuts an AI coding agent's token bill on three axes: terse prose, YAGNI-first code, and tool-output compression. It began as a merge of caveman (terse prose) and ponytail (lazy-senior-dev code rules), claims shorter answers than both with no accuracy loss, and publishes benchmark runs "including the runs where it lost". On the input side it overlaps with tools like [[rtk-ai-rtk]] and [[chopratejas-headroom]].

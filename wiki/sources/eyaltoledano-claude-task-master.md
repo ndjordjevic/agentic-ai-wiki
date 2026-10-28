@@ -24,7 +24,7 @@ related:
 product: claude-task-master
 detail_level: standard
 created: 2026-05-25
-updated: 2026-08-22
+updated: 2026-10-28
 ---
 
 Taskmaster (`claude-task-master`, npm: `task-master-ai`) is an open-source AI-powered task management system by @eyaltoledano and @RalphEcom with 27,000+ stars, designed to work seamlessly with any AI chat interface or coding agent. It converts Product Requirements Documents into structured, dependency-aware task graphs and exposes them through a CLI and MCP server — making it a drop-in planning layer for Cursor, Lovable, Windsurf, Roo, and other AI-driven editors. The project is now maintained under the Hamster platform at [[tryhamster.com]], with full Taskmaster documentation on [[tryhamster.com]].

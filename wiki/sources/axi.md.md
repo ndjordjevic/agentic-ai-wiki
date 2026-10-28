@@ -13,7 +13,7 @@ related: []
 product: axi
 detail_level: standard
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-10-28
 ---
 
 AXI (Agent eXperience Interface) is a design framework and ecosystem for building agent-first command-line interfaces where token budget is treated as a first-class constraint. It matters because it aims to preserve the reliability and discoverability advantages that agents often associate with structured protocols like MCP, while keeping the operational cost profile closer to CLI workflows.

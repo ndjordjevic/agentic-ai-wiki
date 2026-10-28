@@ -32,6 +32,9 @@ related:
   - Nutlope-hallmark
   - Nutlope-inspo
   - stitch.google.com
+  - ui-skills.com
+  - usehallmark.com
+  - aura.build
 product: open-design
 detail_level: standard
 created: 2026-06-09
@@ -118,6 +121,3 @@ Related GitHub repositories mentioned in the source: `github.com/nexu-io/open-de
 ## Documentation
 
 The `docs/` directory in the companion repo covers architecture, agent-adapters, skills-protocol, modes, plugins-spec, roadmap, deployment (Docker + Vercel), i18n (13 languages), and testing. The `QUICKSTART.md` provides a three-command path for source installs. The open web entry points are at https://open-design.ai/docs/, with the quickstart at https://open-design.ai/quickstart/ and agent catalog at https://open-design.ai/agents/.
-  - ui-skills.com
-  - usehallmark.com
-  - aura.build

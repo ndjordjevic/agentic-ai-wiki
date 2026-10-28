@@ -18,6 +18,7 @@ related:
   - dembrandt-dembrandt
   - Nutlope-hallmark
   - obra-superpowers
+  - ParthJadhav-app-store-screenshots
 product: genjutsu
 detail_level: standard
 created: 2026-10-28

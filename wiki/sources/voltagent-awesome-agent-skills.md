@@ -91,6 +91,6 @@ Not appropriate as a quality guarantee — each skill must be individually revie
 
 - [[anthropics-skills]] — Anthropic's official 17-skill reference repository, fully listed here; the most-starred skills repo in the ecosystem before this list aggregated the broader space.
 - [[obra-superpowers]] — one of the most prominent community skill collections listed here (190k+ stars); included in the Community Skills section.
-- [[skills.sh]] — the Vercel-built distribution layer and leaderboard for the broader skills ecosystem; Awesome Agent Skills serves as a discovery catalog while skills.sh provides the install CLI and telemetry.
+- [[skills.sh]] — the Vercel-built distribution layer and leaderboard for the broader skills ecosystem; Awesome Agent Skills serves as a discovery catalog while [[skills.sh]] provides the install CLI and telemetry.
 - VoltAgent framework (github.com/VoltAgent/voltagent) — the TypeScript multi-agent framework by the same org; featured as an ecosystem tool in this repository.
 - officialskills.sh — companion web registry maintained by VoltAgent, mirroring this list with a browsable per-org UI.

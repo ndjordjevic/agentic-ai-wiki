@@ -18,10 +18,10 @@ related:
 product: archify
 detail_level: standard
 created: 2026-10-20
-updated: 2026-10-20
+updated: 2026-10-28
 ---
 
-Archify is an open-source agent skill (MIT, v3.2.0) that turns ideas, plans, or codebases into self-contained interactive HTML diagrams and explainer pages. Installed via [skills.sh](https://skills.sh/tt-a1i/archify/archify) (`npx skills add`), it works with Claude Code, Codex, Cursor, and OpenCode (plus community Hermes / DeepSeek Harness integrations). With ~86k GitHub stars and 130K+ skills.sh installs (as of October 2026), homepage [archify.si](https://archify.si).
+Archify is an open-source agent skill (MIT, v3.2.0) that turns ideas, plans, or codebases into self-contained interactive HTML diagrams and explainer pages. Installed via [[skills.sh]] (`npx skills add`), it works with Claude Code, Codex, Cursor, and OpenCode (plus community Hermes / DeepSeek Harness integrations). With ~86k GitHub stars and 130K+ [[skills.sh]] installs (as of October 2026), homepage [archify.si](https://archify.si).
 
 _All claims below are sourced from ../../raw/github/tt-a1i-archify.md unless otherwise noted._
 
@@ -77,4 +77,4 @@ Gallery / Proof Lab: https://archify.si/gallery.html · scenario guide: https://
 - **Language:** JavaScript (skill + Node CLI under `archify/`)
 - **Activity:** actively developed (pushed 2026-10-20)
 - **Community:** Discord, WeChat/QQ groups; homepage https://archify.si
-- **Distribution:** skills.sh installs reported at 130K+; agent switcher covers cursor, codex, claude-code, opencode
+- **Distribution:** [[skills.sh]] installs reported at 130K+; agent switcher covers cursor, codex, claude-code, opencode

@@ -15,7 +15,7 @@ related: []
 product: deer-flow
 detail_level: standard
 created: 2026-06-22
-updated: 2026-06-22
+updated: 2026-10-28
 ---
 
 DeerFlow is ByteDance's open-source long-horizon super-agent harness: a full-stack system that combines a LangGraph-based backend, sandboxed execution, persistent memory, sub-agent delegation, skills, MCP tooling, and a web UI into one orchestration layer for multi-minute and multi-hour agentic work. The 2.0 rewrite emphasizes practical agent operations over a thin library API, with a repo layout that makes the runtime, gateway, frontend, and configuration surface easy to inspect and extend.

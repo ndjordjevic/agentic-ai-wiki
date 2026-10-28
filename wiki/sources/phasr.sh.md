@@ -25,7 +25,7 @@ related:
 product: phasr
 detail_level: standard
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-10-28
 ---
 
 Phasr is a free, open-source macOS desktop workspace for running multiple CLI coding agents in parallel, each in its own Git worktree, with real-time diff review and explicit human approval before anything merges to main. The product site positions it as agent-agnostic orchestration — Claude Code, Codex, Gemini, Cursor, Aider, and any terminal-native agent — while the companion repo (`irishabh96/phasr`) implements the stack as a Tauri 2 + React 19 app with Rust-backed PTYs, SQLite persistence, and optional Clerk/Supabase cloud sync. (../../raw/github/irishabh96-phasr.md)

@@ -19,7 +19,7 @@ related:
 product: x.ai
 detail_level: standard
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-10-28
 ---
 
 xAI (x.ai) is the company behind Grok — a family of frontier AI models covering text, code, voice, images, and video — and Grok Bot, a persistent AI teammate that runs on a dedicated cloud computer to complete end-to-end tasks autonomously. The platform is relevant to this wiki as both a model API that powers agentic systems and as a first-class agentic product (Grok Bot, Grok Build) that demonstrates the state of the art in AI-native automation.

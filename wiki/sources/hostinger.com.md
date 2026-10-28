@@ -7,7 +7,7 @@ related: []
 product: hostinger
 detail_level: standard
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-10-28
 ---
 
 Hostinger is a global web hosting provider (5M+ clients, 150+ countries, 20+ years, 10M+ websites) that has expanded into an AI-augmented full-stack web platform covering shared hosting, VPS, cloud hosting, domain registration, AI-powered website builders, and a no-code AI app construction platform (Horizons). Its key differentiator from traditional hosting companies is the integration of AI throughout the stack — from Kodee (an AI assistant managing servers via natural language in the dashboard and web terminal), to Horizons (a no-code LLM-driven web and app builder), to one-click deployment of agentic tools like OpenClaw, Hermes Agent, and n8n on VPS instances.

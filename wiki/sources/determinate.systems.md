@@ -12,7 +12,7 @@ related: [kunchenguid-dotfiles]
 product: determinate-nix-installer
 detail_level: standard
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-10-28
 ---
 
 Determinate Nix Installer is the industry-standard way to install Nix and enable flakes across macOS, Linux, WSL, containers, and CI pipelines. Maintained by Determinate Systems, it backs their commercial Determinate Nix platform and has completed over 7 million installs. The installer is written in Rust, uses a planner-based architecture for predictable configuration, and ships a single-command uninstaller — making it the safest, most reversible way to adopt Nix in any environment.

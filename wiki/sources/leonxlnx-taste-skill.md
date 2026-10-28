@@ -32,6 +32,8 @@ related:
   - stitch.google.com
   - AThevon-genjutsu
   - dembrandt-dembrandt-skills
+  - ui-skills.com
+  - usehallmark.com
 product: taste-skill
 detail_level: standard
 created: 2026-07-14
@@ -84,5 +86,3 @@ For a fixed aesthetic once a direction is chosen: `npx skills add https://github
 ## Ecosystem
 
 Sits in the same DESIGN.md/design-token distribution space as [[voltagent-awesome-design-md]] and [[open-design.ai]] via `stitch-skill`'s Stitch-compatible export, and shares [[stitch.withgoogle.com]]'s underlying premise that AI-generated UI needs an explicit taste layer on top of raw generation. Distinguished from [[oso95-scroll-world]] (which generates a specific artifact — scroll-scrubbed landing video) by being a general-purpose frontend-quality overlay applicable to any UI-generation task, and installable the same multi-host way as other [[skills.sh]]-distributed skill families.
-  - ui-skills.com
-  - usehallmark.com

@@ -17,7 +17,7 @@ related:
 product: langflow
 detail_level: standard
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-10-28
 ---
 
 Langflow is an open-source visual platform for designing, testing, and deploying LLM-powered agent workflows, combining a node-based builder with production deployment surfaces (REST API and MCP server) in one stack. It targets teams that want no-code/low-code flow authoring without giving up code-level extensibility, offering Python custom components, broad model/tool integrations, and infrastructure paths from local desktop to cloud/server deployment.

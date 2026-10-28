@@ -15,7 +15,7 @@ related:
 product: amphetamine
 detail_level: standard
 created: 2026-08-20
-updated: 2026-08-20
+updated: 2026-10-28
 ---
 
 This repo provides supplementary resources for Amphetamine, a popular free macOS app (distributed on the Mac App Store) that prevents a Mac from sleeping, locking the screen, or activating a screensaver. The GitHub repo itself is not the app's source — it hosts the **Power Protect** add-on: an AppleScript + sudoers configuration bundle that fixes a regression on Apple Silicon MacBooks where Amphetamine's Closed-Display Mode (clamshell mode) breaks when the laptop is connected or disconnected from external power. The fix requires manual installation because Apple's sandboxing restrictions prevent Amphetamine from doing it autonomously.

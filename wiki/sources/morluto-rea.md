@@ -19,7 +19,7 @@ related:
 product: rea
 detail_level: standard
 created: 2026-10-10
-updated: 2026-10-15
+updated: 2026-10-28
 ---
 
 REA ("Reverse Engineer Anything", `rea-agents` on npm) is an MIT-licensed TypeScript MCP server and matching CLI (250K+ stars, v6.5.0) that lets a coding agent reverse-engineer software it has no source for — native binaries, JavaScript/Electron apps, .NET assemblies, Android APKs, firmware, EVM bytecode, websites and live process behavior — and return findings together with the evidence, limitations and unknowns behind each conclusion. Its pitch is feature-level: "see a feature you like, understand how it works, down to the binary level," then have the agent build a similar version in your own project. It matters for this wiki as a large, agent-first example of wrapping heavyweight expert tooling (Hopper, Ghidra, IDA, JADX, Binwalk) behind one provider-neutral MCP surface with strict evidence contracts.
@@ -56,7 +56,7 @@ Requires Node.js 22.x (≥22.19), 24.x (≥24.11) or 26+, plus npm. One command 
 npx rea-agents setup
 ```
 
-Supported setup targets include Claude Code, Claude Desktop, Codex, Cursor, Gemini CLI, Windsurf, Devin, OpenCode, Antigravity, GitHub Copilot CLI, Qwen Code, VS Code, Grok Build, Pi, Hermes and others; any local-MCP client can register manually (REA also ships an MCP Registry `server.json`). For regular CLI use: `npm install --global rea-agents`, then `rea update` to stay current. The `reverse-engineer-anything` skill is also published on skills.sh, but skill-only installation does not register the MCP server.
+Supported setup targets include Claude Code, Claude Desktop, Codex, Cursor, Gemini CLI, Windsurf, Devin, OpenCode, Antigravity, GitHub Copilot CLI, Qwen Code, VS Code, Grok Build, Pi, Hermes and others; any local-MCP client can register manually (REA also ships an MCP Registry `server.json`). For regular CLI use: `npm install --global rea-agents`, then `rea update` to stay current. The `reverse-engineer-anything` skill is also published on [[skills.sh]], but skill-only installation does not register the MCP server.
 
 Native analysis needs a provider: setup can install Hopper after approval; Ghidra and IDA are bring-your-own. Setup is additive and idempotent and never installs unrelated software (Homebrew, Node, Java, Ghidra).
 

@@ -25,7 +25,7 @@ related:
 product: docusaurus
 detail_level: standard
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-10-28
 ---
 
 Docusaurus is Meta's open-source React static-site generator purpose-built for documentation websites — and usable for blogs, marketing pages, and product sites. Version 3.10.1 pairs a marketing site at docusaurus.io with the `facebook/docusaurus` monorepo (65K+ stars, MIT), delivering MDX authoring, plugin/preset architecture, document versioning, i18n, and first-class Algolia DocSearch integration out of the box. For this wiki's domain, Docusaurus is the canonical choice many agent frameworks and OSS projects use to publish human- and agent-readable docs (including [[aaif-goose-goose]] and references in [[skills.sh]] deployment guides).

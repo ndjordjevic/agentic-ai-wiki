@@ -88,6 +88,9 @@ related:
   - ParthJadhav-app-store-screenshots
   - latent-spaces-brag
   - google-elephant-goldfish-model
+  - ui-skills.com
+  - 6eanut-llm-wiki
+  - hilash-cabinet
 product: skills
 detail_level: standard
 created: 2026-04-30
@@ -186,4 +189,3 @@ skills.sh indexes the broader open-agent-skills ecosystem, which includes a form
 ## Documentation
 
 The primary docs live at `skills.sh/docs` and cover installation, skill structure, ranking methodology, and security policy. Full CLI reference — all commands, options, compatibility tables, environment variables, and agent path tables — is in the README at `github.com/vercel-labs/skills`.
-  - ui-skills.com

@@ -23,7 +23,7 @@ related:
 product: codey
 detail_level: standard
 created: 2026-07-04
-updated: 2026-07-04
+updated: 2026-10-28
 ---
 
 Codey is a local-first "AI development OS" — a private desktop and terminal workspace that runs specialized coding agents, generates production Next.js apps, delegates knowledge work, and connects 70+ LLM providers without routing model usage through Codey's billing. Built-in agents (Prometheus, Athena, Scout, Iris, Matis, Hermes) cover the Co-Pilot, Autopilot, and Workpilot modes; Pro is $10/month for advanced modes while model costs stay with the providers you already pay for.

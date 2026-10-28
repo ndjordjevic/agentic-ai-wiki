@@ -18,7 +18,7 @@ related:
 product: gws
 detail_level: standard
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-10-28
 ---
 
 `gws` is a Rust CLI that exposes the entire Google Workspace API surface (Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more) by reading Google's Discovery Service at runtime rather than shipping a static command list — new API methods appear automatically. It ships 100+ bundled Agent Skills (`SKILL.md` files, one per API plus curated workflow recipes), making it a dual-purpose tool: a human-friendly Workspace CLI and a ready-made action layer for AI agents. See [[davila7-claude-code-templates]] and [[voltagent-awesome-agent-skills]] for other large Agent Skills catalogs.

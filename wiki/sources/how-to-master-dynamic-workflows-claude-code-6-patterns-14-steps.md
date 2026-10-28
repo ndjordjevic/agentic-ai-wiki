@@ -21,7 +21,7 @@ related:
 product: how-to-master-dynamic-workflows-claude-code-6-patterns-14-steps
 detail_level: standard
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-10-28
 ---
 
 An X article by Codez (@0xCodez) providing a practitioner-oriented guide to Claude Code Dynamic Workflows (shipped May 28, 2026): the mental model for when one context window breaks down, six orchestration patterns Anthropic engineers use (classify-and-act, fan-out-and-synthesize, adversarial verification, generate-and-filter, tournament, loop until done), a use-case composition matrix, and practical controls (`ultracode`, `/goal`, `/loop`, token budgets, quarantine for untrusted inputs, saving workflows as Skills).

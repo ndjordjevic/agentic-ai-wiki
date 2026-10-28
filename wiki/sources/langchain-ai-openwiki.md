@@ -7,7 +7,7 @@ related: [langchain.com-deepagents, langchain.com-langsmith, langchain.com, deep
 product: openwiki
 detail_level: standard
 created: 2026-07-03
-updated: 2026-07-16
+updated: 2026-10-28
 ---
 
 `langchain-ai/openwiki` is a TypeScript CLI, built by LangChain, that writes and maintains documentation for a codebase specifically so agents can consume it. Rather than a human-facing README generator, it runs a DeepAgents-backed agent that inspects a target repository and produces (and keeps refreshed) a structured `openwiki/` directory, then wires `AGENTS.md`/`CLAUDE.md` to point coding agents at it — an implementation of the same "compile knowledge once, look it up cheaply" idea seen in [[6eanut-llm-wiki]], but automated end-to-end by an LLM agent instead of a Claude Code skill workflow.

@@ -7,7 +7,7 @@ related: []
 product: mainframe
 detail_level: standard
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-10-28
 ---
 
 Mainframe is a video generation platform designed specifically for AI agent workflows: it turns agent work sessions into shareable, watchable videos that teams can keep up with without needing to be present during execution. Positioned as "MCP + skill compatible," it integrates with Claude Code, Cursor, Codex, and other AI coding tools, making it straightforward to capture and distribute agent output as video recaps.

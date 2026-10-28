@@ -18,7 +18,7 @@ related:
 product: codewiki
 detail_level: standard
 created: 2026-07-03
-updated: 2026-07-16
+updated: 2026-10-28
 ---
 
 `PorunC/CodeWiki` is a Python knowledge platform that combines **AST-based code graphs**, **GraphRAG retrieval**, DeepWiki-style wiki generation, and LiteLLM-powered Q&A — exposed through a FastAPI + React web UI, CLI, HTTP API, and **MCP server**. Unlike [[deepwiki.com]]'s hosted indexer, CodeWiki runs locally (`pip install codewiki && codewiki serve`) and includes a **Lite Mode** that builds a no-LLM graph index (`.codewiki/codewiki-lite.sqlite3`) optimized for fast symbol search, call traces, and agent MCP tools without calling an external model.
