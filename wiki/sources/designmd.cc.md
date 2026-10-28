@@ -23,6 +23,9 @@ related:
   - impeccable.style
   - duply.ai
   - Nutlope-inspo
+  - stitch.google.com
+  - INSANE0777-Awwwards-mcp
+  - dembrandt-dembrandt
 product: designmd.cc
 detail_level: standard
 created: 2026-07-08

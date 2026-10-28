@@ -234,3 +234,11 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/kunchenguid-compact-adviser.md | kunchenguid/compact-adviser | 224 | main | compact-adviser-v0.1.14 | 2026-10-28 | |
 | raw/github/UditAkhourii-quicksilver.md | UditAkhourii/quicksilver | 131 | main | none | 2026-10-28 | |
 | raw/github/AgriciDaniel-jev-seo.md | AgriciDaniel/jev-seo | 720 | main | none | 2026-10-28 | |
+| raw/github/google-labs-code-stitch-sdk.md | google-labs-code/stitch-sdk | 1836 | main | v0.4.0-canary.1 | 2026-10-28 | |
+| raw/github/INSANE0777-Awwwards-mcp.md | INSANE0777/Awwwards-mcp | 362 | main | v1.14.0 | 2026-10-28 | |
+| raw/github/responsively-org-responsively-app.md | responsively-org/responsively-app | 25495 | main | v2.0.0-beta.0 | 2026-10-28 | |
+| raw/github/AThevon-genjutsu.md | AThevon/genjutsu | 695 | main | v4.1.1 | 2026-10-28 | |
+| raw/github/dembrandt-dembrandt.md | dembrandt/dembrandt | 3871 | main | v0.39.2 | 2026-10-28 | |
+| raw/github/dembrandt-dembrandt-skills.md | dembrandt/dembrandt-skills | 173 | main | n/a | 2026-10-28 | |
+| raw/github/ParthJadhav-app-store-screenshots.md | ParthJadhav/app-store-screenshots | 7670 | main | n/a | 2026-10-28 | |
+| raw/github/latent-spaces-brag.md | latent-spaces/brag | 19163 | main | brag | 2026-10-28 | |

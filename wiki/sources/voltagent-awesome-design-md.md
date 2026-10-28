@@ -26,6 +26,8 @@ related:
   - leonxlnx-taste-skill
   - Nutlope-hallmark
   - Nutlope-inspo
+  - stitch.google.com
+  - dembrandt-dembrandt
 product: awesome-design-md
 detail_level: standard
 created: 2026-07-02

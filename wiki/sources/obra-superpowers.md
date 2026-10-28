@@ -65,6 +65,7 @@ related:
   - coldteadotai-abide
   - valentynkit-jev-belay
   - claudemod.com
+  - AThevon-genjutsu
 product: superpowers
 detail_level: standard
 created: 2026-05-14

@@ -6,6 +6,47 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-28 | ingest | latent-spaces-brag | /brag — launch video agent skill + brag-slim (~19.2k★)
+
+- Created: wiki/sources/latent-spaces-brag.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-28 | ingest | ParthJadhav-app-store-screenshots | App Store Screenshots — agent skill + Next.js store asset editor (~7.7k★)
+
+- Created: wiki/sources/ParthJadhav-app-store-screenshots.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-28 | ingest | dembrandt-dembrandt-skills | dembrandt-skills — UX Agent Skills for dembrandt (~173★)
+
+- Created: wiki/sources/dembrandt-dembrandt-skills.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-28 | ingest | dembrandt-dembrandt | Dembrandt — extract live-site design tokens + MCP/CI (~3.9k★)
+
+- Created: wiki/sources/dembrandt-dembrandt.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-28 | ingest | AThevon-genjutsu | genjutsu — Claude creative/motion design skills cast/paint/bunshin (~695★)
+
+- Created: wiki/sources/AThevon-genjutsu.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-28 | ingest | responsively-org-responsively-app | Responsively App — multi-device browser + MCP (~25.5k★, AGPL)
+
+- Created: wiki/sources/responsively-org-responsively-app.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-28 | ingest | INSANE0777-Awwwards-mcp | Awwwards MCP — design inspiration + capture for coding agents (~362★)
+
+- Created: wiki/sources/INSANE0777-Awwwards-mcp.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-28 | ingest | stitch.google.com | Stitch CLI/MCP/SDK docs + companion google-labs-code/stitch-sdk (~1.8k★)
+
+- Created: wiki/sources/stitch.google.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/google-labs-code-stitch-sdk.md
+
 ## 2026-10-28 | ingest | claudemod.com | ClaudeMod — community directory for Claude Code mods, skills, MCP & hooks (~172)
 
 - Created: wiki/sources/claudemod.com.md

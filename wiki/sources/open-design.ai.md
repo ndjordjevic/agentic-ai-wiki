@@ -31,6 +31,7 @@ related:
   - leonxlnx-taste-skill
   - Nutlope-hallmark
   - Nutlope-inspo
+  - stitch.google.com
 product: open-design
 detail_level: standard
 created: 2026-06-09

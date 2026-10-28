@@ -1,0 +1,192 @@
+# dembrandt/dembrandt-skills
+
+## Metadata
+- Stars: 173
+- Forks: 22
+- Primary language: JavaScript
+- Default branch: main
+- Latest release: n/a
+- License: MIT License
+- Homepage: https://www.dembrandt.com/skills
+- Fetched: 2026-10-28
+- Final URL: https://github.com/dembrandt/dembrandt-skills
+
+## Description
+Senior-level UX and design-system knowledge, packaged so your AI agent applies it automatically.
+
+## README
+# dembrandt-skills
+
+[![skills.sh installs](https://skills.sh/b/dembrandt/dembrandt-skills)](https://skills.sh/dembrandt/dembrandt-skills)
+[![CI](https://github.com/dembrandt/dembrandt-skills/actions/workflows/test.yml/badge.svg)](https://github.com/dembrandt/dembrandt-skills/actions/workflows/test.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+![Enterprise UX for every agent](dembrandt-skills.png)
+
+**Enterprise UX secrets, now built into your AI agent.**
+
+Your agent writes the component in seconds. It does not know the modal should be a drawer, or that the grey it picked fails contrast. These skills carry that judgment: what to do, and what breaks otherwise. Works with Claude Code, Cursor, Codex, GitHub Copilot and any agent that reads the Open Agent Skills format.
+
+## Quick start
+
+```bash
+npx skills add dembrandt/dembrandt-skills --all
+```
+
+Skills load only when a prompt needs them, so `--all` costs nothing. `--global` installs for every project. 43 of the 45 skills work on the install alone. Two read live sites and need the [engine](#the-engine).
+
+Then try it. Open a UI file and ask your agent:
+
+```
+Review this interface for usability issues.
+```
+
+On Claude Code, the plugin is the shorter route: it carries the skills and registers the dembrandt MCP server in one go. It does not fetch the browser: run `npx dembrandt install-browser` once before the first extraction. Everyone else uses `npx skills` above. The `npx` line goes in a terminal; the `/plugin` lines are typed inside Claude Code.
+
+```
+/plugin marketplace add dembrandt/dembrandt-skills
+/plugin install dembrandt@dembrandt
+```
+
+## Usage
+
+Ask in your own words and the matching skill loads. Ask broadly, "review this screen", and the dembrandt skill runs the whole pipeline.
+
+| Ask | What loads |
+|---|---|
+| I have one brand colour, #133174. Build me a full UI palette. | algorithmic-color-palette |
+| My font sizes feel random. Set up a proper type scale. | modular-scale-typography |
+| Review this interface for usability issues. | nielsen-usability-heuristics |
+| Our buttons, inputs and badges look like three different products. | component-family-consistency |
+| Design a multi-step onboarding flow for a B2B SaaS tool. | user-flows-and-guided-paths |
+| Does this pass WCAG 2.2 AA? | wcag-accessibility |
+| Extract the design system from stripe.com. | extract-design, needs the [engine](https://github.com/dembrandt/dembrandt) |
+
+## Skills
+
+**Brand & Visual Identity**
+
+| Skill | What it covers |
+|---|---|
+| `brand-visual-language` | Shape language, icon style, typography tone |
+| `color-mode-and-theme` | Light vs dark vs combined, when to offer a theme selector |
+| `marketing-vs-product-system` | What a marketing site and the product may differ on, and what is drift |
+| `algorithmic-color-palette` | Derive states and brand-tinted greys from brand colours |
+
+**Design Tokens & Scales**
+
+| Skill | What it covers |
+|---|---|
+| `modular-scale-typography` | Ratio-based type scales, minimum sizes, context-aware usage |
+| `elevation-and-depth` | Shadow scale, border-radius, card and modal patterns |
+| `surface-separation` | One separation strategy per surface; opacity as state, not tint |
+| `button-states` | Six states: rest, hover, active, focus, disabled, loading |
+| `component-family-consistency` | Buttons, inputs, pills: shared radius, colour, height |
+| `sizing-units` | px vs rem vs relative: which values move when the user enlarges text |
+
+**Layout & Structure**
+
+| Skill | What it covers |
+|---|---|
+| `layout-paradigms-and-consistency` | Choose the layout paradigm that fits the content; reuse the page skeleton across screens |
+| `gestalt-ui-organisation` | Group related controls: proximity, similarity, common region |
+| `visual-emphasis-and-hierarchy` | One CTA per view, colour and size as emphasis |
+| `information-architecture` | Naming, mental models, data UI, confirm dialogs |
+| `ui-context-and-scope` | Hierarchy, breadcrumbs, colour regions, scope communication |
+| `responsive-paradigms` | Mobile/tablet/desktop: nav, sections, sticky behaviour |
+| `ui-density` | Match density to platform and user type |
+| `sticky-and-fixed-elements` | Headers, bottom toolbars, z-index tokens |
+| `scroll-areas` | Avoid inner scroll, one axis only, user-controlled |
+
+**Components & Interaction**
+
+| Skill | What it covers |
+|---|---|
+| `real-world-metaphors` | Cards, carousels, drawers: when to use and how |
+| `form-design` | Helper text, placeholder, validation, submit state |
+| `tab-navigation` | Tab types, overflow handling, roving tabindex, ARIA tablist, URL state |
+| `modal-and-overlay-patterns` | Overlay hierarchy, focus trap, dismiss rules, destructive confirms |
+| `data-display-and-selection` | Grid/list/table, large hit areas, mass actions |
+| `repeated-component-alignment` | Repeated components as slot models: equal size, pinned anchors, clamp + recover text |
+| `operational-expert-tool-ui` | Dense, workflow-driven UIs for trained daily B2B users |
+| `coordinated-data-views` | Keep a table and a visual view (map, diagram, chart) in sync |
+| `domain-expert-configuration` | Expose solver/algorithm settings in domain language |
+| `app-shell` | Top bar, sidebar rail, app launcher, tenant and environment cue, status bar: one shell across an estate |
+| `global-toolbar-controls` | Currency, language, region and unit selectors: frequent but not primary |
+| `notifications-and-recovery` | Toasts, banners, retry, undo: always a path forward |
+| `status-colors-and-errors` | Minimal semantic colours, error recovery, prevention |
+
+**UX Principles**
+
+| Skill | What it covers |
+|---|---|
+| `nielsen-usability-heuristics` | 10 usability principles with review checklists |
+| `wcag-accessibility` | WCAG 2.2 AA / EN 301 549: contrast, keyboard, ARIA |
+| `user-flows-and-guided-paths` | Wizards, purchase flows, onboarding sequences |
+| `authentic-product-representation` | Real content and real output over staged mockups and marketing chrome |
+| `micro-interactions` | Animated icons, toggles, reveals, celebrations |
+| `loading-states-and-perceived-performance` | Spinners, skeleton screens, and staggered entry animations |
+| `motion-and-storytelling` | Disney principles and cinematic language in UI |
+
+**Technical Foundation**
+
+| Skill | What it covers |
+|---|---|
+| `semantic-html-and-seo` | HTML5, alt texts, Open Graph, progressive enhancement |
+| `performance-and-web-vitals` | Lighthouse audit, LCP, CLS, INP, images, fonts, JS loading |
+
+**Pipeline & Orchestration**
+
+| Skill | What it covers |
+|---|---|
+| `extract-design` | Extract real design tokens from any live website via Dembrandt CLI or MCP (requires dembrandt ≥ 0.39.0) |
+| `clone-website` | Rebuild a live page 1:1 from capture and computed styles, into Figma, Penpot or code |
+| `generate-ui-from-brand` | URL or DESIGN.md to tokens to decisions to UI spec (requires dembrandt ≥ 0.23.1) |
+| `dembrandt` | Full 6-stage UX orchestrator: brand, tokens, layout, components, polish, a11y gate |
+
+## The engine
+
+[Dembrandt](https://github.com/dembrandt/dembrandt) turns any live website into design tokens in seconds, then enforces them in CI. It catches brand drift on every pull request, before it ships. Free and open source, at [dembrandt.com](https://dembrandt.com).
+
+Two skills, extract-design and generate-ui-from-brand, read tokens off a live site and need it. Add it to your agent's MCP config:
+
+```json
+{
+  "mcpServers": {
+    "dembrandt": {
+      "command": "npx",
+      "args": ["-y", "dembrandt", "mcp"]
+    }
+  }
+}
+```
+
+Needs Node.js 18 or newer. Dembrandt drives its own Chromium, which is not bundled: run `npx dembrandt install-browser` once in a terminal before the first extraction.
+
+## Contributing
+
+Changes to `skills/**` go through a pull request, however small. A push to `main` is live to every install. Run `npm test` before opening one; CI validates frontmatter, cross-links and the manifest.
+
+## License
+
+MIT
+
+
+## Docs
+No docs/ directory fetched (absent or empty at standard detail).
+
+
+## Top-level structure
+dir	.claude-plugin	.claude-plugin
+dir	.github	.github
+file	.gitignore	.gitignore
+file	.mcp.json	.mcp.json
+file	LICENSE	LICENSE
+file	README.md	README.md
+file	dembrandt-skills.png	dembrandt-skills.png
+file	package-lock.json	package-lock.json
+file	package.json	package.json
+dir	scripts	scripts
+dir	skills	skills
+dir	test	test
+

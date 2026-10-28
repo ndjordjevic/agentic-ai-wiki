@@ -17,6 +17,7 @@ related:
   - vercel-labs-agent-browser
   - browser-use.com
   - AgriciDaniel-jev-seo
+  - responsively-org-responsively-app
 product: jev-browser
 detail_level: standard
 created: 2026-10-28

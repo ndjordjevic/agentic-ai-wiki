@@ -30,6 +30,8 @@ related:
   - jackwener-opencli
   - reticlehq-reticle
   - Ying-Kai-Liao-jev-browser
+  - INSANE0777-Awwwards-mcp
+  - responsively-org-responsively-app
 product: playwright-mcp
 detail_level: standard
 created: 2026-05-25

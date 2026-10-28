@@ -358,3 +358,11 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/UditAkhourii/quicksilver <!-- note: Jev tool from https://www.youtube.com/watch?v=jlEMo6Dsh9E --> <!-- ingested 2026-10-28 -->
 - [x] https://github.com/AgriciDaniel/jev-seo <!-- note: Jev tool from https://www.youtube.com/watch?v=jlEMo6Dsh9E --> <!-- ingested 2026-10-28 -->
 - [x] https://www.claudemod.com/ <!-- ingested 2026-10-28 -->
+- [x] https://stitch.google.com/docs/cli/overview <!-- ingested 2026-10-28 -->
+- [x] https://github.com/INSANE0777/Awwwards-mcp <!-- ingested 2026-10-28 -->
+- [x] https://github.com/responsively-org/responsively-app <!-- ingested 2026-10-28 -->
+- [x] https://github.com/AThevon/genjutsu <!-- ingested 2026-10-28 -->
+- [x] https://github.com/dembrandt/dembrandt <!-- ingested 2026-10-28 -->
+- [x] https://github.com/dembrandt/dembrandt-skills <!-- ingested 2026-10-28 -->
+- [x] https://github.com/ParthJadhav/app-store-screenshots <!-- ingested 2026-10-28 -->
+- [x] https://github.com/latent-spaces/brag <!-- ingested 2026-10-28 -->

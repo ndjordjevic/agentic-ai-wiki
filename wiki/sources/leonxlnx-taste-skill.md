@@ -29,6 +29,9 @@ related:
   - img2threejs-img2threejs
   - ibelick-ui-skills
   - dmmulroy-anti-slop
+  - stitch.google.com
+  - AThevon-genjutsu
+  - dembrandt-dembrandt-skills
 product: taste-skill
 detail_level: standard
 created: 2026-07-14

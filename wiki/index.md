@@ -351,4 +351,12 @@ created: 2026-04-28
 | [[UditAkhourii-quicksilver]] | github | standard | 2026-10-28 | Quicksilver — Jev bulk judgment / file shortlist skill (~131★) |
 | [[AgriciDaniel-jev-seo]] | github | standard | 2026-10-28 | jev-seo — live SEO audit via Jev, PDF/XLSX/MD (~720★) |
 | [[claudemod.com]] | web | standard | 2026-10-28 | community hub for Claude Code mods, skills, MCP, hooks (~172 listings) |
-_340 sources ingested._
+| [[stitch.google.com]] | web | standard | 2026-10-28 | companion: google-labs-code/stitch-sdk — CLI/MCP/skills docs for Stitch |
+| [[INSANE0777-Awwwards-mcp]] | github | standard | 2026-10-28 | Awwwards MCP — design inspiration + capture for coding agents (~362★) |
+| [[responsively-org-responsively-app]] | github | standard | 2026-10-28 | Responsively App — multi-device browser + MCP (~25.5k★, AGPL) |
+| [[AThevon-genjutsu]] | github | standard | 2026-10-28 | genjutsu — Claude creative/motion design skills cast/paint/bunshin (~695★) |
+| [[dembrandt-dembrandt]] | github | standard | 2026-10-28 | Dembrandt — extract live-site design tokens + MCP/CI (~3.9k★) |
+| [[dembrandt-dembrandt-skills]] | github | standard | 2026-10-28 | dembrandt-skills — UX Agent Skills for dembrandt (~173★) |
+| [[ParthJadhav-app-store-screenshots]] | github | standard | 2026-10-28 | App Store Screenshots — agent skill + Next.js store asset editor (~7.7k★) |
+| [[latent-spaces-brag]] | github | standard | 2026-10-28 | /brag — launch video agent skill + brag-slim (~19.2k★) |
+_348 sources ingested._

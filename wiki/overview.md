@@ -684,3 +684,17 @@ updated: 2026-10-28
 [[AgriciDaniel-jev-seo]] is jev-seo (~720★, MIT) — live SEO audit from one homepage URL (crawl + 52 rules + Jev + optional DataForSEO), exporting PDF, Excel, and Markdown. Uses [[typesafe.ai]] Jev for page judgments; adjacent to browser tooling like [[Ying-Kai-Liao-jev-browser]].
 
 [[claudemod.com]] is ClaudeMod — a community-maintained directory (~172 listings) for Claude Code in-process mods/plugins, skills, MCP servers, hooks, and harnesses, with category browse and GitHub-linked detail pages. Smaller and more mod-pane–centric than [[claudemarketplaces.com]]; complements [[skills.sh]] for skill discovery.
+
+[[stitch.google.com]] documents Stitch's CLI / Agent Skills / MCP / SDK developer surface (`@google/stitch`, `@google/stitch-sdk`), complementing the Canvas product page [[stitch.withgoogle.com]] under the shared `stitch` product. Official docs are a JS SPA; ingest paired official llms.txt with an attributed docs mirror and the stitch-sdk companion repo.
+
+[[INSANE0777-Awwwards-mcp]] is awwwards-mcp (~362★, MIT) — an MCP server that feeds coding agents Awwwards-style design references (screenshots, design DNA, motion capture) and can recreate/verify pages from any URL, pairing with responsive-check tools like [[responsively-org-responsively-app]].
+
+[[AThevon-genjutsu]] is genjutsu (~695★) — Claude cast/paint/bunshin skills for motion and anti-slop UI, proposing an interaction thesis before code, alongside taste packs like [[leonxlnx-taste-skill]].
+
+[[dembrandt-dembrandt]] is Dembrandt (~3.9k★, MIT) — CLI/MCP that extracts W3C design tokens from a live site and gates visual drift in CI; complements DESIGN.md tooling like [[designmd.cc]].
+
+[[dembrandt-dembrandt-skills]] packages ~45 UX/design-system Agent Skills (and a Claude plugin) on top of [[dembrandt-dembrandt]], installable via skills.sh / Claude marketplace.
+
+[[ParthJadhav-app-store-screenshots]] is an Agent Skill (~7.7k★) that scaffolds a Next.js connected-canvas editor for App Store / Play marketing screenshots with store-exact export zips.
+
+[[latent-spaces-brag]] is `/brag` (~19.2k★, MIT) — an agent skill that turns a finished project into a ~20s launch video (Hyperframes full mode or Opus-oriented `/brag-slim`), with letsbrag.app as a hosted option.

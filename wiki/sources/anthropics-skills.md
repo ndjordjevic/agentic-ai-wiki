@@ -68,6 +68,7 @@ related:
   - FloWritesCode-fwc-swiftui-skills
   - edonadei-caliper
   - claudemod.com
+  - dembrandt-dembrandt-skills
 product: skills
 detail_level: standard
 created: 2026-05-11
