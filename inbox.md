@@ -17,7 +17,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
         note: <text>        — freeform note for human review (ignored by ingest)
 -->
 
-
 ## Completed
 
 <!-- Processed lines are moved here automatically.
@@ -344,3 +343,6 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/FloWritesCode/fwc-swiftui-skills <!-- note: from youtu.be/Ua0APTMVcb8 --> <!-- ingested 2026-10-27 -->
 - [x] https://github.com/edonadei/caliper <!-- note: from youtu.be/Ua0APTMVcb8 --> <!-- ingested 2026-10-27 -->
 - [x] https://github.com/dmmulroy/anti-slop <!-- note: from youtu.be/Ua0APTMVcb8 --> <!-- ingested 2026-10-27 -->
+- [x] https://github.com/Nutlope/inspo <!-- ingested 2026-10-28 -->
+- [x] https://www.ui-skills.com/skills <!-- ingested 2026-10-28 -->
+- [x] https://github.com/Einsia/agent-git <!-- ingested 2026-10-28 -->

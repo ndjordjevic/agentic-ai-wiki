@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 # Agentic AI Frameworks — by category
@@ -22,10 +22,10 @@ updated: 2026-10-27
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (0/28 studied)
 - [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (0/42 studied)
 - [[#Browser & web automation|Browser & web automation]] (0/13 studied)
-- [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (0/11 studied)
+- [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (0/12 studied)
 - [[#Model infra, ML & providers|Model infra, ML & providers]] (0/18 studied)
 - [[#Workflow automation & no-code platforms|Workflow automation & no-code platforms]] (0/10 studied)
-- [[#Design & UI generation|Design & UI generation]] (0/22 studied)
+- [[#Design & UI generation|Design & UI generation]] (0/24 studied)
 - [[#Media, voice & content|Media, voice & content]] (0/14 studied)
 - [[#Infra, hosting, DB & observability|Infra, hosting, DB & observability]] (0/15 studied)
 - [[#Security|Security]] (0/4 studied)
@@ -274,6 +274,7 @@ updated: 2026-10-27
 
 ## Terminal, session & parallel-agent runners
 
+- [ ] [[Einsia-agent-git]] — is agit (~414★, MIT, Rust v0.2.28) — lossless git-style version control for Claude Code / Codex / OpenCode / Cursor sessions (import → commit → push → resume/run) on agent-git.com.
 - [ ] [[herdr.dev]] — documents Herdr — the agent multiplexer for the terminal (14,500+ stars), positioned as "to coding agents what tmux is to terminals." A single Rust binary with no Electron and no account, Herdr run…
 - [ ] [[herdrdev-herdr]] — is the official GitHub for [[herdr.dev]] — a Rust single-binary agent multiplexer (~45k★, Apache-2.0 v0.9.5) that keeps coding-agent terminals alive across detach and SSH, marks panes working/block…
 - [ ] [[max-sixty-worktrunk]] — introduces Worktrunk, a Rust CLI (5,470 stars) that wraps git's native worktree feature to make running multiple AI coding agents in parallel as easy as switching branches — addressing worktrees by…
@@ -337,12 +338,14 @@ updated: 2026-10-27
 - [ ] [[MengTo-Skills]] — (~7k★, MIT) is Meng To's categorized Agent Skills library for web design, Three.js/GSAP, SVG illustration styles, game combat/dev, and video/HTML→super-prompt capture workflows aimed at Codex, Clau…
 - [ ] [[motionsites.ai]] — is a paid library of copy-paste AI design prompts — hero sections, full landing pages, animated backgrounds, and gradients — meant to be pasted into an AI website builder like [[bolt.new|Bolt.new]]…
 - [ ] [[Nutlope-hallmark]] — is Together AI's open-source design skill (18,900+ stars) for Claude Code, Cursor, and Codex, aimed squarely at the "every AI-generated page looks the same" problem: it picks a macrostructure per b…
+- [ ] [[Nutlope-inspo]] — is Inspo (~941★, MIT, Together AI) — a curated archive of 832 real production sites (2,320 pages) with palettes, fonts, DESIGN.md, fold autopsies, and reference JSX, queryable over MCP so coding agents can…
 - [ ] [[Nutlope-variate]] — is Variate (~214★, MIT) — a zero-dependency design skill that writes four real variants of one file and lets you flip them on your own localhost with arrow keys; the pick stays as code.
 - [ ] [[open-design.ai]] — introduces Open Design (62,118 stars, Apache-2.0, v0.9.0), the open-source, local-first alternative to Claude Design — a complete agent-native design platform that turns any of 21+ supported coding…
 - [ ] [[oso95-scroll-world]] — is an Agent Skill that builds Apple-style scroll-scrubbed "fly through the world" landing pages for any brand: a camera flies into one generated diorama scene after another with no cuts, driven pur…
 - [ ] [[Owl-Listener-designer-skills]] — (~3.1k★, MIT) is the Designer Skills Pack marketplace front door — 273 skills and 76 commands across 33 plugins in five collections (this repo hosts the 9-plugin design-practice suite) for Claude C…
 - [ ] [[pbakaus-impeccable]] — is Impeccable (44K+ stars, Apache 2.0, Skill 3.9.1) — Paul Bakaus's design language for AI coding agents, evolved from Anthropic's `frontend-design` skill in [[anthropics-skills]]. One `/impeccable…
 - [ ] [[stitch.withgoogle.com]] — documents Stitch, Google Labs' Gemini 2.5 Pro–powered vibe-design experiment that turns natural-language prompts, sketches, and mood adjectives into UI layouts, Figma-ready exports, and HTML/CSS fr…
+- [ ] [[ui-skills.com]] — is the web catalog for UI Skills (439 design-engineering Agent Skills) with CLI (`npx ui-skills`) and MCP (`list_skills` / `get_skill`), plus Playbook lessons; companion [[ibelick-ui-skills]].
 - [ ] [[voltagent-awesome-design-md]] — is VoltAgent's curated catalog of 73+ agent-readable brand design systems (95k+ stars, MIT) — plain-text `DESIGN.md` files reverse-engineered from real websites so coding agents generate UI matchin…
 
 ## Media, voice & content

@@ -22,10 +22,11 @@ related:
   - pbakaus-impeccable
   - impeccable.style
   - duply.ai
+  - Nutlope-inspo
 product: designmd.cc
 detail_level: standard
 created: 2026-07-08
-updated: 2026-08-04
+updated: 2026-10-28
 ---
 
 DesignMD is a free web tool and CLI (`@designmdcc/cli`) that measures a live production website's DOM and CSSOM — not a screenshot — and generates a portable `DESIGN.md` spec with real CSS variables, typography, spacing scale, breakpoints, and interaction states, purpose-built as project-root context for coding agents like Claude Code, Cursor, and GitHub Copilot.
@@ -81,3 +82,4 @@ Companion repo `adityarajdigital/designmd`: 49 stars, 5 forks, MIT license (repo
 ## Ecosystem
 
 DesignMD's output format sits in the same `DESIGN.md`-as-project-context niche popularized by Google Stitch and cataloged by [[voltagent-awesome-design-md]] and [[open-design.ai]] — where those two focus on distributing pre-made brand `DESIGN.md` files, DesignMD is a live, on-demand extractor: point it at any URL and get a measured spec in ~12 seconds rather than picking from a curated library. The README explicitly targets the same coding-agent audience (Claude Code, Cursor, Windsurf, Aider, Copilot, Cline, Continue) and documents per-tool integration patterns for each.
+  - ui-skills.com

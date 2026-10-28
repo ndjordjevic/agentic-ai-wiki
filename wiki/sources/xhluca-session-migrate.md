@@ -10,7 +10,7 @@ related:
 product: session-migrate
 detail_level: standard
 created: 2026-08-26
-updated: 2026-08-26
+updated: 2026-10-28
 ---
 
 session-migrate (`smigrate`) is a Python CLI (53 stars, MIT, v0.8.0) that moves a native coding-agent conversation — the whole resumable session, not just its text — between Claude Code, Codex, Pi, Oh My Pi, OpenCode, GitHub Copilot CLI, Antigravity CLI, Cursor Agent, Mistral Vibe, Muse Code, Qwen Code, and Kimi Code. It matters for this wiki as the missing piece in the multi-harness workflow other tools here assume is possible: switching agents mid-task without starting the conversation over.
@@ -75,3 +75,4 @@ Reach for session-migrate when a long-running, tool-heavy conversation needs to 
 ## Ecosystem
 
 session-migrate's data-and-credential boundary is notable: it never reads login stores, cookies, API keys, MCP connections, or workspace files, and performs no redaction or secret scanning — a secret already embedded in a migrated message or tool result is copied verbatim into the target. It complements this wiki's other terminal/session tooling — [[max-sixty-worktrunk]] and [[tmuxai.dev]] manage *where* an agent session runs (parallel worktrees, tmux panes), while session-migrate manages *which agent* a given session's history can resume inside, including [[pi.dev]] as one of its twelve supported targets. Antigravity and Cursor's reverse-engineered formats are published as separate companion research repos (`xhluca/antigravity-session-interoperability`, `xhluca/cursor-session-interoperability`).
+  - Einsia-agent-git

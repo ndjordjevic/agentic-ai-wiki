@@ -6,6 +6,22 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-28 | ingest | Einsia-agent-git | agit — lossless version control for agent sessions (~414★, v0.2.28)
+
+- Created: wiki/sources/Einsia-agent-git.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-28 | ingest | ui-skills.com | UI Skills web catalog — 439 design skills via CLI + MCP
+
+- Created: wiki/sources/ui-skills.com.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md
+- Companion: raw/github/ibelick-ui-skills.md
+
+## 2026-10-28 | ingest | Nutlope-inspo | Inspo — real-site design archive for agents over MCP (~941★, MIT)
+
+- Created: wiki/sources/Nutlope-inspo.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-10-27 | ingest | dmmulroy-anti-slop | anti-slop — opinionated Oxlint rules for low-evidence TS/JS patterns (~5.7k★)
 
 - Created: wiki/sources/dmmulroy-anti-slop.md

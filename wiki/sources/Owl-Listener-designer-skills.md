@@ -25,7 +25,7 @@ related:
 product: designer-skills
 detail_level: standard
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 Owl-Listener/designer-skills (3,124 stars, MIT) is the front-door marketplace for the Designer Skills Pack: **273 skills and 76 commands across 33 plugins in five collections** for Claude Code and Gemini CLI. This repo hosts the **design practice** collection (111 skills / 34 commands / 9 plugins spanning research → systems → UI → interaction → delivery) and pulls in four sibling marketplaces (AI product design, UX program management, design leadership, inclusive design). Situation-based routing via `INDEX.md` and `/designer-toolkit:start-here` distinguishes it from single-aesthetic anti-slop packs like [[leonxlnx-taste-skill]] or [[emilkowalski-skills]].
@@ -75,3 +75,4 @@ Top-level plugin dirs: `design-research/`, `design-systems/`, `ux-strategy/`, `u
 ## Maintenance status
 
 3,124 GitHub stars, 423 forks, MIT licensed, default branch `main`, most recent push 2026-09-05, no tagged releases on this capture. Primary language Markdown. Substantial multi-collection suite with CHANGELOG and CONTRIBUTING; credited as an upstream by [[elayadesign-ai-design-skills]].
+  - ui-skills.com

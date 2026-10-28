@@ -28,7 +28,7 @@ related:
 product: trail-code
 detail_level: standard
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 Trail-code (formerly Graft; ~10.8k★, MIT) is Trail's open-source self-learning context layer for coding agents: a local tree-sitter **graft map** of the repo plus **learnings** saved as markdown in `.trail/` and synced through git. The marketing page at trailhq.com/trail-code and the GitHub/npm packages (`@trailhq/trail-code`, legacy `@nanonets/graft`) sit next to Trail's separate enterprise "company brain" product on the same domain. It targets Claude Code (deepest wiring), Cursor, Codex, Kiro, and other file-/MCP-capable agents, and overlaps the code-graph niche of [[graphify.net]] while adding team-shared session memory.
@@ -87,3 +87,4 @@ GitHub `trailhq/Trail-Code`: 10,809 stars, 960 forks, MIT, TypeScript, default b
 ## Ecosystem
 
 Trail-code is the developer OSS half of Trail's "nobody learns alone" thesis; the paid Trail product is a governed context graph / company brain for enterprise agents (MCP, LangChain, Copilot, Bedrock, etc.). Competes and compares with code-graph tools covered in Trail's own blog (Graphify, Codegraph, Graft). Works beside [[skills.sh]] / agent skills and instruction files without rewriting CLAUDE.md.
+  - Einsia-agent-git

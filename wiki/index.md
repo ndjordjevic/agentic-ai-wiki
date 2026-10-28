@@ -337,4 +337,7 @@ created: 2026-04-28
 | [[FloWritesCode-fwc-swiftui-skills]] | github | standard | 2026-10-27 | FWC SwiftUI skills — Liquid Glass + iPhone Duo for iOS 26+ (~445★) |
 | [[edonadei-caliper]] | github | standard | 2026-10-27 | Caliper — A/B eval skills/MCPs/rules with real agents + token cost (~223★, v0.21.0) |
 | [[dmmulroy-anti-slop]] | github | standard | 2026-10-27 | anti-slop — opinionated Oxlint rules for low-evidence TS/JS patterns (~5.7k★) |
-_325 sources ingested._
+| [[Nutlope-inspo]] | github | standard | 2026-10-28 | Inspo — real-site design archive for agents over MCP (~941★, MIT) |
+| [[ui-skills.com]] | web | standard | 2026-10-28 | companion: ibelick/ui-skills — 439 design-engineering skills via CLI + MCP |
+| [[Einsia-agent-git]] | github | standard | 2026-10-28 | agit — lossless version control for agent sessions (~414★, v0.2.28) |
+_328 sources ingested._

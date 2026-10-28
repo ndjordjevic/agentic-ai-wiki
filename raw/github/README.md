@@ -220,7 +220,9 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/img2threejs-img2threejs.md | img2threejs/img2threejs | 19511 | main | v2.0.0 | 2026-10-27 | |
 | raw/github/reticlehq-reticle.md | reticlehq/reticle | 1275 | main | v3.8.2 | 2026-10-27 | |
 | raw/github/JayPokale-Chisle.md | JayPokale/Chisle | 719 | main | v3.8.1 | 2026-10-27 | |
-| raw/github/ibelick-ui-skills.md | ibelick/ui-skills | 10241 | main | v0.2.3 | 2026-10-27 | |
+| raw/github/ibelick-ui-skills.md | ibelick/ui-skills | 10241 | main | v0.2.3 | 2026-10-28 | |
 | raw/github/FloWritesCode-fwc-swiftui-skills.md | FloWritesCode/fwc-swiftui-skills | 445 | main | none | 2026-10-27 | |
 | raw/github/edonadei-caliper.md | edonadei/caliper | 223 | main | v0.21.0 | 2026-10-27 | |
 | raw/github/dmmulroy-anti-slop.md | dmmulroy/anti-slop | 5709 | main | none | 2026-10-27 | |
+| raw/github/Nutlope-inspo.md | Nutlope/inspo | 941 | main | none | 2026-10-28 | |
+| raw/github/Einsia-agent-git.md | Einsia/agent-git | 414 | main | agit-v0.2.28 | 2026-10-28 | |

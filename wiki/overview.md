@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 [[paperclip.ing]] introduces Paperclip, an open-source control plane for running autonomous AI-agent companies. It sits above agent runtimes like Claude Code, Codex, Cursor, OpenClaw, bash agents, and HTTP bots and provides the organizational layer those runtimes lack: an org chart with hierarchical reporting, a heartbeat execution loop that wakes agents on schedule, an atomic ticket system with checkout locks, per-agent budget enforcement with hard stops, board-level governance and approval gates, and complete multi-company data isolation in a single Node.js + React deployment. The source also shows how Paperclip packages this operating model into both a public product site and a companion GitHub repo with a built-in heartbeat skill, plugin system, portability features, and an actively maintained roadmap.
@@ -656,3 +656,9 @@ updated: 2026-10-27
 [[edonadei-caliper]] is Caliper (~223★, MIT, v0.21.0, PyPI `caliper-eval`) — runs your real agent with and without skills/MCPs/rules to measure whether they help and what they cost in tokens, across Claude Code, Codex, Pi, and Hermes. Pairs with skill security tooling like [[nvidia-skillspector]].
 
 [[dmmulroy-anti-slop]] is anti-slop (~5.7k★, MIT) — opinionated Oxlint rules that reject low-evidence TypeScript/JavaScript patterns; meant to be vendored into a repo (via an install skill), distinct from design-aesthetic anti-slop packs like [[leonxlnx-taste-skill]].
+
+[[Nutlope-inspo]] is Inspo (~941★, MIT, Together AI) — a curated archive of 832 real production sites (2,320 pages) with palettes, fonts, DESIGN.md, fold autopsies, and reference JSX, queryable over MCP (`inspo-mcp` / hosted inspomcp.dev) so coding agents can study visual taste before writing UI. Pairs with [[Nutlope-hallmark]] and DESIGN.md tooling like [[designmd.cc]].
+
+[[ui-skills.com]] is the web catalog for UI Skills (439 design-engineering Agent Skills) with CLI (`npx ui-skills`) and MCP (`list_skills` / `get_skill` at ui-skills.com/mcp), plus Playbook lessons and topic/collection browsing. Companion GitHub source: [[ibelick-ui-skills]]; sits beside [[skills.sh]] as a design-focused skills directory.
+
+[[Einsia-agent-git]] is agit (~414★, MIT, Rust v0.2.28) — lossless git-style version control for Claude Code / Codex / OpenCode / Cursor sessions (import → commit → push → resume/run), with hub publish at agent-git.com. Complements [[xhluca-session-migrate]] (cross-harness session moves) rather than replacing it.

@@ -32,7 +32,7 @@ related:
 product: taste-skill
 detail_level: standard
 created: 2026-07-14
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 Taste Skill (63,152 stars, MIT) is a family of thirteen portable Agent Skills — ten implementation skills that output frontend code and three image-generation skills that output design reference boards — aimed at a specific, named failure mode: AI-built interfaces that default to generic, "boilerplate-looking" layouts. Rather than one skill, it's a menu of stylistic variants (soft, minimalist, brutalist, Stitch-compatible) plus workflow skills (redesign audit, image-to-code, full-output enforcement), with the flagship `taste-skill` (v2, install name `design-taste-frontend`) exposing three 1-10 tunable dials — layout variance, motion intensity, visual density — instead of a single fixed aesthetic.
@@ -81,3 +81,4 @@ For a fixed aesthetic once a direction is chosen: `npx skills add https://github
 ## Ecosystem
 
 Sits in the same DESIGN.md/design-token distribution space as [[voltagent-awesome-design-md]] and [[open-design.ai]] via `stitch-skill`'s Stitch-compatible export, and shares [[stitch.withgoogle.com]]'s underlying premise that AI-generated UI needs an explicit taste layer on top of raw generation. Distinguished from [[oso95-scroll-world]] (which generates a specific artifact — scroll-scrubbed landing video) by being a general-purpose frontend-quality overlay applicable to any UI-generation task, and installable the same multi-host way as other [[skills.sh]]-distributed skill families.
+  - ui-skills.com

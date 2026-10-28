@@ -19,10 +19,12 @@ related:
   - jakubkrehel-skills
   - anthropics-skills
   - davila7-claude-code-templates
-product: ui-skills
+  - Nutlope-inspo
+  - ui-skills.com
+product: ui-skills.com
 detail_level: standard
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 ibelick/ui-skills (10,241 stars, MIT) is "Skills for Design Engineers": a registry of UI-focused agent skills at ui-skills.com that can be browsed and fetched from the terminal (`npx ui-skills`) or by agents over a Model Context Protocol endpoint. It works as a curated discovery layer over design-skill packs comparable to [[emilkowalski-skills]] and [[leonxlnx-taste-skill]], with a distilled "Playbook" of lessons from them.

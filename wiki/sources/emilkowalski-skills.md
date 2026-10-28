@@ -27,7 +27,7 @@ related:
 product: skills
 detail_level: standard
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 emilkowalski/skills (50,398 stars, MIT) is Emil Kowalski's Agent Skills pack for designers and engineers — animation craft, design-engineering judgment, and UI stress-testing distilled from work at Vercel and Linear. Distributed via `npx skills` / [[skills.sh]], it targets the failure mode where agents pick the wrong easing, over-animate, or hand-roll abandoned UI primitives, and is a common upstream credit for other design skill packs such as [[leonxlnx-taste-skill]] and [[elayadesign-ai-design-skills]].
@@ -69,3 +69,4 @@ npx skills@latest add emilkowalski/skills
 ## Maintenance status
 
 50,398 GitHub stars, 2,935 forks, MIT licensed, default branch `main`, most recent push 2026-10-11, no tagged releases. Primary language Markdown. Active public skill pack with a skills.sh badge and newsletter channel.
+  - ui-skills.com

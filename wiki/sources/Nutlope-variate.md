@@ -18,10 +18,11 @@ related:
   - pbakaus-impeccable
   - skills.sh
   - codeswithroh-tastemaker
+  - Nutlope-inspo
 product: variate
 detail_level: standard
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 Nutlope/variate (214 stars, MIT, site variate-skill.vercel.app) is a compact design skill for Claude Code, Codex CLI and opencode that writes four real versions of one project file and lets you flip between them with arrow keys on the localhost page you are already viewing; the version you keep is the code. It is built as a zero-dependency Node sidecar plus a shadow-DOM card injected into your dev page, and complements prototype-switching ideas in [[emilkowalski-skills]] (`prototype`) and design packs like [[leonxlnx-taste-skill]].
