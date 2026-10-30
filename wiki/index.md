@@ -370,4 +370,5 @@ created: 2026-04-28
 | [[stripe-best-practices]] | web | standard | 2026-10-30 | GitHub non-root: stripe/ai skills/stripe-best-practices |
 | [[claude-security]] | web | standard | 2026-10-30 | GitHub non-root: anthropics/claude-plugins-official plugins/claude-security |
 | [[every-app-open-seo]] | github | standard | 2026-10-30 | |
-_358 sources ingested._
+| [[kylon.io]] | web | standard | 2026-10-30 | company harness — Pure Reason; BYO Claude Code/Codex/Devin |
+_359 sources ingested._

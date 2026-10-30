@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-30 | ingest | kylon.io | Kylon — company harness (Pure Reason); BYO agents + CLI/proxy
+
+- Created: wiki/sources/kylon.io.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/web/README.md, inbox.md
+
 ## 2026-10-30 | ingest | every-app-open-seo | OpenSEO — open-source Semrush/Ahrefs alternative + MCP/skills (~25.7k★)
 
 - Created: wiki/sources/every-app-open-seo.md

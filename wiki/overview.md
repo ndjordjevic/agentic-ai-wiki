@@ -722,3 +722,5 @@ updated: 2026-10-30
 [[claude-security]] is Anthropic's Claude Security plugin (claude-plugins-official) — multi-agent vulnerability scanning of your own code inside Claude Code, with independent verification, SARIF reports, and patch suggestion/verification agents; adjacent to [[mukul975-anthropic-cybersecurity-skills]] and [[openqodex-openqodex]].
 
 [[every-app-open-seo]] is OpenSEO (~25.7k★, MIT) — open-source Semrush/Ahrefs alternative with BYO DataForSEO, Docker/Cloudflare self-host, hosted openseo.so, plus MCP and Agent Skills for Claude/Codex/Hermes; adjacent SEO-for-agents work includes [[AgriciDaniel-jev-seo]].
+
+[[kylon.io]] is Pure Reason's Kylon — a commercial company harness where people and AI agents share Rooms/threads with member identity, typed memory, RBAC, sandboxed runtimes, Skills, Apps, Automations, and draft-first outbound approvals; BYO Claude Code/Codex/Devin via the `kylon` CLI gateway, plus proxy APIs at api.kylon.io. Adjacent team-agent workspaces: [[paperclip.ing]], [[app.sauna.ai]], [[joinoasis.com]], [[block-buzz]].
