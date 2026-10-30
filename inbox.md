@@ -379,3 +379,9 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/every-app/open-seo <!-- ingested 2026-10-30 -->
 - [x] https://kylon.io/ <!-- ingested 2026-10-30 -->
 - [x] https://github.com/microsoft/TokenEconomizer <!-- ingested 2026-10-30 -->
+- [x] https://github.com/kunchenguid/lavish-axi <!-- ingested 2026-10-30 -->
+- [x] https://github.com/kunchenguid/firstmate <!-- ingested 2026-10-30 -->
+- [x] https://obsidian.md <!-- ingested 2026-10-30 -->
+- [x] https://www.buildpartner.ai/social <!-- ingested 2026-10-30 -->
+- [x] https://github.com/anthropics/knowledge-work-plugins/tree/main/small-business <!-- ingested 2026-10-30 -->
+- [x] https://hex.kitlangton.dev <!-- ingested 2026-10-30 -->

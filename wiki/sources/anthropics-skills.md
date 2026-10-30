@@ -74,6 +74,8 @@ related:
   - agricidaniel-claude-obsidian
   - expo-skills
   - stripe-best-practices
+  - buildpartner.ai
+  - small-business
 product: skills
 detail_level: standard
 created: 2026-05-11

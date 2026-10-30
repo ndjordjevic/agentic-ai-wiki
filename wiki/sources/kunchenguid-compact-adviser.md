@@ -17,6 +17,7 @@ related:
   - mksglu-context-mode
   - nadimtuhin-claude-token-optimizer
   - microsoft-TokenEconomizer
+  - kunchenguid-lavish-axi
 product: compact-adviser
 detail_level: standard
 created: 2026-10-28

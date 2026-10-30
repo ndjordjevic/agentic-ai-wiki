@@ -252,3 +252,6 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/supabase-agent-skills.md | supabase/agent-skills | 2957 | main | v0.1.9 | 2026-10-30 | |
 | raw/github/every-app-open-seo.md | every-app/open-seo | 25694 | main | v0.1.21 | 2026-10-30 | |
 | raw/github/microsoft-TokenEconomizer.md | microsoft/TokenEconomizer | 954 | main | v0.1.0 | 2026-10-30 | |
+| raw/github/kunchenguid-lavish-axi.md | kunchenguid/lavish-axi | 4358 | main | lavish-axi-v0.1.96 | 2026-10-30 | |
+| raw/github/kunchenguid-firstmate.md | kunchenguid/firstmate | 8427 | main | (none) | 2026-10-30 | |
+| raw/github/anomalyco-hex.md | anomalyco/hex | 1105 | dev | app-v2.3.1 | 2026-10-30 | |

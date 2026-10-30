@@ -17,10 +17,11 @@ related:
   - warp.dev
   - factory.ai
   - herdrdev-herdr
+  - kunchenguid-firstmate
 product: orca
 detail_level: standard
 created: 2026-10-20
-updated: 2026-10-20
+updated: 2026-10-30
 ---
 
 Orca is an open-source AI orchestrator / agent development environment (ADE) for running fleets of coding agents — Codex, Claude Code, OpenCode, Pi, and any other terminal CLI agent — each in its own git worktree, tracked in one desktop app with terminal splits, an embedded Chromium design mode, native GitHub/Linear task flows, SSH remotes, and an iOS/Android mobile companion. With ~98.7k GitHub stars (MIT, TypeScript/Electron, latest release v1.4.232 as of October 2026), it is one of the largest open agent-IDE projects; product site and docs live at [onorca.dev](https://www.onorca.dev).

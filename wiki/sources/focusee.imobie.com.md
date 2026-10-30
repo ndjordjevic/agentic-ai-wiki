@@ -11,11 +11,13 @@ tags:
   - cursor-animation
   - ai-subtitles
   - desktop-app
-related: []
+related:
+  - hex.kitlangton.dev
+
 product: focusee
 detail_level: standard
 created: 2026-06-06
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 FocuSee is an AI-powered screen recorder for macOS and Windows from iMobie that automatically turns raw screen captures into polished, share-ready videos. Its core value proposition is eliminating manual post-production: auto-zoom follows clicks, cursor effects guide attention, AI removes filler words and silence, generates subtitles in 55+ languages, and enhances audio — all applied after a single recording session with minimal user setup. Positioned as a Screen Studio alternative with cross-platform support, FocuSee targets indie hackers, content creators, and startups producing product demos, tutorials, marketing videos, and online courses.

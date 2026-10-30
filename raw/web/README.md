@@ -168,3 +168,7 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/stripe-best-practices.md | stripe-best-practices | 1 | 2026-10-30 | |
 | raw/web/claude-security.md | claude-security | 1 | 2026-10-30 | |
 | raw/web/kylon.io.md | kylon.io | 18 | 2026-10-30 | |
+| raw/web/obsidian.md.md | obsidian.md | 6 | 2026-10-30 | |
+| raw/web/buildpartner.ai.md | buildpartner.ai | 5 | 2026-10-30 | |
+| raw/web/small-business.md | small-business | 1 | 2026-10-30 | |
+| raw/web/hex.kitlangton.dev.md | hex.kitlangton.dev | 3 | 2026-10-30 | |

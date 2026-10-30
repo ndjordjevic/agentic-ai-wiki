@@ -23,10 +23,11 @@ related:
   - reseek.net
   - zilliztech-claude-context
   - chopratejas-headroom
+  - obsidian.md
 product: claude-obsidian
 detail_level: standard
 created: 2026-07-08
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 _All claims below are sourced from ../../raw/github/agricidaniel-claude-obsidian.md unless otherwise noted._

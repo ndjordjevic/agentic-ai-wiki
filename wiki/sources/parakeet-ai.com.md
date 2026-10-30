@@ -13,10 +13,11 @@ tags:
 related:
   - santifer-career-ops
   - AienTech-dossier
+  - hex.kitlangton.dev
 product: parakeet-ai
 detail_level: standard
 created: 2026-10-09
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 ParakeetAI is a consumer SaaS "real-time AI interview assistant": a desktop/web/mobile app that listens to a live call (job interviews, sales calls, client meetings, or exams), transcribes speech, detects questions as they're asked, and surfaces AI-generated answers — including live code-reading and talk-through for technical/coding interviews — while the call is still happening. It markets itself as the "No. 1 Viral App" and "#1 AI Interview Assistant on SimilarWeb," claiming 1.5M+ users and a 4.86 rating from 340K+ reviews. For this wiki it's a notable example of an LLM-powered, latency-sensitive "live copilot" product built around undetectability rather than developer tooling or APIs.

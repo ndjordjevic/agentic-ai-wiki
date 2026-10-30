@@ -372,4 +372,10 @@ created: 2026-04-28
 | [[every-app-open-seo]] | github | standard | 2026-10-30 | |
 | [[kylon.io]] | web | standard | 2026-10-30 | company harness — Pure Reason; BYO Claude Code/Codex/Devin |
 | [[microsoft-TokenEconomizer]] | github | standard | 2026-10-30 | Experience-driven black-box cost control for coding agents (~954★) |
-_360 sources ingested._
+| [[kunchenguid-lavish-axi]] | github | standard | 2026-10-30 | Lavish Editor AXI — HTML artifact review (~4.4k★) |
+| [[kunchenguid-firstmate]] | github | standard | 2026-10-30 | firstmate — agent distro for multi-agent crews (~8.4k★) |
+| [[obsidian.md]] | web | standard | 2026-10-30 | Local-first Markdown PKM + Obsidian CLI for agents |
+| [[buildpartner.ai]] | web | standard | 2026-10-30 | Claude Code plugin — guided builds + social research |
+| [[small-business]] | web | standard | 2026-10-30 | Anthropic Small Business plugin — 44 SMB skills |
+| [[hex.kitlangton.dev]] | web | standard | 2026-10-30 | companion: anomalyco/hex — local voice dictation |
+_366 sources ingested._

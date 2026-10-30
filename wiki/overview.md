@@ -726,3 +726,15 @@ updated: 2026-10-30
 [[kylon.io]] is Pure Reason's Kylon — a commercial company harness where people and AI agents share Rooms/threads with member identity, typed memory, RBAC, sandboxed runtimes, Skills, Apps, Automations, and draft-first outbound approvals; BYO Claude Code/Codex/Devin via the `kylon` CLI gateway, plus proxy APIs at api.kylon.io. Adjacent team-agent workspaces: [[paperclip.ing]], [[app.sauna.ai]], [[joinoasis.com]], [[block-buzz]].
 
 [[microsoft-TokenEconomizer]] is Microsoft/UC Berkeley TokenEconomizer (~954★, Apache-2.0, v0.1.0) — a black-box plugin (Claude Code/Codex/Copilot CLI/Pi) that learns micro-skills, prunes unused tools, and redirects failure loops from prior repo sessions; SWE-Bench paper claims ~18–31% mean cost cuts. Adjacent token/context tools: [[rtk-ai-rtk]], [[dietrichgebert-ponytail]], [[chopratejas-headroom]].
+
+[[kunchenguid-lavish-axi]] is lavish-axi (~4.4k★, MIT, v0.1.96) — an [[axi.md]]-style CLI that opens agent HTML artifacts for element/text annotation, Mermaid whiteboard edits, layout-issue queuing, and poll/reply feedback.
+
+[[kunchenguid-firstmate]] is firstmate (~8.4k★, MIT) — a clone-and-run agent distro that makes one primary harness session the "first mate" supervising a visible crew across tmux/[[herdr.dev]]/[[stablyai-orca]]/… backends with disposable worktrees, ship/scout tasks, and near-zero-token watchers; same author as [[kunchenguid-lavish-axi]].
+
+[[obsidian.md]] is Obsidian — free local-first Markdown notes with wikilinks/graph/Canvas, ~9.5k community plugins, optional Sync/Publish, and an official CLI agents can drive; pairs with [[kepano-obsidian-skills]] / [[agricidaniel-claude-obsidian]].
+
+[[buildpartner.ai]] is BuildPartner.ai — Austin Marchese's Claude Code plugin/MCP for project-tuned guided builds, expert-framework advice, coaching dashboard, and creator social research (X/IG/YouTube).
+
+[[small-business]] is Anthropic's Small Business Claude plugin (v1.35.1 in knowledge-work-plugins) — 44 approval-gated skills for finance/sales/marketing/ops with an English router; adjacent to [[buildpartner.ai]] / [[anthropics-skills]].
+
+[[hex.kitlangton.dev]] is Hex (~1.1k★, MIT, app v2.3.1; companion anomalyco/hex) — local-first Rust voice dictation for Mac/Windows/Linux with on-device ASR, optional OpenCode rewrite, Annotate-to-agent, and TypeScript SDK; adjacent to [[wisprflow.ai]].

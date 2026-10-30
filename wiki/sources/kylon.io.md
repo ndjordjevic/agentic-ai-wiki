@@ -19,6 +19,7 @@ related:
   - composio-community-open-dot
   - cognition.ai
   - hermes-agent.nousresearch.com
+  - kunchenguid-firstmate
 product: kylon.io
 detail_level: standard
 created: 2026-10-30
