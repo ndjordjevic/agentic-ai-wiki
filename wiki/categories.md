@@ -20,7 +20,7 @@ updated: 2026-10-30
 - [[#MCP servers & integrations|MCP servers & integrations]] (0/21 studied)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (0/17 studied)
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (0/29 studied)
-- [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (0/44 studied)
+- [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (0/45 studied)
 - [[#Browser & web automation|Browser & web automation]] (0/15 studied)
 - [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (0/12 studied)
 - [[#Model infra, ML & providers|Model infra, ML & providers]] (0/18 studied)
@@ -252,6 +252,7 @@ updated: 2026-10-30
 - [ ] [[kunchenguid-compact-adviser]] — is compact-adviser (~224★, MIT, v0.1.14) — multi-harness plugin that uses Jev to hint (or auto-run) `/compact` at safe session boundaries.
 - [ ] [[langchain-ai-openwiki]] — documents OpenWiki, LangChain's TypeScript CLI that writes and maintains agent-facing documentation for a repository using a [[langchain.com-deepagents|Deep Agents]] local-shell backend. `openwiki…
 - [ ] [[markitdown.tech]] — is an online document-to-Markdown converter (PDF, DOCX, XLSX, PPTX, HTML, CSV, JSON, images, audio) built on Microsoft's open-source MarkItDown library, offering a free web UI, a Pro batch tier, an…
+- [ ] [[microsoft-TokenEconomizer]] — is Microsoft/UC Berkeley TokenEconomizer (~954★, Apache-2.0, v0.1.0) — a black-box plugin (Claude Code/Codex/Copilot CLI/Pi) that learns micro-skills, prunes unused tools, and redirects failure loo…
 - [ ] [[mksglu-context-mode]] — addresses the context window problem directly at the MCP protocol layer, making it one of the most practically impactful tools in the agentic AI ecosystem.
 - [ ] [[nadimtuhin-claude-token-optimizer]] — documents Claude Token Optimizer (`cto`), an open-source npm CLI that scaffolds a tiered documentation structure so Claude Code loads ~800 tokens at session start instead of 8,000–11,000 tokens of…
 - [ ] [[notebooklm.google]] — introduces Google NotebookLM, an AI-powered research assistant and thinking partner built on Gemini models.
@@ -438,4 +439,4 @@ updated: 2026-10-30
 - [ ] [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [ ] [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_359 sources across 16 categories — 3 studied._
+_360 sources across 16 categories — 3 studied._

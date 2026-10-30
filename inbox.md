@@ -378,3 +378,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-security <!-- ingested 2026-10-30 -->
 - [x] https://github.com/every-app/open-seo <!-- ingested 2026-10-30 -->
 - [x] https://kylon.io/ <!-- ingested 2026-10-30 -->
+- [x] https://github.com/microsoft/TokenEconomizer <!-- ingested 2026-10-30 -->

@@ -16,10 +16,11 @@ related:
   - chopratejas-headroom
   - rtk-ai-rtk
   - JayPokale-Chisle
+  - microsoft-TokenEconomizer
 product: pxpipe
 detail_level: standard
 created: 2026-07-21
-updated: 2026-10-27
+updated: 2026-10-30
 ---
 
 pxpipe is a TypeScript local proxy for AI coding workflows that converts bulky request context (system/tool docs, older history, large tool results) into dense PNG pages before forwarding to model APIs, aiming to reduce input-token cost while keeping the same operational flow for agent clients. The project is unusually explicit about tradeoffs: it treats dense image context as lossy for exact-string recall, keeps precision-critical identifiers in adjacent text/factsheet channels, and positions savings claims around measured request-level baselines rather than headline-only percentages.

@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-30 | ingest | microsoft-TokenEconomizer | TokenEconomizer — experience-driven coding-agent cost control (~954★)
+
+- Created: wiki/sources/microsoft-TokenEconomizer.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-10-30 | ingest | kylon.io | Kylon — company harness (Pure Reason); BYO agents + CLI/proxy
 
 - Created: wiki/sources/kylon.io.md

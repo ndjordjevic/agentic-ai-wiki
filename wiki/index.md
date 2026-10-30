@@ -371,4 +371,5 @@ created: 2026-04-28
 | [[claude-security]] | web | standard | 2026-10-30 | GitHub non-root: anthropics/claude-plugins-official plugins/claude-security |
 | [[every-app-open-seo]] | github | standard | 2026-10-30 | |
 | [[kylon.io]] | web | standard | 2026-10-30 | company harness — Pure Reason; BYO Claude Code/Codex/Devin |
-_359 sources ingested._
+| [[microsoft-TokenEconomizer]] | github | standard | 2026-10-30 | Experience-driven black-box cost control for coding agents (~954★) |
+_360 sources ingested._

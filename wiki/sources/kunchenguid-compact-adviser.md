@@ -16,10 +16,11 @@ related:
   - chopratejas-headroom
   - mksglu-context-mode
   - nadimtuhin-claude-token-optimizer
+  - microsoft-TokenEconomizer
 product: compact-adviser
 detail_level: standard
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 compact-adviser is a multi-harness agent plugin that answers one question: should I `/compact` now? It uses TypeSafe Jev to judge whether the current session is at a boundary safe to compact, then shows a hint (or, on Pi and Claude Code with explicit opt-in, runs compaction automatically). Codex CLI and Grok Build are hint-only. Judgment is two one-sentence Jev questions in one request (is the unit finished; is this hands-on work or coordination), composed in code into a score; the hint floor starts at 0.90 when context is mostly empty (~10%) and relaxes toward 0.50 by ~90% full. Prerequisites include Node 22+ and a TypeSafe API key (`TYPESAFE_API_KEY`, saved settings, or cwd `./.env`).

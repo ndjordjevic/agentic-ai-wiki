@@ -724,3 +724,5 @@ updated: 2026-10-30
 [[every-app-open-seo]] is OpenSEO (~25.7k★, MIT) — open-source Semrush/Ahrefs alternative with BYO DataForSEO, Docker/Cloudflare self-host, hosted openseo.so, plus MCP and Agent Skills for Claude/Codex/Hermes; adjacent SEO-for-agents work includes [[AgriciDaniel-jev-seo]].
 
 [[kylon.io]] is Pure Reason's Kylon — a commercial company harness where people and AI agents share Rooms/threads with member identity, typed memory, RBAC, sandboxed runtimes, Skills, Apps, Automations, and draft-first outbound approvals; BYO Claude Code/Codex/Devin via the `kylon` CLI gateway, plus proxy APIs at api.kylon.io. Adjacent team-agent workspaces: [[paperclip.ing]], [[app.sauna.ai]], [[joinoasis.com]], [[block-buzz]].
+
+[[microsoft-TokenEconomizer]] is Microsoft/UC Berkeley TokenEconomizer (~954★, Apache-2.0, v0.1.0) — a black-box plugin (Claude Code/Codex/Copilot CLI/Pi) that learns micro-skills, prunes unused tools, and redirects failure loops from prior repo sessions; SWE-Bench paper claims ~18–31% mean cost cuts. Adjacent token/context tools: [[rtk-ai-rtk]], [[dietrichgebert-ponytail]], [[chopratejas-headroom]].

@@ -17,10 +17,11 @@ related:
   - shadcn-improve
   - forrestchang-andrej-karpathy-skills
   - multica-ai-andrej-karpathy-skills
+  - microsoft-TokenEconomizer
 product: ponytail
 detail_level: standard
 created: 2026-07-14
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 Ponytail (82,500+ stars, MIT) is a behavioral ruleset and skill bundle that pushes coding agents to stop at the first "rung" of an escalation ladder — YAGNI, reuse, stdlib, native platform feature, existing dependency, one-liner, only then custom code — before writing anything. It's distinguished from most CLAUDE.md-style guidance in this wiki by shipping its own reproducible agentic benchmark (a headless Claude Code session against a real FastAPI+React repo) showing measurable cuts in lines of code, tokens, cost, and time versus a no-skill baseline, while explicitly holding safety-critical code (validation, error handling, security, accessibility) exempt from the laziness rule.

@@ -251,3 +251,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/expo-skills.md | expo/skills | 3767 | main | none | 2026-10-30 | |
 | raw/github/supabase-agent-skills.md | supabase/agent-skills | 2957 | main | v0.1.9 | 2026-10-30 | |
 | raw/github/every-app-open-seo.md | every-app/open-seo | 25694 | main | v0.1.21 | 2026-10-30 | |
+| raw/github/microsoft-TokenEconomizer.md | microsoft/TokenEconomizer | 954 | main | v0.1.0 | 2026-10-30 | |
