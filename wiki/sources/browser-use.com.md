@@ -29,10 +29,11 @@ related:
   - Tencent-BrowserSkill
   - jackwener-opencli
   - Ying-Kai-Liao-jev-browser
+  - apify-apify-mcp-server
 product: browser-use
 detail_level: standard
 created: 2026-06-15
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 Browser Use is a cloud platform and open-source Python SDK (≈99k GitHub stars) that enables LLMs to autonomously interact with websites using natural language. It provides a self-healing browser harness, stealth Chromium infrastructure, custom models optimized for browser tasks, managed residential proxies, and an MCP server that connects browser automation to Claude, Cursor, Windsurf, and other coding assistants.

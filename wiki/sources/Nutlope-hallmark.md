@@ -22,10 +22,12 @@ related:
   - stitch.google.com
   - AThevon-genjutsu
   - dembrandt-dembrandt-skills
+  - nateherkai-scroll-craft
+  - blader-humanizer
 product: usehallmark.com
 detail_level: standard
 created: 2026-07-28
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 Hallmark is an open-source design skill (Together AI, 18,900+ stars) for Claude Code, Cursor, and Codex that targets a specific failure mode of AI-generated UI: every model converges on the same hero → 3-feature → CTA → footer template regardless of brief. It picks a macrostructure per brief, applies one of twenty curated themes (or a from-scratch "Custom" branch when no theme fits), runs 57 slop-test gates plus a pre-emit self-critique, and refuses the on-distribution defaults models were trained into — the explicit goal being **structural** variety between pages, not just palette-swap variety. See [[Nutlope-hallmark]].

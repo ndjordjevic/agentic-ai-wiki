@@ -23,10 +23,12 @@ related:
   - firecrawl.dev
   - massive.com
   - firecrawl-anydoc
+  - apify-apify-mcp-server
+  - every-app-open-seo
 product: tavily
 detail_level: standard
 created: 2026-10-15
-updated: 2026-10-20
+updated: 2026-10-30
 ---
 
 Tavily ("Tavily by Nebius") sells itself as "the web access layer for AI agents": one API for real-time web **Search**, **Extract**, **Crawl**, **Map**, and **Research** that returns clean, ranked, chunked, LLM-ready content instead of raw HTML or bare links. It is offered as a REST API, Python/JS SDKs, a remote MCP server, a `tvly` CLI with Agent Skills, and a keyless free tier. It is one of the most widely integrated agent search providers. LangChain calls it its recommended search tool, and it ships first-party integrations for CrewAI, LlamaIndex, Mastra, Vercel AI SDK, Pydantic AI, Agno, Google ADK, OpenAI/Anthropic tool-calling, n8n, Zapier, and many more. That reach makes it a default grounding layer in the agent-framework landscape this wiki covers.

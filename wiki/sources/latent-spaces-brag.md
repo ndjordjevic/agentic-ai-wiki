@@ -15,10 +15,11 @@ related:
   - skills.sh
   - higgsfield.ai
   - bradautomates-claude-video
+  - heygen-com-hyperframes
 product: brag
 detail_level: standard
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 /brag (~19.2k★, MIT, Python skill pack) turns a project you just built into a short shareable launch video (~20s) with music, motion, and share copy — classic mode via Hyperframes, plus `/brag-slim` rebuilt lean for Opus 5.5 without Hyperframes. Hosted shortcut: letsbrag.app.

@@ -244,3 +244,10 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/latent-spaces-brag.md | latent-spaces/brag | 19163 | main | brag | 2026-10-28 | |
 | raw/github/google-elephant-goldfish-model.md | google/elephant-goldfish-model | 3880 | main | v0.1.0 | 2026-10-28 | |
 | raw/github/AienTech-dossier.md | AienTech/dossier | 2671 | main | v1.9.2 | 2026-10-28 | |
+| raw/github/heygen-com-hyperframes.md | heygen-com/hyperframes | 75715 | main | v0.8.221 | 2026-10-30 | |
+| raw/github/apify-apify-mcp-server.md | apify/apify-mcp-server | 13878 | master | 0.20.0 | 2026-10-30 | |
+| raw/github/nateherkai-scroll-craft.md | nateherkai/scroll-craft | 4232 | main | none | 2026-10-30 | |
+| raw/github/blader-humanizer.md | blader/humanizer | 62529 | main | Humanizer | 2026-10-30 | |
+| raw/github/expo-skills.md | expo/skills | 3767 | main | none | 2026-10-30 | |
+| raw/github/supabase-agent-skills.md | supabase/agent-skills | 2957 | main | v0.1.9 | 2026-10-30 | |
+| raw/github/every-app-open-seo.md | every-app/open-seo | 25694 | main | v0.1.21 | 2026-10-30 | |

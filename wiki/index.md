@@ -361,4 +361,13 @@ created: 2026-04-28
 | [[latent-spaces-brag]] | github | standard | 2026-10-28 | /brag — launch video agent skill + brag-slim (~19.2k★) |
 | [[google-elephant-goldfish-model]] | github | standard | 2026-10-28 | EGM — Elephant/Goldfish SDD skills plugin (~3.9k★) |
 | [[AienTech-dossier]] | github | standard | 2026-10-28 | Dossier — self-hosted job search + Claude MCP (~2.7k★, AGPL) |
-_349 sources ingested._
+| [[heygen-com-hyperframes]] | github | standard | 2026-10-30 | |
+| [[apify-apify-mcp-server]] | github | standard | 2026-10-30 | |
+| [[nateherkai-scroll-craft]] | github | standard | 2026-10-30 | |
+| [[blader-humanizer]] | github | standard | 2026-10-30 | |
+| [[expo-skills]] | github | standard | 2026-10-30 | |
+| [[supabase-agent-skills]] | github | standard | 2026-10-30 | |
+| [[stripe-best-practices]] | web | standard | 2026-10-30 | GitHub non-root: stripe/ai skills/stripe-best-practices |
+| [[claude-security]] | web | standard | 2026-10-30 | GitHub non-root: anthropics/claude-plugins-official plugins/claude-security |
+| [[every-app-open-seo]] | github | standard | 2026-10-30 | |
+_358 sources ingested._

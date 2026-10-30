@@ -14,10 +14,11 @@ related:
   - typesafe.ai
   - Ying-Kai-Liao-jev-browser
   - firecrawl.dev
+  - every-app-open-seo
 product: jev-seo
 detail_level: standard
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 jev-seo is a live SEO audit for any website from one homepage URL: it crawls the site, runs 52 deterministic rules tied to Google Search Central, measures Core Web Vitals via PageSpeed Insights, and asks Jev (TypeSafe's System One model) typed questions about every page. Code scores and ranks fixes; exports are a designed PDF, an Excel action tracker, and Markdown, all from one `audit.json`. It runs as a Claude Code skill (`/jev-seo https://example.com`) or CLI; standard mode needs no SEO data subscription and costs about a cent in Jev per site, with optional `--full` DataForSEO rankings/keywords/backlinks for about $0.30.

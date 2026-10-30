@@ -19,10 +19,11 @@ related:
   - coderabbit.ai
   - skills.sh
   - usehallmark.com
+  - blader-humanizer
 product: anti-slop
 detail_level: standard
 created: 2026-10-27
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 dmmulroy/anti-slop (5,709 stars, MIT) is a set of opinionated Oxlint rules that reject low-evidence and low-signal TypeScript and JavaScript patterns, plus an agent skill that vendors them into your repo. It is a code-pattern linter, not a visual or aesthetic "anti-slop" pack like [[leonxlnx-taste-skill]]. The author calls it "first and foremost the ruleset I use with my work, projects, and team", reflecting taste rather than a universal standard.

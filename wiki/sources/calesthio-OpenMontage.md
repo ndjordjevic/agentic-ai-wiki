@@ -16,10 +16,11 @@ related:
   - elevenlabs.io
   - bradautomates-claude-video
   - img2threejs-img2threejs
+  - heygen-com-hyperframes
 product: openmontage
 detail_level: standard
 created: 2026-10-20
-updated: 2026-10-27
+updated: 2026-10-30
 ---
 
 OpenMontage is an open-source agentic video production system that turns an AI coding assistant (Claude Code, Cursor, Copilot, Windsurf, Codex, etc.) into a full production studio: **12 pipelines**, **100+ tools**, **700+ skill/production-knowledge files**, scored provider selection, Backlot live storyboard, and Remotion/HyperFrames/FFmpeg composition. ~70k GitHub stars, AGPLv3, homepage [openmontage.video](https://www.openmontage.video/). It can generate motion from stills *or* cut real footage from free/open archives into finished timelines — not only “Ken Burns over images.”

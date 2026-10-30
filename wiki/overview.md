@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 [[paperclip.ing]] introduces Paperclip, an open-source control plane for running autonomous AI-agent companies. It sits above agent runtimes like Claude Code, Codex, Cursor, OpenClaw, bash agents, and HTTP bots and provides the organizational layer those runtimes lack: an org chart with hierarchical reporting, a heartbeat execution loop that wakes agents on schedule, an atomic ticket system with checkout locks, per-agent budget enforcement with hard stops, board-level governance and approval gates, and complete multi-company data isolation in a single Node.js + React deployment. The source also shows how Paperclip packages this operating model into both a public product site and a companion GitHub repo with a built-in heartbeat skill, plugin system, portability features, and an actively maintained roadmap.
@@ -704,3 +704,21 @@ updated: 2026-10-28
 [[google-elephant-goldfish-model]] is Google's Elephant-Goldfish Model (EGM, ~3.9k★, Apache-2.0) — a multi-harness Agent Skills plugin for Spec-Driven Development: deep-context Elephant drafting plus zero-context Goldfish subagent review before code, alongside SDD toolkits like [[github-spec-kit]] and [[openspec.dev]].
 
 [[AienTech-dossier]] is Dossier (~2.7k★, AGPL-3.0, Next.js/Prisma, v1.9.2) — a self-hosted single-user job-search app that fact-guards tailored resumes/cover letters from your profile, with an optional daily job agent and Claude remote MCP connector. Privacy-first alternative to hosted auto-apply tools like [[go.aiapply.co]]; adjacent to OSS job-hunt automation in [[santifer-career-ops]].
+
+[[heygen-com-hyperframes]] is HeyGen's HyperFrames (~75.7k★, Apache-2.0) — write HTML/CSS/media, render deterministic MP4 via headless Chrome + FFmpeg, with CLI, agent skills, Studio, and `frame.md` templates; pairs with launch-video skill [[latent-spaces-brag]] and agentic video systems like [[calesthio-OpenMontage]].
+
+[[apify-apify-mcp-server]] is the Apify MCP server (~13.9k★, MIT) — connects agents to thousands of Apify Store scrapers/crawlers for social, search, maps, and e-commerce data that plain fetch cannot reach; sits alongside web-data layers like [[firecrawl.dev]] and [[tavily.com]].
+
+[[nateherkai-scroll-craft]] is scroll-craft (~4.2k★, MIT) — an agent skill/plugin for premium scroll-driven websites with a real design standard, engine, and screenshot verification; adjacent to [[oso95-scroll-world]] and anti-slop taste packs like [[leonxlnx-taste-skill]].
+
+[[blader-humanizer]] is Humanizer (~62.5k★, MIT) — an agent skill that strips Wikipedia-catalogued AI-writing tells from prose while preserving meaning (optional voice matching); complements design anti-slop packs like [[Nutlope-hallmark]] and [[dmmulroy-anti-slop]].
+
+[[expo-skills]] is Expo's official agent skills pack (~3.8k★, MIT) for Expo SDK/Router and EAS workflows (free vs paid labeled), installable via skills CLI or Claude/Codex plugins; peers with other official skill packs such as [[googleworkspace-cli]] and catalogs like [[voltagent-awesome-agent-skills]].
+
+[[supabase-agent-skills]] is Supabase's official Agent Skills (~3.0k★, MIT) — `supabase` product coverage plus `supabase-postgres-best-practices`, with skills CLI, Claude plugins, and `.well-known` discovery; companions to [[supabase.com]] / [[supabase-cli]] and pairs with payment guidance in [[stripe-best-practices]].
+
+[[stripe-best-practices]] is Stripe's official Agent Skill (path under stripe/ai) steering agents on sandboxes, Checkout vs PaymentIntents, Connect Accounts v2, Billing/Tax/Treasury, and API-key/webhook security so integrations follow current patterns.
+
+[[claude-security]] is Anthropic's Claude Security plugin (claude-plugins-official) — multi-agent vulnerability scanning of your own code inside Claude Code, with independent verification, SARIF reports, and patch suggestion/verification agents; adjacent to [[mukul975-anthropic-cybersecurity-skills]] and [[openqodex-openqodex]].
+
+[[every-app-open-seo]] is OpenSEO (~25.7k★, MIT) — open-source Semrush/Ahrefs alternative with BYO DataForSEO, Docker/Cloudflare self-host, hosted openseo.so, plus MCP and Agent Skills for Claude/Codex/Hermes; adjacent SEO-for-agents work includes [[AgriciDaniel-jev-seo]].

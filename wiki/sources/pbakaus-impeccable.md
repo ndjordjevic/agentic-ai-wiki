@@ -25,10 +25,11 @@ related:
   - duply.ai
   - impeccable.style
   - Nutlope-variate
+  - nateherkai-scroll-craft
 product: impeccable.style
 detail_level: standard
 created: 2026-07-08
-updated: 2026-10-28
+updated: 2026-10-30
 ---
 
 Impeccable (54K+ stars, Apache 2.0, latest release Extension 1.3.1) is Paul Bakaus's design language for AI coding agents — one skill with 23 slash commands, live browser iteration, 59 deterministic anti-pattern detector rules, and provider-native design hooks for Cursor, Claude Code, Codex, and GitHub Copilot. The product's own documentation site is covered separately in [[impeccable.style]]. It evolved from Anthropic's `frontend-design` skill into a full harness-agnostic design system: `/impeccable init` writes `PRODUCT.md` and `DESIGN.md`, commands like `audit`, `polish`, `critique`, and `live` give agents a shared design vocabulary, and `npx impeccable detect` runs the same rules in CI without an LLM.

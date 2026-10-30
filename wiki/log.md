@@ -6,6 +6,51 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-30 | ingest | every-app-open-seo | OpenSEO — open-source Semrush/Ahrefs alternative + MCP/skills (~25.7k★)
+
+- Created: wiki/sources/every-app-open-seo.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-30 | ingest | claude-security | Claude Security plugin — multi-agent vuln scan in Claude Code
+
+- Created: wiki/sources/claude-security.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/web/README.md, inbox.md
+
+## 2026-10-30 | ingest | stripe-best-practices | Stripe official Agent Skill for modern Stripe integrations
+
+- Created: wiki/sources/stripe-best-practices.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/web/README.md, inbox.md
+
+## 2026-10-30 | ingest | supabase-agent-skills | Official Supabase Agent Skills (product + Postgres best practices)
+
+- Created: wiki/sources/supabase-agent-skills.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-30 | ingest | expo-skills | Official Expo agent skills for SDK/Router/EAS (~3.8k★)
+
+- Created: wiki/sources/expo-skills.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-30 | ingest | blader-humanizer | Humanizer — strip AI-writing tells from prose (~62.5k★)
+
+- Created: wiki/sources/blader-humanizer.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-30 | ingest | nateherkai-scroll-craft | scroll-craft — premium scroll-driven website agent skill (~4.2k★)
+
+- Created: wiki/sources/nateherkai-scroll-craft.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-30 | ingest | apify-apify-mcp-server | Apify MCP server — Store scrapers for agents (~13.9k★)
+
+- Created: wiki/sources/apify-apify-mcp-server.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-10-30 | ingest | heygen-com-hyperframes | HyperFrames — HTML→deterministic MP4 for agents (~75.7k★)
+
+- Created: wiki/sources/heygen-com-hyperframes.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-10-28 | ingest | AienTech-dossier | Dossier — self-hosted job search + Claude MCP (~2.7k★, AGPL)
 
 - Created: wiki/sources/AienTech-dossier.md

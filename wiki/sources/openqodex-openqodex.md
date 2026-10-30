@@ -19,10 +19,11 @@ related:
   - sonarsource.com
   - The-PR-Agent-pr-agent
   - dmmulroy-anti-slop
+  - claude-security
 product: openqodex
 detail_level: standard
 created: 2026-10-15
-updated: 2026-10-27
+updated: 2026-10-30
 ---
 
 OpenQodex is an open-source (Apache-2.0) local code reviewer by Qodex that runs inside your coding agent or terminal *before* you push. It reviews "the change" — unpushed commits plus everything uncommitted — first with deterministic scanners (gitleaks, semgrep, osv-scanner, linters, IaC and SQL checkers — 22 built in), then with a **separate** Claude Code or Codex process running on your own login (no API key, no account). By default the agent that wrote the code does not review it. Scripts verify the reviewer answered every scanner finding and was shown every changed line, and push-gate hooks check for a passing review before `git push`. It matters for this wiki as a concrete pattern for independent, verifiable AI review inside the agent loop rather than as a hosted PR bot.
