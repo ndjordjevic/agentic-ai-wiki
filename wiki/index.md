@@ -378,4 +378,5 @@ created: 2026-04-28
 | [[buildpartner.ai]] | web | standard | 2026-10-30 | Claude Code plugin — guided builds + social research |
 | [[small-business]] | web | standard | 2026-10-30 | Anthropic Small Business plugin — 44 SMB skills |
 | [[hex.kitlangton.dev]] | web | standard | 2026-10-30 | companion: anomalyco/hex — local voice dictation |
-_366 sources ingested._
+| [[superdesigndev-treg]] | github | standard | 2026-10-31 | |
+_368 sources ingested._

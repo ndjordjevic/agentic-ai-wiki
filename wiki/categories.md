@@ -17,7 +17,7 @@ updated: 2026-10-30
 - [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (0/30 studied)
 - [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (3/50 studied)
 - [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (0/31 studied)
-- [[#MCP servers & integrations|MCP servers & integrations]] (0/21 studied)
+- [[#MCP servers & integrations|MCP servers & integrations]] (0/22 studied)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (0/17 studied)
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (0/29 studied)
 - [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (0/46 studied)
@@ -172,6 +172,7 @@ updated: 2026-10-30
 - [ ] [[serpapi.com]] — is the largest and most enterprise-oriented entry in this wiki's search-API cluster: a single REST endpoint fronting 100+ named search-engine endpoints (Google's dozens of verticals plus Bing, Amaz…
 - [ ] [[serper.dev]] — is a Google Search API for agents spanning ten search verticals (web, images, news, maps, video, shopping, Scholar, patents, autocomplete) at credit-based pricing starting at $0.30/1,000 queries, w…
 - [ ] [[smithery.ai]] — is the registry-and-broker layer for MCP: a public catalog of thousands of MCP servers plus a skills registry, and a hosted Connect service that turns any registry server or custom MCP URL into a l…
+- [ ] [[superdesigndev-treg]] — is treg (~6.8k★) — Superdesign's "OpenRouter for agent tools": priced catalog + team credential-injecting proxy, MCP/plugins/skills, hosted at treg.to or self-host.
 - [ ] [[tavily.com]] — is Tavily (now part of Nebius), which pitches itself as "the web access layer for AI agents." One API covers five capabilities.
 - [ ] [[webhook.site]] — introduces [[webhook.site|Webhook.site]], a webhook testing and workflow-automation service that hands every visitor an instantly-usable unique URL, e-mail address, and DNS name (DNSHook), displayi…
 

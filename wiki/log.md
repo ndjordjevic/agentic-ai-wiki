@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-10-31 | ingest | superdesigndev-treg | OpenRouter for agent tools — catalog + credential-injecting proxy
+
+- Created: wiki/sources/superdesigndev-treg.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-10-30 | remove | DMlBzXvG22g-8-free-ai-tools-every-claude-user-must-u | soft-deleted
 
 - Archived: wiki/sources/DMlBzXvG22g-8-free-ai-tools-every-claude-user-must-u.md → wiki/.archive/sources/DMlBzXvG22g-8-free-ai-tools-every-claude-user-must-u.md
