@@ -1,6 +1,7 @@
 ---
 type: source
 category: "Agent frameworks & SDKs"
+studied: true
 source_url: https://github.com/microsoft/semantic-kernel
 tags:
   - agent-orchestration-sdk

@@ -1,8 +1,9 @@
 ---
 type: source
-category: "Agent frameworks & SDKs"
+category: "Infra, hosting, DB & observability"
+studied: true
 source_url: https://www.anthropic.com/engineering/harness-design-long-running-apps
-parent_slug: anthropic.com-harness-design-long-running-apps
+parent_slug: anthropic.com-developer-platform
 tags:
   - managed-agents
   - long-running-agents
@@ -28,7 +29,7 @@ created: 2026-05-14
 updated: 2026-10-28
 ---
 
-Claude Managed Agents is Anthropic's fully managed agentic infrastructure on the [[anthropic.com-harness-design-long-running-apps]] platform: a pre-built harness with secure cloud containers, built-in context compaction, server-side session persistence, and multi-agent orchestration, so developers configure agent behavior rather than build and operate the execution layer. The primary source for this page is Anthropic's engineering article on harness design for long-running apps, which documents Anthropic's own experiments building complex harnesses on top of this infrastructure.
+Claude Managed Agents is Anthropic's fully managed agentic infrastructure on the [[anthropic.com-developer-platform]] platform: a pre-built harness with secure cloud containers, built-in context compaction, server-side session persistence, and multi-agent orchestration, so developers configure agent behavior rather than build and operate the execution layer. The primary source for this page is Anthropic's engineering article on harness design for long-running apps, which documents Anthropic's own experiments building complex harnesses on top of this infrastructure.
 
 _All claims below are sourced from ../../raw/web/anthropic.com.md unless otherwise noted._
 

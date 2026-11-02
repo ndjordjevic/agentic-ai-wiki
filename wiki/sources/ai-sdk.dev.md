@@ -1,6 +1,7 @@
 ---
 type: source
 category: "Agent frameworks & SDKs"
+studied: true
 source_url: https://ai-sdk.dev/
 companion_urls:
   - https://github.com/vercel/ai

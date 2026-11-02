@@ -1,6 +1,7 @@
 ---
 type: source
 category: "Agent frameworks & SDKs"
+studied: true
 source_url: https://strandsagents.com/
 companion_urls:
   - https://github.com/strands-agents/sdk-python

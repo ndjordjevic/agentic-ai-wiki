@@ -1,6 +1,7 @@
 ---
 type: source
 category: "Agent frameworks & SDKs"
+studied: true
 source_url: https://adk.dev/
 companion_urls:
   - https://github.com/google/adk-python

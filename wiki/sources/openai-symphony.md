@@ -16,10 +16,11 @@ related:
   - karpathy-autoresearch
   - deepseek-ai-deepseek-harness
   - kunchenguid-firstmate
+  - evo-hq-evo
 product: symphony
 detail_level: standard
 created: 2026-07-22
-updated: 2026-10-30
+updated: 2026-11-01
 ---
 
 Symphony is OpenAI's open-source orchestration pattern for turning tracker tickets into isolated, autonomous coding-agent runs. Instead of supervising one agent session at a time, teams operate a long-running service that continuously polls project work, dispatches per-issue runs in isolated workspaces, and treats `WORKFLOW.md` as a versioned policy contract for execution, validation, and handoff.

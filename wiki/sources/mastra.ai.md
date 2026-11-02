@@ -1,6 +1,7 @@
 ---
 type: source
 category: "Agent frameworks & SDKs"
+studied: true
 source_url: https://mastra.ai/
 companion_urls:
   - https://github.com/mastra-ai/mastra

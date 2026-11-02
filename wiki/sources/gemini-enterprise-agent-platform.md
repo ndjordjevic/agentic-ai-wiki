@@ -1,6 +1,7 @@
 ---
 type: source
-category: "Agent frameworks & SDKs"
+category: "Infra, hosting, DB & observability"
+studied: true
 source_url: https://cloud.google.com/products/gemini-enterprise-agent-platform
 tags:
   - google-cloud

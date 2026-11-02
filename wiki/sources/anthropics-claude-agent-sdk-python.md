@@ -1,6 +1,7 @@
 ---
 type: source
-category: "Agent frameworks & SDKs"
+category: "Coding agents, IDEs & dev environments"
+studied: true
 source_url: https://github.com/anthropics/claude-agent-sdk-python
 tags:
   - claude-code
@@ -12,7 +13,7 @@ tags:
   - async-python
   - claude-agent
 related:
-  - anthropic.com-harness-design-long-running-apps
+  - anthropic.com-developer-platform
   - anthropic.com-managed-agents
   - anthropic.com-messages
   - anthropics-skills

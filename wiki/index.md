@@ -36,7 +36,7 @@ created: 2026-04-28
 | [[reseek.net]] | web | standard | 2026-05-13 | |
 | [[nidhinjs-prompt-master]] | github | standard | 2026-05-13 | |
 | [[9d5bzxVsocw-anthropic-just-dropped-the-new-blueprint]] | youtube | standard | 2026-05-14 | |
-| [[anthropic.com-harness-design-long-running-apps]] | web | deep | 2026-05-14 | Anthropic's developer platform (Messages API + Managed Agents) and its harness-design research for long-running autonomous agents |
+| [[anthropic.com-developer-platform]] | web | deep | 2026-05-14 | Anthropic developer-platform umbrella: Messages API + Claude Managed Agents (harness research on subpages / related video) |
 | [[anthropic.com-messages]] | web | deep | 2026-05-14 | Direct-access Messages API: custom agent loops, tool use, extended thinking, and the Agent Skills system |
 | [[anthropic.com-managed-agents]] | web | deep | 2026-05-14 | Pre-built managed agent harness: multi-agent orchestration, secure containers, and stateful long-running sessions |
 | [[gsd-build-get-shit-done]] | github | standard | 2026-05-14 | |
@@ -379,4 +379,5 @@ created: 2026-04-28
 | [[small-business]] | web | standard | 2026-10-30 | Anthropic Small Business plugin — 44 SMB skills |
 | [[hex.kitlangton.dev]] | web | standard | 2026-10-30 | companion: anomalyco/hex — local voice dictation |
 | [[superdesigndev-treg]] | github | standard | 2026-10-31 | |
+| [[evo-hq-evo]] | github | standard | 2026-11-01 | |
 _368 sources ingested._

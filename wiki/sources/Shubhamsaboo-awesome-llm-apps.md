@@ -1,6 +1,6 @@
 ---
 type: source
-category: "Agent frameworks & SDKs"
+category: "Business, career & learning"
 source_url: https://github.com/Shubhamsaboo/awesome-llm-apps
 tags:
   - awesome-list

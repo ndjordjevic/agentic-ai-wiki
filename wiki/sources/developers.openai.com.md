@@ -1,6 +1,7 @@
 ---
 type: source
 category: "Agent frameworks & SDKs"
+studied: true
 source_url: https://developers.openai.com/api/docs/guides/agents
 companion_urls:
   - https://github.com/openai/openai-agents-js

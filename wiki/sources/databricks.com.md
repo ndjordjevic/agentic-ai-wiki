@@ -1,6 +1,7 @@
 ---
 type: source
-category: "Agent frameworks & SDKs"
+category: "Infra, hosting, DB & observability"
+studied: true
 source_url: https://www.databricks.com/
 tags:
   - data-intelligence-platform

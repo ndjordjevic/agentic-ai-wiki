@@ -28,7 +28,7 @@ related:
   - anombyte93-prd-taskmaster
   - mattpocock-skills
   - nidhinjs-prompt-master
-  - anthropic.com-harness-design-long-running-apps
+  - anthropic.com-developer-platform
   - anthropic.com-messages
   - how-claude-code-works-in-large-codebases
   - coleam00-helpline

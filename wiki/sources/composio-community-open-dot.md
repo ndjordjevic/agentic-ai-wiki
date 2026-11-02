@@ -1,6 +1,6 @@
 ---
 type: source
-category: "Agent frameworks & SDKs"
+category: "Coding agents, IDEs & dev environments"
 source_url: https://github.com/composio-community/open-dot
 tags:
   - personal-agent-desktop-app

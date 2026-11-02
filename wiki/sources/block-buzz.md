@@ -1,6 +1,6 @@
 ---
 type: source
-category: "Agent frameworks & SDKs"
+category: "Coding-agent harnesses & methodologies"
 source_url: https://github.com/block/buzz
 tags: [nostr-relay, human-agent-collaboration, acp, mcp, event-sourcing, self-hosted, rust, yaml-workflows]
 related: [aaif-goose-goose]

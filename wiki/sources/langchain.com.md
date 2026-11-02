@@ -1,6 +1,7 @@
 ---
 type: source
 category: "Agent frameworks & SDKs"
+studied: true
 source_url: https://www.langchain.com/
 subpages:
   - langchain.com-langsmith
@@ -31,7 +32,7 @@ related:
   - neon.com
   - chopratejas-headroom
   - pydantic-pydantic-ai
-  - anthropic.com-harness-design-long-running-apps
+  - anthropic.com-developer-platform
   - supabase.com
 product: langchain.com
 detail_level: deep

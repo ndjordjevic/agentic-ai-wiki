@@ -1,6 +1,7 @@
 ---
 type: source
 category: "Agent frameworks & SDKs"
+studied: true
 source_url: https://www.langchain.com/langgraph
 parent_slug: langchain.com
 tags:

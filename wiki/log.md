@@ -6,6 +6,24 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-11-02 | rename | anthropic.com → anthropic.com-developer-platform | avoid claiming whole anthropic.com domain
+
+- Renamed: wiki/sources/anthropic.com.md → wiki/sources/anthropic.com-developer-platform.md
+- Updated: parent_slug/wikilinks on anthropic.com-messages, anthropic.com-managed-agents, related pages; wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md
+- Note: raw/web/anthropic.com.md unchanged (shared capture for the umbrella)
+
+## 2026-11-02 | rename | anthropic.com-harness-design-long-running-apps → anthropic.com | umbrella slug matches developer-platform hub
+
+- Renamed: wiki/sources/anthropic.com-harness-design-long-running-apps.md → wiki/sources/anthropic.com.md
+- Updated: parent_slug/wikilinks on anthropic.com-messages, anthropic.com-managed-agents, related pages; wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md
+- Note: raw/web/anthropic.com.md unchanged (already aligned with new slug) — superseded same day by rename to anthropic.com-developer-platform
+
+## 2026-11-01 | ingest | evo-hq-evo | Autoresearch orchestrator — tree search + parallel subagents for codebase optimization
+
+- Created: wiki/sources/evo-hq-evo.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md
+
+
 ## 2026-10-31 | ingest | superdesigndev-treg | OpenRouter for agent tools — catalog + credential-injecting proxy
 
 - Created: wiki/sources/superdesigndev-treg.md
