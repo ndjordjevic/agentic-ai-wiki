@@ -1,6 +1,7 @@
 ---
 type: source
 category: "Coding-agent harnesses & methodologies"
+studied: true
 source_url: https://github.com/block/buzz
 tags: [nostr-relay, human-agent-collaboration, acp, mcp, event-sourcing, self-hosted, rust, yaml-workflows]
 related: [aaif-goose-goose]

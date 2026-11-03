@@ -1,6 +1,7 @@
 ---
 type: source
 category: "Coding-agent harnesses & methodologies"
+studied: true
 source_url: https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start
 tags:
   - claude-code

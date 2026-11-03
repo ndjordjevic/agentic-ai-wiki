@@ -1,6 +1,7 @@
 ---
 type: source
 category: "Coding-agent harnesses & methodologies"
+studied: true
 source_url: https://github.com/openai/symphony
 tags:
   - codex-app-server

@@ -1,6 +1,7 @@
 ---
 type: source
 category: "Coding-agent harnesses & methodologies"
+studied: true
 source_url: https://youtu.be/9d5bzxVsocw
 tags: [harness-design, long-running-agents, adversarial-evaluation, context-anxiety, planner-generator-evaluator, context-compaction, claude-agent-sdk, multi-agent-architecture]
 related:

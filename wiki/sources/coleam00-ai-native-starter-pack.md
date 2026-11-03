@@ -1,6 +1,7 @@
 ---
 type: source
 category: "Coding-agent harnesses & methodologies"
+studied: true
 source_url: https://github.com/coleam00/ai-native-starter-pack
 tags:
   - ai-layer

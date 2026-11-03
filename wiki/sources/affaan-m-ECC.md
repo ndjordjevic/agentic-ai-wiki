@@ -1,6 +1,7 @@
 ---
 type: source
 category: "Coding-agent harnesses & methodologies"
+studied: true
 source_url: https://github.com/affaan-m/ECC
 tags: [claude-code-plugin, multi-harness-adapter, agent-catalog, tdd-enforcement, agent-skills, instinct-based-learning, memory-vault, agentshield-security-scanner]
 related: [Yeachan-Heo-oh-my-claudecode, obra-superpowers, davila7-claude-code-templates, deepseek-ai-deepseek-harness, Chachamaru127-claude-code-harness, claudemod.com]

@@ -1,6 +1,7 @@
 ---
 type: source
 category: "Coding-agent harnesses & methodologies"
+studied: true
 source_url: https://www.mindstudio.ai/blog/what-is-dark-factory-autonomous-ai-codebase
 tags:
   - dark-factory

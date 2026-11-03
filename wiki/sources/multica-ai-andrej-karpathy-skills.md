@@ -1,6 +1,7 @@
 ---
 type: source
 category: "Coding-agent harnesses & methodologies"
+studied: true
 source_url: https://github.com/multica-ai/andrej-karpathy-skills
 tags:
   - claude-code-guidelines
