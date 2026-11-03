@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-11-03 | ingest | justrach-nanoui | Zig desktop UI framework with agent-first nui CLI and headless testing
+
+- Created: wiki/sources/justrach-nanoui.md, raw/github/justrach-nanoui.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md; related on open-dot, hermes-desktop, ericzakariasson CLIs, must-have-clis-2026
+
 ## 2026-11-03 | ingest | composio.dev | Agent toolkits + managed auth + MCP Connect; companion ComposioHQ/composio
 
 - Created: wiki/sources/composio.dev.md, raw/web/composio.dev.md, raw/github/ComposioHQ-composio.md

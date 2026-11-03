@@ -19,6 +19,7 @@ related:
   - vercel-labs-agent-browser
   - kylon.io
   - composio.dev
+  - justrach-nanoui
 product: open-dot
 detail_level: standard
 created: 2026-10-02

@@ -19,7 +19,7 @@ updated: 2026-11-03
 - [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (0/32 studied)
 - [[#MCP servers & integrations|MCP servers & integrations]] (0/23 studied)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (0/17 studied)
-- [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (1/32 studied)
+- [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (1/33 studied)
 - [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (0/46 studied)
 - [[#Browser & web automation|Browser & web automation]] (0/15 studied)
 - [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (0/13 studied)
@@ -209,6 +209,7 @@ updated: 2026-11-03
 - [ ] [[greptile.com]] — represents the "central validation layer" role in AI-assisted development workflows: an automated AI code review agent that integrates with GitHub and GitLab as an app/webhook, builds a graph of th…
 - [ ] [[happy.engineering]] — documents Happy Coder, the MIT-licensed mobile and web client (22k+ stars) for controlling Claude Code and Codex on machines you own — laptop, server, or Raspberry Pi — with real-time session sync,…
 - [ ] [[hermes-agent.nousresearch.com]] — introduces Hermes Agent, an open-source autonomous agent by Nous Research (189k stars, MIT, v0.16.0 "The Surface Release") built around a closed learning loop that distinguishes it from session-sco…
+- [ ] [[justrach-nanoui]] — is a Zig 0.17 desktop framework (690★, MIT, v0.11.0) for tiny native GPU UIs or system-webview frontends with typed Zig↔TS IPC.
 - [ ] [[kiro.dev]] — documents Kiro — Amazon's coding agent available as an IDE, CLI, and web interface, and the successor to Amazon Q Developer.
 - [ ] [[kunchenguid-dotfiles]] — is a complete, reproducible macOS developer environment managed with nix-darwin, home-manager, and nix-homebrew — designed for agentic engineering.
 - [ ] [[Larkspur-Wang-Jev_steer_or_queue]] — is jev-steer-or-queue (~17★, MIT) — a Claude Code plugin (Codex in testing) that asks Jev whether a mid-turn message should steer, queue, or interrupt.
@@ -450,4 +451,4 @@ updated: 2026-11-03
 - [ ] [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [ ] [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_371 sources across 16 categories — 78 studied._
+_372 sources across 16 categories — 78 studied._

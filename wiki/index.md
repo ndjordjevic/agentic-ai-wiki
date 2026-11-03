@@ -383,4 +383,5 @@ created: 2026-04-28
 | [[coleam00-ai-software-factory]] | github | standard | 2026-11-03 | |
 | [[coleam00-factory-mission-control]] | github | standard | 2026-11-03 | |
 | [[composio.dev]] | web | standard | 2026-11-03 | companion: ComposioHQ/composio — agent toolkits, sessions, MCP Connect |
-_371 sources ingested._
+| [[justrach-nanoui]] | github | standard | 2026-11-03 | Zig desktop UI for agents — nui CLI, headless snapshots, nanoterm |
+_372 sources ingested._
