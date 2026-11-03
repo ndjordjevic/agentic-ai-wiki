@@ -6,6 +6,16 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-11-03 | ingest | coleam00-factory-mission-control | Live Neon Realtime dashboard of the AI Software Factory: architecture map, scorecard, owner queue
+
+- Created: wiki/sources/coleam00-factory-mission-control.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
+## 2026-11-03 | ingest | coleam00-ai-software-factory | Installable Archon SDLC consumer: PRD or issues in, reviewed PRs out, humans at intent and staging
+
+- Created: wiki/sources/coleam00-ai-software-factory.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/log.md, raw/github/README.md, inbox.md
+
 ## 2026-11-02 | rename | anthropic.com → anthropic.com-developer-platform | avoid claiming whole anthropic.com domain
 
 - Renamed: wiki/sources/anthropic.com.md → wiki/sources/anthropic.com-developer-platform.md

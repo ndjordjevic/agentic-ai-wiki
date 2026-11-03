@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-11-01
+updated: 2026-11-03
 ---
 
 [[paperclip.ing]] introduces Paperclip, an open-source control plane for running autonomous AI-agent companies. It sits above agent runtimes like Claude Code, Codex, Cursor, OpenClaw, bash agents, and HTTP bots and provides the organizational layer those runtimes lack: an org chart with hierarchical reporting, a heartbeat execution loop that wakes agents on schedule, an atomic ticket system with checkout locks, per-agent budget enforcement with hard stops, board-level governance and approval gates, and complete multi-company data isolation in a single Node.js + React deployment. The source also shows how Paperclip packages this operating model into both a public product site and a companion GitHub repo with a built-in heartbeat skill, plugin system, portability features, and an actively maintained roadmap.
@@ -742,3 +742,7 @@ updated: 2026-11-01
 [[superdesigndev-treg]] is treg (~6.8k★, Apache-2.0 + hosted-service terms; PyPI tools-registry v0.28.0) — Superdesign's "OpenRouter for agent tools": one token/base URL for a priced catalog of thousands of endpoints plus team-owned tools/skills/CLIs with server-side credential injection, MCP/plugin surfaces, and optional self-host; analogous tool-layer complement to [[openrouter.ai]] / MCP hubs like [[smithery.ai]].
 
 [[evo-hq-evo]] (~1.5k★, Apache-2.0, PyPI evo-hq-cli v0.8.0) — an autoresearch orchestrator plugin that discovers benchmarks, then runs tree-search optimization with parallel subagents, gates, and a local dashboard across Claude Code/Codex/Cursor/Hermes/Kimi/OpenCode/OpenClaw/Pi; structured generalization of [[karpathy-autoresearch]].
+
+[[coleam00-ai-software-factory]] introduces Cole Medin's installable consumer of the [[coleam00-archon]] SDLC pack (481 stars, Python, no release): you plan the release, the factory turns a PRD or filed issues into independently reviewed pull requests, and you judge the result in staging. Humans stay at intent and taste; `archon-loop` runs the middle, with a holdout fence builders cannot read, evidence-checked merge gates, and protected governance files. It is the production counterpart of [[coleam00-harness-engineering-demo]] and the explicit refusal of a lights-out [[dark-factory-autonomous-ai-codebase]]. The live view of those laps is [[coleam00-factory-mission-control]].
+
+[[coleam00-factory-mission-control]] adds the live dashboard for that factory (17 stars, TypeScript, private package): one Neon Realtime map of the pinned architecture, a per-version scorecard (merges per active hour, lap-hours per merge, cost per merge), issue lanes, an owner queue, and rewind onto a Neon branch up to 7 days back. It is read-only toward GitHub and [[coleam00-archon]]; holdouts appear as ids and verdicts only. Same "watch the loop" job as [[coleam00-agent-control-plane]], scoped to the software factory.

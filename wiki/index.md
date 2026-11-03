@@ -380,4 +380,6 @@ created: 2026-04-28
 | [[hex.kitlangton.dev]] | web | standard | 2026-10-30 | companion: anomalyco/hex — local voice dictation |
 | [[superdesigndev-treg]] | github | standard | 2026-10-31 | |
 | [[evo-hq-evo]] | github | standard | 2026-11-01 | |
-_368 sources ingested._
+| [[coleam00-ai-software-factory]] | github | standard | 2026-11-03 | |
+| [[coleam00-factory-mission-control]] | github | standard | 2026-11-03 | |
+_370 sources ingested._

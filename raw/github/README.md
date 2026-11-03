@@ -257,3 +257,5 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/anomalyco-hex.md | anomalyco/hex | 1105 | dev | app-v2.3.1 | 2026-10-30 | |
 | raw/github/superdesigndev-treg.md | superdesigndev/treg | 6825 | main | (none) | 2026-10-31 | |
 | raw/github/evo-hq-evo.md | evo-hq/evo | 1488 | main | v0.8.0 | 2026-11-01 | |
+| raw/github/coleam00-ai-software-factory.md | coleam00/ai-software-factory | 481 | main | none | 2026-11-03 | |
+| raw/github/coleam00-factory-mission-control.md | coleam00/factory-mission-control | 17 | main | none | 2026-11-03 | |

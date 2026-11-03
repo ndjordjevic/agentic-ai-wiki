@@ -388,3 +388,5 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://hex.kitlangton.dev <!-- ingested 2026-10-30 -->
 - [x] https://github.com/superdesigndev/treg <!-- ingested 2026-10-31 -->
 - [x] https://github.com/evo-hq/evo <!-- ingested 2026-11-01 -->
+- [x] https://github.com/coleam00/ai-software-factory <!-- ingested 2026-11-03 -->
+- [x] https://github.com/coleam00/factory-mission-control <!-- ingested 2026-11-03 -->

@@ -16,10 +16,11 @@ related:
   - coleam00-archon
   - software-factory-claude-code
   - Kevin-Liu-01-Claude-of-Tanks
+  - coleam00-ai-software-factory
 product: dark-factory-autonomous-ai-codebase
 detail_level: standard
 created: 2026-07-13
-updated: 2026-10-20
+updated: 2026-11-03
 ---
 
 MindStudio's explainer on "dark factories" — a term borrowed from lights-out manufacturing and applied to fully autonomous software development, where AI agents plan, code, test, and deploy without human intervention. It's a useful conceptual framing (not a product) for the harness-design patterns already documented elsewhere in this wiki.
