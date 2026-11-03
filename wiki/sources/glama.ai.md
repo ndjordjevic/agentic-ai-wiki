@@ -3,11 +3,11 @@ type: source
 category: "MCP servers & integrations"
 source_url: https://glama.ai/
 tags: [mcp-registry, mcp-gateway, mcp-hosting, mcp-inspector, tool-definition-quality-score, mcp-security-scanning, mcp-connectors]
-related: [smithery.ai, superdesigndev-treg]
+related: [smithery.ai, superdesigndev-treg, composio.dev]
 product: glama
 detail_level: standard
 created: 2026-10-14
-updated: 2026-10-31
+updated: 2026-11-03
 ---
 
 Glama is an MCP registry plus control plane. It indexes about 97.6k open-source MCP servers, 30.7k remote connectors, and nearly 1M individual tools. It calls itself a superset of the official MCP Registry. Every listed server is built in a sandbox, introspected, checked for malicious behaviour, and given a quality score. On top of the directory, Glama sells the production layer: a browser-based **MCP Inspector**, one-click **MCP hosting**, and an **MCP Gateway** that logs every JSON-RPC call, gates individual tools, and manages OAuth credentials. It also runs an older multi-model **Chat** workspace. The wiki tracks it as the main alternative to [[smithery.ai]] for finding MCP servers and running them in production. Its most distinctive feature is the security and quality vetting it applies to every listing.

@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-11-03 | ingest | composio.dev | Agent toolkits + managed auth + MCP Connect; companion ComposioHQ/composio
+
+- Created: wiki/sources/composio.dev.md, raw/web/composio.dev.md, raw/github/ComposioHQ-composio.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md; related on composio-community-open-dot, monid.ai
+
 ## 2026-11-03 | ingest | coleam00-factory-mission-control | Live Neon Realtime dashboard of the AI Software Factory: architecture map, scorecard, owner queue
 
 - Created: wiki/sources/coleam00-factory-mission-control.md

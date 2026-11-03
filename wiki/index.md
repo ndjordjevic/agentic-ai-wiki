@@ -382,4 +382,5 @@ created: 2026-04-28
 | [[evo-hq-evo]] | github | standard | 2026-11-01 | |
 | [[coleam00-ai-software-factory]] | github | standard | 2026-11-03 | |
 | [[coleam00-factory-mission-control]] | github | standard | 2026-11-03 | |
-_370 sources ingested._
+| [[composio.dev]] | web | standard | 2026-11-03 | companion: ComposioHQ/composio — agent toolkits, sessions, MCP Connect |
+_371 sources ingested._

@@ -3,11 +3,11 @@ type: source
 category: "MCP servers & integrations"
 source_url: https://smithery.ai/
 tags: [mcp-registry, mcp-gateway, managed-oauth, agent-connections, service-tokens, mcp-triggers, mcp-tunnel, smithery-cli]
-related: [monid.ai, skills.sh, glama.ai, superdesigndev-treg]
+related: [monid.ai, skills.sh, glama.ai, superdesigndev-treg, composio.dev]
 product: smithery
 detail_level: standard
 created: 2026-10-14
-updated: 2026-10-31
+updated: 2026-11-03
 ---
 
 Smithery is an MCP registry and managed-connection platform: a public catalog of thousands of Model Context Protocol servers (and a skills registry) plus a hosted "Connect" layer that lets an agent attach to any of them through one REST/MCP surface while Smithery handles OAuth, credential storage, token refresh, and session lifecycle. Its pitch is "give agents more agency" — connect a tool once, then reuse that connection across Claude, GPT, open-source models, chat agents, background agents, and CLI tools. For server authors it is also a distribution channel (server pages, scanning, analytics, verification). It matters to this wiki as the main hub where MCP servers are discovered, published, and wired into agents without each app re-implementing MCP auth plumbing.

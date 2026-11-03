@@ -172,3 +172,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/buildpartner.ai.md | buildpartner.ai | 5 | 2026-10-30 | |
 | raw/web/small-business.md | small-business | 1 | 2026-10-30 | |
 | raw/web/hex.kitlangton.dev.md | hex.kitlangton.dev | 3 | 2026-10-30 | |
+| raw/web/composio.dev.md | composio.dev | 14 | 2026-11-03 | companion: ComposioHQ/composio |
