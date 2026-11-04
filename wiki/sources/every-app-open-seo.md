@@ -19,6 +19,8 @@ product: open-seo
 detail_level: standard
 created: 2026-10-30
 updated: 2026-10-30
+studied: true
+
 ---
 
 every-app/open-seo (OpenSEO) is an open-source, pay-as-you-go alternative to Semrush/Ahrefs aimed at humans and AI agents: keyword research, rank tracking, competitor insights, backlinks, site audits, and AI visibility, with a first-class MCP server and Agent Skills so tools like Claude Code, Codex, OpenClaw, and Hermes can drive SEO workflows directly.

@@ -19,6 +19,8 @@ product: supabase-agent-skills
 detail_level: standard
 created: 2026-10-30
 updated: 2026-10-30
+studied: true
+
 ---
 
 supabase/agent-skills is Supabase's official Agent Skills pack for developers using AI agents with Supabase. It ships two skills—comprehensive Supabase product coverage and Postgres performance best practices—in the [Agent Skills](https://agentskills.io/) format, compatible with 18+ agents including Claude Code, GitHub Copilot, Cursor, and Cline.

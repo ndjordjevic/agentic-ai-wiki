@@ -24,6 +24,8 @@ product: claudemod
 detail_level: standard
 created: 2026-10-28
 updated: 2026-10-28
+studied: true
+
 ---
 
 ClaudeMod (claudemod.com) is a community-maintained directory for Claude Code extensions — in-process TypeScript mods/plugins, Agent Skills, MCP servers, hooks, harnesses, commands, configs, and IDE plugins — positioning itself as "the community hub for Claude Code Mods" with ~172 listed items and no Anthropic affiliation.

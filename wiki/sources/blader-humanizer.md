@@ -19,6 +19,8 @@ product: humanizer
 detail_level: standard
 created: 2026-10-30
 updated: 2026-10-30
+studied: true
+
 ---
 
 blader/humanizer is an agent skill that rewrites AI-sounding prose so it reads like a person wrote it, without changing meaning. It is grounded in Wikipedia's Signs of AI writing guide, exposes `/humanizer` across Claude Code, Codex, and other skill-capable agents, and explicitly does not aim to beat AI detectors.

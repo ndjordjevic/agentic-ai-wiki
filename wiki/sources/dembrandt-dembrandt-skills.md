@@ -22,6 +22,8 @@ product: dembrandt
 detail_level: standard
 created: 2026-10-28
 updated: 2026-10-28
+studied: true
+
 ---
 
 dembrandt-skills (~173★, MIT) packages senior-level UX and design-system judgment as Open Agent Skills (and a Claude Code plugin) so agents apply usability/contrast/pattern guidance automatically — most skills work install-only; two that read live sites need the [[dembrandt-dembrandt]] engine + browser.

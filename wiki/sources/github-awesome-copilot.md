@@ -15,6 +15,8 @@ product: awesome-copilot
 detail_level: standard
 created: 2026-10-01
 updated: 2026-10-01
+studied: true
+
 ---
 
 GitHub's official community-maintained catalog for customizing GitHub Copilot — a single repository bundling custom agents, path-scoped instructions, Agent Skills, session hooks, Agentic Workflows, and installable plugins, all discoverable through a dedicated marketplace site and machine-readable `llms.txt`. It is the canonical "awesome list" for the Copilot ecosystem specifically (as opposed to Claude-/general-agent-focused lists like [[voltagent-awesome-agent-skills]]), maintained directly by GitHub with automated quality gates for external contributions.

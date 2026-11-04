@@ -18,6 +18,8 @@ product: small-business
 detail_level: standard
 created: 2026-10-30
 updated: 2026-10-30
+studied: true
+
 ---
 
 Anthropic's **Small Business** plugin (`anthropics/knowledge-work-plugins`, v1.35.1) ships 44 Claude skills spanning finance, sales, marketing, customers, ops/hiring, briefings, and setup — plus an `smb-router` that maps plain-English requests to the right skill with approval gates before any send/pay/post.

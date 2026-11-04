@@ -21,6 +21,8 @@ product: fwc-swiftui-skills
 detail_level: standard
 created: 2026-10-27
 updated: 2026-10-27
+studied: true
+
 ---
 
 FloWritesCode/fwc-swiftui-skills (445 stars, MIT) is a small Agent Skills pack for modern SwiftUI development on iOS 26+, maintained by FloWritesCode. It currently ships two skills, one for Liquid Glass and one for the iPhone Duo foldable form factor, and follows the same Agent Skills folder convention as [[anthropics-skills]] and is installable through the skills CLI used by [[skills.sh]].

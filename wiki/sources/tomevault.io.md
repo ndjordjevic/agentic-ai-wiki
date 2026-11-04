@@ -17,6 +17,8 @@ product: tomevault
 detail_level: standard
 created: 2026-06-19
 updated: 2026-10-28
+studied: true
+
 ---
 
 TomeVault is a cross-platform index, converter, and trust layer for AI instruction files — indexing 117,590+ CLAUDE.md, AGENTS.md, SKILL.md, GEMINI.md, .cursorrules, Windsurf rules, and copilot-instructions.md files from public GitHub repos and converting them on-demand across six AI coding platforms. Its core insight: developers write one primary instruction file and TomeVault auto-translates it to every format variant, re-grading on each commit. It also introduces "Tomes" — installable packages that bundle a project config with related SKILL.md files — and applies deterministic security scoring (74 rules, 10 AST categories) to every file before indexing.

@@ -22,6 +22,8 @@ product: marketingskills
 detail_level: standard
 created: 2026-10-27
 updated: 2026-10-27
+studied: true
+
 ---
 
 coreyhaines31/marketingskills (56,785 stars, MIT) is Corey Haines's library of 52 marketing Agent Skills — CRO, copywriting, SEO, analytics, paid, retention, sales/RevOps and growth engineering — for technical marketers and founders using coding agents. A foundational `product-marketing` skill holds product, audience and positioning context that every other skill reads first. It installs through `npx skills` / [[skills.sh]], Claude Code and Codex plugins, and works with any agent supporting the Agent Skills spec; see also the sibling pack [[coreyhaines31-makerskills]].

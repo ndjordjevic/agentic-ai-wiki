@@ -19,6 +19,8 @@ product: buildpartner
 detail_level: standard
 created: 2026-10-30
 updated: 2026-10-30
+studied: true
+
 ---
 
 BuildPartner.ai is Austin Marchese's Claude Code marketplace plugin (plus `buildpartner` MCP) that runs project-context guided builds (`/buildpartner:build`), expert-framework Q&A (`/buildpartner:expert-advice`), system-improvement reviews, and a dashboard — with a `/social` product surface for researching X/Instagram/YouTube creators (breakout posts, transcripts, comments) from inside Claude Code.

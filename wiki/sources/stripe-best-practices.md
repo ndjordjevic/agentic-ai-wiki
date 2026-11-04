@@ -20,6 +20,8 @@ product: stripe-best-practices
 detail_level: standard
 created: 2026-10-30
 updated: 2026-10-30
+studied: true
+
 ---
 
 stripe-best-practices is Stripe’s official Agent Skill (`SKILL.md` plus domain reference files) that steers coding agents through current Stripe integration decisions—sandboxes, API and SDK versions, Checkout vs PaymentIntents, Connect Accounts v2, Billing/Metronome, Tax, Treasury, and security—so agents recommend modern patterns instead of deprecated APIs.

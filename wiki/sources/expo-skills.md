@@ -20,6 +20,8 @@ product: expo-skills
 detail_level: standard
 created: 2026-10-30
 updated: 2026-10-30
+studied: true
+
 ---
 
 expo/skills is the official Expo team collection of AI agent skills for building, deploying, upgrading, and debugging Expo apps and Expo Application Services (EAS). Skills give agents focused Expo knowledge—when to use APIs, how to structure workflows, and which Expo, EAS, React Native, iOS, and Android constraints matter—while Expo docs, Expo CLI, and EAS CLI remain the source of truth.

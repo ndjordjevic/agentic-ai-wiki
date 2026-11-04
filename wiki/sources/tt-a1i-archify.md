@@ -19,6 +19,8 @@ product: archify
 detail_level: standard
 created: 2026-10-20
 updated: 2026-10-28
+studied: true
+
 ---
 
 Archify is an open-source agent skill (MIT, v3.2.0) that turns ideas, plans, or codebases into self-contained interactive HTML diagrams and explainer pages. Installed via [[skills.sh]] (`npx skills add`), it works with Claude Code, Codex, Cursor, and OpenCode (plus community Hermes / DeepSeek Harness integrations). With ~86k GitHub stars and 130K+ [[skills.sh]] installs (as of October 2026), homepage [archify.si](https://archify.si).

@@ -23,6 +23,8 @@ product: one-skill-to-rule-them-all
 detail_level: standard
 created: 2026-10-27
 updated: 2026-10-28
+studied: true
+
 ---
 
 rebelytics/one-skill-to-rule-them-all (3,584 stars, CC BY 4.0) is Eoghan Henn's `task-observer` meta-skill — a skill that watches your work sessions, logs corrections, gaps and judgement calls as observations, and turns them into reviewed improvements to your other skills (and to itself). It is a practical application of the Augmented Expertise methodology, installs through `npx skills` / [[skills.sh]], and sits alongside skill-authoring packs like [[anthropics-skills]] as the maintenance layer: skills that learn from use instead of staying frozen.
