@@ -6,6 +6,18 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-11-04 | ingest | coding-llms-from-the-ground-up | Raschka ~15h LLM-from-scratch video course; companion rasbt/LLMs-from-scratch
+
+- Created: wiki/sources/coding-llms-from-the-ground-up.md, raw/web/coding-llms-from-the-ground-up.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md; related on building-reasoning-models, pytorch.org, fastai-fastbook, rohitg00-ai-engineering-from-scratch
+- Companion: raw/github/rasbt-LLMs-from-scratch.md
+
+## 2026-11-04 | ingest | building-reasoning-models | Raschka ~11h reasoning-from-scratch video course; companion rasbt/reasoning-from-scratch
+
+- Created: wiki/sources/building-reasoning-models.md, raw/web/building-reasoning-models.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md; related on coding-llms-from-the-ground-up, pytorch.org, fastai-fastbook, rohitg00-ai-engineering-from-scratch
+- Companion: raw/github/rasbt-reasoning-from-scratch.md
+
 ## 2026-11-03 | ingest | justrach-nanoui | Zig desktop UI framework with agent-first nui CLI and headless testing
 
 - Created: wiki/sources/justrach-nanoui.md, raw/github/justrach-nanoui.md

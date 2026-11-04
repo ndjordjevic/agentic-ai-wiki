@@ -14,10 +14,12 @@ related:
   - fastai-fastbook
   - anthropics-skills
   - shareai-lab-learn-claude-code
+  - building-reasoning-models
+  - coding-llms-from-the-ground-up
 product: ai-engineering-from-scratch
 detail_level: standard
 created: 2026-09-26
-updated: 2026-10-28
+updated: 2026-11-04
 ---
 
 AI Engineering from Scratch is a free, MIT-licensed, 523-lesson curriculum (20 phases, ~342 hours) spanning linear algebra and backpropagation through transformers, LLM engineering, and multi-agent swarms, implemented from raw math in Python, TypeScript, Rust, and Julia before showing the same concept in a production library. For the agentic-AI wiki it is notable as a rare end-to-end on-ramp: phases 13–16 (Tools & Protocols, Agent Engineering, Autonomous Systems, Multi-Agent & Swarms) teach MCP, Agent Skills, the agent loop, and swarm coordination with the same "build it from scratch, then use the framework" discipline applied to matrix math and attention earlier in the course, and the whole thing installs and runs itself as an Agent Skill inside a coding agent.

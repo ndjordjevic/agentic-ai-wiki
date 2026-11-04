@@ -384,4 +384,6 @@ created: 2026-04-28
 | [[coleam00-factory-mission-control]] | github | standard | 2026-11-03 | |
 | [[composio.dev]] | web | standard | 2026-11-03 | companion: ComposioHQ/composio — agent toolkits, sessions, MCP Connect |
 | [[justrach-nanoui]] | github | standard | 2026-11-03 | Zig desktop UI for agents — nui CLI, headless snapshots, nanoterm |
-_372 sources ingested._
+| [[building-reasoning-models]] | web | standard | 2026-11-04 | Raschka Ahead of AI; companion rasbt/reasoning-from-scratch |
+| [[coding-llms-from-the-ground-up]] | web | standard | 2026-11-04 | Raschka Ahead of AI; companion rasbt/LLMs-from-scratch |
+_374 sources ingested._

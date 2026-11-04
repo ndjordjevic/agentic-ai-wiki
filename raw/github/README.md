@@ -261,3 +261,5 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/coleam00-factory-mission-control.md | coleam00/factory-mission-control | 17 | main | none | 2026-11-03 | |
 | raw/github/ComposioHQ-composio.md | ComposioHQ/composio | 30897 | next | @composio/cli@0.6.0 | 2026-11-03 | companion to composio.dev |
 | raw/github/justrach-nanoui.md | justrach/nanoui | 690 | main | v0.11.0 | 2026-11-03 | |
+| raw/github/rasbt-reasoning-from-scratch.md | rasbt/reasoning-from-scratch | 5775 | main | v1.0 | 2026-11-04 | companion to building-reasoning-models |
+| raw/github/rasbt-LLMs-from-scratch.md | rasbt/LLMs-from-scratch | 107796 | main | (none) | 2026-11-04 | companion to coding-llms-from-the-ground-up |

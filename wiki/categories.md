@@ -23,7 +23,7 @@ updated: 2026-11-04
 - [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (0/46 studied)
 - [[#Browser & web automation|Browser & web automation]] (0/15 studied)
 - [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (0/13 studied)
-- [[#Model infra, ML & providers|Model infra, ML & providers]] (1/19 studied)
+- [[#Model infra, ML & providers|Model infra, ML & providers]] (1/21 studied)
 - [[#Workflow automation & no-code platforms|Workflow automation & no-code platforms]] (0/10 studied)
 - [[#Design & UI generation|Design & UI generation]] (0/32 studied)
 - [[#Media, voice & content|Media, voice & content]] (0/17 studied)
@@ -314,6 +314,8 @@ updated: 2026-11-04
 
 - [ ] [[abacus.ai]] — documents Abacus.AI, a vertically integrated "Super Assistant" platform bundling ChatLLM Teams ($10/month) with 100+ frontier LLMs and image/video generators, the general-purpose **Abacus AI Agent*…
 - [x] [[anthropic.com-messages]] — documents the Messages API: direct model access for custom agent loops, tool use, function calling, extended thinking, batch processing, and the Agent Skills system.
+- [ ] [[building-reasoning-models]] — is Sebastian Raschka's ~11h PyTorch video course (Ahead of AI, Oct 2026) that starts from a pre-trained Qwen3 and implements MATH-500 evaluation, inference-time scaling, RLVR/GRPO, and distillation…
+- [ ] [[coding-llms-from-the-ground-up]] — is Raschka's ~15h from-scratch LLM coding course (Ahead of AI, May 2025) covering tokenization/BPE, attention, GPT architecture, pretraining, classification and instruction finetuning, backed by `r…
 - [ ] [[diegosouzapw-OmniRoute]] — is OmniRoute (~79k★, MIT), a free local AI gateway that exposes one OpenAI-compatible endpoint over hundreds of providers (many free tiers), with quota-aware auto-fallback, token-compression helper…
 - [ ] [[fastai-fastbook]] — documents the fastai book — Jeremy Howard and Sylvain Gugger's open-source deep-learning course (25k+ stars) published as 20 Jupyter notebooks teaching practical ML through the fastai 2.x layered A…
 - [ ] [[huggingface.co]] — is the open-source AI platform where the machine learning community collaborates on models, datasets, and applications — hosting 2M+ models, 1.5M+ datasets, and 1.5M+ Spaces.
@@ -451,4 +453,4 @@ updated: 2026-11-04
 - [ ] [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [ ] [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_372 sources across 16 categories — 110 studied._
+_374 sources across 16 categories — 110 studied._

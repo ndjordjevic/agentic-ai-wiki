@@ -15,10 +15,12 @@ related:
   - pytorch.org
   - huggingface.co
   - rohitg00-ai-engineering-from-scratch
+  - building-reasoning-models
+  - coding-llms-from-the-ground-up
 product: fastbook
 detail_level: standard
 created: 2026-07-02
-updated: 2026-10-28
+updated: 2026-11-04
 ---
 
 The fastai book (*Deep Learning for Coders with Fastai and PyTorch*) is the canonical open-source companion to Jeremy Howard and Sylvain Gugger's practical deep-learning course — 25k+ GitHub stars, published as 20 Jupyter notebooks plus appendices, backed by a free MOOC at course.fast.ai and an O'Reilly print edition. It teaches deep learning top-down through the fastai layered API on PyTorch, covering computer vision, tabular data, collaborative filtering, and NLP before diving into implementation details, convolutions, ResNets, optimizers, and the Learner/callback architecture. For agentic-AI practitioners, fastbook is foundational ML literacy: the same PyTorch and transformer/NLP building blocks that underpin modern LLM tooling, with a pedagogy optimized for coders who want working models before theory.

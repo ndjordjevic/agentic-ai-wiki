@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 
 [[paperclip.ing]] introduces Paperclip, an open-source control plane for running autonomous AI-agent companies. It sits above agent runtimes like Claude Code, Codex, Cursor, OpenClaw, bash agents, and HTTP bots and provides the organizational layer those runtimes lack: an org chart with hierarchical reporting, a heartbeat execution loop that wakes agents on schedule, an atomic ticket system with checkout locks, per-agent budget enforcement with hard stops, board-level governance and approval gates, and complete multi-company data isolation in a single Node.js + React deployment. The source also shows how Paperclip packages this operating model into both a public product site and a companion GitHub repo with a built-in heartbeat skill, plugin system, portability features, and an actively maintained roadmap.
@@ -750,3 +750,7 @@ updated: 2026-11-03
 [[composio.dev]] is Composio — the platform that gives AI agents consent-gated access to 1,000–1,500+ apps via managed auth, session tool routers, hosted MCP (`connect.composio.dev/mcp`), CLI/plugins for personal agents, and Python/TypeScript SDKs for multi-tenant apps. Its GitHub companion (`ComposioHQ/composio`, ~30.9k★, MIT) ships `@composio/core`, the `composio` Python package, CLI, and an official Agent Skill. It is the integration backbone used by [[composio-community-open-dot]], and a write-into-SaaS counterpart to data-tool gateways like [[monid.ai]].
 
 [[justrach-nanoui]] is a Zig 0.17 desktop framework (690★, MIT, v0.11.0) for tiny native GPU UIs or system-webview frontends with typed Zig↔TS IPC. The `nui` CLI and strict `AGENTS.md` make it unusually agent-friendly (headless snapshots, offscreen `ui.Tester`, no driving the real screen). Showcase apps include nanoterm (terminal + coding agent) and nanomon.
+
+[[building-reasoning-models]] is Sebastian Raschka's ~11h PyTorch video course (Ahead of AI, Oct 2026) that starts from a pre-trained Qwen3 and implements MATH-500 evaluation, inference-time scaling, RLVR/GRPO, and distillation — companion to *Build a Reasoning Model (From Scratch)* and `rasbt/reasoning-from-scratch` (~5.8k★). It frames reasoning models as the engine inside an agent harness; sequel to [[coding-llms-from-the-ground-up]], adjacent to [[pytorch.org]] / [[fastai-fastbook]] / [[rohitg00-ai-engineering-from-scratch]].
+
+[[coding-llms-from-the-ground-up]] is Raschka's ~15h from-scratch LLM coding course (Ahead of AI, May 2025) covering tokenization/BPE, attention, GPT architecture, pretraining, classification and instruction finetuning, backed by `rasbt/LLMs-from-scratch` (~108k★) and the *Build a Large Language Model (From Scratch)* book; foundational counterpart to [[building-reasoning-models]], alongside [[pytorch.org]] / [[fastai-fastbook]] / [[rohitg00-ai-engineering-from-scratch]].
