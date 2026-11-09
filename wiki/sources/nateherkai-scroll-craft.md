@@ -16,10 +16,11 @@ related:
   - leonxlnx-taste-skill
   - Nutlope-hallmark
   - pbakaus-impeccable
+  - stageshow
 product: scroll-craft
 detail_level: standard
 created: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-09
 ---
 
 scroll-craft is an agent skill (also a Claude Code plugin) for building premium, immersive, scroll-driven websites with an explicit design standard — treating interaction and craft as one job. It ships a shared workflow (brief → grammar → feel curve → build → verify), eight mutually exclusive page grammars, a fingerprint gate against self-repetition, a fixed `scrollcraft` engine themed only via tokens, and a Playwright/ffmpeg verification harness. Version 0.3.0 documents the process behind ten approved immersive sites as worked examples.

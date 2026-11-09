@@ -18,6 +18,7 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 -->
 
 
+
 ## Completed
 
 <!-- Processed lines are moved here automatically.
@@ -393,3 +394,5 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/justrach/nanoui <!-- ingested 2026-11-03 -->
 - [x] https://magazine.sebastianraschka.com/p/building-reasoning-models <!-- ingested 2026-11-04 -->
 - [x] https://magazine.sebastianraschka.com/p/coding-llms-from-the-ground-up <!-- ingested 2026-11-04 -->
+- [x] https://github.com/thomas-luebker/amimcp <!-- ingested 2026-11-09 -->
+- [x] https://github.com/benjitaylor/skills/tree/main/stageshow <!-- ingested 2026-11-09 -->

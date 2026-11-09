@@ -6,6 +6,16 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-11-09 | ingest | stageshow | Benji Taylor stageshow faux product-UI skill + React kit (GitHub path)
+
+- Created: wiki/sources/stageshow.md, raw/web/stageshow.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/web/README.md, inbox.md; related on AThevon-genjutsu, ParthJadhav-app-store-screenshots, dembrandt-dembrandt-skills, Nutlope-hallmark, nateherkai-scroll-craft, leonxlnx-taste-skill, skills.sh
+
+## 2026-11-09 | ingest | thomas-luebker-amimcp | MCP + amiagent — let Claude work on a real Amiga (~26★, v0.15.0)
+
+- Created: wiki/sources/thomas-luebker-amimcp.md, raw/github/thomas-luebker-amimcp.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md; related on microsoft-playwright-mcp, sequentialthinking-mcp, INSANE0777-Awwwards-mcp, responsively-org-responsively-app
+
 ## 2026-11-04 | ingest | coding-llms-from-the-ground-up | Raschka ~15h LLM-from-scratch video course; companion rasbt/LLMs-from-scratch
 
 - Created: wiki/sources/coding-llms-from-the-ground-up.md, raw/web/coding-llms-from-the-ground-up.md

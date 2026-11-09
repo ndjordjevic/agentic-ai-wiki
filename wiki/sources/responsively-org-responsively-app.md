@@ -17,10 +17,11 @@ related:
   - microsoft-playwright-mcp
   - browse.sh
   - Ying-Kai-Liao-jev-browser
+  - thomas-luebker-amimcp
 product: responsively
 detail_level: standard
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-09
 ---
 
 Responsively App (~25.5k★, AGPL-3.0, TypeScript) is a modified browser/devtool for side-by-side multi-device responsive web development; it now ships a built-in MCP server (`@responsively/mcp`) so coding agents can load a local site, switch device previews, interact, and verify layouts with per-device screenshots.

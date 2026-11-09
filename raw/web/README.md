@@ -175,3 +175,4 @@ Immutable web page/site captures. Written by the fetch step; never edited manual
 | raw/web/composio.dev.md | composio.dev | 14 | 2026-11-03 | companion: ComposioHQ/composio |
 | raw/web/building-reasoning-models.md | building-reasoning-models | 1 | 2026-11-04 | companion: rasbt/reasoning-from-scratch |
 | raw/web/coding-llms-from-the-ground-up.md | coding-llms-from-the-ground-up | 1 | 2026-11-04 | companion: rasbt/LLMs-from-scratch |
+| raw/web/stageshow.md | stageshow | 1 | 2026-11-09 | |

@@ -19,10 +19,11 @@ related:
   - Nutlope-hallmark
   - obra-superpowers
   - ParthJadhav-app-store-screenshots
+  - stageshow
 product: genjutsu
 detail_level: standard
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-09
 ---
 
 genjutsu (~695★, MIT badge, Python packaging for Claude skills, v4.1.1) is a set of Claude Code / claude.ai / Cowork creative-coding skills for motion, micro-interactions, and design systems across web (GSAP, Motion, Three.js, CSS), Android (Compose), and Apple (SwiftUI). It proposes an interaction thesis you approve before writing code — anti-AI-slop by design.

@@ -386,4 +386,6 @@ created: 2026-04-28
 | [[justrach-nanoui]] | github | standard | 2026-11-03 | Zig desktop UI for agents — nui CLI, headless snapshots, nanoterm |
 | [[building-reasoning-models]] | web | standard | 2026-11-04 | Raschka Ahead of AI; companion rasbt/reasoning-from-scratch |
 | [[coding-llms-from-the-ground-up]] | web | standard | 2026-11-04 | Raschka Ahead of AI; companion rasbt/LLMs-from-scratch |
-_374 sources ingested._
+| [[thomas-luebker-amimcp]] | github | standard | 2026-11-09 | amimcp — Claude/MCP hands on a real Amiga (~26★) |
+| [[stageshow]] | web | standard | 2026-11-09 | GitHub non-root: benjitaylor/skills stageshow faux-UI skill |
+_376 sources ingested._

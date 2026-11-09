@@ -263,3 +263,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/justrach-nanoui.md | justrach/nanoui | 690 | main | v0.11.0 | 2026-11-03 | |
 | raw/github/rasbt-reasoning-from-scratch.md | rasbt/reasoning-from-scratch | 5775 | main | v1.0 | 2026-11-04 | companion to building-reasoning-models |
 | raw/github/rasbt-LLMs-from-scratch.md | rasbt/LLMs-from-scratch | 107796 | main | (none) | 2026-11-04 | companion to coding-llms-from-the-ground-up |
+| raw/github/thomas-luebker-amimcp.md | thomas-luebker/amimcp | 26 | master | v0.15.0 | 2026-11-09 | |

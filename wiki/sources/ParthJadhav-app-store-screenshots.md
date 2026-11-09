@@ -15,10 +15,11 @@ related:
   - skills.sh
   - dembrandt-dembrandt-skills
   - AThevon-genjutsu
+  - stageshow
 product: app-store-screenshots
 detail_level: standard
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-09
 ---
 
 App Store Screenshots (~7.7k★, MIT, TypeScript) is an Agent Skill that scaffolds a production Next.js editor for App Store and Google Play marketing screenshots — connected canvas, device frames, inspector, git-trackable project state, and zip export at store-ready sizes.

@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-11-04
+updated: 2026-11-09
 ---
 
 # Agentic AI Frameworks — by category
@@ -17,7 +17,7 @@ updated: 2026-11-04
 - [[#Agent frameworks & SDKs|Agent frameworks & SDKs]] (19/19 studied)
 - [[#Coding-agent harnesses & methodologies|Coding-agent harnesses & methodologies]] (54/54 studied)
 - [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (32/32 studied)
-- [[#MCP servers & integrations|MCP servers & integrations]] (0/23 studied)
+- [[#MCP servers & integrations|MCP servers & integrations]] (0/24 studied)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (0/17 studied)
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (1/33 studied)
 - [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (0/46 studied)
@@ -25,7 +25,7 @@ updated: 2026-11-04
 - [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (0/13 studied)
 - [[#Model infra, ML & providers|Model infra, ML & providers]] (1/21 studied)
 - [[#Workflow automation & no-code platforms|Workflow automation & no-code platforms]] (0/10 studied)
-- [[#Design & UI generation|Design & UI generation]] (0/32 studied)
+- [[#Design & UI generation|Design & UI generation]] (0/33 studied)
 - [[#Media, voice & content|Media, voice & content]] (0/17 studied)
 - [[#Infra, hosting, DB & observability|Infra, hosting, DB & observability]] (3/18 studied)
 - [[#Security|Security]] (0/6 studied)
@@ -169,6 +169,7 @@ updated: 2026-11-04
 - [ ] [[smithery.ai]] — is the registry-and-broker layer for MCP: a public catalog of thousands of MCP servers plus a skills registry, and a hosted Connect service that turns any registry server or custom MCP URL into a l…
 - [ ] [[superdesigndev-treg]] — is treg (~6.8k★, Apache-2.0 + hosted-service terms; PyPI tools-registry v0.28.0) — Superdesign's "OpenRouter for agent tools": one token/base URL for a priced catalog of thousands of endpoints plus…
 - [ ] [[tavily.com]] — is Tavily (now part of Nebius), which pitches itself as "the web access layer for AI agents." One API covers five capabilities.
+- [ ] [[thomas-luebker-amimcp]] — is amimcp (~26★, Apache-2.0, amiagent v0.15.0) — a stdlib Python MCP server plus tiny AmigaOS C daemon that lets Claude (or any stdio MCP client) run AmigaDOS, move files, capture the screen, drive…
 - [ ] [[webhook.site]] — introduces [[webhook.site|Webhook.site]], a webhook testing and workflow-automation service that hands every visitor an instantly-usable unique URL, e-mail address, and DNS name (DNSHook), displayi…
 
 ## Spec-driven dev, planning & tasks
@@ -376,6 +377,7 @@ updated: 2026-11-04
 - [ ] [[Owl-Listener-designer-skills]] — (~3.1k★, MIT) is the Designer Skills Pack marketplace front door — 273 skills and 76 commands across 33 plugins in five collections (this repo hosts the 9-plugin design-practice suite) for Claude C…
 - [ ] [[ParthJadhav-app-store-screenshots]] — is an Agent Skill (~7.7k★) that scaffolds a Next.js connected-canvas editor for App Store / Play marketing screenshots with store-exact export zips.
 - [ ] [[pbakaus-impeccable]] — is Impeccable (44K+ stars, Apache 2.0, Skill 3.9.1) — Paul Bakaus's design language for AI coding agents, evolved from Anthropic's `frontend-design` skill in [[anthropics-skills]]. One `/impeccable…
+- [ ] [[stageshow]] — is Benji Taylor's stageshow Agent Skill (v1.1.1 under `benjitaylor/skills` ~2.8k★, MIT) — a React/CSS kit and film/rehearsal workflow for faux product UI (heroes, phones, bento, cursor demos) rathe…
 - [ ] [[stitch.google.com]] — documents Stitch's CLI / Agent Skills / MCP / SDK developer surface (`@google/stitch`, `@google/stitch-sdk`), complementing the Canvas product page [[stitch.withgoogle.com]] under the shared `stitc…
 - [ ] [[stitch.withgoogle.com]] — documents Stitch, Google Labs' Gemini 2.5 Pro–powered vibe-design experiment that turns natural-language prompts, sketches, and mood adjectives into UI layouts, Figma-ready exports, and HTML/CSS fr…
 - [ ] [[ui-skills.com]] — is the web catalog for UI Skills (439 design-engineering Agent Skills) with CLI (`npx ui-skills`) and MCP (`list_skills` / `get_skill` at ui-skills.com/mcp), plus Playbook lessons and topic/collect…
@@ -453,4 +455,4 @@ updated: 2026-11-04
 - [ ] [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [ ] [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_374 sources across 16 categories — 110 studied._
+_376 sources across 16 categories — 110 studied._

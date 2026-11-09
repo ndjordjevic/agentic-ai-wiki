@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-11-04
+updated: 2026-11-09
 ---
 
 [[paperclip.ing]] introduces Paperclip, an open-source control plane for running autonomous AI-agent companies. It sits above agent runtimes like Claude Code, Codex, Cursor, OpenClaw, bash agents, and HTTP bots and provides the organizational layer those runtimes lack: an org chart with hierarchical reporting, a heartbeat execution loop that wakes agents on schedule, an atomic ticket system with checkout locks, per-agent budget enforcement with hard stops, board-level governance and approval gates, and complete multi-company data isolation in a single Node.js + React deployment. The source also shows how Paperclip packages this operating model into both a public product site and a companion GitHub repo with a built-in heartbeat skill, plugin system, portability features, and an actively maintained roadmap.
@@ -754,3 +754,7 @@ updated: 2026-11-04
 [[building-reasoning-models]] is Sebastian Raschka's ~11h PyTorch video course (Ahead of AI, Oct 2026) that starts from a pre-trained Qwen3 and implements MATH-500 evaluation, inference-time scaling, RLVR/GRPO, and distillation — companion to *Build a Reasoning Model (From Scratch)* and `rasbt/reasoning-from-scratch` (~5.8k★). It frames reasoning models as the engine inside an agent harness; sequel to [[coding-llms-from-the-ground-up]], adjacent to [[pytorch.org]] / [[fastai-fastbook]] / [[rohitg00-ai-engineering-from-scratch]].
 
 [[coding-llms-from-the-ground-up]] is Raschka's ~15h from-scratch LLM coding course (Ahead of AI, May 2025) covering tokenization/BPE, attention, GPT architecture, pretraining, classification and instruction finetuning, backed by `rasbt/LLMs-from-scratch` (~108k★) and the *Build a Large Language Model (From Scratch)* book; foundational counterpart to [[building-reasoning-models]], alongside [[pytorch.org]] / [[fastai-fastbook]] / [[rohitg00-ai-engineering-from-scratch]].
+
+[[thomas-luebker-amimcp]] is amimcp (~26★, Apache-2.0, amiagent v0.15.0) — a stdlib Python MCP server plus tiny AmigaOS C daemon that lets Claude (or any stdio MCP client) run AmigaDOS, move files, capture the screen, drive Intuition gadgets by identity, and script ARexx apps on real hardware; adjacent to other machine-driving MCPs like [[microsoft-playwright-mcp]].
+
+[[stageshow]] is Benji Taylor's stageshow Agent Skill (v1.1.1 under `benjitaylor/skills` ~2.8k★, MIT) — a React/CSS kit and film/rehearsal workflow for faux product UI (heroes, phones, bento, cursor demos) rather than live browser automation; sits with design skills like [[AThevon-genjutsu]] and [[ParthJadhav-app-store-screenshots]].

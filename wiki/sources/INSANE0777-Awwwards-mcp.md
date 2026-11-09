@@ -18,10 +18,11 @@ related:
   - designmd.cc
   - stitch.withgoogle.com
   - microsoft-playwright-mcp
+  - thomas-luebker-amimcp
 product: awwwards-mcp
 detail_level: standard
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-09
 ---
 
 awwwards-mcp (~362★, MIT, TypeScript, v1.14.0) is a free open-source MCP server that gives coding agents (Claude Code, Codex, Cursor, OpenCode, etc.) design inspiration from Awwwards — search with real screenshots, pull "design DNA," capture/record live sites, and verify recreations — positioned as a Mobbin-style visual reference loop with no API key.
