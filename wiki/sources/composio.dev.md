@@ -27,6 +27,8 @@ product: composio
 detail_level: standard
 created: 2026-11-03
 updated: 2026-11-03
+studied: true
+
 ---
 
 Composio is an agent-tooling platform that gives AI agents secure, consent-gated access to 1,000–1,500+ apps (Gmail, Slack, Notion, GitHub, HubSpot, and many more) through managed authentication, a session-based tool router, hosted MCP ("Composio Connect"), CLI/plugins for personal agents, and Python/TypeScript SDKs for apps whose users connect their own accounts. It matters to this wiki as the integration layer behind products like [[composio-community-open-dot]], and as a peer to tool gateways such as [[monid.ai]] — focused on *acting in* SaaS apps rather than only fetching data APIs.

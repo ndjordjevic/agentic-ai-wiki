@@ -18,6 +18,8 @@ product: massive
 detail_level: standard
 created: 2026-10-15
 updated: 2026-10-15
+studied: true
+
 ---
 
 Massive is a financial market data platform covering stocks, options, indices, futures, forex, and crypto. It delivers data through a REST API, WebSocket streams, and S3 flat files, and its landing page also lists SQL query access. It says it is co-located in exchange datacenters with direct fiber cross-connects, offering tick-level trades and quotes, aggregate bars, and 20+ years of history depending on plan. For this wiki, what matters is how deliberately agent-first its distribution has become. It runs a hosted OAuth remote MCP server designed around a few composable tools rather than one tool per endpoint, publishes `llms.txt` indexes at every level of its docs tree, and lets agents with no account buy US stock data per request over x402. That makes it a reference example of "make your API agent-consumable" design for a domain data provider.

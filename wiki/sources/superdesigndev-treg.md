@@ -24,6 +24,8 @@ product: treg
 detail_level: standard
 created: 2026-10-31
 updated: 2026-10-31
+studied: true
+
 ---
 
 treg (~6.8k★, Apache-2.0 with hosted-service restriction; PyPI `tools-registry` v0.28.0) is Superdesign's "OpenRouter for agent tools": one base URL and one `X-Treg-Token` give agents a curated catalog of thousands of priced endpoints (SEO, enrichment, ads, scraping, media generation, …) plus team-owned tools, skills, and CLIs whose credentials stay on the server. Hosted at [treg.to](https://treg.to); anyone can self-host the registry.

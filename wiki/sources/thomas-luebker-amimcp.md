@@ -20,6 +20,8 @@ product: amimcp
 detail_level: standard
 created: 2026-11-09
 updated: 2026-11-09
+studied: true
+
 ---
 
 amimcp (26★, Apache-2.0, C + Python stdlib, amiagent v0.15.0) is an MCP server that gives Claude (or any stdio MCP client) hands on a real Amiga: AmigaDOS shell, files, screenshots, mouse/keyboard, semantic Intuition gadget clicks, menus, and ARexx app scripting over a tiny TCP daemon on the machine.

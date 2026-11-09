@@ -25,6 +25,8 @@ product: rea
 detail_level: standard
 created: 2026-10-15
 updated: 2026-10-28
+studied: true
+
 ---
 
 rea.tools is the website for REA ("Reverse Engineering for Your Coding Agent"), the open-source MCP server and CLI captured in [[morluto-rea]]. The repo documents the tool surface; the site teaches the workflow. It sends a beginner from a pasted setup prompt to a first investigation, then through worked guides (native binary, Electron app, browser request) and case studies (Aegis APK, a CTF flag checker, DX-Ball, Notion, Touhou TH04) in which an agent reads a program's code and rebuilds one feature with a verifiable check. It also runs a research blog about model capability for agentic reverse engineering. For this wiki it is a clear example of an agent-tool project built around *show, then verify*: each claim on the site comes with the REA output, the recovered code, and the check that confirmed it.

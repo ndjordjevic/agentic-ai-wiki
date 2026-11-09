@@ -20,6 +20,8 @@ product: rea
 detail_level: standard
 created: 2026-10-10
 updated: 2026-10-28
+studied: true
+
 ---
 
 REA ("Reverse Engineer Anything", `rea-agents` on npm) is an MIT-licensed TypeScript MCP server and matching CLI (250K+ stars, v6.5.0) that lets a coding agent reverse-engineer software it has no source for — native binaries, JavaScript/Electron apps, .NET assemblies, Android APKs, firmware, EVM bytecode, websites and live process behavior — and return findings together with the evidence, limitations and unknowns behind each conclusion. Its pitch is feature-level: "see a feature you like, understand how it works, down to the binary level," then have the agent build a similar version in your own project. It matters for this wiki as a large, agent-first example of wrapping heavyweight expert tooling (Hopper, Ghidra, IDA, JADX, Binwalk) behind one provider-neutral MCP surface with strict evidence contracts.

@@ -25,6 +25,7 @@ product: webhook.site
 detail_level: standard
 created: 2026-06-10
 updated: 2026-10-28
+studied: true
 
 ---
 
