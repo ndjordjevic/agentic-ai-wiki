@@ -25,6 +25,8 @@ product: elephant-goldfish-model
 detail_level: standard
 created: 2026-10-28
 updated: 2026-10-28
+studied: true
+
 ---
 
 Elephant-Goldfish Model (EGM) is Google's open-source Agent Skills plugin (~3.9k★, Apache-2.0, v0.1.0) for Spec-Driven Development: a deep-context **Elephant** drafts design specs, then fresh zero-context **Goldfish** subagents stress-test them before implementation. It installs as the `egm` plugin across Antigravity, Claude Code/Cowork, Codex, ChatGPT Work, and omp, with seven skills, nine reviewer personas, and checked-in living docs under `docs/designs/`. Homepage: [egm.dev](https://egm.dev). Not an officially supported Google product.

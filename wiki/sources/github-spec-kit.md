@@ -29,6 +29,8 @@ product: spec-kit
 detail_level: standard
 created: 2026-05-19
 updated: 2026-10-28
+studied: true
+
 ---
 
 Spec Kit is GitHub's open-source toolkit for Spec-Driven Development (SDD), a methodology that inverts the traditional "code first, specify later" pattern: specifications become executable artifacts that directly drive AI-powered implementation rather than serving as disposable scaffolding. With 102k+ stars and active releases, it is one of the most widely adopted structured AI coding agent workflows in the ecosystem. The `specify` CLI bootstraps projects with template directories, slash commands, and multi-agent integrations (30+ supported agents), turning a vague idea into a constitution → spec → plan → tasks → implementation pipeline managed entirely through coding-agent commands.
