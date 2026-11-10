@@ -19,6 +19,8 @@ product: jev-steer-or-queue
 detail_level: standard
 created: 2026-10-28
 updated: 2026-10-28
+studied: true
+
 ---
 
 jev-steer-or-queue is a Claude Code plugin (Codex CLI support in testing) that asks TypeSafe Jev whether a message you send mid-turn should **steer** the running task, **queue** for after the turn, or **interrupt** and stop — instead of treating every mid-turn message the same way. Classification runs in about half a second; idle messages are never sent to Jev. Queue and interrupt only apply when Jev is confident (probability ≥ 0.9, and interrupt also needs an explicit stop signal); otherwise the client's native behaviour wins. Failures (missing key, network error, timeout) fail open and pass the message through.

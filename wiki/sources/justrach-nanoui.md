@@ -20,6 +20,8 @@ product: nanoui
 detail_level: standard
 created: 2026-11-03
 updated: 2026-11-03
+studied: true
+
 ---
 
 nanoui (690★, MIT, Zig 0.17, v0.11.0) is a desktop-app framework: each window is either a **native UI** drawn by nanoui on the GPU/CPU (no HTML/webview) or a **system webview** page with typed Zig↔TypeScript IPC. It matters to this wiki because it is explicitly built for coding agents as well as humans — `nui` scaffolds/tests/snapshots apps with `--json`, ships a detailed `AGENTS.md` (headless-only verification, 600-line file cap), and powers apps like **nanoterm** (terminal + coding agent) and **nanomon**.

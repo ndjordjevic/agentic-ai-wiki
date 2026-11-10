@@ -24,6 +24,8 @@ product: open-dot
 detail_level: standard
 created: 2026-10-02
 updated: 2026-11-03
+studied: true
+
 ---
 
 Open Dot is an open-source, self-hostable reimplementation of OpenAI's "Dots" personal agents — background agents that run continuously on your own Mac with your own OpenAI key (or open models like Kimi, DeepSeek and Qwen via OpenRouter) instead of requiring ChatGPT Pro/Business. It packages a full personal-agent stack — persistent browser sessions, app integrations, approval rules, scheduling, triggers, voice, and encrypted credentials — as a single Electron desktop app.

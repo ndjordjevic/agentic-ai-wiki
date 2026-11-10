@@ -22,6 +22,8 @@ product: pr-agent
 detail_level: standard
 created: 2026-10-26
 updated: 2026-10-26
+studied: true
+
 ---
 
 PR-Agent is the original open-source AI pull-request reviewer (13,611 stars, MIT, Python, latest release v0.49.0). Qodo donated the project to the community; it now lives in the `The-PR-Agent` GitHub org, with docs at docs.pr-agent.ai and a homepage at pr-agent.ai. The README states that this repository is the community-maintained legacy project and is distinct from Qodo's hosted AI code-review product (and from Qodo's free tier for open-source projects). Each main tool (`/review`, `/improve`, `/ask`) is designed as a single LLM call, about 30 seconds and low cost, and the same commands run as a PR comment, a CLI, a GitHub Action, or a self-hosted webhook. For this wiki it is the self-hosted, multi-forge counterpart to hosted reviewers such as [[coderabbit.ai]] and [[greptile.com]], and to local pre-push review in [[openqodex-openqodex]].

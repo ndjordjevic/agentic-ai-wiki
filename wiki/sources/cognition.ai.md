@@ -22,6 +22,8 @@ related:
   - kiro.dev
   - dark-factory-autonomous-ai-codebase
   - kylon.io
+studied: true
+
 ---
 
 Cognition is an applied AI lab that builds and operates Devin, marketed as the first autonomous software engineer — an AI agent capable of independently planning, writing, testing, and shipping production code inside existing codebases and team toolchains. Founded in 2024 with a $21M Series A led by Founders Fund, Cognition trains its own SWE-1 model series optimized specifically for software engineering workflows rather than general reasoning benchmarks, and has since raised a Series D. Enterprise customers include Mercedes-Benz, Goldman Sachs, Ramp, Anduril, Infosys, Nubank, and Athena Health.

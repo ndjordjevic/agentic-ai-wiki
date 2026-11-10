@@ -20,6 +20,8 @@ product: omarchy
 detail_level: standard
 created: 2026-10-20
 updated: 2026-10-20
+studied: true
+
 ---
 
 Omarchy (~45k stars, MIT, v4.0.6 on branch `quattro`) is a beautiful, fun & agentic Linux distribution by DHH — an opinionated Arch-based desktop (Hyprland + Quickshell) that ships coding-agent tooling, Neovim, terminal/shell stacks, and first-class agent skill provisioning out of the box. Homepage: [omarchy.org](https://omarchy.org).
