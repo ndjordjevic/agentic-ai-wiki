@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-11-09
+updated: 2026-11-10
 ---
 
 # Agentic AI Frameworks — by category
@@ -21,7 +21,7 @@ updated: 2026-11-09
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (0/17 studied)
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (1/33 studied)
 - [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (0/46 studied)
-- [[#Browser & web automation|Browser & web automation]] (0/15 studied)
+- [[#Browser & web automation|Browser & web automation]] (0/16 studied)
 - [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (0/13 studied)
 - [[#Model infra, ML & providers|Model infra, ML & providers]] (1/21 studied)
 - [[#Workflow automation & no-code platforms|Workflow automation & no-code platforms]] (0/10 studied)
@@ -285,6 +285,7 @@ updated: 2026-11-09
 - [ ] [[firecrawl.dev]] — documents Firecrawl, a web data API platform (145K+ GitHub stars) offering Search, Scrape, Crawl, Map, Parse, and Interact under one API key, aimed at turning the live web into clean, LLM-ready Mar…
 - [ ] [[jackwener-opencli]] — is OpenCLI (~31k★, Apache-2.0, v2.0.2) — turn websites into deterministic CLI commands and drive a logged-in Chrome session via a Browser Bridge extension, with agent skills (`opencli-browser`, ada…
 - [ ] [[microsoft-playwright-mcp]] — introduces Microsoft's official Playwright MCP server, which gives LLMs structured browser automation capabilities without requiring vision models.
+- [ ] [[only-cli-oc]] — is only-cli's `oc` CLI (641★, MIT, npm `@only-cli/oc` v0.5.8) — distill any mostly-static site into a ~500-token numbered terminal view for agents, with 40+ site shortcuts, cookie sessions, and ben…
 - [ ] [[playwright.dev-agent-cli]] — is Microsoft's shell-first alternative to [[microsoft-playwright-mcp]] for coding agents: instead of an LLM calling structured MCP tools with schemas loaded into context, the agent runs `playwright…
 - [ ] [[qa.tech]] — is an AI-powered end-to-end testing platform that runs autonomous agents throughout the software development lifecycle — from automated PR reviews against preview deployments to scheduled productio…
 - [ ] [[responsively-org-responsively-app]] — is Responsively App (~25.5k★, AGPL) — a multi-device responsive browser/devtool with a built-in MCP server (`@responsively/mcp`) so coding agents can load local sites, switch device previews, and v…
@@ -455,4 +456,4 @@ updated: 2026-11-09
 - [ ] [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [ ] [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_376 sources across 16 categories — 134 studied._
+_377 sources across 16 categories — 134 studied._

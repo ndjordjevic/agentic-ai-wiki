@@ -264,3 +264,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/rasbt-reasoning-from-scratch.md | rasbt/reasoning-from-scratch | 5775 | main | v1.0 | 2026-11-04 | companion to building-reasoning-models |
 | raw/github/rasbt-LLMs-from-scratch.md | rasbt/LLMs-from-scratch | 107796 | main | (none) | 2026-11-04 | companion to coding-llms-from-the-ground-up |
 | raw/github/thomas-luebker-amimcp.md | thomas-luebker/amimcp | 26 | master | v0.15.0 | 2026-11-09 | |
+| raw/github/only-cli-oc.md | only-cli/oc | 641 | main | v0.5.8 | 2026-11-10 | |

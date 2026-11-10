@@ -2,7 +2,7 @@
 type: overview
 domain: "Agentic AI Frameworks"
 created: 2026-04-28
-updated: 2026-11-09
+updated: 2026-11-10
 ---
 
 [[paperclip.ing]] introduces Paperclip, an open-source control plane for running autonomous AI-agent companies. It sits above agent runtimes like Claude Code, Codex, Cursor, OpenClaw, bash agents, and HTTP bots and provides the organizational layer those runtimes lack: an org chart with hierarchical reporting, a heartbeat execution loop that wakes agents on schedule, an atomic ticket system with checkout locks, per-agent budget enforcement with hard stops, board-level governance and approval gates, and complete multi-company data isolation in a single Node.js + React deployment. The source also shows how Paperclip packages this operating model into both a public product site and a companion GitHub repo with a built-in heartbeat skill, plugin system, portability features, and an actively maintained roadmap.
@@ -758,3 +758,5 @@ updated: 2026-11-09
 [[thomas-luebker-amimcp]] is amimcp (~26★, Apache-2.0, amiagent v0.15.0) — a stdlib Python MCP server plus tiny AmigaOS C daemon that lets Claude (or any stdio MCP client) run AmigaDOS, move files, capture the screen, drive Intuition gadgets by identity, and script ARexx apps on real hardware; adjacent to other machine-driving MCPs like [[microsoft-playwright-mcp]].
 
 [[stageshow]] is Benji Taylor's stageshow Agent Skill (v1.1.1 under `benjitaylor/skills` ~2.8k★, MIT) — a React/CSS kit and film/rehearsal workflow for faux product UI (heroes, phones, bento, cursor demos) rather than live browser automation; sits with design skills like [[AThevon-genjutsu]] and [[ParthJadhav-app-store-screenshots]].
+
+[[only-cli-oc]] is only-cli's `oc` CLI (641★, MIT, npm `@only-cli/oc` v0.5.8) — distill any mostly-static site into a ~500-token numbered terminal view for agents, with 40+ site shortcuts, cookie sessions, and benchmarks vs raw HTML / Jina / Playwright MCP; closest peer [[jackwener-opencli]], adjacent to [[browse.sh]] / [[vercel-labs-agent-browser]] / [[microsoft-playwright-mcp]] / [[firecrawl.dev]].

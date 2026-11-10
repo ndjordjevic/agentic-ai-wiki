@@ -388,4 +388,5 @@ created: 2026-04-28
 | [[coding-llms-from-the-ground-up]] | web | standard | 2026-11-04 | Raschka Ahead of AI; companion rasbt/LLMs-from-scratch |
 | [[thomas-luebker-amimcp]] | github | standard | 2026-11-09 | amimcp — Claude/MCP hands on a real Amiga (~26★) |
 | [[stageshow]] | web | standard | 2026-11-09 | GitHub non-root: benjitaylor/skills stageshow faux-UI skill |
-_376 sources ingested._
+| [[only-cli-oc]] | github | standard | 2026-11-10 | only-cli `oc` — token-efficient website→CLI for agents (~641★, v0.5.8) |
+_377 sources ingested._
