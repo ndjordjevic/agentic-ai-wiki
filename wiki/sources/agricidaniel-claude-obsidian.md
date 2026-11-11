@@ -28,6 +28,8 @@ product: claude-obsidian
 detail_level: standard
 created: 2026-07-08
 updated: 2026-10-30
+studied: true
+
 ---
 
 _All claims below are sourced from ../../raw/github/agricidaniel-claude-obsidian.md unless otherwise noted._

@@ -27,6 +27,8 @@ product: llm-wiki
 detail_level: standard
 created: 2026-05-13
 updated: 2026-10-30
+studied: true
+
 ---
 
 # 6eanut/llm-wiki

@@ -18,6 +18,8 @@ product: obsidian
 detail_level: standard
 created: 2026-10-30
 updated: 2026-10-30
+studied: true
+
 ---
 
 Obsidian is a free, local-first Markdown knowledge app (links, graph, Canvas) with thousands of community plugins/themes, optional Sync/Publish add-ons, and — importantly for agents — an official Obsidian CLI that can script vault operations and expose developer tooling (reload plugins, screenshots, `eval`) while the desktop app runs. Often used as a live viewer for markdown Claude writes.

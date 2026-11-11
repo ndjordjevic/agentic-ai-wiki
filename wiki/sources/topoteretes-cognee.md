@@ -20,6 +20,8 @@ product: cognee
 detail_level: standard
 created: 2026-07-21
 updated: 2026-10-28
+studied: true
+
 ---
 
 Cognee (28,990+ stars, Apache 2.0, Python) is an open-source AI memory platform that ingests data in any format and continuously builds a self-hosted knowledge graph, giving AI agents persistent long-term memory across sessions. It combines vector embeddings, graph reasoning, and cognitive-science-grounded ontology generation so stored content is both searchable by meaning and connected by relationships that evolve over time — with a distinctive architectural claim of running the entire memory layer (graph, vectors, sessions, metadata) on a single Postgres instance instead of a multi-service stack.

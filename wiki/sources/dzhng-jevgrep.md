@@ -20,6 +20,8 @@ related:
   - reticlehq-reticle
   - RiskAverseTech-toolgate
   - UditAkhourii-quicksilver
+studied: true
+
 ---
 
 Jevgrep (`jg`) is a TypeScript CLI that lets a coding agent ask a natural-language question about a repository and get back relevant files, reading leads, and verbatim source excerpts in one stdout response, using a model called Jev to judge relevance across folders, files, and declarations instead of plain pattern matching. It targets the "where do I start" cost of unfamiliar multi-file tasks: the agent still owns research, implementation, and testing, but `jg` removes the exploratory grep/read loop that normally precedes it.

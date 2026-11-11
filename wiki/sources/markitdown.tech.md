@@ -8,6 +8,8 @@ product: markitdown
 detail_level: standard
 created: 2026-08-07
 updated: 2026-10-28
+studied: true
+
 ---
 
 # markitdown.tech

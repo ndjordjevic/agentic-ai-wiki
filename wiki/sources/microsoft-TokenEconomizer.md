@@ -23,6 +23,8 @@ product: tokeneconomizer
 detail_level: standard
 created: 2026-10-30
 updated: 2026-10-30
+studied: true
+
 ---
 
 microsoft/TokenEconomizer is a UC Berkeley + Microsoft Research/Security plugin that cuts coding-agent cost in repositories you revisit by learning from prior sessions—without modifying the agent. Three black-box mechanisms (micro-skills, tool pruning, failure-loop intervention) plug into Claude Code, Codex, GitHub Copilot CLI, and Pi (experimental opencode). Paper reports 18.4–30.9% lower mean cost on SWE-Bench across five agent–model combinations, cheaper in all 30 repo×combination cells, Pass@1 up in 4 of 5.

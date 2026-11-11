@@ -19,6 +19,8 @@ product: quicksilver
 detail_level: standard
 created: 2026-10-28
 updated: 2026-10-28
+studied: true
+
 ---
 
 Quicksilver is a Claude Code skill (and plugin) that offloads bulk judgment calls — which files matter, which log lines are real failures, which tickets match a label — to Jev, TypeSafe's System One model. Jev returns typed verdicts (yes/no, a label, a score) and Claude gets back a shortlist, spending tokens on reasoning rather than skimming. On a 12-task benchmark the project claims a median ~82% cut in Claude tokens (headline **86%**), accuracy within 2 points of Claude alone on 8 of 12 tasks, up to 20× faster wall-clock on some tasks, and a median ~$0.004 of Jev per task; Jev is priced at $0.042 per million input tokens with free output.
