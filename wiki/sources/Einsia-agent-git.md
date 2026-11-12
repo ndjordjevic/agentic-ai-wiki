@@ -22,6 +22,8 @@ product: agent-git
 detail_level: standard
 created: 2026-10-28
 updated: 2026-10-28
+studied: true
+
 ---
 
 Einsia/agent-git (`agit`, ~414★, MIT, Rust v0.2.28) is lossless version control for coding-agent sessions — snapshots and publishable history on top of Claude Code, Codex, OpenCode, and Cursor JSONL transcripts that would otherwise be overwritten, compacted, or lost. Tagline: "Code is cheap, show me the talk." Complements [[xhluca-session-migrate]] (move a session between harnesses) by versioning and sharing sessions within/across teammates on the AgentGit hub (https://agent-git.com; backend is a separate repo).

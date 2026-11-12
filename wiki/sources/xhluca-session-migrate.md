@@ -19,6 +19,8 @@ product: session-migrate
 detail_level: standard
 created: 2026-08-26
 updated: 2026-10-28
+studied: true
+
 ---
 
 session-migrate (`smigrate`) is a Python CLI (53 stars, MIT, v0.8.0) that moves a native coding-agent conversation — the whole resumable session, not just its text — between Claude Code, Codex, Pi, Oh My Pi, OpenCode, GitHub Copilot CLI, Antigravity CLI, Cursor Agent, Mistral Vibe, Muse Code, Qwen Code, and Kimi Code. It matters for this wiki as the missing piece in the multi-harness workflow other tools here assume is possible: switching agents mid-task without starting the conversation over.

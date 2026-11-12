@@ -1,6 +1,6 @@
 ---
 type: source
-category: "Terminal, session & parallel-agent runners"
+category: "Infra, hosting, DB & observability"
 source_url: https://github.com/x74353/Amphetamine
 tags:
   - macos

@@ -23,6 +23,8 @@ product: firstmate
 detail_level: standard
 created: 2026-10-30
 updated: 2026-10-30
+studied: true
+
 ---
 
 firstmate (~8.4k★, MIT) is an agent distro — a portable repo of `AGENTS.md`, skills, and helper scripts — that turns one primary coding-agent session into a "first mate" who spawns a visible crew of autonomous workers in tmux/Herdr/(experimental) Zellij/Orca/cmux/… backends, each in an isolated git worktree, and returns PRs, approved merges, or scout reports. You talk only to the first mate; it supervises the fleet with near-zero-token bash watchers.
