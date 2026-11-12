@@ -22,6 +22,8 @@ product: jev-browser
 detail_level: standard
 created: 2026-10-28
 updated: 2026-10-28
+studied: true
+
 ---
 
 jev-browser is an unofficial MIT-licensed JavaScript library, CLI, and MCP server for browser automation where a calling LLM (typically Claude via MCP) states one outcome per step and Typesafe's Jev (System One) decides which element and action to take — Playwright executes locally, and the LLM never reads page snapshots unless it chooses to take over. Each round settles the page, describes elements/labels/state/visible text, asks Jev several probability questions at once (~300 ms), then acts; Jev never writes free-form text, so strings to type come from caller-supplied `values` candidates.

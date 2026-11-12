@@ -24,6 +24,8 @@ product: opencli
 detail_level: standard
 created: 2026-10-27
 updated: 2026-11-10
+studied: true
+
 ---
 
 jackwener/opencli (30,698 stars, Apache-2.0; npm `@jackwener/opencli`, homepage opencli.info) turns websites and your logged-in Chrome session into deterministic CLI commands for humans and AI agents. It offers 100+ built-in site adapters, a general-purpose `opencli browser` automation surface positioned as an alternative to [[vercel-labs-agent-browser]], and skills for driving pages and authoring adapters. Browser access goes through a Browser Bridge Chrome extension plus a local daemon, so credentials stay in the browser.

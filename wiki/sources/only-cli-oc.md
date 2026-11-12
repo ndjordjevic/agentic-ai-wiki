@@ -26,6 +26,8 @@ product: oc
 detail_level: standard
 created: 2026-11-10
 updated: 2026-11-10
+studied: true
+
 ---
 
 only-cli/oc (641★, MIT, JavaScript, npm `@only-cli/oc` v0.5.8) turns any mostly-static website into a compact CLI for AI agents: `oc open <url>` returns a distilled text view with numbered links and regions in roughly hundreds of tokens instead of raw HTML or browser snapshots. It ships per-site shortcuts (`clis/*.json`), an Agent Skill (`web-browsing-cli`), a Claude Code plugin, and benchmarks claiming ~118× fewer tokens than raw HTML versus tools like Jina Reader and Playwright MCP accessibility snapshots. Closest wiki peer is [[jackwener-opencli]] (website→CLI), with adjacent agent-browser tooling in [[browse.sh]], [[vercel-labs-agent-browser]], and [[microsoft-playwright-mcp]].

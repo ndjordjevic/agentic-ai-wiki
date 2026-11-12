@@ -17,6 +17,8 @@ product: tapkit
 detail_level: standard
 created: 2026-10-02
 updated: 2026-10-02
+studied: true
+
 ---
 
 TapKit turns a real, physical iPhone connected to a Mac into a programmatic API for AI agents, giving agents the same screenshot → act → re-check loop that browser-automation tools provide for the web, but against the real App Store apps, signed-in accounts, and notifications a user already has on their phone — the kind of surface a web API or a simulator can't reach. It matters to this wiki as the mobile-device counterpart to agent-driven browser control tools like [[browser-use.com]] and [[browserbase.com]], extending agentic UI automation from the browser tab to the physical device.
