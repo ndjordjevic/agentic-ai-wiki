@@ -6,6 +6,13 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-11-14 | ingest | alexandria.firecrawl.dev | Firecrawl Alexandria — structured data providers for agents
+
+- Created: wiki/sources/alexandria.firecrawl.dev.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md; related on firecrawl.dev, monid.ai, tavily.com, serpapi.com, skills.sh, firecrawl-anydoc, apify-apify-mcp-server
+- Companion: raw/github/firecrawl-skills.md
+
+
 ## 2026-11-10 | ingest | only-cli-oc | only-cli `oc` — token-efficient website→CLI for agents (~641★, v0.5.8)
 
 - Created: wiki/sources/only-cli-oc.md

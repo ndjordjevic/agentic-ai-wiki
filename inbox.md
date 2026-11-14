@@ -396,3 +396,4 @@ Drop URLs below under `## Pending`. Run `/pin-llm-wiki ingest <url>` to ingest a
 - [x] https://github.com/thomas-luebker/amimcp <!-- ingested 2026-11-09 -->
 - [x] https://github.com/benjitaylor/skills/tree/main/stageshow <!-- ingested 2026-11-09 -->
 - [x] https://github.com/only-cli/oc <!-- ingested 2026-11-10 -->
+- [x] https://alexandria.firecrawl.dev <!-- note: Firecrawl Alexandria — structured data-provider catalog for agents (jobs, people, company, etc.); better source than the /go/jobtools newsletter landing page; complements firecrawl.dev --> <!-- ingested 2026-11-14 -->

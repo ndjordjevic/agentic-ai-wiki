@@ -389,4 +389,5 @@ created: 2026-04-28
 | [[thomas-luebker-amimcp]] | github | standard | 2026-11-09 | amimcp — Claude/MCP hands on a real Amiga (~26★) |
 | [[stageshow]] | web | standard | 2026-11-09 | GitHub non-root: benjitaylor/skills stageshow faux-UI skill |
 | [[only-cli-oc]] | github | standard | 2026-11-10 | only-cli `oc` — token-efficient website→CLI for agents (~641★, v0.5.8) |
-_377 sources ingested._
+| [[alexandria.firecrawl.dev]] | web | standard | 2026-11-14 | companion: firecrawl/skills — structured data providers for agents |
+_378 sources ingested._

@@ -18,12 +18,12 @@ related:
   - tavily.com
   - serper.dev
   - superdesigndev-treg
+  - alexandria.firecrawl.dev
 product: apify-mcp-server
 detail_level: standard
 created: 2026-10-30
-updated: 2026-10-31
+updated: 2026-11-14
 studied: true
-
 ---
 
 The official Apify Model Context Protocol server connects AI agents to Apify Store — thousands of ready-made Actors for web scraping, SERP monitoring, lead enrichment, e-commerce, social media, and browser-style automation — through one MCP connection at `https://mcp.apify.com` (hosted OAuth) or the local npm package `@apify/actors-mcp-server` (stdio). Agents search the store, inspect Actor schemas and pricing, run Actors, and read structured dataset results without installing a separate MCP server per site.

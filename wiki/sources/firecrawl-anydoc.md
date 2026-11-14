@@ -15,12 +15,12 @@ related:
   - firecrawl.dev
   - tavily.com
   - skills.sh
+  - alexandria.firecrawl.dev
 product: anydoc
 detail_level: standard
 created: 2026-10-20
-updated: 2026-10-20
+updated: 2026-11-14
 studied: true
-
 ---
 
 anydoc (~23k stars, MIT, v0.2.4) is Firecrawl's fast Rust library for converting Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF into clean GitHub-Flavored Markdown — with Node.js, Python, and WebAssembly bindings plus an Agent Skill — so mixed office documents become consistent LLM-ready text in single-digit milliseconds.

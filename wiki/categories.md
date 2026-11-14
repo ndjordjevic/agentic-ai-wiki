@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-11-12
+updated: 2026-11-14
 ---
 
 # Agentic AI Frameworks — by category
@@ -21,7 +21,7 @@ updated: 2026-11-12
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (17/17 studied)
 - [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (33/33 studied)
 - [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (34/46 studied)
-- [[#Browser & web automation|Browser & web automation]] (16/16 studied)
+- [[#Browser & web automation|Browser & web automation]] (16/17 studied)
 - [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (12/12 studied)
 - [[#Model infra, ML & providers|Model infra, ML & providers]] (1/21 studied)
 - [[#Workflow automation & no-code platforms|Workflow automation & no-code platforms]] (0/10 studied)
@@ -279,6 +279,7 @@ updated: 2026-11-12
 
 ## Browser & web automation
 
+- [ ] [[alexandria.firecrawl.dev]] — documents Alexandria by Firecrawl — a credit-metered library of licensed data providers and specialized indexes (company, people, jobs, public records, finance, research, and more) that agents call…
 - [x] [[browse.sh]] — is the open web skill catalog and browser CLI for AI agents built by Browserbase.
 - [x] [[browser-use.com]] — introduces Browser Use, a cloud platform and open-source Python SDK (~99k GitHub stars, MIT) that gives AI agents autonomous control over a real web browser via natural language task descriptions.
 - [x] [[browserbase.com]] — is the complete cloud platform for building and deploying AI agents that browse and interact with the web like humans.
@@ -456,4 +457,4 @@ updated: 2026-11-12
 - [ ] [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [ ] [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_377 sources across 16 categories — 245 studied._
+_378 sources across 16 categories — 245 studied._

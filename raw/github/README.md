@@ -265,3 +265,4 @@ Immutable GitHub repo captures. Written by the fetch step; never edited manually
 | raw/github/rasbt-LLMs-from-scratch.md | rasbt/LLMs-from-scratch | 107796 | main | (none) | 2026-11-04 | companion to coding-llms-from-the-ground-up |
 | raw/github/thomas-luebker-amimcp.md | thomas-luebker/amimcp | 26 | master | v0.15.0 | 2026-11-09 | |
 | raw/github/only-cli-oc.md | only-cli/oc | 641 | main | v0.5.8 | 2026-11-10 | |
+| raw/github/firecrawl-skills.md | firecrawl/skills | 156 | main | none | 2026-11-14 | |
