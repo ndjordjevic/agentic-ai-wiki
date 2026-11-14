@@ -25,6 +25,8 @@ product: building-reasoning-models
 detail_level: standard
 created: 2026-11-04
 updated: 2026-11-04
+studied: true
+
 ---
 
 Sebastian Raschka's *Building Reasoning Models from the Ground Up* is an eight-video (~11h) PyTorch coding course that starts from a pre-trained Qwen3 base model and implements evaluation, inference-time scaling, reinforcement learning with verifiable rewards (RLVR / GRPO), and distillation — the companion video track to his book *Build a Reasoning Model (From Scratch)* and the official `rasbt/reasoning-from-scratch` repo (~5.8k★). For this wiki it is the clearest hands-on map of how a conventional LLM becomes the *engine* inside an agent harness: reasoning post-training and test-time compute sit under the harness's context/tool layer rather than replacing it.

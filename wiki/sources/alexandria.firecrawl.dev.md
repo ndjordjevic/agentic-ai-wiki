@@ -27,6 +27,8 @@ product: alexandria.firecrawl.dev
 detail_level: standard
 created: 2026-11-14
 updated: 2026-11-14
+studied: true
+
 ---
 
 Alexandria by Firecrawl is a library of licensed data providers and specialized indexes that AI agents call through the same Firecrawl surfaces they already use — ChatGPT/Codex plugin, Claude connector, MCP server, CLI, API/SDKs — returning typed, sourced records (company, people, jobs, SEC filings, public records, research papers, and more) in one call instead of scraping HTML about the same facts.

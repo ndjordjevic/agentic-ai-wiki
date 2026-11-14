@@ -18,6 +18,8 @@ product: script
 detail_level: standard
 created: 2026-06-15
 updated: 2026-10-28
+studied: true
+
 ---
 
 Script.it is an AI-powered workflow automation platform that lets non-engineers describe repetitive knowledge-work tasks in plain English and have an AI agent build, validate, and run reusable automations — combining the conversational speed of AI assistants with the integration breadth of workflow platforms like Zapier and n8n. Where visual-node builders require wiring DAGs and AI chat agents produce opaque outputs, Script.it produces "scripts": inspectable, editable, rerunnable sequences of blocks that a user can verify before and after each run.

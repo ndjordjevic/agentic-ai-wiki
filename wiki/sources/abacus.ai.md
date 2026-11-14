@@ -25,6 +25,8 @@ related:
   - app.sauna.ai
   - vellum.ai
   - crafterq.ai
+studied: true
+
 ---
 
 Abacus.AI positions itself as "the world's first Super Assistant" — an all-in-one AI platform for professionals and enterprises that bundles access to 100+ frontier LLMs, image/video generators, a general-purpose **Abacus AI Agent** (Deep Agent), desktop CoWork/CLI tooling, and an enterprise stack for RAG chatbots, agentic workflows, and structured ML. ChatLLM Teams ($10/month) targets individuals and small teams; Abacus.AI Enterprise adds SSO/SAML, SOC 2/GDPR/HIPAA compliance, in-VPC deployment, and permission-aware integrations across 100+ SaaS apps. The company also publishes open-source LLMs (Smaug, Giraffe, Dracarys) and the LiveBench contamination-resistant benchmark.

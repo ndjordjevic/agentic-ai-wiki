@@ -20,6 +20,8 @@ product: omniroute
 detail_level: standard
 created: 2026-10-20
 updated: 2026-10-20
+studied: true
+
 ---
 
 OmniRoute is a free MIT AI gateway (npm `omniroute`, homepage [omniroute.online](https://omniroute.online)) that puts hundreds of LLM providers — including many free tiers — behind one local OpenAI/Claude/Gemini-compatible endpoint, with quota-aware auto-fallback, stacked token compression, MCP/A2A, and Desktop/PWA clients. With ~78.6k GitHub stars (v3.8.52 as of October 2026), it is aimed at coding agents and IDEs (Claude Code, Codex, Cursor, OpenCode, Cline, Copilot) that should keep working when one provider hits limits.

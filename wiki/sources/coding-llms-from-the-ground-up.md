@@ -25,6 +25,8 @@ product: coding-llms-from-the-ground-up
 detail_level: standard
 created: 2026-11-04
 updated: 2026-11-04
+studied: true
+
 ---
 
 Sebastian Raschka's *Coding LLMs from the Ground Up* is a ~15-hour PyTorch video course that implements a ChatGPT-like LLM from scratch — tokenization and BPE, attention, GPT architecture, pretraining, classification finetuning, and instruction finetuning — as the companion track to *Build a Large Language Model (From Scratch)* and the widely used `rasbt/LLMs-from-scratch` repo (~108k★). For this wiki it is the foundational "how the engine is built" course that [[building-reasoning-models]] then extends into reasoning post-training and test-time compute.
