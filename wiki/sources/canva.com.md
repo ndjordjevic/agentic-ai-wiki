@@ -17,6 +17,7 @@ related:
   - small-business
 product: canva
 detail_level: standard
+studied: true
 created: 2026-05-02
 updated: 2026-10-30
 ---

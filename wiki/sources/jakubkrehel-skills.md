@@ -23,6 +23,7 @@ related:
   - ibelick-ui-skills
 product: skills
 detail_level: standard
+studied: true
 created: 2026-10-27
 updated: 2026-10-28
 ---

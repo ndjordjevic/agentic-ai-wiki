@@ -21,6 +21,7 @@ related:
   - nateherkai-scroll-craft
 product: scroll-world
 detail_level: standard
+studied: true
 created: 2026-07-14
 updated: 2026-10-30
 ---

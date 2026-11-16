@@ -28,6 +28,7 @@ related:
   - nateherkai-scroll-craft
 product: impeccable.style
 detail_level: standard
+studied: true
 created: 2026-07-08
 updated: 2026-10-30
 ---

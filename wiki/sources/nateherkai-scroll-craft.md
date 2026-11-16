@@ -19,6 +19,7 @@ related:
   - stageshow
 product: scroll-craft
 detail_level: standard
+studied: true
 created: 2026-10-30
 updated: 2026-11-09
 ---

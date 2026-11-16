@@ -31,6 +31,7 @@ related:
   - aura.build
 product: awesome-design-md
 detail_level: standard
+studied: true
 created: 2026-07-02
 updated: 2026-10-28
 ---

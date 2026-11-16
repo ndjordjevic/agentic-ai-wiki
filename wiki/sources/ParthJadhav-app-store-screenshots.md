@@ -18,6 +18,7 @@ related:
   - stageshow
 product: app-store-screenshots
 detail_level: standard
+studied: true
 created: 2026-10-28
 updated: 2026-11-09
 ---

@@ -39,6 +39,7 @@ related:
   - stageshow
 product: taste-skill
 detail_level: standard
+studied: true
 created: 2026-07-14
 updated: 2026-11-09
 ---

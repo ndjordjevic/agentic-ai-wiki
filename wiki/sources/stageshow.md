@@ -21,6 +21,7 @@ related:
   - skills.sh
 product: stageshow
 detail_level: standard
+studied: true
 created: 2026-11-09
 updated: 2026-11-09
 ---

@@ -22,6 +22,7 @@ related:
   - usehallmark.com
 product: variate
 detail_level: standard
+studied: true
 created: 2026-10-27
 updated: 2026-10-28
 ---

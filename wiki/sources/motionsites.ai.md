@@ -13,6 +13,7 @@ related:
   - oso95-scroll-world
 product: motionsites
 detail_level: standard
+studied: true
 created: 2026-06-16
 updated: 2026-10-28
 ---

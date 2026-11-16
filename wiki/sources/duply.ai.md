@@ -19,6 +19,7 @@ related:
   - aura.build
 product: duply
 detail_level: standard
+studied: true
 created: 2026-07-10
 updated: 2026-10-28
 ---
