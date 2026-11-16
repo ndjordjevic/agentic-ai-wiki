@@ -27,10 +27,11 @@ related:
   - trigger.dev
   - langflow-ai-langflow
   - pumadb.ai
+  - blog.n8n.io
 product: n8n
 detail_level: standard
 created: 2026-06-15
-updated: 2026-10-28
+updated: 2026-11-16
 studied: true
 
 ---

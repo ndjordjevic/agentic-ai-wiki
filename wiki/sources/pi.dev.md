@@ -23,10 +23,11 @@ related:
   - davidondrej-skills
   - xhluca-session-migrate
   - njbrake-agent-of-empires
+  - blog.n8n.io
 product: pi-coding-agent
 detail_level: standard
 created: 2026-06-08
-updated: 2026-10-28
+updated: 2026-11-16
 companion_github: earendil-works/pi
 studied: true
 

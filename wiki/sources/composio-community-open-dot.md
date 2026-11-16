@@ -20,10 +20,11 @@ related:
   - kylon.io
   - composio.dev
   - justrach-nanoui
+  - blog.n8n.io
 product: open-dot
 detail_level: standard
 created: 2026-10-02
-updated: 2026-11-03
+updated: 2026-11-16
 studied: true
 
 ---

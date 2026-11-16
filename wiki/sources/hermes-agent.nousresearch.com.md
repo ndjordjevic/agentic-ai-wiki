@@ -29,10 +29,11 @@ related:
   - omacom-omarchy
   - diegosouzapw-OmniRoute
   - kylon.io
+  - blog.n8n.io
 product: hermes-agent
 detail_level: standard
 created: 2026-06-10
-updated: 2026-10-30
+updated: 2026-11-16
 studied: true
 
 ---

@@ -23,10 +23,11 @@ related:
   - openrouter.ai
   - smithery.ai
   - glama.ai
+  - blog.n8n.io
 product: composio
 detail_level: standard
 created: 2026-11-03
-updated: 2026-11-03
+updated: 2026-11-16
 studied: true
 
 ---

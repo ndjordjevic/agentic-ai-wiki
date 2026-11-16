@@ -27,10 +27,11 @@ related:
   - reticlehq-reticle
   - Ying-Kai-Liao-jev-browser
   - only-cli-oc
+  - blog.n8n.io
 product: agent-browser
 detail_level: standard
 created: 2026-05-25
-updated: 2026-11-10
+updated: 2026-11-16
 studied: true
 
 ---

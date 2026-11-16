@@ -19,7 +19,7 @@ updated: 2026-11-16
 - [[#Agent Skills & plugins ecosystem|Agent Skills & plugins ecosystem]] (32/32 studied)
 - [[#MCP servers & integrations|MCP servers & integrations]] (24/24 studied)
 - [[#Spec-driven dev, planning & tasks|Spec-driven dev, planning & tasks]] (17/17 studied)
-- [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (33/33 studied)
+- [[#Coding agents, IDEs & dev environments|Coding agents, IDEs & dev environments]] (34/34 studied)
 - [[#Knowledge, RAG, memory & context|Knowledge, RAG, memory & context]] (34/46 studied)
 - [[#Browser & web automation|Browser & web automation]] (17/17 studied)
 - [[#Terminal, session & parallel-agent runners|Terminal, session & parallel-agent runners]] (12/12 studied)
@@ -199,6 +199,7 @@ updated: 2026-11-16
 - [x] [[anthropics-claude-agent-sdk-python]] — is Anthropic's official Python SDK for embedding Claude Code programmatically — exposing a one-shot `query()` async iterator and a full `ClaudeSDKClient` for bidirectional, interactive sessions wit…
 - [x] [[antigravity.google]] — covers the **Google Antigravity SDK** — a Python library (`pip install google-antigravity`) that exposes the same agent runtime powering Antigravity 2.0 and the Antigravity CLI as programmable infr…
 - [x] [[axi.md]] — documents AXI (Agent eXperience Interface) — a design and catalog for building agent-ergonomic CLI tools where token budget is treated as a first-class constraint.
+- [x] [[blog.n8n.io]] — captures n8n Labs' Nod research preview — open-source personal agent with its own local sandbox computer/browser, trust checks, and BYO model; single-player counterpart to [[n8n.io]].
 - [x] [[bolt.new]] — adds one of the clearest mainstream product examples of browser-native vibe coding turning into a full-stack delivery workflow.
 - [x] [[coderabbit.ai]] — is an "Agentic Change Management" platform — an AI-driven review, triage, explainability, and security layer for pull requests, positioned as the independent validation step between AI-generated co…
 - [x] [[codeyai.space]] — documents Codey, a local-first "AI development OS" from Codey Labs — desktop, TUI, CLI, and web client in one private workspace with 70+ BYOK LLM providers (Claude, Codex, Gemini, OpenRouter, Ollam…

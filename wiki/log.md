@@ -6,6 +6,12 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-11-16 | ingest | blog.n8n.io | Nod — n8n Labs personal agent research preview
+
+- Created: wiki/sources/blog.n8n.io.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/web/README.md, raw/github/README.md, inbox.md; related on n8n.io, composio.dev, composio-community-open-dot, hermes-agent.nousresearch.com, browser-use.com, pi.dev, vercel-labs-agent-browser
+- Companion: raw/github/n8n-io-nod.md
+
 ## 2026-11-14 | ingest | alexandria.firecrawl.dev | Firecrawl Alexandria — structured data providers for agents
 
 - Created: wiki/sources/alexandria.firecrawl.dev.md

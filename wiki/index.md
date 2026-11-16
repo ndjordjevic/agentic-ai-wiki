@@ -390,4 +390,5 @@ created: 2026-04-28
 | [[stageshow]] | web | standard | 2026-11-09 | GitHub non-root: benjitaylor/skills stageshow faux-UI skill |
 | [[only-cli-oc]] | github | standard | 2026-11-10 | only-cli `oc` — token-efficient website→CLI for agents (~641★, v0.5.8) |
 | [[alexandria.firecrawl.dev]] | web | standard | 2026-11-14 | companion: firecrawl/skills — structured data providers for agents |
-_378 sources ingested._
+| [[blog.n8n.io]] | web | standard | 2026-11-16 | companion: n8n-io/nod — Nod personal agent launch |
+_379 sources ingested._
