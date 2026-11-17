@@ -16,6 +16,7 @@ related:
   - supadata.ai
 product: vunote
 detail_level: standard
+studied: true
 created: 2026-10-17
 updated: 2026-10-17
 ---

@@ -16,6 +16,7 @@ related:
   - hex.kitlangton.dev
 product: wisprflow
 detail_level: standard
+studied: true
 created: 2026-06-08
 updated: 2026-10-30
 ---

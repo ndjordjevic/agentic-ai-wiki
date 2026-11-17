@@ -14,6 +14,7 @@ related:
   - bradautomates-claude-video
   - hex.kitlangton.dev
 detail_level: standard
+studied: true
 product: opensuperwhisper
 created: 2026-07-08
 updated: 2026-10-30

@@ -18,6 +18,7 @@ related:
   - latent-spaces-brag
 product: hyperframes
 detail_level: standard
+studied: true
 created: 2026-10-30
 updated: 2026-10-30
 ---

@@ -12,6 +12,7 @@ tags:
   - model-orchestration
 product: storytold
 detail_level: standard
+studied: true
 related:
   - higgsfield.ai
   - kie.ai

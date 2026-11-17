@@ -22,6 +22,7 @@ related:
   - trigger.dev
 product: postiz
 detail_level: standard
+studied: true
 created: 2026-07-01
 updated: 2026-10-28
 ---

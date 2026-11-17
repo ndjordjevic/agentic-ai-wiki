@@ -6,6 +6,7 @@ tags: [agent-video-generation, mcp-compatible, team-collaboration, agent-observa
 related: []
 product: mainframe
 detail_level: standard
+studied: true
 created: 2026-06-11
 updated: 2026-10-28
 ---

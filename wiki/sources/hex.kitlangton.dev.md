@@ -21,6 +21,7 @@ related:
   - parakeet-ai.com
 product: hex.kitlangton.dev
 detail_level: standard
+studied: true
 created: 2026-10-30
 updated: 2026-10-30
 ---

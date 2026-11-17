@@ -23,6 +23,7 @@ related:
   - img2threejs-img2threejs
 product: higgsfield
 detail_level: standard
+studied: true
 created: 2026-07-08
 updated: 2026-10-28
 ---

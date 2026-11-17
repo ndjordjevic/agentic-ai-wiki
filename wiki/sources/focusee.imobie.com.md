@@ -16,6 +16,7 @@ related:
 
 product: focusee
 detail_level: standard
+studied: true
 created: 2026-06-06
 updated: 2026-10-30
 ---

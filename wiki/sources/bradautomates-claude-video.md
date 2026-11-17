@@ -20,6 +20,7 @@ related:
   - heygen-com-hyperframes
 product: claude-video
 detail_level: standard
+studied: true
 created: 2026-07-14
 updated: 2026-10-30
 ---
