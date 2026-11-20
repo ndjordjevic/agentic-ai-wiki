@@ -1,6 +1,6 @@
 ---
 type: source
-category: "Infra, hosting, DB & observability"
+category: "Coding-agent harnesses & methodologies"
 source_url: https://github.com/NVIDIA/SkillEvaluator
 tags:
   - skill-evaluation
