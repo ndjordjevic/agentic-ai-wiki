@@ -98,10 +98,11 @@ related:
   - stageshow
   - only-cli-oc
   - alexandria.firecrawl.dev
+  - NVIDIA-SkillEvaluator
 product: skills
 detail_level: standard
 created: 2026-04-30
-updated: 2026-11-14
+updated: 2026-11-20
 studied: true
 ---
 

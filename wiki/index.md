@@ -391,4 +391,5 @@ created: 2026-04-28
 | [[only-cli-oc]] | github | standard | 2026-11-10 | only-cli `oc` — token-efficient website→CLI for agents (~641★, v0.5.8) |
 | [[alexandria.firecrawl.dev]] | web | standard | 2026-11-14 | companion: firecrawl/skills — structured data providers for agents |
 | [[blog.n8n.io]] | web | standard | 2026-11-16 | companion: n8n-io/nod — Nod personal agent launch |
-_379 sources ingested._
+| [[NVIDIA-SkillEvaluator]] | github | standard | 2026-11-20 | Multi-tier skill eval + CI templates (~4.2k★, v1.0.1) |
+_380 sources ingested._

@@ -76,10 +76,11 @@ related:
   - stripe-best-practices
   - buildpartner.ai
   - small-business
+  - NVIDIA-SkillEvaluator
 product: skills
 detail_level: standard
 created: 2026-05-11
-updated: 2026-10-30
+updated: 2026-11-20
 studied: true
 
 ---

@@ -6,6 +6,11 @@ created: 2026-04-28
 
 # Agentic AI Frameworks wiki — log
 
+## 2026-11-20 | ingest | NVIDIA-SkillEvaluator | Multi-tier skill eval framework + CI templates (v1.0.1)
+
+- Created: wiki/sources/NVIDIA-SkillEvaluator.md
+- Updated: wiki/index.md, wiki/overview.md, wiki/categories.md, wiki/log.md, raw/github/README.md, inbox.md; related on nvidia-skillspector, edonadei-caliper, skills.sh, anthropics-skills, nvidia.com
+
 ## 2026-11-16 | ingest | blog.n8n.io | Nod — n8n Labs personal agent research preview
 
 - Created: wiki/sources/blog.n8n.io.md

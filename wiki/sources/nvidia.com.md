@@ -18,10 +18,11 @@ related:
   - pytorch.org
   - ollama-ollama
   - developers.openai.com
+  - NVIDIA-SkillEvaluator
 product: nemo
 detail_level: standard
 created: 2026-07-28
-updated: 2026-10-28
+updated: 2026-11-20
 studied: true
 
 ---

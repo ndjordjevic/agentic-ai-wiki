@@ -1,7 +1,7 @@
 ---
 type: categories
 domain: "Agentic AI Frameworks"
-updated: 2026-11-17
+updated: 2026-11-20
 ---
 
 # Agentic AI Frameworks — by category
@@ -27,7 +27,7 @@ updated: 2026-11-17
 - [[#Workflow automation & no-code platforms|Workflow automation & no-code platforms]] (10/10 studied)
 - [[#Design & UI generation|Design & UI generation]] (33/33 studied)
 - [[#Media, voice & content|Media, voice & content]] (16/17 studied)
-- [[#Infra, hosting, DB & observability|Infra, hosting, DB & observability]] (3/19 studied)
+- [[#Infra, hosting, DB & observability|Infra, hosting, DB & observability]] (4/20 studied)
 - [[#Security|Security]] (0/6 studied)
 - [[#Business, career & learning|Business, career & learning]] (0/18 studied)
 
@@ -419,6 +419,7 @@ updated: 2026-11-17
 - [ ] [[langchain.com-langsmith]] — adds the operational layer to the wiki's agentic AI coverage: framework-agnostic tracing, offline and online evaluation loops, deployment options, Agent Server runtime architecture, and the product…
 - [ ] [[neon.com]] — is Neon, a serverless Postgres backend platform (22.5K+ stars, Databricks-owned) built for apps and agents — lakebase architecture separating compute and storage for autoscaling, git-like copy-on-w…
 - [ ] [[ngrok.com]] — introduces ngrok, a globally distributed cloud networking platform that secures, transforms, and routes traffic to services running anywhere — local machines, cloud VMs, Kubernetes clusters, or IoT…
+- [x] [[NVIDIA-SkillEvaluator]] — is NVIDIA's multi-tier Agent Skills evaluator (~4.2k★, Apache-2.0, PyPI `skillevaluator` v1.0.1): Tier 1 quality/security/harness gates (SkillSpector + scanners), Tier 2 semantic overlap, Tier 3 li…
 - [ ] [[render.com]] — documents Render, a unified PaaS ("the cloud for builders") for deploying web apps, APIs, and AI agents with minimal ops — web services, static sites, private services, background workers, cron job…
 - [ ] [[sentry.io]] — documents **Sentry**, the developer-first application monitoring platform ("code breaks, fix it faster") used by millions of developers and teams including Anthropic, Disney+, and Instacart.
 - [ ] [[streamlit.io]] — documents Streamlit, the open-source Python framework (45K+ stars, Apache 2.0, Snowflake-owned) for turning data scripts into interactive web apps in minutes — dashboards, reports, and LLM chat UIs…
@@ -458,4 +459,4 @@ updated: 2026-11-17
 - [ ] [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [ ] [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_379 sources across 16 categories — 326 studied._
+_380 sources across 16 categories — 327 studied._

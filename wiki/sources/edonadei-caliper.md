@@ -19,10 +19,11 @@ related:
   - obra-superpowers
   - addyosmani-agent-skills
   - coleam00-skills
+  - NVIDIA-SkillEvaluator
 product: caliper
 detail_level: standard
 created: 2026-10-27
-updated: 2026-10-28
+updated: 2026-11-20
 ---
 
 edonadei/caliper (223 stars, MIT) is a Python eval tool, published as `caliper-eval` on PyPI, that runs your real agent with and without your skills, MCPs, and rules to show which ones actually help and what they cost in tokens. Tagline: "Know if your agent skill actually works." It supports Claude Code, Codex, Pi, and Hermes, and is a measurement companion to skill packs like [[anthropics-skills]], [[obra-superpowers]] and [[addyosmani-agent-skills]].
