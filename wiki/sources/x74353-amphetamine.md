@@ -14,6 +14,7 @@ related:
   - wezterm.org
 product: amphetamine
 detail_level: standard
+studied: true
 created: 2026-08-20
 updated: 2026-10-28
 ---

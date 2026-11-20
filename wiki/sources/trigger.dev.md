@@ -35,6 +35,7 @@ related:
   - render.com
 product: trigger
 detail_level: standard
+studied: true
 created: 2026-07-03
 updated: 2026-10-28
 ---

@@ -27,6 +27,7 @@ related:
   - higgsfield.ai
 product: render
 detail_level: standard
+studied: true
 created: 2026-07-07
 updated: 2026-10-08
 ---

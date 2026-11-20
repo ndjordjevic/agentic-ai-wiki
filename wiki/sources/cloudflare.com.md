@@ -17,6 +17,7 @@ related:
   - supabase.com
 product: cloudflare
 detail_level: standard
+studied: true
 created: 2026-10-08
 updated: 2026-10-08
 ---

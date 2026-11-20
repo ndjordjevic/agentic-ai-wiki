@@ -11,6 +11,7 @@ tags: [nix, nix-installer, flakes, reproducible-builds, devops, ci-cd, package-m
 related: [kunchenguid-dotfiles]
 product: determinate-nix-installer
 detail_level: standard
+studied: true
 created: 2026-07-09
 updated: 2026-10-28
 ---

@@ -6,6 +6,7 @@ tags: [web-hosting, vps-hosting, ai-website-builder, vibe-coding, cloud-hosting,
 related: []
 product: hostinger
 detail_level: standard
+studied: true
 created: 2026-06-09
 updated: 2026-10-28
 ---
