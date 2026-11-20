@@ -19,6 +19,7 @@ related:
   - NVIDIA-SkillEvaluator
 product: skillspector
 detail_level: standard
+studied: true
 created: 2026-07-20
 updated: 2026-11-20
 ---

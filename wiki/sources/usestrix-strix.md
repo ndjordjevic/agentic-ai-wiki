@@ -17,6 +17,7 @@ related:
   - claude-security
 product: strix
 detail_level: standard
+studied: true
 created: 2026-06-30
 updated: 2026-10-30
 ---

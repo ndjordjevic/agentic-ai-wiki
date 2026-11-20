@@ -19,6 +19,7 @@ related:
   - SnailSploit-Claude-Red
 product: claude-security
 detail_level: standard
+studied: true
 created: 2026-10-30
 updated: 2026-10-30
 ---

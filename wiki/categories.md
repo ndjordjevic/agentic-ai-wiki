@@ -28,7 +28,7 @@ updated: 2026-11-20
 - [[#Design & UI generation|Design & UI generation]] (33/33 studied)
 - [[#Media, voice & content|Media, voice & content]] (16/17 studied)
 - [[#Infra, hosting, DB & observability|Infra, hosting, DB & observability]] (18/19 studied)
-- [[#Security|Security]] (0/6 studied)
+- [[#Security|Security]] (6/6 studied)
 - [[#Business, career & learning|Business, career & learning]] (0/18 studied)
 
 ## Agent frameworks & SDKs
@@ -431,12 +431,12 @@ updated: 2026-11-20
 
 ## Security
 
-- [ ] [[claude-security]] — is Anthropic's Claude Security plugin (claude-plugins-official) — multi-agent vulnerability scanning of your own code inside Claude Code, with independent verification, SARIF reports, and patch sug…
-- [ ] [[mukul975-anthropic-cybersecurity-skills]] — is the largest open-source cybersecurity skills library for AI agents — 817 production-grade skills across 29 domains (Cloud Security, Threat Hunting, Red Teaming, AI Security, and more), each foll…
-- [ ] [[nvidia-skillspector]] — is NVIDIA's security scanner for agent skills (13,453 stars), designed to answer "is this skill safe to install?" before runtime.
-- [ ] [[RiskAverseTech-toolgate]] — is toolgate (~28★, MIT, v0.7.0) — a calibrated Jev-based tool-call firewall (Claude Code mod/hook + MCP proxy) that allow/ask/deny before risky actions.
-- [ ] [[SnailSploit-Claude-Red]] — is claude-red (2,659+ stars, MIT) — the largest domain-specific offensive-security skill library for the Claude Skills system, with 58 `SKILL.md` files across 13 categories (web, wireless, AD, clou…
-- [ ] [[usestrix-strix]] — represents the security testing edge of the agentic AI space: an open-source Python framework (27k+ stars, Apache 2.0) that deploys a graph of autonomous AI pentest agents to find and validate vuln…
+- [x] [[claude-security]] — is Anthropic's Claude Security plugin (claude-plugins-official) — multi-agent vulnerability scanning of your own code inside Claude Code, with independent verification, SARIF reports, and patch sug…
+- [x] [[mukul975-anthropic-cybersecurity-skills]] — is the largest open-source cybersecurity skills library for AI agents — 817 production-grade skills across 29 domains (Cloud Security, Threat Hunting, Red Teaming, AI Security, and more), each foll…
+- [x] [[nvidia-skillspector]] — is NVIDIA's security scanner for agent skills (13,453 stars), designed to answer "is this skill safe to install?" before runtime.
+- [x] [[RiskAverseTech-toolgate]] — is toolgate (~28★, MIT, v0.7.0) — a calibrated Jev-based tool-call firewall (Claude Code mod/hook + MCP proxy) that allow/ask/deny before risky actions.
+- [x] [[SnailSploit-Claude-Red]] — is claude-red (2,659+ stars, MIT) — the largest domain-specific offensive-security skill library for the Claude Skills system, with 58 `SKILL.md` files across 13 categories (web, wireless, AD, clou…
+- [x] [[usestrix-strix]] — represents the security testing edge of the agentic AI space: an open-source Python framework (27k+ stars, Apache 2.0) that deploys a graph of autonomous AI pentest agents to find and validate vuln…
 
 ## Business, career & learning
 
@@ -459,4 +459,4 @@ updated: 2026-11-20
 - [ ] [[summio.org]] — is Summio, an AI reading companion for iPhone (iOS 18+) that turns books, YouTube videos, articles, and PDFs into citation-grounded editorial summaries at four depth levels, with full-text RAG chat…
 - [ ] [[x.com-0xcodez-how-to-become-a-forward-deployed-engineer-in-10]] — is a career-roadmap source rather than a tool or framework: a 10-step guide to the Forward Deployed Engineer / Applied AI Engineer role, framed around an MIT NANDA finding that 95% of 300 enterpris…
 
-_380 sources across 16 categories — 342 studied._
+_380 sources across 16 categories — 348 studied._

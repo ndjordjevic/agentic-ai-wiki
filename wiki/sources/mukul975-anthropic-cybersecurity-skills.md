@@ -8,6 +8,7 @@ related:
   - claude-security
 product: anthropic-cybersecurity-skills
 detail_level: standard
+studied: true
 created: 2026-08-22
 updated: 2026-10-30
 ---
